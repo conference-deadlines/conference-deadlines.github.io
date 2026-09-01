@@ -24,6 +24,7 @@ just one.
   picks, defaulting to their own. Anywhere on Earth (AoE), the convention most
   CFPs actually use, is offered at the top of the list. Countdowns are absolute
   durations, so they are unaffected by the choice.
+- iCal feeds — one for everything, one per area — under [`ical/`](ical/).
 - **Theme control** — Auto / Light / Dark. Auto follows the OS setting; an
   explicit choice overrides it and persists.
 
@@ -35,8 +36,8 @@ rounds rather than all twelve.
 Deadline dates, timezones, venues, links and CORE rankings all come from
 [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) (MIT), a
 community-maintained dataset. [`scripts/sync_ccfddl.py`](scripts/sync_ccfddl.py)
-pulls it and writes [`_data/conferences.yml`](_data/conferences.yml) and
-[`_data/areas.yml`](_data/areas.yml).
+pulls it and writes [`_data/conferences.yml`](_data/conferences.yml),
+[`_data/areas.yml`](_data/areas.yml) and the iCal feeds.
 
 The [CCF recommended list](https://ccf.atom.im/) was the starting reference for
 *which* venues and research areas to cover — it publishes no deadlines of its
@@ -51,8 +52,8 @@ against the tz database for that specific date, so the offset is right in both
 summer and winter. Because the offsets are baked in at sync time, the page needs
 no timezone library at all; the browser parses the timestamps directly.
 
-`_data/conferences.yml` and `_data/areas.yml` are **generated files** — do not
-edit them by hand, they get overwritten on the next sync.
+`_data/conferences.yml`, `_data/areas.yml` and `ical/` are **generated files** —
+do not edit them by hand, they get overwritten on the next sync.
 
 ### Refreshing the data
 
@@ -116,6 +117,7 @@ index.html                         the page (server-rendered card list)
 static/css/style.css               styling, light and dark
 static/js/main.js                  countdowns, sorting, filtering, timezone, theme
 scripts/sync_ccfddl.py             regenerates the data from upstream
+ical/                              generated: calendar feeds
 .github/workflows/sync-deadlines.yml   daily refresh
 ```
 

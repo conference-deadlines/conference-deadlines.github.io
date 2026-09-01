@@ -10,6 +10,12 @@ baseurl: ""
 github_org: conference-deadlines
 github_repo: conference-deadlines.github.io
 
+# GoatCounter site code -- the subdomain of <code>.goatcounter.com.
+# Leave empty to disable analytics entirely (no script is loaded, no counter
+# is shown). Enable "Allow adding visitor counts on your website" in the
+# GoatCounter site settings for the footer figures to work.
+# goatcounter_code: your-site-code
+
 markdown: kramdown
 
 sass:

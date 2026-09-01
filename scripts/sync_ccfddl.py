@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate _data/conferences.yml from ccfddl/ccf-deadlines.
+"""Regenerate _data/conferences.yml and the iCal feeds from ccfddl/ccf-deadlines.
 
 Upstream (https://github.com/ccfddl/ccf-deadlines, MIT) keeps one YAML file per
 conference under conference/<AREA>/. We take the areas listed in AREAS, pick the
@@ -35,6 +35,7 @@ AREAS = ("DS", "NW", "SC", "SE", "DB", "CT", "CG", "AI", "HI", "MX")
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA_FILE = REPO_ROOT / "_data" / "conferences.yml"
 AREAS_FILE = REPO_ROOT / "_data" / "areas.yml"
+ICAL_DIR = REPO_ROOT / "ical"
 
 # Civil-time abbreviations upstream uses that need real DST rules.
 NAMED_ZONES = {
@@ -326,6 +327,93 @@ def write_areas(types_yaml: str) -> list[dict]:
     return areas
 
 
+def ics_escape(text: str) -> str:
+    return (
+        str(text)
+        .replace("\\", "\\\\")
+        .replace(";", "\\;")
+        .replace(",", "\\,")
+        .replace("\n", "\\n")
+    )
+
+
+def fold(line: str) -> str:
+    """RFC 5545 requires content lines to be folded at 75 octets."""
+    encoded = line.encode("utf-8")
+    if len(encoded) <= 75:
+        return line
+    chunks, current = [], b""
+    for char in line:
+        raw = char.encode("utf-8")
+        limit = 75 if not chunks else 74
+        if len(current) + len(raw) > limit:
+            chunks.append(current)
+            current = b""
+        current += raw
+    chunks.append(current)
+    return "\r\n ".join(chunk.decode("utf-8") for chunk in chunks)
+
+
+def write_ical(records: list[dict], path: pathlib.Path, name: str) -> None:
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//conference-deadlines//EN",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        fold(f"X-WR-CALNAME:{ics_escape(name)}"),
+    ]
+
+    for record in records:
+        for index, deadline in enumerate(record["deadlines"]):
+            # Both the abstract registration and the full-paper deadline get
+            # their own event -- the abstract one is the deadline people
+            # actually miss, so it is no use leaving it out of the calendar.
+            slots = []
+            if deadline.get("abstract"):
+                slots.append(("abstract", deadline["abstract"], "abstract deadline"))
+            slots.append(("paper", deadline["date"], "deadline"))
+
+            for kind, stamp, noun in slots:
+                moment = dt.datetime.fromisoformat(stamp).astimezone(dt.timezone.utc)
+
+                title = f"{record['name']} {record['year']} {noun}"
+                if deadline.get("comment"):
+                    title += f" ({deadline['comment']})"
+
+                uid = f"{record['name']}-{record['year']}-{index}-{kind}".lower()
+                uid = re.sub(r"[^a-z0-9]+", "-", uid).strip("-")
+
+                body = [record.get("description") or "", record.get("link") or ""]
+                if record.get("place"):
+                    body.append(f"Location: {record['place']}")
+
+                # A deadline is instantaneous, but zero-length events (DTEND ==
+                # DTSTART) are mishandled or rejected by several clients, so
+                # each one is given a short visible block instead.
+                finish = moment + dt.timedelta(minutes=30)
+
+                # DTSTAMP is pinned to the event's own instant rather than
+                # "now": a wall-clock value would rewrite every feed on each
+                # sync and bury real deadline changes in the diff.
+                lines += [
+                    "BEGIN:VEVENT",
+                    fold(f"UID:{uid}@conference-deadlines"),
+                    f"DTSTAMP:{moment.strftime('%Y%m%dT%H%M%SZ')}",
+                    f"DTSTART:{moment.strftime('%Y%m%dT%H%M%SZ')}",
+                    f"DTEND:{finish.strftime('%Y%m%dT%H%M%SZ')}",
+                    "TRANSP:TRANSPARENT",
+                    fold(f"SUMMARY:{ics_escape(title)}"),
+                    fold(f"DESCRIPTION:{ics_escape(chr(10).join(p for p in body if p))}"),
+                ]
+                if record.get("link"):
+                    lines.append(fold(f"URL:{record['link']}"))
+                lines.append("END:VEVENT")
+
+    lines.append("END:VCALENDAR")
+    path.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -360,6 +448,17 @@ def main() -> int:
     areas = write_areas(types_yaml)
     print(f"wrote {AREAS_FILE.relative_to(REPO_ROOT)} ({len(areas)} areas)", file=sys.stderr)
 
+    ICAL_DIR.mkdir(exist_ok=True)
+    write_ical(records, ICAL_DIR / "deadlines-all.ics", "Conference Deadlines - All areas")
+    labels = {area["tag"]: area["label"] for area in areas}
+    for area in AREAS:
+        subset = [r for r in records if area in r["areas"]]
+        write_ical(
+            subset,
+            ICAL_DIR / f"deadlines-{area.lower()}.ics",
+            f"Conference Deadlines - {labels.get(area, area)}",
+        )
+    print(f"wrote {len(list(ICAL_DIR.glob('*.ics')))} iCal feeds", file=sys.stderr)
     return 0
 
 

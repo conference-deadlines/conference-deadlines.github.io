@@ -328,6 +328,85 @@
     });
   }
 
+  /* ---------- visitor counter ----------
+   *
+   * GoatCounter's /counter/TOTAL.json endpoint returns pre-formatted strings,
+   * e.g. {"count":"12,481","count_unique":"3,402"}. It only responds when
+   * "Allow adding visitor counts on your website" is enabled for the site, so
+   * the footer line stays hidden unless real numbers come back -- no "0 views"
+   * placeholder on a misconfigured site. */
+
+  function loadStats() {
+    var meta = document.querySelector('meta[name="goatcounter-code"]');
+    var code = meta && meta.getAttribute('content');
+    var row = document.getElementById('stats');
+    if (!code || !row || !window.fetch) return;
+
+    fetch('https://' + code + '.goatcounter.com/counter/TOTAL.json')
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (data) {
+        if (!data || !data.count) return;
+        document.getElementById('stats-views').textContent = data.count;
+        document.getElementById('stats-visitors').textContent =
+          data.count_unique || data.count;
+        row.hidden = false;
+      })
+      .catch(function () { /* blocked or not enabled; leave the line hidden */ });
+  }
+
+  loadStats();
+
+  /* ---------- GitHub star count ----------
+   *
+   * Fetched client-side rather than embedded via the usual ghbtns.com iframe,
+   * which cannot inherit this page's theme and would sit there as a white box
+   * in dark mode. The unauthenticated API allows 60 requests/hour per IP, and
+   * each visitor spends one from their own quota, so the cache below is about
+   * courtesy and speed rather than necessity. The link works regardless -- the
+   * count is the only thing that depends on the request succeeding. */
+
+  var STAR_KEY = 'conference-deadlines-stars';
+  var STAR_TTL = 6 * 60 * 60 * 1000;
+
+  function formatStars(n) {
+    if (n >= 10000) return Math.round(n / 1000) + 'k';
+    if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+    return String(n);
+  }
+
+  function showStars(count) {
+    var node = document.getElementById('gh-count');
+    if (!node || typeof count !== 'number') return;
+    node.textContent = formatStars(count);
+    node.hidden = false;
+  }
+
+  function loadStars() {
+    var link = document.getElementById('gh-star');
+    if (!link || !window.fetch) return;
+
+    var repo = link.getAttribute('href').replace(/^https:\/\/github\.com\//, '');
+
+    try {
+      var cached = JSON.parse(readStore(STAR_KEY) || 'null');
+      if (cached && Date.now() - cached.at < STAR_TTL) {
+        showStars(cached.count);
+        return;
+      }
+    } catch (e) { /* fall through to a fresh fetch */ }
+
+    fetch('https://api.github.com/repos/' + repo)
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (data) {
+        if (!data || typeof data.stargazers_count !== 'number') return;
+        showStars(data.stargazers_count);
+        writeStore(STAR_KEY, JSON.stringify({ count: data.stargazers_count, at: Date.now() }));
+      })
+      .catch(function () { /* offline or rate-limited; the link still works */ });
+  }
+
+  loadStars();
+
   /* ---------- update check ----------
    *
    * GitHub Pages serves HTML with `cache-control: max-age=600` and gives no way

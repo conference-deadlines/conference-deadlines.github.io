@@ -100,7 +100,7 @@ a:hover { text-decoration: underline; }
 .utility-inner {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
   gap: 8px 18px;
   min-height: 42px;
@@ -109,6 +109,34 @@ a:hover { text-decoration: underline; }
 }
 
 .pref { display: flex; align-items: center; gap: 6px; min-width: 0; }
+
+/* Push the preference controls to the right, star button to the left. */
+.utility-inner .pref:first-of-type { margin-left: auto; }
+
+.gh-star {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--chip-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.gh-star:hover { text-decoration: none; border-color: var(--muted); }
+.gh-star:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.gh-count {
+  padding-left: 7px;
+  border-left: 1px solid var(--border);
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+.gh-count[hidden] { display: none; }
 
 .pref-icon { font-size: 14px; line-height: 1; opacity: .7; }
 
@@ -404,6 +432,9 @@ footer {
 }
 
 footer p { margin: 6px 0; }
+
+.stats { font-variant-numeric: tabular-nums; }
+.stats[hidden] { display: none; }
 
 @media (max-width: 640px) {
   .masthead { padding: 18px 0 18px; }

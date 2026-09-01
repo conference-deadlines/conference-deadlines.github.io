@@ -1,0 +1,666 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//conference-deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference Deadlines - Security & Privacy
+BEGIN:VEVENT
+UID:hotsec-2021-0-paper@conference-deadlines
+DTSTAMP:20211013T115959Z
+DTSTART:20211013T115959Z
+DTEND:20211013T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HotSec 2021 deadline (Extended)
+DESCRIPTION:USENIX Workshop on Hot Topics in Security\nhttps://www.usenix.o
+ rg/conferences/byname/158\nLocation: Vancouver\, British Columbia\, Canada
+URL:https://www.usenix.org/conferences/byname/158
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-apac-2025-0-paper@conference-deadlines
+DTSTAMP:20250524T115959Z
+DTSTART:20250524T115959Z
+DTEND:20250524T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS APAC 2025 deadline
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
+ org/conferences/dfrws-apac-2025/\nLocation: Seoul\, South Korea
+URL:https://dfrws.org/conferences/dfrws-apac-2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:trustcom-2025-0-paper@conference-deadlines
+DTSTAMP:20250801T155959Z
+DTSTART:20250801T155959Z
+DTEND:20250801T162959Z
+TRANSP:TRANSPARENT
+SUMMARY:TrustCom 2025 deadline
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy i
+ n Computing and Communications\nhttps://ieee-aiplus-2025.org/\nLocation: G
+ uiyang\, China
+URL:https://ieee-aiplus-2025.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:indocrypt-2025-0-paper@conference-deadlines
+DTSTAMP:20250902T115959Z
+DTSTART:20250902T115959Z
+DTEND:20250902T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INDOCRYPT 2025 deadline
+DESCRIPTION:International Conference on Cryptology in India\nhttps://www.in
+ docrypt2025.in/\nLocation: IIIT Bhubaneswar\, Odisha\, India
+URL:https://www.indocrypt2025.in/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-2026-0-abstract@conference-deadlines
+DTSTAMP:20250920T115959Z
+DTSTART:20250920T115959Z
+DTEND:20250920T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2026 abstract deadline
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfrws-eu-2026/\nLocation: Linköping\, Sweden
+URL:https://dfrws.org/conferences/dfrws-eu-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-2026-0-paper@conference-deadlines
+DTSTAMP:20250927T115959Z
+DTSTART:20250927T115959Z
+DTEND:20250927T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2026 deadline
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfrws-eu-2026/\nLocation: Linköping\, Sweden
+URL:https://dfrws.org/conferences/dfrws-eu-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ifip-wg-11-9-2026-0-paper@conference-deadlines
+DTSTAMP:20251001T115959Z
+DTSTART:20251001T115959Z
+DTEND:20251001T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IFIP WG 11.9 2026 deadline (Submission Deadline)
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
+ p://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
+URL:http://www.ifip119.org/Conferences/
+END:VEVENT
+BEGIN:VEVENT
+UID:noms-2026-0-paper@conference-deadlines
+DTSTAMP:20251013T095959Z
+DTSTART:20251013T095959Z
+DTEND:20251013T102959Z
+TRANSP:TRANSPARENT
+SUMMARY:NOMS 2026 deadline
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\nhttps://
+ noms2026.ieee-noms.org/\nLocation: Rome\, Italy
+URL:https://noms2026.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pam-2026-0-paper@conference-deadlines
+DTSTAMP:20251016T115959Z
+DTSTART:20251016T115959Z
+DTEND:20251016T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PAM 2026 deadline
+DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
+ nLocation: Virtual
+URL:https://pam2026.at/
+END:VEVENT
+BEGIN:VEVENT
+UID:euros-p-2026-0-paper@conference-deadlines
+DTSTAMP:20251121T115959Z
+DTSTART:20251121T115959Z
+DTEND:20251121T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroS&P 2026 deadline
+DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
+ 2026.ieee-security.org/\nLocation: Lisbon\, Portugal
+URL:https://eurosp2026.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fse-2026-0-paper@conference-deadlines
+DTSTAMP:20251124T115959Z
+DTSTART:20251124T115959Z
+DTEND:20251124T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSE 2026 deadline (ToSC\, Volume 2026\, Issue 1 Submission deadline
+ )
+DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2026/\nLocation:
+  Singapore\, Singapore
+URL:https://fse.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:securecomm-2026-0-paper@conference-deadlines
+DTSTAMP:20251216T115959Z
+DTSTART:20251216T115959Z
+DTEND:20251216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SecureComm 2026 deadline
+DESCRIPTION:International Conference on Security and Privacy in Communicati
+ on Networks\nhttps://securecomm.eai-conferences.org/2026/\nLocation: Lanca
+ ster\, UK and hybrid
+URL:https://securecomm.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:codaspy-2026-0-paper@conference-deadlines
+DTSTAMP:20251227T115959Z
+DTSTART:20251227T115959Z
+DTEND:20251227T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2026 deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2026/\nLocation: Frankfurt am Main\, Germany
+URL:https://www.codaspy.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdf2c-2026-0-paper@conference-deadlines
+DTSTAMP:20260121T115959Z
+DTSTART:20260121T115959Z
+DTEND:20260121T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDF2C 2026 deadline
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
+ tps://icdf2c.eai-conferences.org/2026/\nLocation: Reykjavik\, Iceland
+URL:https://icdf2c.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:sac-2026-0-paper@conference-deadlines
+DTSTAMP:20260203T115959Z
+DTSTART:20260203T115959Z
+DTEND:20260203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 1))
+DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
+ nLocation: Ottawa\, Ontario\, Canada
+URL:https://sacworkshop.org/SAC26/
+END:VEVENT
+BEGIN:VEVENT
+UID:crypto-2026-0-paper@conference-deadlines
+DTSTAMP:20260213T115959Z
+DTSTART:20260213T115959Z
+DTEND:20260213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CRYPTO 2026 deadline
+DESCRIPTION:International Cryptology Conference\nhttps://crypto.iacr.org/20
+ 26/\nLocation: Santa Barbara\, USA
+URL:https://crypto.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ih-mmsec-2026-0-paper@conference-deadlines
+DTSTAMP:20260217T115959Z
+DTSTART:20260217T115959Z
+DTEND:20260217T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IH&MMSec 2026 deadline (Submission Deadline)
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\nhtt
+ ps://www.ihmmsec.org/cms/home/home2026.html\nLocation: Florence\, Italy
+URL:https://www.ihmmsec.org/cms/home/home2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:dimva-2026-0-paper@conference-deadlines
+DTSTAMP:20260219T115959Z
+DTSTART:20260219T115959Z
+DTEND:20260219T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DIMVA 2026 deadline (Cycle 2 submission deadline)
+DESCRIPTION:Detection of Intrusions and Malware & Vulnerability Assessment\
+ nhttps://www.dimva.org/dimva2026/\nLocation: Chania\, Greece
+URL:https://www.dimva.org/dimva2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:soups-2026-0-paper@conference-deadlines
+DTSTAMP:20260220T115959Z
+DTSTART:20260220T115959Z
+DTEND:20260220T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SOUPS 2026 deadline (Paper Submission Deadline)
+DESCRIPTION:Symposium On Usable Privacy and Security\nhttps://soups.page/\n
+ Location: Hannover\, Germany
+URL:https://soups.page/
+END:VEVENT
+BEGIN:VEVENT
+UID:acisp-2026-0-paper@conference-deadlines
+DTSTAMP:20260227T115959Z
+DTSTART:20260227T115959Z
+DTEND:20260227T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACISP 2026 deadline (2nd round Deadline)
+DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
+ ps://acisp-conference.github.io/acisp2026/index.html\nLocation: Perth\, Au
+ stralia
+URL:https://acisp-conference.github.io/acisp2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2026-0-paper@conference-deadlines
+DTSTAMP:20260303T115959Z
+DTSTART:20260303T115959Z
+DTEND:20260303T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2026 deadline (Second Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2026/index.php\nLocation: Waterloo\, Canada
+URL:https://www.sacmat.org/2026/index.php
+END:VEVENT
+BEGIN:VEVENT
+UID:wisec-2026-0-paper@conference-deadlines
+DTSTAMP:20260304T115959Z
+DTSTART:20260304T115959Z
+DTEND:20260304T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WiSec 2026 deadline (Second Cycle deadline)
+DESCRIPTION:ACM Conference on Security and Privacy in Wireless and Mobile N
+ etworks\nhttps://wisec26.events.cispa.de/\nLocation: Saarbrücken\, German
+ y
+URL:https://wisec26.events.cispa.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-2026-0-paper@conference-deadlines
+DTSTAMP:20260417T115959Z
+DTSTART:20260417T115959Z
+DTEND:20260417T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RAID 2026 deadline
+DESCRIPTION:International Symposium on Recent Advances in Intrusion Detecti
+ on\nhttps://raid2026.org\nLocation: Lancaster\, UK
+URL:https://raid2026.org
+END:VEVENT
+BEGIN:VEVENT
+UID:blocksys-2026-0-paper@conference-deadlines
+DTSTAMP:20260420T155959Z
+DTSTART:20260420T155959Z
+DTEND:20260420T162959Z
+TRANSP:TRANSPARENT
+SUMMARY:BlockSys 2026 deadline
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
+ e\, and Trustworthy Systems\nhttps://blocksys.info/2026/\nLocation: Chengd
+ u\, China
+URL:https://blocksys.info/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:esorics-2026-0-paper@conference-deadlines
+DTSTAMP:20260422T115959Z
+DTSTART:20260422T115959Z
+DTEND:20260422T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESORICS 2026 deadline (Second Submission deadline)
+DESCRIPTION:European Symposium on Research in Computer Security\nhttps://si
+ tes.google.com/di.uniroma1.it/esorics2026/home\nLocation: Rome\, Italy
+URL:https://sites.google.com/di.uniroma1.it/esorics2026/home
+END:VEVENT
+BEGIN:VEVENT
+UID:ccs-2026-0-paper@conference-deadlines
+DTSTAMP:20260430T115959Z
+DTSTART:20260430T115959Z
+DTEND:20260430T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCS 2026 deadline (Second Review Cycle)
+DESCRIPTION:ACM Conference on Computer and Communications Security\nhttps:/
+ /www.sigsac.org/ccs/CCS2026/\nLocation: World Forum\, Hague\, Netherlands
+URL:https://www.sigsac.org/ccs/CCS2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:nspw-2026-0-paper@conference-deadlines
+DTSTAMP:20260501T115959Z
+DTSTART:20260501T115959Z
+DTEND:20260501T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NSPW 2026 deadline
+DESCRIPTION:New Security Paradigms Workshop\nhttps://www.nspw.org/2026\nLoc
+ ation: Victoria\, BC\, Canada
+URL:https://www.nspw.org/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sec-2026-0-abstract@conference-deadlines
+DTSTAMP:20260425T115959Z
+DTSTART:20260425T115959Z
+DTEND:20260425T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SEC 2026 abstract deadline
+DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
+ 2026/\nLocation: Santa Clara University\, CA\, USA
+URL:https://acm-ieee-sec.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:sec-2026-0-paper@conference-deadlines
+DTSTAMP:20260502T115959Z
+DTSTART:20260502T115959Z
+DTEND:20260502T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SEC 2026 deadline
+DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
+ 2026/\nLocation: Santa Clara University\, CA\, USA
+URL:https://acm-ieee-sec.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:srds-2026-0-paper@conference-deadlines
+DTSTAMP:20260509T115959Z
+DTSTART:20260509T115959Z
+DTEND:20260509T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SRDS 2026 deadline (Full Paper Submission)
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
+ ttps://srds-conference.org/\nLocation: Rome\, Italy
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcc-2026-0-paper@conference-deadlines
+DTSTAMP:20260520T115959Z
+DTSTART:20260520T115959Z
+DTEND:20260520T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:TCC 2026 deadline
+DESCRIPTION:Theory of Cryptography Conference\nhttps://tcc.iacr.org/2026/\n
+ Location: New York City\, USA
+URL:https://tcc.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:asiacrypt-2026-0-paper@conference-deadlines
+DTSTAMP:20260522T115959Z
+DTSTART:20260522T115959Z
+DTEND:20260522T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ASIACRYPT 2026 deadline
+DESCRIPTION:International Conference on the Theory and Application of Crypt
+ ology and Information Security\nhttps://asiacrypt.iacr.org/2026/\nLocation
+ : Hong Kong\, China
+URL:https://asiacrypt.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icics-2026-0-paper@conference-deadlines
+DTSTAMP:20260524T115959Z
+DTSTART:20260524T115959Z
+DTEND:20260524T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICICS 2026 deadline (Second round)
+DESCRIPTION:International Conference on Information and Communications Secu
+ rity\nhttps://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html\nLocation: Fukui
+ \, Japan
+URL:https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+UID:acsac-2026-0-paper@conference-deadlines
+DTSTAMP:20260527T115959Z
+DTSTART:20260527T115959Z
+DTEND:20260527T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACSAC 2026 deadline
+DESCRIPTION:Annual Computer Security Applications Conference\nhttps://www.a
+ csac.org/\nLocation: Los Angeles\, California\, USA
+URL:https://www.acsac.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2026-0-paper@conference-deadlines
+DTSTAMP:20260623T115959Z
+DTSTART:20260623T115959Z
+DTEND:20260623T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISC 2026 deadline
+DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
+ cation: Rennes\, France
+URL:https://isc2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:inscrypt-2026-0-paper@conference-deadlines
+DTSTAMP:20260702T075959Z
+DTSTART:20260702T075959Z
+DTEND:20260702T082959Z
+TRANSP:TRANSPARENT
+SUMMARY:INSCRYPT 2026 deadline (2nd Round)
+DESCRIPTION:International Conference on Information Security and Cryptology
+ \nhttps://inscrypt2026.comp.polyu.edu.hk\nLocation: Hong Kong SAR\, China
+URL:https://inscrypt2026.comp.polyu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+UID:cscloud-2026-0-paper@conference-deadlines
+DTSTAMP:20260802T115959Z
+DTSTART:20260802T115959Z
+DTEND:20260802T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSCloud 2026 deadline
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Compu
+ ting\nhttps://www.cloud-conf.net/cscloud/2026/cscloud/\nLocation: Shanghai
+ \, China
+URL:https://www.cloud-conf.net/cscloud/2026/cscloud/
+END:VEVENT
+BEGIN:VEVENT
+UID:pkc-2027-0-paper@conference-deadlines
+DTSTAMP:20260817T115959Z
+DTSTART:20260817T115959Z
+DTEND:20260817T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PKC 2027 deadline
+DESCRIPTION:International Conference on Practice and Theory of Public-Key C
+ ryptography\nhttps://pkc.iacr.org/2027/\nLocation: Taipei\, Taiwan
+URL:https://pkc.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ndss-2027-0-paper@conference-deadlines
+DTSTAMP:20260820T115959Z
+DTSTART:20260820T115959Z
+DTEND:20260820T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NDSS 2027 deadline (Fall)
+DESCRIPTION:Network and Distributed System Security (NDSS) Symposium\nhttps
+ ://www.ndss-symposium.org/ndss2027/\nLocation: Seoul\, Republic of Korea
+URL:https://www.ndss-symposium.org/ndss2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocrypt-2027-0-paper@conference-deadlines
+DTSTAMP:20260918T115959Z
+DTSTART:20260918T115959Z
+DTEND:20260918T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EUROCRYPT 2027 deadline
+DESCRIPTION:European Cryptology Conference\nhttps://eurocrypt.iacr.org/2027
+ /\nLocation: Eindhoven\, Netherlands
+URL:https://eurocrypt.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-2027-0-paper@conference-deadlines
+DTSTAMP:20260918T115959Z
+DTSTART:20260918T115959Z
+DTEND:20260918T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FC 2027 deadline (Submission deadline)
+DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
+ \nLocation: Barbados (tentative)
+URL:https://fc27.ifca.ai/
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-2027-0-paper@conference-deadlines
+DTSTAMP:20260925T115959Z
+DTSTART:20260925T115959Z
+DTEND:20260925T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACNS 2027 deadline (Cycle 1 Submission deadline)
+DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
+ .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
+URL:https://acns2027.isg.rhul.ac.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-2027-1-paper@conference-deadlines
+DTSTAMP:20270122T115959Z
+DTSTART:20270122T115959Z
+DTEND:20270122T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
+DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
+ .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
+URL:https://acns2027.isg.rhul.ac.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:satml-2027-0-paper@conference-deadlines
+DTSTAMP:20260930T115959Z
+DTSTART:20260930T115959Z
+DTEND:20260930T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SATML 2027 deadline
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\nhtt
+ ps://satml.org/\nLocation: Reykjavik\, Iceland
+URL:https://satml.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ches-2027-0-paper@conference-deadlines
+DTSTAMP:20261016T115959Z
+DTSTART:20261016T115959Z
+DTEND:20261016T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/2)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ches-2027-1-paper@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/3)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ches-2027-2-paper@conference-deadlines
+DTSTAMP:20270416T115959Z
+DTSTART:20270416T115959Z
+DTEND:20270416T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/4)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:csfw-2027-0-paper@conference-deadlines
+DTSTAMP:20261016T115959Z
+DTSTART:20261016T115959Z
+DTEND:20261016T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSFW 2027 deadline (Fall)
+DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
+ security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
+URL:https://www.ieee-security.org/TC/CSF2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:csfw-2027-1-paper@conference-deadlines
+DTSTAMP:20270129T115959Z
+DTSTART:20270129T115959Z
+DTEND:20270129T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSFW 2027 deadline (Winter)
+DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
+ security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
+URL:https://www.ieee-security.org/TC/CSF2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ct-rsa-2027-0-paper@conference-deadlines
+DTSTAMP:20261023T115959Z
+DTSTART:20261023T115959Z
+DTEND:20261023T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CT-RSA 2027 deadline (Paper submission deadline)
+DESCRIPTION:Cryptographer's Track at RSA Conference\nhttps://www.esat.kuleu
+ ven.be/cosic/events/ct-rsa-2027/\nLocation: San Francisco\, California\, U
+ SA
+URL:https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:s-p-2027-0-abstract@conference-deadlines
+DTSTAMP:20261111T115959Z
+DTSTART:20261111T115959Z
+DTEND:20261111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:S&P 2027 abstract deadline (Second Paper submission deadline)
+DESCRIPTION:IEEE Symposium on Security and Privacy\nhttps://sp2027.ieee-sec
+ urity.org/index.html\nLocation: MONTREAL\, CANADA
+URL:https://sp2027.ieee-security.org/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:s-p-2027-0-paper@conference-deadlines
+DTSTAMP:20261118T115959Z
+DTSTART:20261118T115959Z
+DTEND:20261118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:S&P 2027 deadline (Second Paper submission deadline)
+DESCRIPTION:IEEE Symposium on Security and Privacy\nhttps://sp2027.ieee-sec
+ urity.org/index.html\nLocation: MONTREAL\, CANADA
+URL:https://sp2027.ieee-security.org/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:pets-2027-0-paper@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PETS 2027 deadline (Issue 3 Paper Submission Deadline)
+DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
+ org/cfp27.php\nLocation: Delft\, The Netherlands
+URL:https://petsymposium.org/cfp27.php
+END:VEVENT
+BEGIN:VEVENT
+UID:pets-2027-1-paper@conference-deadlines
+DTSTAMP:20270301T115959Z
+DTSTART:20270301T115959Z
+DTEND:20270301T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PETS 2027 deadline (Issue 4 Paper Submission Deadline)
+DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
+ org/cfp27.php\nLocation: Delft\, The Netherlands
+URL:https://petsymposium.org/cfp27.php
+END:VEVENT
+BEGIN:VEVENT
+UID:dsn-2027-0-abstract@conference-deadlines
+DTSTAMP:20261126T115959Z
+DTSTART:20261126T115959Z
+DTEND:20261126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DSN 2027 abstract deadline
+DESCRIPTION:International Conference on Dependable Systems and Networks\nht
+ tps://dsn2027-berlin.github.io/\nLocation: Berlin\, Germany
+URL:https://dsn2027-berlin.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:dsn-2027-0-paper@conference-deadlines
+DTSTAMP:20261203T115959Z
+DTSTART:20261203T115959Z
+DTEND:20261203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DSN 2027 deadline
+DESCRIPTION:International Conference on Dependable Systems and Networks\nht
+ tps://dsn2027-berlin.github.io/\nLocation: Berlin\, Germany
+URL:https://dsn2027-berlin.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:asiaccs-2027-0-paper@conference-deadlines
+DTSTAMP:20261212T115959Z
+DTSTART:20261212T115959Z
+DTEND:20261212T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AsiaCCS 2027 deadline (2nd round Deadline)
+DESCRIPTION:Asia Conference on Computer and Communications Security\nhttps:
+ //asiaccs2027.cityu.edu.mo/index.html\nLocation: Macau\, China
+URL:https://asiaccs2027.cityu.edu.mo/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:usenix-security-2027-0-abstract@conference-deadlines
+DTSTAMP:20270120T115959Z
+DTSTART:20270120T115959Z
+DTEND:20270120T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:USENIX Security 2027 abstract deadline (Cycle 2 Deadline)
+DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
+ enixsecurity27\nLocation: Denver\, CO\, USA
+URL:https://www.usenix.org/conference/usenixsecurity27
+END:VEVENT
+BEGIN:VEVENT
+UID:usenix-security-2027-0-paper@conference-deadlines
+DTSTAMP:20270127T115959Z
+DTSTART:20270127T115959Z
+DTEND:20270127T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:USENIX Security 2027 deadline (Cycle 2 Deadline)
+DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
+ enixsecurity27\nLocation: Denver\, CO\, USA
+URL:https://www.usenix.org/conference/usenixsecurity27
+END:VEVENT
+END:VCALENDAR
