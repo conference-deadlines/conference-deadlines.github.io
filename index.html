@@ -54,9 +54,6 @@ layout: null
 
     <p class="meta">
       <span id="tz-note">All times are shown in your local timezone.</span>
-      Subscribe via iCal:
-      <a href="{{ '/ical/deadlines-all.ics' | relative_url }}">all areas</a>{% for area in site.data.areas %},
-      <a href="{{ '/ical/deadlines-' | append: area.tag | downcase | append: '.ics' | relative_url }}">{{ area.label }}</a>{% endfor %}.
     </p>
   </div>
 </header>
