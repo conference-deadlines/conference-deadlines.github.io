@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ccf-conference-deadlines//EN
+PRODID:-//conference-deadlines//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CCF Deadlines - Software Engineering
+X-WR-CALNAME:Conference Deadlines - Software Engineering
 BEGIN:VEVENT
-UID:models-2022-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:models-2022-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20220519T115959Z
 DTEND:20220519T115959Z
 SUMMARY:MoDELS 2022 deadline
@@ -16,8 +16,8 @@ DESCRIPTION:International Conference on Model Driven Engineering Languages
 URL:https://conf.researchr.org/home/models-2022
 END:VEVENT
 BEGIN:VEVENT
-UID:lctes-2024-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:lctes-2024-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20240224T115959Z
 DTEND:20240224T115959Z
 SUMMARY:LCTES 2024 deadline (Paper submission)
@@ -27,8 +27,8 @@ DESCRIPTION:International Conference on Languages\, Compilers and Tools for
 URL:https://pldi24.sigplan.org/home/LCTES-2024
 END:VEVENT
 BEGIN:VEVENT
-UID:hotos-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:hotos-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250116T115959Z
 DTEND:20250116T115959Z
 SUMMARY:HotOS 2025 deadline (Submission Deadline)
@@ -37,8 +37,8 @@ DESCRIPTION:USENIX Workshop on Hot Topics in Operating Systems\nhttps://sig
 URL:https://sigops.org/s/conferences/hotos/2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:tase-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:tase-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250222T115959Z
 DTEND:20250222T115959Z
 SUMMARY:TASE 2025 deadline
@@ -47,8 +47,8 @@ DESCRIPTION:Theoretical Aspects of Software Engineering\nhttps://cyprusconf
 URL:https://cyprusconferences.org/tase2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:ecoop-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ecoop-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250306T115959Z
 DTEND:20250306T115959Z
 SUMMARY:ECOOP 2025 deadline (Submission R2)
@@ -57,8 +57,8 @@ DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
 URL:https://2025.ecoop.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sse-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sse-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250311T110000Z
 DTEND:20250311T110000Z
 SUMMARY:SSE 2025 deadline
@@ -68,8 +68,8 @@ DESCRIPTION:IEEE International Conference on Software Services Engineering\
 URL:https://services.conferences.computer.org/2025/sse/
 END:VEVENT
 BEGIN:VEVENT
-UID:icws-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icws-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250323T115959Z
 DTEND:20250323T115959Z
 SUMMARY:ICWS 2026 deadline
@@ -79,8 +79,8 @@ DESCRIPTION:IEEE International Conference on Web Services (Research Track)\
 URL:https://services.conferences.computer.org/2026/icws-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:qrs-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:qrs-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250416T115959Z
 DTEND:20250416T115959Z
 SUMMARY:QRS 2025 deadline
@@ -89,8 +89,8 @@ DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
 URL:https://qrs25.techconf.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:issre-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:issre-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250418T115959Z
 DTEND:20250418T115959Z
 SUMMARY:ISSRE 2026 deadline
@@ -99,8 +99,8 @@ DESCRIPTION:International Symposium on Software Reliability Engineering\nht
 URL:https://cyprusconferences.org/issre2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:atva-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:atva-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250426T115959Z
 DTEND:20250426T115959Z
 SUMMARY:ATVA 2025 deadline
@@ -110,8 +110,8 @@ DESCRIPTION:International Symposium on Automated Technology for Verificatio
 URL:https://conf.researchr.org/home/atva-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:sas-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sas-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250505T115959Z
 DTEND:20250505T115959Z
 SUMMARY:SAS 2025 deadline (Paper Submission)
@@ -120,8 +120,8 @@ DESCRIPTION:International Static Analysis Symposium\nhttps://2025.splashcon
 URL:https://2025.splashcon.org/home/sas-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:aplas-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:aplas-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250601T115959Z
 DTEND:20250601T115959Z
 SUMMARY:APLAS 2025 deadline
@@ -130,8 +130,8 @@ DESCRIPTION:Asian Symposium on Programming Languages and Systems\nhttps://c
 URL:https://conf.researchr.org/home/aplas-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:icfem-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icfem-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250602T115959Z
 DTEND:20250602T115959Z
 SUMMARY:ICFEM 2025 deadline
@@ -140,8 +140,8 @@ DESCRIPTION:International Conference on Formal Engineering Methods\nhttps:/
 URL:https://icfem2025.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:apsec-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:apsec-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250714T115959Z
 DTEND:20250714T115959Z
 SUMMARY:APSEC 2025 deadline
@@ -150,8 +150,8 @@ DESCRIPTION:Asia-Pacific Software Engineering Conference\nhttps://conf.rese
 URL:https://conf.researchr.org/home/apsec-2025
 END:VEVENT
 BEGIN:VEVENT
-UID:icsoc-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icsoc-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250715T115959Z
 DTEND:20250715T115959Z
 SUMMARY:ICSOC 2025 deadline (Regular paper submissions)
@@ -160,8 +160,8 @@ DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
 URL:https://icsoc2025.hit.edu.cn/main.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:etaps-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:etaps-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251017T115959Z
 DTEND:20251017T115959Z
 SUMMARY:ETAPS 2026 deadline (Submission deadline ESOP round 2)
@@ -170,8 +170,8 @@ DESCRIPTION:European Joint Conferences on Theory and Practice of Software\n
 URL:https://etaps.org/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:icpc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icpc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251024T115959Z
 DTEND:20251024T115959Z
 SUMMARY:ICPC 2026 deadline
@@ -180,8 +180,8 @@ DESCRIPTION:IEEE International Conference on Program Comprehension\nhttps:/
 URL:https://conf.researchr.org/home/icpc-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:msr-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:msr-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251024T115959Z
 DTEND:20251024T115959Z
 SUMMARY:MSR 2026 deadline
@@ -190,8 +190,8 @@ DESCRIPTION:International Conference on Mining Software Repositories\nhttps
 URL:https://2026.msrconf.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:fse-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:fse-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251124T115959Z
 DTEND:20251124T115959Z
 SUMMARY:FSE 2026 deadline (ToSC\, Volume 2026\, Issue 1 Submission deadline
@@ -201,8 +201,8 @@ DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2026/\nLocation:
 URL:https://fse.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:caise-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:caise-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251129T115959Z
 DTEND:20251129T115959Z
 SUMMARY:CAiSE 2026 deadline
@@ -211,8 +211,8 @@ DESCRIPTION:International Conference on Advanced Information Systems Engine
 URL:https://caise26.polimi.it/
 END:VEVENT
 BEGIN:VEVENT
-UID:fm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:fm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251203T115900Z
 DTEND:20251203T115900Z
 SUMMARY:FM 2026 deadline
@@ -221,8 +221,8 @@ DESCRIPTION:International Symposium on Formal Methods\nhttps://conf.researc
 URL:https://conf.researchr.org/home/fm-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:ispass-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ispass-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251213T115959Z
 DTEND:20251213T115959Z
 SUMMARY:ISPASS 2026 deadline
@@ -231,8 +231,8 @@ DESCRIPTION:International Symposium on Performance Analysis of Systems and
 URL:https://ispass.org/ispass2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icst-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icst-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251223T115959Z
 DTEND:20251223T115959Z
 SUMMARY:ICST 2026 deadline
@@ -242,8 +242,8 @@ DESCRIPTION:IEEE International Conference on Software Testing\, Verificatio
 URL:https://conf.researchr.org/home/icst-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:ease-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ease-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260124T115959Z
 DTEND:20260124T115959Z
 SUMMARY:EASE 2026 deadline (Research Papers)
@@ -253,8 +253,8 @@ DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
 URL:https://conf.researchr.org/home/ease-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:compsac-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:compsac-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260201T115959Z
 DTEND:20260201T115959Z
 SUMMARY:COMPSAC 2026 deadline
@@ -263,8 +263,8 @@ DESCRIPTION:International Computer Software and Applications Conference\nht
 URL:https://ieeecompsac.computer.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icfp-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icfp-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260220T115959Z
 DTEND:20260220T115959Z
 SUMMARY:ICFP 2026 deadline
@@ -273,8 +273,8 @@ DESCRIPTION:International Conference on Function Programming\nhttps://icfp2
 URL:https://icfp26.sigplan.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icsme-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icsme-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260307T115959Z
 DTEND:20260307T115959Z
 SUMMARY:ICSME 2026 deadline (Research Papers Track)
@@ -283,8 +283,8 @@ DESCRIPTION:International Conference on Software Maintenance and Evolution\
 URL:https://conf.researchr.org/home/icsme-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cp-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cp-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260315T115959Z
 DTEND:20260315T115959Z
 SUMMARY:CP 2026 deadline
@@ -293,8 +293,8 @@ DESCRIPTION:International Conference on Principles and Practice of Constrai
 URL:https://cp2026.a4cp.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:oopsla-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:oopsla-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260318T115959Z
 DTEND:20260318T115959Z
 SUMMARY:OOPSLA 2026 deadline (Submission Deadline Round 2)
@@ -304,8 +304,8 @@ DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
 URL:https://conf.researchr.org/track/splash-2026/oopsla-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:ase-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ase-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260327T115959Z
 DTEND:20260327T115959Z
 SUMMARY:ASE 2026 deadline
@@ -314,8 +314,8 @@ DESCRIPTION:International Conference on Automated Software Engineering\nhtt
 URL:https://conf.researchr.org/home/ase-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:sosp-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sosp-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260402T115959Z
 DTEND:20260402T115959Z
 SUMMARY:SOSP 2026 deadline
@@ -325,8 +325,8 @@ DESCRIPTION:ACM Symposium on Operating Systems Principles\nhttps://sigops.o
 URL:https://sigops.org/s/conferences/sosp/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:re-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:re-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260414T115959Z
 DTEND:20260414T115959Z
 SUMMARY:RE 2026 deadline (Journal Paper)
@@ -335,8 +335,8 @@ DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
 URL:https://conf.researchr.org/home/RE-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:internetware-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:internetware-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260505T115959Z
 DTEND:20260505T115959Z
 SUMMARY:Internetware 2026 deadline (Round 2)
@@ -345,8 +345,8 @@ DESCRIPTION:Asia-Pacific Symposium on Internetware\nhttps://conf.researchr.
 URL:https://conf.researchr.org/home/internetware-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:seke-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:seke-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260511T045900Z
 DTEND:20260511T045900Z
 SUMMARY:SEKE 2026 deadline
@@ -356,8 +356,8 @@ DESCRIPTION:International Conference on Software Engineering and Knowledge
 URL:https://ksiresearch.org/seke/seke26.html
 END:VEVENT
 BEGIN:VEVENT
-UID:esem-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:esem-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260519T115959Z
 DTEND:20260519T115959Z
 SUMMARY:ESEM 2026 deadline
@@ -367,8 +367,8 @@ DESCRIPTION:International Symposium on Empirical Software Engineering and M
 URL:https://conf.researchr.org/home/eseiw-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:rv-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:rv-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260601T115959Z
 DTEND:20260601T115959Z
 SUMMARY:RV 2026 deadline
@@ -377,8 +377,8 @@ DESCRIPTION:International Conference on Runtime Verification\nhttps://rv202
 URL:https://rv2026.smithengineering.queensu.ca/
 END:VEVENT
 BEGIN:VEVENT
-UID:middleware-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:middleware-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260606T115959Z
 DTEND:20260606T115959Z
 SUMMARY:Middleware 2026 deadline (Round 2)
@@ -387,8 +387,8 @@ DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
 URL:https://middleware-conf.github.io/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:scam-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:scam-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260612T115959Z
 DTEND:20260612T115959Z
 SUMMARY:SCAM 2026 deadline (co-located with ICSME 2026)
@@ -398,8 +398,8 @@ DESCRIPTION:IEEE International Working Conference on Source Code Analysis a
 URL:https://conf.researchr.org/home/scam-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:icse-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icse-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260701T115959Z
 DTEND:20260701T115959Z
 SUMMARY:ICSE 2027 deadline (Single Submission Cycle Deadline)
@@ -408,8 +408,8 @@ DESCRIPTION:International Conference on Software Engineering\nhttps://conf.
 URL:https://conf.researchr.org/home/icse-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:popl-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:popl-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260710T115959Z
 DTEND:20260710T115959Z
 SUMMARY:POPL 2027 deadline (Submission Deadline)
@@ -418,8 +418,8 @@ DESCRIPTION:ACM SIGPLAN-SIGACT Symposium on Principles of Programming Langu
 URL:https://popl27.sigplan.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:iceccs-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:iceccs-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260721T115959Z
 DTEND:20260721T115959Z
 SUMMARY:ICECCS 2026 deadline (Abstract and full paper submission)
@@ -429,8 +429,8 @@ DESCRIPTION:International Conference on Engineering of Complex Computer Sys
 URL:https://formal-analysis.com/iceccs/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:vmcai-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:vmcai-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260917T115959Z
 DTEND:20260917T115959Z
 SUMMARY:VMCAI 2027 deadline
@@ -440,8 +440,8 @@ DESCRIPTION:International Conference on Verification\, Model Checking\, and
 URL:https://conf.researchr.org/home/VMCAI-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:saner-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:saner-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260926T115959Z
 DTEND:20260926T115959Z
 SUMMARY:SANER 2027 deadline (Research Track Paper submission deadline)
@@ -451,8 +451,8 @@ DESCRIPTION:IEEE International Conference on Software Analysis\, Evolution
 URL:https://conf.researchr.org/home/saner-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:pldi-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:pldi-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261113T115959Z
 DTEND:20261113T115959Z
 SUMMARY:PLDI 2027 deadline
@@ -461,8 +461,8 @@ DESCRIPTION:ACM SIGPLAN Conference on Programming Language Design & Impleme
 URL:https://pldi27.sigplan.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:refsq-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:refsq-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261113T115959Z
 DTEND:20261113T115959Z
 SUMMARY:REFSQ 2027 deadline
@@ -471,8 +471,8 @@ DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
 URL:https://2027.refsq.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:osdi-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:osdi-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261208T225959Z
 DTEND:20261208T225959Z
 SUMMARY:OSDI 2027 deadline
@@ -481,8 +481,8 @@ DESCRIPTION:USENIX Symposium on Operating Systems Design and Implementation
 URL:https://www.usenix.org/conference/osdi27
 END:VEVENT
 BEGIN:VEVENT
-UID:issta-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:issta-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270112T115959Z
 DTEND:20270112T115959Z
 SUMMARY:ISSTA 2027 deadline

@@ -1,24 +1,25 @@
-# CCF Conference Deadlines
+# Research Conference Deadlines
 
-Submission deadline countdowns for every conference in the
-[CCF recommended list](https://ccf.atom.im/), across all ten research areas —
-with **abstract deadlines shown alongside the full-paper deadline**.
+Paper and abstract submission deadline countdowns for computer science
+conferences worldwide, across ten research areas — with **abstract deadlines
+shown alongside the full-paper deadline**.
 
 Built in the spirit of [sec-deadlines](https://sec-deadlines.github.io/) and
-[ai-deadlines](https://aideadlin.es/), but covering the whole CCF catalogue
-rather than a single field.
+[ai-deadlines](https://aideadlin.es/), but covering every field rather than
+just one.
 
 ## What it shows
 
-- **348 conferences** across the 10 CCF areas (security, AI, networking,
+- **348 conferences** across 10 research areas (security, AI, networking,
   architecture, software engineering, databases, theory, graphics, HCI,
   interdisciplinary).
 - **Abstract and full-paper deadlines** as separate countdowns. sec-deadlines
   only tracks the paper deadline; here the abstract registration deadline gets
   its own timer, because that is the one people actually miss.
-- **CCF rank (A/B/C) and CORE rank (A\*/A/B/C)** on every entry.
-- Filtering by area and by either ranking, plus free-text search over name,
-  description and location.
+- **[CORE rank](https://portal.core.edu.au/conf-ranks/) (A\*/A/B/C)** on every
+  entry.
+- Filtering by area and by rank, plus free-text search over name, description
+  and location.
 - All times rendered in **the viewer's local timezone**.
 - iCal feeds — one for everything, one per area — under [`ical/`](ical/).
 
@@ -27,17 +28,16 @@ rounds rather than all twelve.
 
 ## How the data works
 
-Two upstream sources, neither of them edited by hand here:
+Deadline dates, timezones, venues, links and CORE rankings all come from
+[ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) (MIT), a
+community-maintained dataset. [`scripts/sync_ccfddl.py`](scripts/sync_ccfddl.py)
+pulls it and writes [`_data/conferences.yml`](_data/conferences.yml),
+[`_data/areas.yml`](_data/areas.yml) and the iCal feeds.
 
-| Source | Provides |
-| --- | --- |
-| [ccf.atom.im](https://ccf.atom.im/) | The CCF catalogue: which venues exist, their area and their CCF rank |
-| [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) (MIT) | The actual deadline dates, timezones, venues and links |
-
-The CCF catalogue itself lists no deadlines, so
-[`scripts/sync_ccfddl.py`](scripts/sync_ccfddl.py) pulls the community-maintained
-ccfddl data, keeps the areas that make up the CCF conference list, and writes
-[`_data/conferences.yml`](_data/conferences.yml) plus the iCal feeds.
+The [CCF recommended list](https://ccf.atom.im/) was the starting reference for
+*which* venues and research areas to cover — it publishes no deadlines of its
+own, and its A/B/C rankings are deliberately **not** shown on the site. CORE is
+the only ranking displayed.
 
 For each conference the script picks the edition whose next deadline lands
 soonest (falling back to the most recent edition once everything is past), and
@@ -107,7 +107,7 @@ branch → `main` / `(root)`**.
 ```
 _config.yml                        Jekyll config
 _data/conferences.yml              generated: conferences + deadlines
-_data/areas.yml                    generated: CCF area codes and labels
+_data/areas.yml                    generated: research areas and labels
 index.html                         the page (server-rendered card list)
 static/css/style.css               styling, light and dark
 static/js/main.js                  countdowns, sorting, filtering
@@ -119,8 +119,8 @@ ical/                              generated: calendar feeds
 ## Credits
 
 Deadline data from [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)
-(MIT). Conference catalogue from the [CCF recommended list](https://ccf.atom.im/).
-Concept from [ai-deadlines](https://aideadlin.es/) and
+(MIT). Rankings from [CORE](https://portal.core.edu.au/conf-ranks/). Concept
+from [ai-deadlines](https://aideadlin.es/) and
 [sec-deadlines](https://sec-deadlines.github.io/).
 
 Always confirm a deadline against the official call for papers before relying

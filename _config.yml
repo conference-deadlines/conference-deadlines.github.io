@@ -1,9 +1,8 @@
-title: CCF Conference Deadlines
-tagline: Countdowns to paper and abstract deadlines for every conference in the CCF recommended list.
+title: Research Conference Deadlines
+tagline: Countdowns to paper and abstract submission deadlines for computer science conferences worldwide.
 description: >-
-  Submission deadline countdowns for all 348 conferences in the CCF (China
-  Computer Federation) recommended list, across all ten research areas.
-  Abstract deadlines included.
+  Paper and abstract submission deadline countdowns for 348 computer science
+  conferences across ten research areas, shown in your local timezone.
 
 url: "https://huuhuannt1998.github.io"
 baseurl: "/security-privacy-deadlines.github.io"

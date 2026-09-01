@@ -17,10 +17,7 @@ layout: null
     <h1>{{ site.title }}</h1>
     <p class="tagline">{{ site.tagline }}</p>
     <p class="meta">
-      {{ site.data.conferences | size }} conferences across all ten
-      <a href="https://ccf.atom.im/" target="_blank" rel="noopener">CCF</a> areas.
-      Deadline data synced from
-      <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">ccf-deadlines</a>.
+      {{ site.data.conferences | size }} conferences across ten research areas.
       Last updated {{ site.time | date: "%-d %B %Y" }}.
     </p>
     <p class="meta">
@@ -53,24 +50,14 @@ layout: null
       {% endfor %}
     </fieldset>
 
-    <fieldset class="filter-group" data-group="ccf">
-      <legend>CCF rank</legend>
-      {% assign ccf_ranks = "CCF-A,CCF-B,CCF-C,CCF-N" | split: "," %}
-      {% for rank in ccf_ranks %}
-      <label class="chip">
-        <input type="checkbox" value="{{ rank }}">
-        {% if rank == "CCF-N" %}Unranked{% else %}{{ rank | remove: "CCF-" }}{% endif %}
-      </label>
-      {% endfor %}
-    </fieldset>
 
     <fieldset class="filter-group" data-group="core">
       <legend><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" rel="noopener">CORE</a> rank</legend>
-      {% assign core_ranks = "CORE-ASTAR,CORE-A,CORE-B,CORE-C" | split: "," %}
+      {% assign core_ranks = "CORE-ASTAR,CORE-A,CORE-B,CORE-C,CORE-N" | split: "," %}
       {% for rank in core_ranks %}
       <label class="chip">
         <input type="checkbox" value="{{ rank }}">
-        {% if rank == "CORE-ASTAR" %}A*{% else %}{{ rank | remove: "CORE-" }}{% endif %}
+        {% if rank == "CORE-ASTAR" %}A*{% elsif rank == "CORE-N" %}Unranked{% else %}{{ rank | remove: "CORE-" }}{% endif %}
       </label>
       {% endfor %}
     </fieldset>
@@ -98,10 +85,9 @@ layout: null
 
         <p class="badges">
           {%- for tag in conf.tags -%}
-            {%- if tag == 'CCF-A' or tag == 'CCF-B' or tag == 'CCF-C' -%}
-              <span class="badge rank-{{ tag | downcase }}">CCF {{ tag | remove: 'CCF-' }}</span>
-            {%- elsif tag == 'CORE-ASTAR' -%}
+            {%- if tag == 'CORE-ASTAR' -%}
               <span class="badge core">CORE A*</span>
+            {%- elsif tag == 'CORE-N' -%}
             {%- elsif tag contains 'CORE-' -%}
               <span class="badge core">CORE {{ tag | remove: 'CORE-' }}</span>
             {%- endif -%}
@@ -153,10 +139,10 @@ layout: null
 
   <footer>
     <p>
-      Deadlines are community-maintained upstream at
-      <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">ccfddl/ccf-deadlines</a> (MIT)
-      and re-synced here daily. Conference list follows the
-      <a href="https://ccf.atom.im/" target="_blank" rel="noopener">CCF recommended catalogue</a>.
+      Deadline data is community-maintained
+      <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">upstream</a> (MIT)
+      and re-synced here daily.
+      Rankings from <a href="https://portal.core.edu.au/conf-ranks/" target="_blank" rel="noopener">CORE</a>.
       Inspired by <a href="https://sec-deadlines.github.io/" target="_blank" rel="noopener">sec-deadlines</a>
       and <a href="https://aideadlin.es/" target="_blank" rel="noopener">ai-deadlines</a>.
     </p>

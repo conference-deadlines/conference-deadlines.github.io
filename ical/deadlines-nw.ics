@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ccf-conference-deadlines//EN
+PRODID:-//conference-deadlines//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CCF Deadlines - Networking
+X-WR-CALNAME:Conference Deadlines - Networking
 BEGIN:VEVENT
-UID:ipsn-2022-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ipsn-2022-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20211030T115959Z
 DTEND:20211030T115959Z
 SUMMARY:IPSN 2022 deadline
@@ -15,8 +15,8 @@ DESCRIPTION:ACM/IEEE International Conference on Information Processing in
 URL:https://ipsn.acm.org/2022/
 END:VEVENT
 BEGIN:VEVENT
-UID:mobisys-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:mobisys-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251206T115959Z
 DTEND:20251206T115959Z
 SUMMARY:MobiSys 2026 deadline
@@ -26,8 +26,8 @@ DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
 URL:https://www.sigmobile.org/mobisys/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:wowmom-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wowmom-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251206T115959Z
 DTEND:20251206T115959Z
 SUMMARY:WoWMoM 2026 deadline
@@ -37,8 +37,8 @@ DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
 URL:https://www.cs.unibo.it/wowmom2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:nossdav-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:nossdav-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260117T115959Z
 DTEND:20260117T115959Z
 SUMMARY:NOSSDAV 2026 deadline
@@ -48,8 +48,8 @@ DESCRIPTION:International Workshop on Network and Operating System Support
 URL:https://nossdav.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:forte-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:forte-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260207T115959Z
 DTEND:20260207T115959Z
 SUMMARY:FORTE 2026 deadline
@@ -59,8 +59,8 @@ DESCRIPTION:International Conference on Formal Techniques for (Networked an
 URL:https://www.discotec.org/2026/forte
 END:VEVENT
 BEGIN:VEVENT
-UID:sigcomm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sigcomm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260207T115959Z
 DTEND:20260207T115959Z
 SUMMARY:SIGCOMM 2026 deadline
@@ -70,8 +70,8 @@ DESCRIPTION:ACM International Conference on Applications\, Technologies\, A
 URL:https://conferences.sigcomm.org/sigcomm/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:networking-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:networking-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260209T115959Z
 DTEND:20260209T115959Z
 SUMMARY:Networking 2026 deadline
@@ -80,8 +80,8 @@ DESCRIPTION:IFIP International Conference on Networking\nhttps://networking
 URL:https://networking.ifip.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:iwqos-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:iwqos-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260210T115959Z
 DTEND:20260210T115959Z
 SUMMARY:IWQoS 2026 deadline
@@ -90,8 +90,8 @@ DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
 URL:https://iwqos2026.ieee-iwqos.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icccn-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icccn-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260214T095959Z
 DTEND:20260214T095959Z
 SUMMARY:ICCCN 2026 deadline
@@ -100,8 +100,8 @@ DESCRIPTION:IEEE International Conference on Computer Communications and Ne
 URL:http://www.icccn.org/ICCCN26/
 END:VEVENT
 BEGIN:VEVENT
-UID:iscc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:iscc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260215T235959Z
 DTEND:20260215T235959Z
 SUMMARY:ISCC 2026 deadline
@@ -110,8 +110,8 @@ DESCRIPTION:IEEE Symposium on Computers and Communications\nhttps://ieee-is
 URL:https://ieee-iscc.computer.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:apnet-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:apnet-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260312T115959Z
 DTEND:20260312T115959Z
 SUMMARY:APNet 2026 deadline
@@ -120,8 +120,8 @@ DESCRIPTION:Asia-Pacific Workshop on Networking\nhttps://conferences.sigcom
 URL:https://conferences.sigcomm.org/events/apnet2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:wasa-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wasa-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260316T115959Z
 DTEND:20260316T115959Z
 SUMMARY:WASA 2026 deadline
@@ -131,8 +131,8 @@ DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, and
 URL:http://wasa-conference.org/WASA2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:lcn-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:lcn-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260421T115959Z
 DTEND:20260421T115959Z
 SUMMARY:LCN 2026 deadline
@@ -141,8 +141,8 @@ DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
 URL:https://www.ieeelcn.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:mobihoc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:mobihoc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260421T115959Z
 DTEND:20260421T115959Z
 SUMMARY:MobiHoc 2026 deadline
@@ -151,8 +151,8 @@ DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Computi
 URL:https://www.sigmobile.org/mobihoc/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:imc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:imc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260430T115959Z
 DTEND:20260430T115959Z
 SUMMARY:IMC 2026 deadline (Cycle 2 Deadline)
@@ -161,8 +161,8 @@ DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
 URL:https://conferences.sigcomm.org/imc/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:globecom-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:globecom-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260504T035959Z
 DTEND:20260504T035959Z
 SUMMARY:GLOBECOM 2026 deadline
@@ -171,8 +171,8 @@ DESCRIPTION:IEEE Global Communications Conference\nhttps://globecom2026.iee
 URL:https://globecom2026.ieee-globecom.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icnp-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icnp-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260523T115959Z
 DTEND:20260523T115959Z
 SUMMARY:ICNP 2026 deadline
@@ -181,8 +181,8 @@ DESCRIPTION:IEEE International Conference on Network Protocols\nhttps://icn
 URL:https://icnp26.cs.ucr.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:wicon-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wicon-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260601T205959Z
 DTEND:20260601T205959Z
 SUMMARY:WiCON 2026 deadline
@@ -191,8 +191,8 @@ DESCRIPTION:International Wireless Internet Conference\nhttps://wicon.eai-c
 URL:https://wicon.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:mswim-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:mswim-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260601T225959Z
 DTEND:20260601T225959Z
 SUMMARY:MSWiM 2026 deadline
@@ -202,8 +202,8 @@ DESCRIPTION:International Conference on Modeling\, Analysis and Simulation
 URL:https://mswimconf.com/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:sensys-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sensys-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260606T115900Z
 DTEND:20260606T115900Z
 SUMMARY:SenSys 2027 deadline (1st deadline)
@@ -212,8 +212,8 @@ DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
 URL:https://sensys.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:conext-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:conext-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260606T115959Z
 DTEND:20260606T115959Z
 SUMMARY:CoNEXT 2026 deadline (June Cycle)
@@ -223,8 +223,8 @@ DESCRIPTION:International Conference on Emerging Networking Experiments and
 URL:https://conferences.sigcomm.org/co-next/2026/#!/home
 END:VEVENT
 BEGIN:VEVENT
-UID:hotnets-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:hotnets-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260717T115959Z
 DTEND:20260717T115959Z
 SUMMARY:HotNets 2026 deadline
@@ -233,8 +233,8 @@ DESCRIPTION:ACM Workshop on Hot Topics in Networks\nhttps://conferences.sig
 URL:https://conferences.sigcomm.org/hotnets/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:infocom-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:infocom-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260801T115959Z
 DTEND:20260801T115959Z
 SUMMARY:INFOCOM 2027 deadline
@@ -243,8 +243,8 @@ DESCRIPTION:IEEE International Conference on Computer Communications\nhttps
 URL:https://infocom2027.ieee-infocom.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:msn-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:msn-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260831T115959Z
 DTEND:20260831T115959Z
 SUMMARY:MSN 2026 deadline
@@ -253,8 +253,8 @@ DESCRIPTION:International Conference on Mobility\, Sensing and Networking\n
 URL:https://ieee-msn.org/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:mobicom-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:mobicom-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260903T115959Z
 DTEND:20260903T115959Z
 SUMMARY:MobiCom 2027 deadline (Summer Deadlines)
@@ -263,8 +263,8 @@ DESCRIPTION:ACM Annual International Conference On Mobile Computing And Net
 URL:https://www.sigmobile.org/mobicom/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:wcnc-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wcnc-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260916T115959Z
 DTEND:20260916T115959Z
 SUMMARY:WCNC 2027 deadline
@@ -273,8 +273,8 @@ DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
 URL:https://wcnc2027.ieee-wcnc.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:nsdi-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:nsdi-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260918T035959Z
 DTEND:20260918T035959Z
 SUMMARY:NSDI 2027 deadline
@@ -284,8 +284,8 @@ DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
 URL:https://www.usenix.org/conference/nsdi27
 END:VEVENT
 BEGIN:VEVENT
-UID:mmsys-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:mmsys-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260918T115959Z
 DTEND:20260918T115959Z
 SUMMARY:MMSys 2027 deadline
@@ -294,8 +294,8 @@ DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
 URL:https://2027.acmmmsys.org
 END:VEVENT
 BEGIN:VEVENT
-UID:icc-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icc-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261003T035959Z
 DTEND:20261003T035959Z
 SUMMARY:ICC 2027 deadline
@@ -304,8 +304,8 @@ DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
 URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
-UID:secon-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:secon-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261201T045959Z
 DTEND:20261201T045959Z
 SUMMARY:SECON 2027 deadline

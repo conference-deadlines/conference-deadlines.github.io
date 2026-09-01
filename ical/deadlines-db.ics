@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ccf-conference-deadlines//EN
+PRODID:-//conference-deadlines//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CCF Deadlines - Databases & Data Mining
+X-WR-CALNAME:Conference Deadlines - Databases & Data Mining
 BEGIN:VEVENT
-UID:dasfaa-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:dasfaa-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251028T115959Z
 DTEND:20251028T115959Z
 SUMMARY:DASFAA 2026 deadline
@@ -15,8 +15,8 @@ DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2026.
 URL:https://dasfaa2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:pakdd-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:pakdd-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251116T075959Z
 DTEND:20251116T075959Z
 SUMMARY:PAKDD 2026 deadline
@@ -25,8 +25,8 @@ DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
 URL:https://www.pakdd2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigir-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sigir-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260123T115959Z
 DTEND:20260123T115959Z
 SUMMARY:SIGIR 2026 deadline
@@ -36,8 +36,8 @@ DESCRIPTION:International Conference on Research on Development in Informat
 URL:https://sigir2026.org/en-AU
 END:VEVENT
 BEGIN:VEVENT
-UID:eusipco-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:eusipco-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260214T115959Z
 DTEND:20260214T115959Z
 SUMMARY:EUSIPCO 2026 deadline
@@ -46,8 +46,8 @@ DESCRIPTION:European Signal Processing Conference\nhttps://eusipco2026.org/
 URL:https://eusipco2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sdm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sdm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260418T115959Z
 DTEND:20260418T115959Z
 SUMMARY:SDM 2026 deadline
@@ -57,8 +57,8 @@ DESCRIPTION:SIAM International Conference on Data Mining\nhttps://www.siam.
 URL:https://www.siam.org/conferences-events/siam-conferences/sdm26/
 END:VEVENT
 BEGIN:VEVENT
-UID:recsys-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:recsys-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260422T115959Z
 DTEND:20260422T115959Z
 SUMMARY:RecSys 2026 deadline
@@ -67,8 +67,8 @@ DESCRIPTION:ACM Conference on Recommender Systems\nhttps://recsys.acm.org/r
 URL:https://recsys.acm.org/recsys26
 END:VEVENT
 BEGIN:VEVENT
-UID:wisa-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wisa-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260428T155959Z
 DTEND:20260428T155959Z
 SUMMARY:WISA 2026 deadline
@@ -77,8 +77,8 @@ DESCRIPTION:Web Information Systems and Applications\nhttps://conf.ccf.org.
 URL:https://conf.ccf.org.cn/WISA2026
 END:VEVENT
 BEGIN:VEVENT
-UID:iswc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:iswc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260508T115959Z
 DTEND:20260508T115959Z
 SUMMARY:ISWC 2026 deadline
@@ -87,8 +87,8 @@ DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
 URL:https://iswc2026.semanticweb.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:apweb-waim-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:apweb-waim-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260515T115959Z
 DTEND:20260515T115959Z
 SUMMARY:APWeb-WAIM 2026 deadline (second round)
@@ -97,8 +97,8 @@ DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
 URL:https://conferences.sigappfr.org/apweb2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:cikm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cikm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260524T115959Z
 DTEND:20260524T115959Z
 SUMMARY:CIKM 2026 deadline
@@ -107,8 +107,8 @@ DESCRIPTION:ACM International Conference on Information and Knowledge Manag
 URL:https://cikm2026.diag.uniroma1.it/
 END:VEVENT
 BEGIN:VEVENT
-UID:icdm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icdm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260607T115959Z
 DTEND:20260607T115959Z
 SUMMARY:ICDM 2026 deadline
@@ -117,8 +117,8 @@ DESCRIPTION:IEEE International Conference on Data Mining\nhttp://icdm2026.n
 URL:http://icdm2026.neu.edu.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:wise-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wise-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260701T115959Z
 DTEND:20260701T115959Z
 SUMMARY:WISE 2026 deadline (Extended submission deadline)
@@ -127,8 +127,8 @@ DESCRIPTION:International Conference on Web Information Systems Engineering
 URL:https://conferences.sigappfr.org/wise2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigkdd-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sigkdd-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260727T115959Z
 DTEND:20260727T115959Z
 SUMMARY:SIGKDD 2027 deadline (1st round of 2 total rounds)
@@ -137,8 +137,8 @@ DESCRIPTION:ACM Knowledge Discovery and Data Mining\nhttps://kdd2027.kdd.or
 URL:https://kdd2027.kdd.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:cidr-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cidr-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260805T065959Z
 DTEND:20260805T065959Z
 SUMMARY:CIDR 2027 deadline
@@ -147,8 +147,8 @@ DESCRIPTION:International Conference on Innovative Data Systems Research\nh
 URL:https://www.cidrdb.org/cidr2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:vldb-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:vldb-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260902T000000Z
 DTEND:20260902T000000Z
 SUMMARY:VLDB 2027 deadline
@@ -157,8 +157,8 @@ DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
 URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:vldb-2027-1@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:vldb-2027-1@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261002T000000Z
 DTEND:20261002T000000Z
 SUMMARY:VLDB 2027 deadline
@@ -167,8 +167,8 @@ DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
 URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:vldb-2027-2@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:vldb-2027-2@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261102T010000Z
 DTEND:20261102T010000Z
 SUMMARY:VLDB 2027 deadline
@@ -177,8 +177,8 @@ DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
 URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:icdt-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icdt-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260911T115959Z
 DTEND:20260911T115959Z
 SUMMARY:ICDT 2027 deadline
@@ -187,8 +187,8 @@ DESCRIPTION:International Conference on Database Theory\nhttps://edbticdt20
 URL:https://edbticdt2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:adma-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:adma-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260912T115959Z
 DTEND:20260912T115959Z
 SUMMARY:ADMA 2026 deadline (Poster Paper)
@@ -197,8 +197,8 @@ DESCRIPTION:The International Conference on Advanced Data Mining and Applic
 URL:https://adma2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:adma-2026-1@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:adma-2026-1@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260912T115959Z
 DTEND:20260912T115959Z
 SUMMARY:ADMA 2026 deadline (Encore Paper)
@@ -207,8 +207,8 @@ DESCRIPTION:The International Conference on Advanced Data Mining and Applic
 URL:https://adma2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:ecir-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ecir-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261002T235959Z
 DTEND:20261002T235959Z
 SUMMARY:ECIR 2027 deadline
@@ -217,8 +217,8 @@ DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
 URL:https://ecir2027.co.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:edbt-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:edbt-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261008T115959Z
 DTEND:20261008T115959Z
 SUMMARY:EDBT 2027 deadline
@@ -227,8 +227,8 @@ DESCRIPTION:International Conference on Extending Database Technology\nhttp
 URL:https://edbticdt2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigmod-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sigmod-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261018T115900Z
 DTEND:20261018T115900Z
 SUMMARY:SIGMOD 2027 deadline (round 4)
@@ -237,8 +237,8 @@ DESCRIPTION:ACM Conference on Management of Data\nhttps://2027.sigmod.org/\
 URL:https://2027.sigmod.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icde-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icde-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261112T000000Z
 DTEND:20261112T000000Z
 SUMMARY:ICDE 2027 deadline (second round)
@@ -247,8 +247,8 @@ DESCRIPTION:IEEE International Conference on Data Engineering\nhttps://icde
 URL:https://icde2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:wsdm-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wsdm-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261118T115959Z
 DTEND:20261118T115959Z
 SUMMARY:WSDM 2027 deadline (Short Paper)

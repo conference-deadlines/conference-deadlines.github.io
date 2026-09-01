@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ccf-conference-deadlines//EN
+PRODID:-//conference-deadlines//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CCF Deadlines - Interdisciplinary & Emerging
+X-WR-CALNAME:Conference Deadlines - Interdisciplinary & Emerging
 BEGIN:VEVENT
-UID:isbra-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:isbra-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250402T115959Z
 DTEND:20250402T115959Z
 SUMMARY:ISBRA 2025 deadline
@@ -16,8 +16,8 @@ DESCRIPTION:International Symposium on Bioinformatics Research and Applicat
 URL:https://www.helsinki.fi/en/conferences/isbra2025
 END:VEVENT
 BEGIN:VEVENT
-UID:recomb-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:recomb-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251115T115959Z
 DTEND:20251115T115959Z
 SUMMARY:RECOMB 2026 deadline
@@ -26,8 +26,8 @@ DESCRIPTION:International Conference on Research inComputational Molecular
 URL:https://recomb.org/recomb2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:bis-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:bis-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260126T115959Z
 DTEND:20260126T115959Z
 SUMMARY:BIS 2026 deadline
@@ -36,8 +36,8 @@ DESCRIPTION:International Conference on Business Information Systems\nhttps
 URL:https://bisconf.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:cogsci-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cogsci-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260203T115959Z
 DTEND:20260203T115959Z
 SUMMARY:CogSci 2026 deadline
@@ -46,8 +46,8 @@ DESCRIPTION:Annual Meeting of the Cognitive Science Society\nhttps://cognit
 URL:https://cognitivesciencesociety.org/cogsci-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:miccai-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:miccai-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260227T075900Z
 DTEND:20260227T075900Z
 SUMMARY:MICCAI 2026 deadline
@@ -57,8 +57,8 @@ DESCRIPTION:International Conference on Medical Image Computing and Compute
 URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cloud-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cloud-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260323T110000Z
 DTEND:20260323T110000Z
 SUMMARY:Cloud 2026 deadline
@@ -67,8 +67,8 @@ DESCRIPTION:IEEE International Conference on Cloud Computing\nhttps://servi
 URL:https://services.conferences.computer.org/2026/cloud/
 END:VEVENT
 BEGIN:VEVENT
-UID:emsoft-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:emsoft-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260331T115959Z
 DTEND:20260331T115959Z
 SUMMARY:EMSOFT 2026 deadline
@@ -77,8 +77,8 @@ DESCRIPTION:International Conference on Embedded Software\nhttps://esweek.o
 URL:https://esweek.org/emsoft/
 END:VEVENT
 BEGIN:VEVENT
-UID:icic-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icic-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260404T035959Z
 DTEND:20260404T035959Z
 SUMMARY:ICIC 2026 deadline
@@ -87,8 +87,8 @@ DESCRIPTION:International Conference on Intelligent Computing\nhttp://www.i
 URL:http://www.ic-icc.cn/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:smc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:smc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260504T065959Z
 DTEND:20260504T065959Z
 SUMMARY:SMC 2026 deadline
@@ -97,8 +97,8 @@ DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cybernetic
 URL:https://www.ieeesmc2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:rtss-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:rtss-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260522T115959Z
 DTEND:20260522T115959Z
 SUMMARY:RTSS 2026 deadline
@@ -107,8 +107,8 @@ DESCRIPTION:The IEEE Real-Time Systems Symposium\nhttp://2026.rtss.org/\nLo
 URL:http://2026.rtss.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:aft-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:aft-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260528T115959Z
 DTEND:20260528T115959Z
 SUMMARY:AFT 2026 deadline
@@ -117,8 +117,8 @@ DESCRIPTION:Advances in Financial Technologies\nhttps://aft.ifca.ai/aft26/i
 URL:https://aft.ifca.ai/aft26/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sigspatial-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sigspatial-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260530T065959Z
 DTEND:20260530T065959Z
 SUMMARY:SIGSPATIAL 2026 deadline
@@ -128,8 +128,8 @@ DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
 URL:https://sigspatial2026.sigspatial.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:apbc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:apbc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260615T235959Z
 DTEND:20260615T235959Z
 SUMMARY:APBC 2026 deadline
@@ -138,8 +138,8 @@ DESCRIPTION:Asia Pacific Bioinformatics Conference\nhttps://www.apbc2026.co
 URL:https://www.apbc2026.com/home
 END:VEVENT
 BEGIN:VEVENT
-UID:wine-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wine-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260703T115959Z
 DTEND:20260703T115959Z
 SUMMARY:WINE 2026 deadline
@@ -148,8 +148,8 @@ DESCRIPTION:Conference on Web and Internet Economics\nhttps://wine2026conf.
 URL:https://wine2026conf.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigcse-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sigcse-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260704T115959Z
 DTEND:20260704T115959Z
 SUMMARY:SIGCSE 2027 deadline
@@ -158,8 +158,8 @@ DESCRIPTION:Technical Symposium on Computer Science Education Conference\nh
 URL:https://2027.sigcse-ts.acm.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:bibm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:bibm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260705T220000Z
 DTEND:20260705T220000Z
 SUMMARY:BIBM 2026 deadline
@@ -168,8 +168,8 @@ DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicine
 URL:https://ieeebibm.org/BIBM2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icaif-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icaif-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260803T115959Z
 DTEND:20260803T115959Z
 SUMMARY:ICAIF 2026 deadline
@@ -178,8 +178,8 @@ DESCRIPTION:International Conference on AI in Finance\nhttps://icaif2026.or
 URL:https://icaif2026.org/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:bigdata-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:bigdata-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260822T115959Z
 DTEND:20260822T115959Z
 SUMMARY:BigData 2026 deadline
@@ -188,8 +188,8 @@ DESCRIPTION:IEEE International Conference on Big Data\nhttps://bigdataieee.
 URL:https://bigdataieee.org/BigData2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:www-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:www-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261019T115959Z
 DTEND:20261019T115959Z
 SUMMARY:WWW 2027 deadline
@@ -198,8 +198,8 @@ DESCRIPTION:International World Wide Web Conferences\nhttps://acmweb2027.or
 URL:https://acmweb2027.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:mlsys-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:mlsys-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261030T200000Z
 DTEND:20261030T200000Z
 SUMMARY:MLSys 2027 deadline

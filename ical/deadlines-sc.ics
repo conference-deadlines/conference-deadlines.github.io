@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ccf-conference-deadlines//EN
+PRODID:-//conference-deadlines//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CCF Deadlines - Security & Privacy
+X-WR-CALNAME:Conference Deadlines - Security & Privacy
 BEGIN:VEVENT
-UID:hotsec-2021-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:hotsec-2021-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20211013T115959Z
 DTEND:20211013T115959Z
 SUMMARY:HotSec 2021 deadline (Extended)
@@ -15,8 +15,8 @@ DESCRIPTION:USENIX Workshop on Hot Topics in Security\nhttps://www.usenix.o
 URL:https://www.usenix.org/conferences/byname/158
 END:VEVENT
 BEGIN:VEVENT
-UID:dfrws-apac-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:dfrws-apac-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250524T115959Z
 DTEND:20250524T115959Z
 SUMMARY:DFRWS APAC 2025 deadline
@@ -25,8 +25,8 @@ DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
 URL:https://dfrws.org/conferences/dfrws-apac-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:trustcom-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:trustcom-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250801T155959Z
 DTEND:20250801T155959Z
 SUMMARY:TrustCom 2025 deadline
@@ -36,8 +36,8 @@ DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy i
 URL:https://ieee-aiplus-2025.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:indocrypt-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:indocrypt-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250902T115959Z
 DTEND:20250902T115959Z
 SUMMARY:INDOCRYPT 2025 deadline
@@ -46,8 +46,8 @@ DESCRIPTION:International Conference on Cryptology in India\nhttps://www.in
 URL:https://www.indocrypt2025.in/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfrws-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:dfrws-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250927T115959Z
 DTEND:20250927T115959Z
 SUMMARY:DFRWS 2026 deadline
@@ -56,8 +56,8 @@ DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
 URL:https://dfrws.org/conferences/dfrws-eu-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ifip-wg-11-9-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ifip-wg-11-9-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251001T115959Z
 DTEND:20251001T115959Z
 SUMMARY:IFIP WG 11.9 2026 deadline (Submission Deadline)
@@ -66,8 +66,8 @@ DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
 URL:http://www.ifip119.org/Conferences/
 END:VEVENT
 BEGIN:VEVENT
-UID:noms-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:noms-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251013T095959Z
 DTEND:20251013T095959Z
 SUMMARY:NOMS 2026 deadline
@@ -76,8 +76,8 @@ DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\nhttps://
 URL:https://noms2026.ieee-noms.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:pam-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:pam-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251016T115959Z
 DTEND:20251016T115959Z
 SUMMARY:PAM 2026 deadline
@@ -86,8 +86,8 @@ DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
 URL:https://pam2026.at/
 END:VEVENT
 BEGIN:VEVENT
-UID:euros-p-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:euros-p-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251121T115959Z
 DTEND:20251121T115959Z
 SUMMARY:EuroS&P 2026 deadline
@@ -96,8 +96,8 @@ DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
 URL:https://eurosp2026.ieee-security.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:fse-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:fse-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251124T115959Z
 DTEND:20251124T115959Z
 SUMMARY:FSE 2026 deadline (ToSC\, Volume 2026\, Issue 1 Submission deadline
@@ -107,8 +107,8 @@ DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2026/\nLocation:
 URL:https://fse.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:securecomm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:securecomm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251216T115959Z
 DTEND:20251216T115959Z
 SUMMARY:SecureComm 2026 deadline
@@ -118,8 +118,8 @@ DESCRIPTION:International Conference on Security and Privacy in Communicati
 URL:https://securecomm.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:codaspy-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:codaspy-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251227T115959Z
 DTEND:20251227T115959Z
 SUMMARY:CODASPY 2026 deadline
@@ -128,8 +128,8 @@ DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
 URL:https://www.codaspy.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icdf2c-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icdf2c-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260121T115959Z
 DTEND:20260121T115959Z
 SUMMARY:ICDF2C 2026 deadline
@@ -138,8 +138,8 @@ DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
 URL:https://icdf2c.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:sac-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sac-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260203T115959Z
 DTEND:20260203T115959Z
 SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 1))
@@ -148,8 +148,8 @@ DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
 URL:https://sacworkshop.org/SAC26/
 END:VEVENT
 BEGIN:VEVENT
-UID:crypto-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:crypto-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260213T115959Z
 DTEND:20260213T115959Z
 SUMMARY:CRYPTO 2026 deadline
@@ -158,8 +158,8 @@ DESCRIPTION:International Cryptology Conference\nhttps://crypto.iacr.org/20
 URL:https://crypto.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ih-mmsec-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ih-mmsec-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260217T115959Z
 DTEND:20260217T115959Z
 SUMMARY:IH&MMSec 2026 deadline (Submission Deadline)
@@ -168,8 +168,8 @@ DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\nhtt
 URL:https://www.ihmmsec.org/cms/home/home2026.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dimva-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:dimva-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260219T115959Z
 DTEND:20260219T115959Z
 SUMMARY:DIMVA 2026 deadline (Cycle 2 submission deadline)
@@ -178,8 +178,8 @@ DESCRIPTION:Detection of Intrusions and Malware & Vulnerability Assessment\
 URL:https://www.dimva.org/dimva2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:soups-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:soups-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260220T115959Z
 DTEND:20260220T115959Z
 SUMMARY:SOUPS 2026 deadline (Paper Submission Deadline)
@@ -188,8 +188,8 @@ DESCRIPTION:Symposium On Usable Privacy and Security\nhttps://soups.page/\n
 URL:https://soups.page/
 END:VEVENT
 BEGIN:VEVENT
-UID:acisp-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:acisp-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260227T115959Z
 DTEND:20260227T115959Z
 SUMMARY:ACISP 2026 deadline (2nd round Deadline)
@@ -199,8 +199,8 @@ DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
 URL:https://acisp-conference.github.io/acisp2026/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sacmat-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sacmat-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260303T115959Z
 DTEND:20260303T115959Z
 SUMMARY:SACMAT 2026 deadline (Second Cycle)
@@ -209,8 +209,8 @@ DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
 URL:https://www.sacmat.org/2026/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:wisec-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:wisec-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260304T115959Z
 DTEND:20260304T115959Z
 SUMMARY:WiSec 2026 deadline (Second Cycle deadline)
@@ -220,8 +220,8 @@ DESCRIPTION:ACM Conference on Security and Privacy in Wireless and Mobile N
 URL:https://wisec26.events.cispa.de/
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:raid-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260417T115959Z
 DTEND:20260417T115959Z
 SUMMARY:RAID 2026 deadline
@@ -230,8 +230,8 @@ DESCRIPTION:International Symposium on Recent Advances in Intrusion Detecti
 URL:https://raid2026.org
 END:VEVENT
 BEGIN:VEVENT
-UID:blocksys-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:blocksys-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260420T155959Z
 DTEND:20260420T155959Z
 SUMMARY:BlockSys 2026 deadline
@@ -241,8 +241,8 @@ DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
 URL:https://blocksys.info/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:esorics-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:esorics-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260422T115959Z
 DTEND:20260422T115959Z
 SUMMARY:ESORICS 2026 deadline (Second Submission deadline)
@@ -251,8 +251,8 @@ DESCRIPTION:European Symposium on Research in Computer Security\nhttps://si
 URL:https://sites.google.com/di.uniroma1.it/esorics2026/home
 END:VEVENT
 BEGIN:VEVENT
-UID:ccs-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ccs-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260430T115959Z
 DTEND:20260430T115959Z
 SUMMARY:CCS 2026 deadline (Second Review Cycle)
@@ -261,8 +261,8 @@ DESCRIPTION:ACM Conference on Computer and Communications Security\nhttps:/
 URL:https://www.sigsac.org/ccs/CCS2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:nspw-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:nspw-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260501T115959Z
 DTEND:20260501T115959Z
 SUMMARY:NSPW 2026 deadline
@@ -271,8 +271,8 @@ DESCRIPTION:New Security Paradigms Workshop\nhttps://www.nspw.org/2026\nLoc
 URL:https://www.nspw.org/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:sec-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:sec-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260502T115959Z
 DTEND:20260502T115959Z
 SUMMARY:SEC 2026 deadline
@@ -281,8 +281,8 @@ DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
 URL:https://acm-ieee-sec.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:srds-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:srds-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260509T115959Z
 DTEND:20260509T115959Z
 SUMMARY:SRDS 2026 deadline (Full Paper Submission)
@@ -291,8 +291,8 @@ DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
 URL:https://srds-conference.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:tcc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:tcc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260520T115959Z
 DTEND:20260520T115959Z
 SUMMARY:TCC 2026 deadline
@@ -301,8 +301,8 @@ DESCRIPTION:Theory of Cryptography Conference\nhttps://tcc.iacr.org/2026/\n
 URL:https://tcc.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:asiacrypt-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:asiacrypt-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260522T115959Z
 DTEND:20260522T115959Z
 SUMMARY:ASIACRYPT 2026 deadline
@@ -312,8 +312,8 @@ DESCRIPTION:International Conference on the Theory and Application of Crypt
 URL:https://asiacrypt.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icics-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icics-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260524T115959Z
 DTEND:20260524T115959Z
 SUMMARY:ICICS 2026 deadline (Second round)
@@ -323,8 +323,8 @@ DESCRIPTION:International Conference on Information and Communications Secu
 URL:https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
 END:VEVENT
 BEGIN:VEVENT
-UID:acsac-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:acsac-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260527T115959Z
 DTEND:20260527T115959Z
 SUMMARY:ACSAC 2026 deadline
@@ -333,8 +333,8 @@ DESCRIPTION:Annual Computer Security Applications Conference\nhttps://www.a
 URL:https://www.acsac.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:isc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:isc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260623T115959Z
 DTEND:20260623T115959Z
 SUMMARY:ISC 2026 deadline
@@ -343,8 +343,8 @@ DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
 URL:https://isc2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:inscrypt-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:inscrypt-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260702T075959Z
 DTEND:20260702T075959Z
 SUMMARY:INSCRYPT 2026 deadline (2nd Round)
@@ -353,8 +353,8 @@ DESCRIPTION:International Conference on Information Security and Cryptology
 URL:https://inscrypt2026.comp.polyu.edu.hk
 END:VEVENT
 BEGIN:VEVENT
-UID:cscloud-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cscloud-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260802T115959Z
 DTEND:20260802T115959Z
 SUMMARY:CSCloud 2026 deadline
@@ -364,8 +364,8 @@ DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Compu
 URL:https://www.cloud-conf.net/cscloud/2026/cscloud/
 END:VEVENT
 BEGIN:VEVENT
-UID:pkc-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:pkc-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260817T115959Z
 DTEND:20260817T115959Z
 SUMMARY:PKC 2027 deadline
@@ -374,8 +374,8 @@ DESCRIPTION:International Conference on Practice and Theory of Public-Key C
 URL:https://pkc.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ndss-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ndss-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260820T115959Z
 DTEND:20260820T115959Z
 SUMMARY:NDSS 2027 deadline (Fall)
@@ -384,8 +384,8 @@ DESCRIPTION:Network and Distributed System Security (NDSS) Symposium\nhttps
 URL:https://www.ndss-symposium.org/ndss2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:eurocrypt-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:eurocrypt-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260918T115959Z
 DTEND:20260918T115959Z
 SUMMARY:EUROCRYPT 2027 deadline
@@ -394,8 +394,8 @@ DESCRIPTION:European Cryptology Conference\nhttps://eurocrypt.iacr.org/2027
 URL:https://eurocrypt.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:fc-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260918T115959Z
 DTEND:20260918T115959Z
 SUMMARY:FC 2027 deadline (Submission deadline)
@@ -404,8 +404,8 @@ DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
 URL:https://fc27.ifca.ai/
 END:VEVENT
 BEGIN:VEVENT
-UID:acns-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:acns-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260925T115959Z
 DTEND:20260925T115959Z
 SUMMARY:ACNS 2027 deadline (Cycle 1 Submission deadline)
@@ -414,8 +414,8 @@ DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
 URL:https://acns2027.isg.rhul.ac.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:acns-2027-1@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:acns-2027-1@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270122T115959Z
 DTEND:20270122T115959Z
 SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
@@ -424,8 +424,8 @@ DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
 URL:https://acns2027.isg.rhul.ac.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:satml-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:satml-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260930T115959Z
 DTEND:20260930T115959Z
 SUMMARY:SATML 2027 deadline
@@ -434,8 +434,8 @@ DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\nhtt
 URL:https://satml.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ches-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ches-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261016T115959Z
 DTEND:20261016T115959Z
 SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/2)
@@ -444,8 +444,8 @@ DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
 URL:https://ches.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ches-2027-1@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ches-2027-1@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270116T115959Z
 DTEND:20270116T115959Z
 SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/3)
@@ -454,8 +454,8 @@ DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
 URL:https://ches.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ches-2027-2@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ches-2027-2@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270416T115959Z
 DTEND:20270416T115959Z
 SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/4)
@@ -464,8 +464,8 @@ DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
 URL:https://ches.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:csfw-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:csfw-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261016T115959Z
 DTEND:20261016T115959Z
 SUMMARY:CSFW 2027 deadline (Fall)
@@ -474,8 +474,8 @@ DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
 URL:https://www.ieee-security.org/TC/CSF2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:csfw-2027-1@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:csfw-2027-1@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270129T115959Z
 DTEND:20270129T115959Z
 SUMMARY:CSFW 2027 deadline (Winter)
@@ -484,8 +484,8 @@ DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
 URL:https://www.ieee-security.org/TC/CSF2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ct-rsa-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ct-rsa-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261023T115959Z
 DTEND:20261023T115959Z
 SUMMARY:CT-RSA 2027 deadline (Paper submission deadline)
@@ -495,8 +495,8 @@ DESCRIPTION:Cryptographer's Track at RSA Conference\nhttps://www.esat.kuleu
 URL:https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:s-p-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:s-p-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261118T115959Z
 DTEND:20261118T115959Z
 SUMMARY:S&P 2027 deadline (Second Paper submission deadline)
@@ -505,8 +505,8 @@ DESCRIPTION:IEEE Symposium on Security and Privacy\nhttps://sp2027.ieee-sec
 URL:https://sp2027.ieee-security.org/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:pets-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:pets-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261201T115959Z
 DTEND:20261201T115959Z
 SUMMARY:PETS 2027 deadline (Issue 3 Paper Submission Deadline)
@@ -515,8 +515,8 @@ DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
 URL:https://petsymposium.org/cfp27.php
 END:VEVENT
 BEGIN:VEVENT
-UID:pets-2027-1@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:pets-2027-1@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270301T115959Z
 DTEND:20270301T115959Z
 SUMMARY:PETS 2027 deadline (Issue 4 Paper Submission Deadline)
@@ -525,8 +525,8 @@ DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
 URL:https://petsymposium.org/cfp27.php
 END:VEVENT
 BEGIN:VEVENT
-UID:dsn-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:dsn-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261203T115959Z
 DTEND:20261203T115959Z
 SUMMARY:DSN 2027 deadline
@@ -535,8 +535,8 @@ DESCRIPTION:International Conference on Dependable Systems and Networks\nht
 URL:https://dsn2027-berlin.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:asiaccs-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:asiaccs-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261212T115959Z
 DTEND:20261212T115959Z
 SUMMARY:AsiaCCS 2027 deadline (2nd round Deadline)
@@ -545,8 +545,8 @@ DESCRIPTION:Asia Conference on Computer and Communications Security\nhttps:
 URL:https://asiaccs2027.cityu.edu.mo/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:usenix-security-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:usenix-security-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20270127T115959Z
 DTEND:20270127T115959Z
 SUMMARY:USENIX Security 2027 deadline (Cycle 2 Deadline)

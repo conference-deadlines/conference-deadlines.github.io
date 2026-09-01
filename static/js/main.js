@@ -16,7 +16,7 @@
   var emptyNote = document.getElementById('empty');
   var groups = Array.prototype.slice.call(document.querySelectorAll('.filter-group'));
 
-  var STORE_KEY = 'ccf-deadlines-filters';
+  var STORE_KEY = 'conference-deadlines-filters';
   var MINUTE = 60000;
 
   var dateFormat = new Intl.DateTimeFormat(undefined, {

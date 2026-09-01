@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ccf-conference-deadlines//EN
+PRODID:-//conference-deadlines//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CCF Deadlines - HCI & Ubiquitous Computing
+X-WR-CALNAME:Conference Deadlines - HCI & Ubiquitous Computing
 BEGIN:VEVENT
-UID:cscwd-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cscwd-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20241116T115959Z
 DTEND:20241116T115959Z
 SUMMARY:CSCWD 2025 deadline
@@ -15,8 +15,8 @@ DESCRIPTION:International Conference on Computer Supported Cooperative Work
 URL:http://2025.cscwd.org
 END:VEVENT
 BEGIN:VEVENT
-UID:assets-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:assets-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250417T115959Z
 DTEND:20250417T115959Z
 SUMMARY:ASSETS 2025 deadline
@@ -25,8 +25,8 @@ DESCRIPTION:ACM SIGACCESS Conference on Computers and Accessibility\nhttps:
 URL:https://assets25.sigaccess.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:uic-2025-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:uic-2025-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250502T035959Z
 DTEND:20250502T035959Z
 SUMMARY:UIC 2025 deadline (Conference Papers)
@@ -36,8 +36,8 @@ DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and Co
 URL:https://www.ieee-smart-world.org/2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:cscw-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:cscw-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250514T115959Z
 DTEND:20250514T115959Z
 SUMMARY:CSCW 2026 deadline (MAY 2025 SUBMISSION CYCLE)
@@ -47,8 +47,8 @@ DESCRIPTION:ACM Conference on Computer Supported Cooperative Work and Socia
 URL:https://cscw.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:group-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:group-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20250716T115959Z
 DTEND:20250716T115959Z
 SUMMARY:GROUP 2027 deadline (Full Paper First Wave Submissions)
@@ -58,8 +58,8 @@ DESCRIPTION:ACM International Conference on Supporting Group Work\nhttps://
 URL:https://group.acm.org/conferences/group27/
 END:VEVENT
 BEGIN:VEVENT
-UID:percom-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:percom-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20251004T115900Z
 DTEND:20251004T115900Z
 SUMMARY:PerCom 2026 deadline
@@ -68,8 +68,8 @@ DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
 URL:https://percom.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icwsm-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icwsm-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260116T115959Z
 DTEND:20260116T115959Z
 SUMMARY:ICWSM 2026 deadline (3rd Full-paper Deadline)
@@ -78,8 +78,8 @@ DESCRIPTION:The International AAAI Conference on Web and Social Media\nhttp
 URL:https://www.icwsm.org/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:dis-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:dis-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260120T115959Z
 DTEND:20260120T115959Z
 SUMMARY:DIS 2026 deadline
@@ -88,8 +88,8 @@ DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
 URL:https://dis.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ecscw-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ecscw-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260307T115959Z
 DTEND:20260307T115959Z
 SUMMARY:ECSCW 2026 deadline (Conference Papers)
@@ -98,8 +98,8 @@ DESCRIPTION:European Conference on Computer Supported Cooperative Work\nhtt
 URL:https://ecscw.eusset.eu/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:uist-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:uist-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260401T115959Z
 DTEND:20260401T115959Z
 SUMMARY:UIST 2026 deadline
@@ -108,8 +108,8 @@ DESCRIPTION:ACM Symposium on User Interface Software and Technology\nhttps:
 URL:https://uist.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icmi-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:icmi-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260420T165959Z
 DTEND:20260420T165959Z
 SUMMARY:ICMI 2026 deadline
@@ -118,8 +118,8 @@ DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
 URL:https://icmi.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:collaboratecom-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:collaboratecom-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260502T075959Z
 DTEND:20260502T075959Z
 SUMMARY:CollaborateCom 2026 deadline
@@ -129,8 +129,8 @@ DESCRIPTION:International Conference on Collaborative Computing: Networking
 URL:https://collaboratecom.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hicss-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:hicss-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260616T095959Z
 DTEND:20260616T095959Z
 SUMMARY:HICSS 2027 deadline (Paper Submission Deadline)
@@ -139,8 +139,8 @@ DESCRIPTION:Hawaii International Conference on System Sciences\nhttps://hic
 URL:https://hicss.hawaii.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:iss-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:iss-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260723T115959Z
 DTEND:20260723T115959Z
 SUMMARY:ISS 2026 deadline (Summer round)
@@ -149,8 +149,8 @@ DESCRIPTION:ACM International Conference on Interactive Surfaces and Spaces
 URL:https://iss.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:iui-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:iui-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260821T115959Z
 DTEND:20260821T115959Z
 SUMMARY:IUI 2027 deadline
@@ -159,8 +159,8 @@ DESCRIPTION:ACM Conference on Intelligent User Interfaces\nhttps://iui.host
 URL:https://iui.hosting.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:chi-2027-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:chi-2027-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20260911T115959Z
 DTEND:20260911T115959Z
 SUMMARY:CHI 2027 deadline
@@ -170,8 +170,8 @@ DESCRIPTION:ACM Conference on Human Factors in Computing Systems\nhttps://c
 URL:https://chi2027.acm.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ubicomp-iswc-2026-0@ccf-conference-deadlines
-DTSTAMP:20260901T211612Z
+UID:ubicomp-iswc-2026-0@conference-deadlines
+DTSTAMP:20260901T212348Z
 DTSTART:20261102T115959Z
 DTEND:20261102T115959Z
 SUMMARY:UbiComp/ISWC 2026 deadline (fourth round)

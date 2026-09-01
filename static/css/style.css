@@ -233,10 +233,7 @@ a:hover { text-decoration: underline; }
   color: var(--muted);
 }
 
-.badge.rank-ccf-a { background: #1f6feb; color: #fff; }
-.badge.rank-ccf-b { background: #2f8a4c; color: #fff; }
-.badge.rank-ccf-c { background: #8a6d1f; color: #fff; }
-.badge.core { background: transparent; border: 1px solid var(--border); }
+.badge.core { background: var(--accent); color: #fff; }
 
 .desc { margin: 0 0 4px; font-size: 14px; color: var(--text); }
 .conf .meta { margin: 0; font-size: 13px; }
