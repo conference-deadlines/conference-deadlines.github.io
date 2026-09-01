@@ -14,7 +14,7 @@ github_repo: conference-deadlines.github.io
 # Leave empty to disable analytics entirely (no script is loaded, no counter
 # is shown). Enable "Allow adding visitor counts on your website" in the
 # GoatCounter site settings for the footer figures to work.
-# goatcounter_code: your-site-code
+goatcounter_code: conference-deadlines
 
 markdown: kramdown
 
