@@ -4,11 +4,11 @@ description: >-
   Paper and abstract submission deadline countdowns for 348 computer science
   conferences across ten research areas, shown in your local timezone.
 
-url: "https://huuhuannt1998.github.io"
-baseurl: "/security-privacy-deadlines.github.io"
+url: "https://conference-deadlines.github.io"
+baseurl: ""
 
-github_username: huuhuannt1998
-github_repo: security-privacy-deadlines.github.io
+github_org: conference-deadlines
+github_repo: conference-deadlines.github.io
 
 markdown: kramdown
 

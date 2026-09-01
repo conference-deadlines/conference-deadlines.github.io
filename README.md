@@ -83,24 +83,24 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open <http://localhost:4000/security-privacy-deadlines.github.io/>.
+Then open <http://localhost:4000/>.
 The site is plain Jekyll with no custom plugins, so GitHub Pages builds it
 as-is.
 
 ## Deployment
 
-The repo is `huuhuannt1998/security-privacy-deadlines.github.io`, which GitHub
-serves as a **project** site at:
+The repo lives in the `conference-deadlines` organisation as
+`conference-deadlines.github.io`, so GitHub Pages serves it as a **user/org**
+site at the bare domain:
 
-    https://huuhuannt1998.github.io/security-privacy-deadlines.github.io/
+    https://conference-deadlines.github.io/
 
-`baseurl` in [`_config.yml`](_config.yml) is set to match. To serve it at the
-bare `security-privacy-deadlines.github.io` instead, you would need a GitHub
-**organisation** named `security-privacy-deadlines` owning a repo of the same
-name — at which point set `baseurl: ""` and `url` to that domain.
+`baseurl` is therefore empty in [`_config.yml`](_config.yml).
 
 Enable Pages under **Settings → Pages → Build and deployment → Deploy from a
-branch → `main` / `(root)`**.
+branch → `main` / `(root)`**, and allow the sync workflow to push its commits
+under **Settings → Actions → General → Workflow permissions → Read and write
+permissions**.
 
 ## Layout
 
