@@ -1,0 +1,24 @@
+title: CCF Conference Deadlines
+tagline: Countdowns to paper and abstract deadlines for every conference in the CCF recommended list.
+description: >-
+  Submission deadline countdowns for all 348 conferences in the CCF (China
+  Computer Federation) recommended list, across all ten research areas.
+  Abstract deadlines included.
+
+url: "https://huuhuannt1998.github.io"
+baseurl: "/security-privacy-deadlines.github.io"
+
+github_username: huuhuannt1998
+github_repo: security-privacy-deadlines.github.io
+
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts/
+  - vendor/

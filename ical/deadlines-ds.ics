@@ -1,0 +1,645 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccf-conference-deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCF Deadlines - Architecture & Systems
+BEGIN:VEVENT
+UID:lisa-2021-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20210224T045959Z
+DTEND:20210224T045959Z
+SUMMARY:LISA 2021 deadline
+DESCRIPTION:Large Installation System Administration Conference\nhttps://ww
+ w.usenix.org/conference/lisa21\nLocation: Virtual Event
+URL:https://www.usenix.org/conference/lisa21
+END:VEVENT
+BEGIN:VEVENT
+UID:ispa-2021-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20210710T115959Z
+DTEND:20210710T115959Z
+SUMMARY:ISPA 2021 deadline
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proces
+ sing with Applications\nhttp://www.cloud-conf.net/ispa2021/\nLocation: New
+  York\, USA
+URL:http://www.cloud-conf.net/ispa2021/
+END:VEVENT
+BEGIN:VEVENT
+UID:vee-2022-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20211204T115959Z
+DTEND:20211204T115959Z
+SUMMARY:VEE 2022 deadline
+DESCRIPTION:Virtual Execution Environments\nhttps://conf.researchr.org/home
+ /vee-2022\nLocation: Virtual
+URL:https://conf.researchr.org/home/vee-2022
+END:VEVENT
+BEGIN:VEVENT
+UID:netys-2024-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20240308T115900Z
+DTEND:20240308T115900Z
+SUMMARY:NETYS 2024 deadline
+DESCRIPTION:The International Conference on Networked Systems\nhttps://nety
+ s.net/\nLocation: Rabat\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:fccm-2025-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250118T115959Z
+DTEND:20250118T115959Z
+SUMMARY:FCCM 2025 deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/\nLocation: Fayetteville\, Arkansas\, USA
+URL:https://www.fccm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:hot-chips-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250330T115959Z
+DTEND:20250330T115959Z
+SUMMARY:Hot Chips 2026 deadline
+DESCRIPTION:Hot Chips: A Symposium on High Performance Chips\nhttps://www.h
+ otchips.org/\nLocation: Memorial Auditorium\, Stanford\, Palo Alto\, CA
+URL:https://www.hotchips.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:hpcc-2025-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250519T115959Z
+DTEND:20250519T115959Z
+SUMMARY:HPCC 2025 deadline
+DESCRIPTION:IEEE International Conference on High Performance Computing and
+  Communications\nhttps://hpcn.exeter.ac.uk/hpcc2025/\nLocation: Exeter\, U
+ K
+URL:https://hpcn.exeter.ac.uk/hpcc2025/
+END:VEVENT
+BEGIN:VEVENT
+UID:pdcat-2025-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250815T135900Z
+DTEND:20250815T135900Z
+SUMMARY:PDCAT 2025 deadline
+DESCRIPTION:International Conference on Parallel and Distributed Computing\
+ , Applications and Technologies\nhttps://www.pd-cat.org/\nLocation: Gold C
+ oast\, Australia
+URL:https://www.pd-cat.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:isca-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251118T115959Z
+DTEND:20251118T115959Z
+SUMMARY:ISCA 2026 deadline (full paper deadline)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2026/\nLocation: Raleigh\, USA
+URL:https://iscaconf.org/isca2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:dac-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251119T010000Z
+DTEND:20251119T010000Z
+SUMMARY:DAC 2026 deadline
+DESCRIPTION:Design Automation Conference\nhttps://dac.com/2026/call-for-con
+ tributions\nLocation: Long Beach\, CA
+URL:https://dac.com/2026/call-for-contributions
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251222T115959Z
+DTEND:20251222T115959Z
+SUMMARY:CCGRID 2026 deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://www.ccgrid2026.org/\nLocation: Sydney\, Australia
+URL:https://www.ccgrid2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ets-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260113T115959Z
+DTEND:20260113T115959Z
+SUMMARY:ETS 2026 deadline
+DESCRIPTION:IEEE European Test Symposium\nhttps://ets2026.uniwa.gr/\nLocati
+ on: Chania\, Greec
+URL:https://ets2026.uniwa.gr/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260120T115959Z
+DTEND:20260120T115959Z
+SUMMARY:CF 2026 deadline
+DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
+ w.computingfrontiers.org/2026/\nLocation: Catania\, Sicily\, Italy
+URL:https://www.computingfrontiers.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdcs-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260122T115959Z
+DTEND:20260122T115959Z
+SUMMARY:ICDCS 2026 deadline
+DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
+ nhttp://icdcs2026.icdcs.org/\nLocation: Seoul\, South Korea
+URL:http://icdcs2026.icdcs.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:hpdc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260206T115959Z
+DTEND:20260206T115959Z
+SUMMARY:HPDC 2026 deadline (paper submission deadline)
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
+ uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260210T115959Z
+DTEND:20260210T115959Z
+SUMMARY:ICS 2026 deadline (Cycle 2)
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://dipsa-q
+ ub.github.io/ICS2026-webpage/\nLocation: Belfast\, Northern Ireland\, Unit
+ ed Kingdom
+URL:https://dipsa-qub.github.io/ICS2026-webpage/
+END:VEVENT
+BEGIN:VEVENT
+UID:podc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260217T115959Z
+DTEND:20260217T115959Z
+SUMMARY:PODC 2026 deadline
+DESCRIPTION:ACM Symposium on Principles of Distributed Computing\nhttps://w
+ ww.podc.org/podc2026/\nLocation: Egham\, England
+URL:https://www.podc.org/podc2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:spaa-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260228T115959Z
+DTEND:20260228T115959Z
+SUMMARY:SPAA 2026 deadline
+DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
+ ttps://spaa.acm.org/\nLocation: London\, UK
+URL:https://spaa.acm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:euro-par-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260314T115959Z
+DTEND:20260314T115959Z
+SUMMARY:Euro-Par 2026 deadline
+DESCRIPTION:European Conference on Parallel and Distributed Computing\nhttp
+ s://2026.euro-par.org/\nLocation: Pisa\, Italy
+URL:https://2026.euro-par.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:glsvlsi-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260317T045900Z
+DTEND:20260317T045900Z
+SUMMARY:GLSVLSI 2026 deadline
+DESCRIPTION:Great Lakes Symposium on VLSI\nhttps://www.glsvlsi.org/\nLocati
+ on: Finger Lakes\, NY\, USA
+URL:https://www.glsvlsi.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:codes-isss-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260331T115959Z
+DTEND:20260331T115959Z
+SUMMARY:CODES+ISSS 2026 deadline
+DESCRIPTION:International Conference on Hardware/Software Co-design and Sys
+ tem Synthesis\nhttps://esweek.org/codes_isss_cfp/\nLocation: Barcelona\, S
+ pain
+URL:https://esweek.org/codes_isss_cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID:asap-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260404T115959Z
+DTEND:20260404T115959Z
+SUMMARY:ASAP 2026 deadline
+DESCRIPTION:IEEE International Conference on Application-Specific Systems\,
+  Architectures\, and Processors\nhttps://2026.asap-conf.org/\nLocation: Lo
+ ndon\, UK
+URL:https://2026.asap-conf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:micro-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260408T035959Z
+DTEND:20260408T035959Z
+SUMMARY:MICRO 2026 deadline
+DESCRIPTION:IEEE/ACM International Symposium on Microarchitecture\nhttps://
+ microarch.org/micro59/\nLocation: Athens\, Greece
+URL:https://microarch.org/micro59/
+END:VEVENT
+BEGIN:VEVENT
+UID:sc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260409T115900Z
+DTEND:20260409T115900Z
+SUMMARY:SC 2026 deadline
+DESCRIPTION:International Conference for High Performance Computing\, Netwo
+ rking\, Storage\, and Analysis\nhttps://sc26.supercomputing.org/\nLocation
+ : McCormick Place\, Chicago\, Illinois\, USA
+URL:https://sc26.supercomputing.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:appt-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260411T115959Z
+DTEND:20260411T115959Z
+SUMMARY:APPT 2026 deadline
+DESCRIPTION:International Symposium on Advanced Parallel Programming Techno
+ logies\nhttps://www.appt-conference.com/2026\nLocation: Brussels\, Belgium
+URL:https://www.appt-conference.com/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:msst-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260414T235959Z
+DTEND:20260414T235959Z
+SUMMARY:MSST 2026 deadline
+DESCRIPTION:International Conference on Massive Storage Systems and Technol
+ ogy\nhttps://msstconference.org/2026/index.html\nLocation: Santa Clara Uni
+ versity\, Santa Clara\, CA\, USA
+URL:https://msstconference.org/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iccad-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260415T115959Z
+DTEND:20260415T115959Z
+SUMMARY:ICCAD 2026 deadline
+DESCRIPTION:IEEE/ACM International Conference on Computer-Aided Design\nhtt
+ ps://iccad.com/2026\nLocation: San Jose\, California\, USA
+URL:https://iccad.com/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:jcc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260416T115959Z
+DTEND:20260416T115959Z
+SUMMARY:JCC 2026 deadline
+DESCRIPTION:International Conference on JointCloud Computing\nhttps://joint
+ cloud.cloud\nLocation: Tokyo\, Japan
+URL:https://jointcloud.cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:itc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260425T115959Z
+DTEND:20260425T115959Z
+SUMMARY:ITC 2026 deadline
+DESCRIPTION:International Test Conference\nhttps://www.itctestweek.org/\nLo
+ cation: Grand Hyatt San Antonio Riverwalk\, TX\, USA
+URL:https://www.itctestweek.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:itc-asia-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260425T155959Z
+DTEND:20260425T155959Z
+SUMMARY:ITC-Asia 2026 deadline
+DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
+ .com.cn/itcasia_2026\nLocation: Ningbo International Conference Center\, N
+ ingbo\, China
+URL:https://www.castest.com.cn/itcasia_2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pact-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260501T115959Z
+DTEND:20260501T115959Z
+SUMMARY:PACT 2026 deadline
+DESCRIPTION:International Conference on Parallel Architectures and Compilat
+ ion Techniques\nhttps://pact2026.github.io/\nLocation: Chicago\, Illinois\
+ , USA
+URL:https://pact2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:icpp-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260502T115959Z
+DTEND:20260502T115959Z
+SUMMARY:ICPP 2026 deadline
+DESCRIPTION:International Conference on Parallel Processing\nhttps://icpp20
+ 26.github.io/\nLocation: Singapore
+URL:https://icpp2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:sec-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260502T115959Z
+DTEND:20260502T115959Z
+SUMMARY:SEC 2026 deadline
+DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
+ 2026/\nLocation: Santa Clara University\, CA\, USA
+URL:https://acm-ieee-sec.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cluster-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260508T115959Z
+DTEND:20260508T115959Z
+SUMMARY:CLUSTER 2026 deadline
+DESCRIPTION:IEEE International Conference on Cluster Computing\nhttps://clu
+ stercomp.org/2026\nLocation: Alexandria\, Virginia\, USA
+URL:https://clustercomp.org/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:iiswc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260514T000000Z
+DTEND:20260514T000000Z
+SUMMARY:IISWC 2026 deadline
+DESCRIPTION:IEEE International Symposium on Workload Characterization\nhttp
+ s://iiswc.org/iiswc2026/\nLocation: Boulder\, USA
+URL:https://iiswc.org/iiswc2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:apsys-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260521T115900Z
+DTEND:20260521T115900Z
+SUMMARY:APSys 2026 deadline
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\nhttps://apsys26.gi
+ thub.io/\nLocation: Bangkok\, Thailand
+URL:https://apsys26.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:performance-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260523T115959Z
+DTEND:20260523T115959Z
+SUMMARY:Performance 2026 deadline
+DESCRIPTION:International Symposium on Computer Performance\, Modeling\, Me
+ asurements and Evaluation\nhttps://performance2026.github.io/call/\nLocati
+ on: Ghent\, Belgium
+URL:https://performance2026.github.io/call/
+END:VEVENT
+BEGIN:VEVENT
+UID:systor-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260526T115959Z
+DTEND:20260526T115959Z
+SUMMARY:SYSTOR 2026 deadline (Full and Short Papers Track)
+DESCRIPTION:The ACM International Systems and Storage Conference\nhttps://w
+ ww.systor.org/2026/\nLocation: Virtual
+URL:https://www.systor.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:hipeac-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260602T115959Z
+DTEND:20260602T115959Z
+SUMMARY:HiPEAC 2027 deadline
+DESCRIPTION:International Conference on High Performance and Embedded Archi
+ tectures and Compilers\nhttps://www.hipeac.net/2027/glasgow/#/call-for-pap
+ ers/\nLocation: Glasgow\, Scotland\, UK
+URL:https://www.hipeac.net/2027/glasgow/#/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+UID:iccd-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260606T115900Z
+DTEND:20260606T115900Z
+SUMMARY:ICCD 2026 deadline (abstract and full paper deadline)
+DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
+ onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
+URL:https://www.iccd-conf.com/2026/home.html
+END:VEVENT
+BEGIN:VEVENT
+UID:hotstorage-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260606T115959Z
+DTEND:20260606T115959Z
+SUMMARY:HotStorage 2026 deadline
+DESCRIPTION:ACM Workshop on Hot Topics in Storage and File Systems\nhttps:/
+ /www.hotstorage.org/2026/\nLocation: Prague\, Czechia
+URL:https://www.hotstorage.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ats-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260606T155959Z
+DTEND:20260606T155959Z
+SUMMARY:ATS 2026 deadline
+DESCRIPTION:IEEE Asian Test Symposium\nhttps://www.ats2026.tw/\nLocation: T
+ aiwan
+URL:https://www.ats2026.tw/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigops-atc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260611T115959Z
+DTEND:20260611T115959Z
+SUMMARY:SIGOPS ATC 2026 deadline
+DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://sigops.org/s/co
+ nferences/atc/2026/index.html\nLocation: Hyatt Hotel\, Shatin\, Hong Kong\
+ , China
+URL:https://sigops.org/s/conferences/atc/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fpt-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260613T115959Z
+DTEND:20260613T115959Z
+SUMMARY:FPT 2026 deadline (Submission Due (Conference Track))
+DESCRIPTION:International Conference on Field Programmable Technology\nhttp
+ s://fpt2026.uark.edu\nLocation: Honolulu\, Hawaii\, USA
+URL:https://fpt2026.uark.edu
+END:VEVENT
+BEGIN:VEVENT
+UID:icpads-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260701T115959Z
+DTEND:20260701T115959Z
+SUMMARY:ICPADS 2026 deadline
+DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
+ ms\nhttps://www.cloud-conf.net/icpads2026\nLocation: Tokyo\, Japan
+URL:https://www.cloud-conf.net/icpads2026
+END:VEVENT
+BEGIN:VEVENT
+UID:asp-dac-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260711T050000Z
+DTEND:20260711T050000Z
+SUMMARY:ASP-DAC 2027 deadline
+DESCRIPTION:Asia and South Pacific Design Automation Conference\nhttps://ww
+ w.aspdac.com/aspdac2027/\nLocation: Hitotsubashi Hall\, Tokyo\, Japan
+URL:https://www.aspdac.com/aspdac2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:socc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260715T115959Z
+DTEND:20260715T115959Z
+SUMMARY:SoCC 2026 deadline (Second round)
+DESCRIPTION:ACM Symposium on Cloud Computing\nhttps://acmsocc.org/2026/\nLo
+ cation: Singapore
+URL:https://acmsocc.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ica3pp-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260726T115900Z
+DTEND:20260726T115900Z
+SUMMARY:ICA3PP 2026 deadline (Paper Submission Due)
+DESCRIPTION:International Conference on Algorithms and Architectures for Pa
+ rallel Processing\nhttps://hpcn.exeter.ac.uk/ica3pp2026/\nLocation: Exeter
+ \, UK
+URL:https://hpcn.exeter.ac.uk/ica3pp2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:hpca-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260801T115959Z
+DTEND:20260801T115959Z
+SUMMARY:HPCA 2027 deadline
+DESCRIPTION:IEEE International Symposium on High-Performance Computer Archi
+ tecture\nhttps://conf.researchr.org/home/hpca-2027\nLocation: Salt Lake Ci
+ ty\, Utah
+URL:https://conf.researchr.org/home/hpca-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ppopp-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260804T115959Z
+DTEND:20260804T115959Z
+SUMMARY:PPoPP 2027 deadline
+DESCRIPTION:ACM SIGPLAN Symposium on Principles & Practice of Parallel Prog
+ ramming\nhttps://ppopp27.sigplan.org/\nLocation: Salt Lake City\, Utah\, U
+ SA
+URL:https://ppopp27.sigplan.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:asplos-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260910T115959Z
+DTEND:20260910T115959Z
+SUMMARY:ASPLOS 2027 deadline (September Cycle Submission Deadline)
+DESCRIPTION:International Conference on Architectural Support for Programmi
+ ng Languages and Operating Systems\nhttps://www.asplos-conference.org/aspl
+ os2027/cfp/\nLocation: Crete\, Greece
+URL:https://www.asplos-conference.org/asplos2027/cfp/
+END:VEVENT
+BEGIN:VEVENT
+UID:ieee-acm-cgo-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260911T115959Z
+DTEND:20260911T115959Z
+SUMMARY:IEEE/ACM CGO 2027 deadline (Second Submission)
+DESCRIPTION:The International Symposium on Code Generation and Optimization
+ \nhttps://conf.researchr.org/home/cgo-2027\nLocation: Salt Lake City\, Uta
+ h\, USA
+URL:https://conf.researchr.org/home/cgo-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:fast-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260916T115900Z
+DTEND:20260916T115900Z
+SUMMARY:FAST 2027 deadline (Fall deadline)
+DESCRIPTION:USENIX Conference on File and Storage Technologies\nhttps://www
+ .usenix.org/conference/fast27\nLocation: Renton\, WA\, USA
+URL:https://www.usenix.org/conference/fast27
+END:VEVENT
+BEGIN:VEVENT
+UID:date-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260921T115959Z
+DTEND:20260921T115959Z
+SUMMARY:DATE 2027 deadline
+DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
+ ce.com/date-2027-call-papers\nLocation: Dresden\, Germany
+URL:https://www.date-conference.com/date-2027-call-papers
+END:VEVENT
+BEGIN:VEVENT
+UID:eurosys-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260925T115959Z
+DTEND:20260925T115959Z
+SUMMARY:EuroSys 2027 deadline (Fall Submission Deadline)
+DESCRIPTION:European Conference on Computer Systems\nhttps://2027.eurosys.o
+ rg/\nLocation: Rabat\, Morocco
+URL:https://2027.eurosys.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fpga-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261002T115959Z
+DTEND:20261002T115959Z
+SUMMARY:FPGA 2027 deadline (Abstracts Due)
+DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
+ rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
+URL:https://www.isfpga.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fpga-2027-1@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261009T115959Z
+DTEND:20261009T115959Z
+SUMMARY:FPGA 2027 deadline (Submissions Due)
+DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
+ rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
+URL:https://www.isfpga.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ipdps-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261009T115959Z
+DTEND:20261009T115959Z
+SUMMARY:IPDPS 2027 deadline
+DESCRIPTION:IEEE International Parallel and Distributed Processing Symposiu
+ m\nhttps://www.ipdps.org/\nLocation: Seattle\, USA
+URL:https://www.ipdps.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigmetrics-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261010T115900Z
+DTEND:20261010T115900Z
+SUMMARY:SIGMETRICS 2027 deadline (fall round)
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
+ ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigmetrics-2027-1@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20270112T115900Z
+DTEND:20270112T115900Z
+SUMMARY:SIGMETRICS 2027 deadline (winter round)
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
+ ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:iscas-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261014T115959Z
+DTEND:20261014T115959Z
+SUMMARY:ISCAS 2027 deadline
+DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
+ 027.ieee-iscas.org/\nLocation: Bordeaux\, France
+URL:https://2027.ieee-iscas.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:rtas-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261106T115959Z
+DTEND:20261106T115959Z
+SUMMARY:RTAS 2027 deadline (Submission Deadline (Firm))
+DESCRIPTION:IEEE Real-Time and Embedded Technology and Applications Symposi
+ um\nhttps://2027.rtas.org/\nLocation: Boulder\, Colorado
+URL:https://2027.rtas.org/
+END:VEVENT
+END:VCALENDAR

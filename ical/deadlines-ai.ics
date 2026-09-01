@@ -1,0 +1,560 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ccf-conference-deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CCF Deadlines - Artificial Intelligence
+BEGIN:VEVENT
+UID:iccv-2025-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250308T095959Z
+DTEND:20250308T095959Z
+SUMMARY:ICCV 2025 deadline
+DESCRIPTION:IEEE International Conference on Computer Vision\nhttps://iccv.
+ thecvf.com/Conferences/2025\nLocation: Honolulu\, Hawaii
+URL:https://iccv.thecvf.com/Conferences/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ecai-2025-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250507T115959Z
+DTEND:20250507T115959Z
+SUMMARY:ECAI 2025 deadline
+DESCRIPTION:European Conference on Artificial Intelligence\nhttps://ecai202
+ 5.org/deadlines/\nLocation: Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+END:VEVENT
+BEGIN:VEVENT
+UID:log-2025-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20250830T115959Z
+DTEND:20250830T115959Z
+SUMMARY:LOG 2025 deadline
+DESCRIPTION:Learning on Graphs Conference\nhttps://logconference.org/\nLoca
+ tion: Arizona State University\, Phoenix\, USA
+URL:https://logconference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251003T115959Z
+DTEND:20251003T115959Z
+SUMMARY:AISTATS 2026 deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statist
+ ics\nhttps://virtual.aistats.org/Conferences/2026\nLocation: Morocco
+URL:https://virtual.aistats.org/Conferences/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251114T115900Z
+DTEND:20251114T115900Z
+SUMMARY:CVPR 2026 deadline
+DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+ nhttps://cvpr.thecvf.com/Conferences/2026\nLocation: Denver\, Colorado\, U
+ nited States
+URL:https://cvpr.thecvf.com/Conferences/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:esann-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251120T075959Z
+DTEND:20251120T075959Z
+SUMMARY:ESANN 2026 deadline
+DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
+ l Intelligence and Machine Learning\nhttps://www.esann.org/\nLocation: Bru
+ ges\, Belgium and Online
+URL:https://www.esann.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpal-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251206T115959Z
+DTEND:20251206T115959Z
+SUMMARY:CPAL 2026 deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tübingen\, Germany
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251209T115959Z
+DTEND:20251209T115959Z
+SUMMARY:ICAPS 2026 deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling\n
+ https://icaps26.icaps-conference.org/\nLocation: Dublin\, Ireland
+URL:https://icaps26.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icpr-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20251221T115959Z
+DTEND:20251221T115959Z
+SUMMARY:ICPR 2026 deadline
+DESCRIPTION:International Conference on Pattern Recognition\nhttps://icpr20
+ 26.org/\nLocation: Lyon\, France
+URL:https://icpr2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ksem-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260115T235959Z
+DTEND:20260115T235959Z
+SUMMARY:KSEM 2026 deadline
+DESCRIPTION:International Conference on Knowledge Science\, Engineering and
+  Management\nhttps://ksem2026.rosc.org.cn/\nLocation: Beijing\, China
+URL:https://ksem2026.rosc.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260120T115959Z
+DTEND:20260120T115959Z
+SUMMARY:IJCAI 2026 deadline
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2026.ijcai.org/\nLocation: Bremen\, Germany
+URL:https://2026.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:gecco-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260127T115900Z
+DTEND:20260127T115900Z
+SUMMARY:GECCO 2026 deadline (Poster-only papers)
+DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
+ 2026.sigevo.org/HomePage\nLocation: San José\, Costa Rica (hybrid)
+URL:https://gecco-2026.sigevo.org/HomePage
+END:VEVENT
+BEGIN:VEVENT
+UID:icml-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260129T115959Z
+DTEND:20260129T115959Z
+SUMMARY:ICML 2026 deadline (Paper Submissions Open on OpenReview Jan 08 202
+ 6 12:00AM UTC-0)
+DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
+ onferences/2026\nLocation: Seoul\, Korea
+URL:https://icml.cc/Conferences/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260131T115900Z
+DTEND:20260131T115900Z
+SUMMARY:RSS 2026 deadline
+DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org\nL
+ ocation: Sydney\, Australia
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+UID:colt-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260205T045959Z
+DTEND:20260205T045959Z
+SUMMARY:COLT 2026 deadline
+DESCRIPTION:Annual Conference on Learning Theory\nhttps://learningtheory.or
+ g/colt2026/\nLocation: San Diego\, California
+URL:https://learningtheory.org/colt2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260214T115959Z
+DTEND:20260214T115959Z
+SUMMARY:KR 2026 deadline
+DESCRIPTION:International Conference on Principles of Knowledge Representat
+ ion and Reasoning\nhttps://kr.org/KR2026/\nLocation: Lisbon\, Portugal
+URL:https://kr.org/KR2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:conll-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260220T115959Z
+DTEND:20260220T115959Z
+SUMMARY:CoNLL 2026 deadline
+DESCRIPTION:Conference on Computational Natural Language Learning\nhttps://
+ www.conll.org/\nLocation: San Diego\, California\, United States
+URL:https://www.conll.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:uai-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260226T115959Z
+DTEND:20260226T115959Z
+SUMMARY:UAI 2026 deadline
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\nhttps://w
+ ww.auai.org/uai2026/\nLocation: Amsterdam\, Netherlands
+URL:https://www.auai.org/uai2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260227T235959Z
+DTEND:20260227T235959Z
+SUMMARY:ICDAR 2026 deadline
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2026.org/\nLocation: Vienna\, Austria
+URL:https://icdar2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:iros-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260303T075959Z
+DTEND:20260303T075959Z
+SUMMARY:IROS 2026 deadline
+DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sys
+ tems\nhttps://2026.ieee-iros.org/\nLocation: Pittsburgh\, PA\, USA
+URL:https://2026.ieee-iros.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eccv-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260305T220000Z
+DTEND:20260305T220000Z
+SUMMARY:ECCV 2026 deadline
+DESCRIPTION:European Conference on Computer Vision\nhttps://eccv.ecva.net/\
+ nLocation: Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:probml-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260320T235900Z
+DTEND:20260320T235900Z
+SUMMARY:ProbML 2026 deadline
+DESCRIPTION:Symposium on Probabilistic Machine Learning\nhttps://probml.cc\
+ nLocation: Seoul\, South Korea
+URL:https://probml.cc
+END:VEVENT
+BEGIN:VEVENT
+UID:iccbr-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260321T115959Z
+DTEND:20260321T115959Z
+SUMMARY:ICCBR 2026 deadline
+DESCRIPTION:International Conference on Case-Based Reasoning\nhttps://2026.
+ iccbr.org/\nLocation: Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ppsn-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260329T115959Z
+DTEND:20260329T115959Z
+SUMMARY:PPSN 2026 deadline
+DESCRIPTION:International Conference on Parallel Problem Solving From Natur
+ e\nhttps://ppsn2026.disi.unitn.it/\nLocation: University of Trento\, Trent
+ o\, Italy
+URL:https://ppsn2026.disi.unitn.it/
+END:VEVENT
+BEGIN:VEVENT
+UID:icann-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260331T115959Z
+DTEND:20260331T115959Z
+SUMMARY:ICANN 2026 deadline
+DESCRIPTION:International Conference on Artificial Neural Networks\nhttps:/
+ /e-nns.org/icann2026/\nLocation: Conference center of the School of Psycho
+ logy\, University of Padua\, Italy
+URL:https://e-nns.org/icann2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:colm-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260401T115959Z
+DTEND:20260401T115959Z
+SUMMARY:COLM 2026 deadline
+DESCRIPTION:Conference on Language Modeling\nhttps://colmweb.org\nLocation:
+  Hilton Union Square\, San Francisco\, USA
+URL:https://colmweb.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcb-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260501T115959Z
+DTEND:20260501T115959Z
+SUMMARY:IJCB 2026 deadline
+DESCRIPTION:International Joint Conference on Biometrics\nhttps://ijcb2026.
+ ieee-biometrics.org/\nLocation: Rome\, Italy
+URL:https://ijcb2026.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260507T115900Z
+DTEND:20260507T115900Z
+SUMMARY:NeurIPS 2026 deadline
+DESCRIPTION:Conference on Neural Information Processing Systems\nhttps://ne
+ urips.cc/Conferences/2026\nLocation: Sydney\, Australia
+URL:https://neurips.cc/Conferences/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ruleml-rr-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260523T115959Z
+DTEND:20260523T115959Z
+SUMMARY:RuleML+RR 2026 deadline
+DESCRIPTION:International Joint Conference on Rules and Reasoning\nhttps://
+ 2026.declarativeai.net/events/ruleml-rr\nLocation: Vilnius\, Lithuania
+URL:https://2026.declarativeai.net/events/ruleml-rr
+END:VEVENT
+BEGIN:VEVENT
+UID:emnlp-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260526T115959Z
+DTEND:20260526T115959Z
+SUMMARY:EMNLP 2026 deadline (ARR Submission\; commitment deadline: 2026-08-
+ 02)
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language 
+ Processing\nhttps://2026.emnlp.org/\nLocation: Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcnlp-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260526T115959Z
+DTEND:20260526T115959Z
+SUMMARY:IJCNLP 2026 deadline (ARR Submission\; commitment deadline: 2026-08
+ -02\; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP))
+DESCRIPTION:International Joint Conference on Natural Language Processing\n
+ https://2026.aaclnet.org/\nLocation: Hengqin\, Zhuhai\, China
+URL:https://2026.aaclnet.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:corl-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260529T115959Z
+DTEND:20260529T115959Z
+SUMMARY:CoRL 2026 deadline
+DESCRIPTION:The Conference on Robot Learning\nhttps://www.corl.org/\nLocati
+ on: Austin\, Texas\, USA
+URL:https://www.corl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:bmvc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260529T235959Z
+DTEND:20260529T235959Z
+SUMMARY:BMVC 2026 deadline
+DESCRIPTION:British Machine Vision Conference\nhttps://bmvc2026.bmva.org/\n
+ Location: Lancaster\, UK
+URL:https://bmvc2026.bmva.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:iconip-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260601T115959Z
+DTEND:20260601T115959Z
+SUMMARY:ICONIP 2026 deadline
+DESCRIPTION:International Conference on Neural Information Processing\nhttp
+ s://www.iconip2026.org/\nLocation: Melbourne\, Australia
+URL:https://www.iconip2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:euvip-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260605T215959Z
+DTEND:20260605T215959Z
+SUMMARY:EUVIP 2026 deadline
+DESCRIPTION:European Conference on Visual Information Processing\nhttps://e
+ uvip2026.github.io/\nLocation: Luxembourg\, Luxembourg
+URL:https://euvip2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:cicai-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260608T155959Z
+DTEND:20260608T155959Z
+SUMMARY:CICAI 2026 deadline
+DESCRIPTION:CAAI International Conference on Artificial Intelligence\nhttps
+ ://cicai.caai.cn/index.html\nLocation: Haining\, Zhejiang\, China
+URL:https://cicai.caai.cn/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nlpcc-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260620T155959Z
+DTEND:20260620T155959Z
+SUMMARY:NLPCC 2026 deadline
+DESCRIPTION:CCF International Conference on Natural Language Processing and
+  Chinese Computing\nhttp://tcci.ccf.org.cn/conference/2026/\nLocation: Mac
+ au\, China
+URL:http://tcci.ccf.org.cn/conference/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pricai-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260628T115959Z
+DTEND:20260628T115959Z
+SUMMARY:PRICAI 2026 deadline
+DESCRIPTION:Pacific Rim International Conference on Artificial Intelligence
+ \nhttps://2026.pricai.org/\nLocation: Guangzhou\, China
+URL:https://2026.pricai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ictai-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260701T115900Z
+DTEND:20260701T115900Z
+SUMMARY:ICTAI 2026 deadline
+DESCRIPTION:International Conference on Tools with Artificial Intellignce\n
+ https://ictai.computer.org/2026/\nLocation: Boca Raton FL\, USA
+URL:https://ictai.computer.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:accv-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260706T115959Z
+DTEND:20260706T115959Z
+SUMMARY:ACCV 2026 deadline
+DESCRIPTION:Asian Conference on Computer Vision\nhttps://accv2026.org/\nLoc
+ ation: Osaka\, Japan
+URL:https://accv2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acml-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260706T115959Z
+DTEND:20260706T115959Z
+SUMMARY:ACML 2026 deadline (Conference Track)
+DESCRIPTION:Asian Conference on Machine Learning\nhttps://www.acml-conf.org
+ /2026/\nLocation: Melbourne\, Australia
+URL:https://www.acml-conf.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260729T115959Z
+DTEND:20260729T115959Z
+SUMMARY:AAAI 2027 deadline
+DESCRIPTION:AAAI Conference on Artificial Intelligence\nhttps://aaai.org/co
+ nference/aaai/aaai-27/\nLocation: Montréal\, Québec\, Canada
+URL:https://aaai.org/conference/aaai/aaai-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:eacl-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260804T115959Z
+DTEND:20260804T115959Z
+SUMMARY:EACL 2027 deadline (ARR Submission\; commitment deadline: 2026-10-1
+ 1)
+DESCRIPTION:The Annual Conference of the European Chapter of the Associatio
+ n for Computational Linguistics\nhttps://2027.eacl.org/\nLocation: Athens\
+ , Greece
+URL:https://2027.eacl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dai-2026-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260811T115959Z
+DTEND:20260811T115959Z
+SUMMARY:DAI 2026 deadline (AI Paper Track)
+DESCRIPTION:International Conference on Distributed Artificial Intelligence
+ \nhttps://www.adai.ai/dai/2026/index.html\nLocation: Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260829T115959Z
+DTEND:20260829T115959Z
+SUMMARY:WACV 2027 deadline (Second round)
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision\n
+ https://wacv.thecvf.com/\nLocation: Disney Springs\, Buena Vista\, FL\, US
+ A
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:icra-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260916T065959Z
+DTEND:20260916T065959Z
+SUMMARY:ICRA 2027 deadline
+DESCRIPTION:IEEE International Conference on Robotics and Automation\nhttps
+ ://2027.ieee-icra.org/\nLocation: Seoul\, Republic of Korea
+URL:https://2027.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20260926T115959Z
+DTEND:20260926T115959Z
+SUMMARY:ICLR 2027 deadline
+DESCRIPTION:International Conference on Learning Representations\nhttps://i
+ clr.cc/Conferences/2027\nLocation: San Francisco\, CA\, USA
+URL:https://iclr.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261009T115900Z
+DTEND:20261009T115900Z
+SUMMARY:AAMAS 2027 deadline
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
+ stems\nhttps://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference\n
+ Location: Hanoi\, Vietnam
+URL:https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:alt-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261013T115959Z
+DTEND:20261013T115959Z
+SUMMARY:ALT 2027 deadline
+DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
+ //algorithmiclearningtheory.org/alt2027/\nLocation: Leiden\, Netherlands
+URL:https://algorithmiclearningtheory.org/alt2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:coling-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261013T115959Z
+DTEND:20261013T115959Z
+SUMMARY:COLING 2027 deadline (ARR Submission)
+DESCRIPTION:INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS\nhttps:/
+ /2027.coling-iccl.org/\nLocation: Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261013T115959Z
+DTEND:20261013T115959Z
+SUMMARY:NAACL 2027 deadline (ARR Submission)
+DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
+ ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
+ San Francisco\, California\, USA
+URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fg-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20261017T115959Z
+DTEND:20261017T115959Z
+SUMMARY:FG 2027 deadline
+DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
+ ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
+URL:https://fg2027.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcnn-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20270201T115959Z
+DTEND:20270201T115959Z
+SUMMARY:IJCNN 2027 deadline
+DESCRIPTION:International Joint Conference on Neural Networks\nhttps://ijcn
+ n.org/2027\nLocation: Cape Town\, South Africa
+URL:https://ijcnn.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ieee-cec-2027-0@ccf-conference-deadlines
+DTSTAMP:20260901T211612Z
+DTSTART:20270301T115959Z
+DTEND:20270301T115959Z
+SUMMARY:IEEE CEC 2027 deadline
+DESCRIPTION:IEEE Congress on Evolutionary Computation\nhttps://ieeecec.org/
+ 2027\nLocation: Edinburgh\, Scotland\, UK
+URL:https://ieeecec.org/2027
+END:VEVENT
+END:VCALENDAR

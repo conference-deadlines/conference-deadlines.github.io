@@ -1,0 +1,172 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/static/css/style.css' | relative_url }}">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <h1>{{ site.title }}</h1>
+    <p class="tagline">{{ site.tagline }}</p>
+    <p class="meta">
+      {{ site.data.conferences | size }} conferences across all ten
+      <a href="https://ccf.atom.im/" target="_blank" rel="noopener">CCF</a> areas.
+      Deadline data synced from
+      <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">ccf-deadlines</a>.
+      Last updated {{ site.time | date: "%-d %B %Y" }}.
+    </p>
+    <p class="meta">
+      All times are shown in <strong>your local timezone</strong>.
+      Subscribe via iCal:
+      <a href="{{ '/ical/deadlines-all.ics' | relative_url }}">all areas</a>{% for area in site.data.areas %},
+      <a href="{{ '/ical/deadlines-' | append: area.tag | downcase | append: '.ics' | relative_url }}">{{ area.label }}</a>{% endfor %}.
+    </p>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <section class="controls" aria-label="Filters">
+    <div class="control-row">
+      <input type="search" id="search" placeholder="Search by name, description or location…" autocomplete="off">
+      <label class="toggle">
+        <input type="checkbox" id="hide-past" checked>
+        Hide passed deadlines
+      </label>
+      <button type="button" id="reset" class="reset">Reset filters</button>
+    </div>
+
+    <fieldset class="filter-group" data-group="area">
+      <legend>Research area</legend>
+      {% for area in site.data.areas %}
+      <label class="chip" title="{{ area.name }}">
+        <input type="checkbox" value="{{ area.tag }}"> {{ area.label }}
+      </label>
+      {% endfor %}
+    </fieldset>
+
+    <fieldset class="filter-group" data-group="ccf">
+      <legend>CCF rank</legend>
+      {% assign ccf_ranks = "CCF-A,CCF-B,CCF-C,CCF-N" | split: "," %}
+      {% for rank in ccf_ranks %}
+      <label class="chip">
+        <input type="checkbox" value="{{ rank }}">
+        {% if rank == "CCF-N" %}Unranked{% else %}{{ rank | remove: "CCF-" }}{% endif %}
+      </label>
+      {% endfor %}
+    </fieldset>
+
+    <fieldset class="filter-group" data-group="core">
+      <legend><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" rel="noopener">CORE</a> rank</legend>
+      {% assign core_ranks = "CORE-ASTAR,CORE-A,CORE-B,CORE-C" | split: "," %}
+      {% for rank in core_ranks %}
+      <label class="chip">
+        <input type="checkbox" value="{{ rank }}">
+        {% if rank == "CORE-ASTAR" %}A*{% else %}{{ rank | remove: "CORE-" }}{% endif %}
+      </label>
+      {% endfor %}
+    </fieldset>
+
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+  </section>
+
+  <main id="conf-list" class="conf-list">
+    {% for conf in site.data.conferences %}
+    {% assign total = conf.deadlines | size %}
+    {% for deadline in conf.deadlines %}
+    {% assign index = forloop.index %}
+    {% capture slug %}{{ conf.name | append: '-' | append: conf.year | append: '-' | append: index | slugify }}{% endcapture %}
+    <article class="conf" id="{{ slug }}"
+             data-deadline="{{ deadline.date }}"
+             {% if deadline.abstract %}data-abstract="{{ deadline.abstract }}"{% endif %}
+             data-tags="{{ conf.areas | join: ' ' }} {{ conf.tags | join: ' ' }}"
+             data-search="{{ conf.name | downcase }} {{ conf.description | downcase }} {{ conf.place | downcase }}">
+
+      <div class="conf-main">
+        <h2>
+          <a href="{{ conf.link }}" target="_blank" rel="noopener">{{ conf.name }} {{ conf.year }}</a>
+          {% if total > 1 %}<span class="cycle">round {{ index }} of {{ total }}</span>{% endif %}
+        </h2>
+
+        <p class="badges">
+          {%- for tag in conf.tags -%}
+            {%- if tag == 'CCF-A' or tag == 'CCF-B' or tag == 'CCF-C' -%}
+              <span class="badge rank-{{ tag | downcase }}">CCF {{ tag | remove: 'CCF-' }}</span>
+            {%- elsif tag == 'CORE-ASTAR' -%}
+              <span class="badge core">CORE A*</span>
+            {%- elsif tag contains 'CORE-' -%}
+              <span class="badge core">CORE {{ tag | remove: 'CORE-' }}</span>
+            {%- endif -%}
+          {%- endfor -%}
+          {%- for area in conf.areas -%}
+            {%- for meta in site.data.areas -%}{%- if meta.tag == area -%}
+              <span class="badge area" title="{{ meta.name }}">{{ meta.label }}</span>
+            {%- endif -%}{%- endfor -%}
+          {%- endfor -%}
+        </p>
+
+        <p class="desc">{{ conf.description }}</p>
+
+        <p class="meta">
+          {% if conf.date %}{{ conf.date | replace: '-', '–' }}{% endif %}
+          {%- if conf.place %} ·
+            {%- assign place_key = conf.place | upcase %}
+            {%- if place_key == 'TBD' or place_key == 'TBA' or place_key contains 'VIRTUAL' or place_key contains 'ONLINE' %}
+              <span class="place">{{ conf.place }}</span>
+            {%- else %}
+              <a href="https://maps.google.com/?q={{ conf.place | uri_escape }}" target="_blank" rel="noopener">{{ conf.place }}</a>
+            {%- endif %}
+          {%- endif %}
+          {% if conf.dblp %} · <a href="{{ conf.dblp }}" target="_blank" rel="noopener">DBLP</a>{% endif %}
+          {% if deadline.comment %} · <span class="comment">{{ deadline.comment }}</span>{% endif %}
+        </p>
+      </div>
+
+      <div class="conf-times">
+        {%- if deadline.abstract %}
+        <div class="dl dl-abstract">
+          <span class="dl-label">Abstract</span>
+          <span class="dl-timer" data-timer="abstract">…</span>
+          <span class="dl-date" data-date="abstract">{{ deadline.abstract }}</span>
+        </div>
+        {%- endif %}
+        <div class="dl dl-paper">
+          <span class="dl-label">{% if deadline.abstract %}Full paper{% else %}Deadline{% endif %}</span>
+          <span class="dl-timer" data-timer="paper">…</span>
+          <span class="dl-date" data-date="paper">{{ deadline.date }}</span>
+        </div>
+      </div>
+    </article>
+    {% endfor %}
+    {% endfor %}
+  </main>
+
+  <p class="empty" id="empty" hidden>No conferences match these filters.</p>
+
+  <footer>
+    <p>
+      Deadlines are community-maintained upstream at
+      <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">ccfddl/ccf-deadlines</a> (MIT)
+      and re-synced here daily. Conference list follows the
+      <a href="https://ccf.atom.im/" target="_blank" rel="noopener">CCF recommended catalogue</a>.
+      Inspired by <a href="https://sec-deadlines.github.io/" target="_blank" rel="noopener">sec-deadlines</a>
+      and <a href="https://aideadlin.es/" target="_blank" rel="noopener">ai-deadlines</a>.
+    </p>
+    <p>
+      Always confirm against the official call for papers —
+      <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" target="_blank" rel="noopener">report a problem</a>.
+    </p>
+  </footer>
+</div>
+
+<script src="{{ '/static/js/main.js' | relative_url }}"></script>
+</body>
+</html>
