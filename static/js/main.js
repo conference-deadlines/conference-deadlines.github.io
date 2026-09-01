@@ -123,7 +123,7 @@
 
     var common = document.createElement('optgroup');
     common.label = 'Common';
-    common.appendChild(option(localZone, 'Your local time — ' + zoneLabel(localZone)));
+    common.appendChild(option(localZone, 'Local — ' + zoneLabel(localZone)));
     common.appendChild(option(AOE, 'Anywhere on Earth (AoE) — the deadline standard'));
     common.appendChild(option('UTC', zoneLabel('UTC')));
     frag.appendChild(common);
@@ -327,6 +327,56 @@
       });
     });
   }
+
+  /* ---------- update check ----------
+   *
+   * GitHub Pages serves HTML with `cache-control: max-age=600` and gives no way
+   * to change that, so a browser can hold a stale page for up to ten minutes --
+   * and a tab left open overnight misses the daily data sync entirely. Rather
+   * than asking people to hard-refresh, poll a tiny version file and offer a
+   * reload when the deployed build id stops matching the one this page was
+   * built from. */
+
+  var buildMeta = document.querySelector('meta[name="site-build"]');
+  var currentBuild = buildMeta ? buildMeta.getAttribute('content') : null;
+  var banner = document.getElementById('update-banner');
+  var updateDismissed = false;
+  var lastCheck = 0;
+  var CHECK_INTERVAL = 15 * MINUTE;
+
+  function checkForUpdate() {
+    if (!currentBuild || updateDismissed || !window.fetch) return;
+
+    var now = Date.now();
+    if (now - lastCheck < 5 * MINUTE) return;
+    lastCheck = now;
+
+    // `no-store` bypasses the browser cache; the query param defeats the CDN
+    // edge cache, which would otherwise serve the same stale copy for 10 min.
+    fetch('version.json?t=' + now, { cache: 'no-store' })
+      .then(function (response) { return response.ok ? response.json() : null; })
+      .then(function (data) {
+        if (data && data.build && data.build !== currentBuild) {
+          banner.hidden = false;
+        }
+      })
+      .catch(function () { /* offline or blocked; try again next tick */ });
+  }
+
+  document.getElementById('update-reload').addEventListener('click', function () {
+    window.location.reload();
+  });
+
+  document.getElementById('update-dismiss').addEventListener('click', function () {
+    banner.hidden = true;
+    updateDismissed = true;
+  });
+
+  // Check on a timer, and when someone returns to a tab they left open.
+  window.setInterval(checkForUpdate, CHECK_INTERVAL);
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden) checkForUpdate();
+  });
 
   /* ---------- theme ---------- */
 

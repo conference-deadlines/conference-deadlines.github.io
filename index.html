@@ -8,7 +8,8 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
-  <link rel="stylesheet" href="{{ '/static/css/style.css' | relative_url }}">
+  <meta name="site-build" content="{{ site.time | date: '%s' }}">
+  <link rel="stylesheet" href="{{ '/static/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   <script>
     // Inline and synchronous on purpose: runs before first paint so a saved
     // theme never flashes the wrong colours.
@@ -24,6 +25,24 @@ layout: null
 </head>
 <body>
 
+<div class="utility-bar">
+  <div class="wrap utility-inner">
+    <div class="pref">
+      <label for="tz-select" class="visually-hidden">Timezone</label>
+      <span class="pref-icon" aria-hidden="true">&#127760;</span>
+      <select id="tz-select"></select>
+    </div>
+    <div class="pref">
+      <span id="theme-label" class="visually-hidden">Theme</span>
+      <div class="segmented" role="group" aria-labelledby="theme-label">
+        <button type="button" data-theme-choice="system" aria-pressed="true">Auto</button>
+        <button type="button" data-theme-choice="light" aria-pressed="false">Light</button>
+        <button type="button" data-theme-choice="dark" aria-pressed="false">Dark</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <header class="masthead">
   <div class="wrap">
     <h1>{{ site.title }}</h1>
@@ -32,20 +51,6 @@ layout: null
       {{ site.data.conferences | size }} conferences across ten research areas.
       Last updated {{ site.time | date: "%-d %B %Y" }}.
     </p>
-    <div class="prefs">
-      <div class="pref">
-        <label for="tz-select">Timezone</label>
-        <select id="tz-select"></select>
-      </div>
-      <div class="pref">
-        <span id="theme-label">Theme</span>
-        <div class="segmented" role="group" aria-labelledby="theme-label">
-          <button type="button" data-theme-choice="system" aria-pressed="true">Auto</button>
-          <button type="button" data-theme-choice="light" aria-pressed="false">Light</button>
-          <button type="button" data-theme-choice="dark" aria-pressed="false">Dark</button>
-        </div>
-      </div>
-    </div>
 
     <p class="meta">
       <span id="tz-note">All times are shown in your local timezone.</span>
@@ -180,6 +185,12 @@ layout: null
   </footer>
 </div>
 
-<script src="{{ '/static/js/main.js' | relative_url }}"></script>
+<div id="update-banner" class="update-banner" role="status" hidden>
+  <span>Deadline data has been updated.</span>
+  <button type="button" id="update-reload">Reload</button>
+  <button type="button" id="update-dismiss" aria-label="Dismiss">&times;</button>
+</div>
+
+<script src="{{ '/static/js/main.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
 </body>
 </html>
