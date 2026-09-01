@@ -16,13 +16,149 @@
   var emptyNote = document.getElementById('empty');
   var groups = Array.prototype.slice.call(document.querySelectorAll('.filter-group'));
 
+  var tzSelect = document.getElementById('tz-select');
+  var tzNote = document.getElementById('tz-note');
+  var themeButtons = Array.prototype.slice.call(
+    document.querySelectorAll('[data-theme-choice]'));
+
   var STORE_KEY = 'conference-deadlines-filters';
+  var TZ_KEY = 'conference-deadlines-timezone';
+  var THEME_KEY = 'conference-deadlines-theme';
   var MINUTE = 60000;
 
-  var dateFormat = new Intl.DateTimeFormat(undefined, {
-    year: 'numeric', month: 'short', day: 'numeric',
-    hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
-  });
+  function readStore(key) {
+    try { return window.localStorage.getItem(key); } catch (e) { return null; }
+  }
+
+  function writeStore(key, value) {
+    try { window.localStorage.setItem(key, value); } catch (e) { /* storage blocked */ }
+  }
+
+  /* ---------- timezone ---------- */
+
+  var localZone = 'UTC';
+  try {
+    localZone = Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
+  } catch (e) { /* keep UTC */ }
+
+  // 'AoE' is the deadline convention, not an IANA zone. Etc/GMT+12 is the
+  // same thing: a fixed UTC-12 with no DST. (The Etc/* sign is inverted.)
+  var AOE = 'Etc/GMT+12';
+
+  var currentZone = readStore(TZ_KEY) || localZone;
+
+  function zoneIsValid(zone) {
+    try {
+      new Intl.DateTimeFormat('en', { timeZone: zone });
+      return true;
+    } catch (e) { return false; }
+  }
+
+  if (!zoneIsValid(currentZone)) currentZone = localZone;
+
+  var dateFormat;
+
+  function buildFormatter() {
+    var options = {
+      year: 'numeric', month: 'short', day: 'numeric',
+      hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+    };
+    try {
+      options.timeZone = currentZone;
+      dateFormat = new Intl.DateTimeFormat(undefined, options);
+    } catch (e) {
+      delete options.timeZone;
+      dateFormat = new Intl.DateTimeFormat(undefined, options);
+    }
+  }
+
+  function offsetOf(zone) {
+    try {
+      var parts = new Intl.DateTimeFormat('en', {
+        timeZone: zone, timeZoneName: 'longOffset'
+      }).formatToParts(new Date());
+      for (var i = 0; i < parts.length; i++) {
+        if (parts[i].type === 'timeZoneName') {
+          return parts[i].value.replace('GMT', 'UTC').replace(/^UTC$/, 'UTC+00:00');
+        }
+      }
+    } catch (e) { /* longOffset unsupported */ }
+    return '';
+  }
+
+  function zoneLabel(zone) {
+    var offset = offsetOf(zone);
+    var name = zone.replace(/_/g, ' ');
+    return offset ? name + '  (' + offset + ')' : name;
+  }
+
+  function allZones() {
+    try {
+      if (typeof Intl.supportedValuesOf === 'function') {
+        return Intl.supportedValuesOf('timeZone');
+      }
+    } catch (e) { /* fall through */ }
+    // Enough coverage to be useful where supportedValuesOf is missing.
+    return [
+      'Africa/Cairo', 'Africa/Johannesburg', 'Africa/Lagos', 'America/Chicago',
+      'America/Denver', 'America/Los_Angeles', 'America/Mexico_City',
+      'America/New_York', 'America/Sao_Paulo', 'America/Toronto',
+      'Asia/Bangkok', 'Asia/Dubai', 'Asia/Hong_Kong', 'Asia/Jerusalem',
+      'Asia/Kolkata', 'Asia/Seoul', 'Asia/Shanghai', 'Asia/Singapore',
+      'Asia/Tokyo', 'Australia/Melbourne', 'Australia/Sydney', 'Europe/Berlin',
+      'Europe/London', 'Europe/Madrid', 'Europe/Moscow', 'Europe/Paris',
+      'Europe/Zurich', 'Pacific/Auckland', 'UTC'
+    ];
+  }
+
+  function buildZonePicker() {
+    var frag = document.createDocumentFragment();
+
+    function option(value, text) {
+      var el = document.createElement('option');
+      el.value = value;
+      el.textContent = text;
+      return el;
+    }
+
+    var common = document.createElement('optgroup');
+    common.label = 'Common';
+    common.appendChild(option(localZone, 'Your local time — ' + zoneLabel(localZone)));
+    common.appendChild(option(AOE, 'Anywhere on Earth (AoE) — the deadline standard'));
+    common.appendChild(option('UTC', zoneLabel('UTC')));
+    frag.appendChild(common);
+
+    var groups = {};
+    var order = [];
+    allZones().forEach(function (zone) {
+      var region = zone.indexOf('/') === -1 ? 'Other' : zone.slice(0, zone.indexOf('/'));
+      if (!groups[region]) {
+        groups[region] = document.createElement('optgroup');
+        groups[region].label = region;
+        order.push(region);
+      }
+      groups[region].appendChild(option(zone, zoneLabel(zone)));
+    });
+    order.sort().forEach(function (region) { frag.appendChild(groups[region]); });
+
+    tzSelect.appendChild(frag);
+    tzSelect.value = currentZone;
+    if (tzSelect.value !== currentZone) {
+      // Zone exists but was not in the list; add it so the select reflects it.
+      tzSelect.insertBefore(option(currentZone, zoneLabel(currentZone)), tzSelect.firstChild);
+      tzSelect.value = currentZone;
+    }
+  }
+
+  function updateZoneNote() {
+    var label = currentZone === AOE
+      ? 'Anywhere on Earth (UTC-12)'
+      : currentZone.replace(/_/g, ' ');
+    var offset = offsetOf(currentZone);
+    tzNote.textContent = 'All times are shown in ' + label +
+      (offset && currentZone !== AOE ? ', ' + offset : '') +
+      (currentZone === localZone ? ' (your local timezone).' : '.');
+  }
 
   /* ---------- model ---------- */
 
@@ -31,13 +167,8 @@
     var abstractRaw = card.getAttribute('data-abstract');
     var abstract = abstractRaw ? new Date(abstractRaw) : null;
 
-    // Render the absolute dates once; they never change.
-    card.querySelectorAll('.dl-date').forEach(function (node) {
-      var when = node.getAttribute('data-date') === 'abstract' ? abstract : paper;
-      if (when && !isNaN(when)) node.textContent = dateFormat.format(when);
-    });
-
     return {
+      dateNodes: Array.prototype.slice.call(card.querySelectorAll('.dl-date')),
       card: card,
       paper: isNaN(paper) ? null : paper,
       abstract: abstract && !isNaN(abstract) ? abstract : null,
@@ -49,6 +180,18 @@
       }
     };
   });
+
+  // Absolute dates depend on the chosen timezone, so they are re-rendered
+  // whenever it changes rather than written once at load.
+  function renderDates() {
+    entries.forEach(function (entry) {
+      entry.dateNodes.forEach(function (node) {
+        var when = node.getAttribute('data-date') === 'abstract'
+          ? entry.abstract : entry.paper;
+        if (when) node.textContent = dateFormat.format(when);
+      });
+    });
+  }
 
   /* ---------- countdowns ---------- */
 
@@ -161,18 +304,16 @@
   /* ---------- persistence ---------- */
 
   function saveState() {
-    try {
-      window.localStorage.setItem(STORE_KEY, JSON.stringify({
-        hidePast: hidePast.checked,
-        groups: groups.map(selectedIn)
-      }));
-    } catch (err) { /* private mode, or storage disabled -- filters just won't persist */ }
+    writeStore(STORE_KEY, JSON.stringify({
+      hidePast: hidePast.checked,
+      groups: groups.map(selectedIn)
+    }));
   }
 
   function restoreState() {
     var saved = null;
     try {
-      saved = JSON.parse(window.localStorage.getItem(STORE_KEY) || 'null');
+      saved = JSON.parse(readStore(STORE_KEY) || 'null');
     } catch (err) { saved = null; }
     if (!saved) return;
 
@@ -187,7 +328,49 @@
     });
   }
 
+  /* ---------- theme ---------- */
+
+  function applyTheme(choice) {
+    if (choice === 'light' || choice === 'dark') {
+      document.documentElement.setAttribute('data-theme', choice);
+    } else {
+      // 'system': drop the override and let prefers-color-scheme decide.
+      document.documentElement.removeAttribute('data-theme');
+    }
+    themeButtons.forEach(function (button) {
+      button.setAttribute(
+        'aria-pressed',
+        button.getAttribute('data-theme-choice') === choice ? 'true' : 'false');
+    });
+  }
+
+  var savedTheme = readStore(THEME_KEY);
+  if (savedTheme !== 'light' && savedTheme !== 'dark') savedTheme = 'system';
+
+  themeButtons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      var choice = button.getAttribute('data-theme-choice');
+      applyTheme(choice);
+      writeStore(THEME_KEY, choice);
+    });
+  });
+
   /* ---------- wiring ---------- */
+
+  applyTheme(savedTheme);
+
+  buildFormatter();
+  buildZonePicker();
+  updateZoneNote();
+  renderDates();
+
+  tzSelect.addEventListener('change', function () {
+    currentZone = tzSelect.value;
+    writeStore(TZ_KEY, currentZone);
+    buildFormatter();
+    updateZoneNote();
+    renderDates();
+  });
 
   restoreState();
   tick();

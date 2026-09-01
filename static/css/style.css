@@ -1,5 +1,5 @@
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
 
   --bg: #f7f8fa;
   --surface: #ffffff;
@@ -14,8 +14,11 @@
   --shadow: 0 1px 2px rgba(16, 24, 40, .06);
 }
 
+/* Dark applies when the system asks for it and the user has not forced
+   light, or whenever the user has explicitly chosen dark. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
     --bg: #0d1117;
     --surface: #161b22;
     --border: #2a313c;
@@ -28,6 +31,21 @@
     --chip-on: #1f6feb;
     --shadow: none;
   }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0d1117;
+  --surface: #161b22;
+  --border: #2a313c;
+  --text: #e6edf3;
+  --muted: #9aa4b2;
+  --accent: #58a6ff;
+  --urgent: #fb923c;
+  --past: #6b7480;
+  --chip-bg: #21262d;
+  --chip-on: #1f6feb;
+  --shadow: none;
 }
 
 * { box-sizing: border-box; }
@@ -58,6 +76,76 @@ a:hover { text-decoration: underline; }
 .masthead h1 { margin: 0 0 6px; font-size: 28px; letter-spacing: -.02em; }
 .tagline { margin: 0 0 12px; font-size: 16px; color: var(--muted); }
 .meta { margin: 4px 0; font-size: 13px; color: var(--muted); }
+
+/* ---------- preferences bar ---------- */
+
+.prefs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 24px;
+  align-items: center;
+  margin: 14px 0 12px;
+  padding: 10px 14px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.pref { display: flex; align-items: center; gap: 8px; min-width: 0; }
+
+.pref > label,
+.pref > span {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+#tz-select {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 400px;
+  padding: 6px 10px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+#tz-select:focus-visible,
+.segmented button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.segmented {
+  display: inline-flex;
+  background: var(--chip-bg);
+  border-radius: 999px;
+  padding: 2px;
+}
+
+.segmented button {
+  padding: 4px 12px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--muted);
+  background: none;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.segmented button:hover { color: var(--text); }
+
+.segmented button[aria-pressed="true"] {
+  background: var(--chip-on);
+  color: #fff;
+}
 
 /* ---------- controls ---------- */
 

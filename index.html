@@ -9,6 +9,18 @@ layout: null
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="{{ '/static/css/style.css' | relative_url }}">
+  <script>
+    // Inline and synchronous on purpose: runs before first paint so a saved
+    // theme never flashes the wrong colours.
+    (function () {
+      try {
+        var saved = localStorage.getItem('conference-deadlines-theme');
+        if (saved === 'light' || saved === 'dark') {
+          document.documentElement.setAttribute('data-theme', saved);
+        }
+      } catch (e) { /* storage blocked; fall back to the system preference */ }
+    })();
+  </script>
 </head>
 <body>
 
@@ -20,8 +32,23 @@ layout: null
       {{ site.data.conferences | size }} conferences across ten research areas.
       Last updated {{ site.time | date: "%-d %B %Y" }}.
     </p>
+    <div class="prefs">
+      <div class="pref">
+        <label for="tz-select">Timezone</label>
+        <select id="tz-select"></select>
+      </div>
+      <div class="pref">
+        <span id="theme-label">Theme</span>
+        <div class="segmented" role="group" aria-labelledby="theme-label">
+          <button type="button" data-theme-choice="system" aria-pressed="true">Auto</button>
+          <button type="button" data-theme-choice="light" aria-pressed="false">Light</button>
+          <button type="button" data-theme-choice="dark" aria-pressed="false">Dark</button>
+        </div>
+      </div>
+    </div>
+
     <p class="meta">
-      All times are shown in <strong>your local timezone</strong>.
+      <span id="tz-note">All times are shown in your local timezone.</span>
       Subscribe via iCal:
       <a href="{{ '/ical/deadlines-all.ics' | relative_url }}">all areas</a>{% for area in site.data.areas %},
       <a href="{{ '/ical/deadlines-' | append: area.tag | downcase | append: '.ics' | relative_url }}">{{ area.label }}</a>{% endfor %}.

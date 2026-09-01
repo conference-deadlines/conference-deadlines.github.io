@@ -20,7 +20,12 @@ just one.
   entry.
 - Filtering by area and by rank, plus free-text search over name, description
   and location.
-- All times rendered in **the viewer's local timezone**.
+- **Timezone picker** — every date renders in whichever timezone the reader
+  picks, defaulting to their own. Anywhere on Earth (AoE), the convention most
+  CFPs actually use, is offered at the top of the list. Countdowns are absolute
+  durations, so they are unaffected by the choice.
+- **Theme control** — Auto / Light / Dark. Auto follows the OS setting; an
+  explicit choice overrides it and persists.
 - iCal feeds — one for everything, one per area — under [`ical/`](ical/).
 
 Venues with rolling monthly submission (VLDB and friends) show their next three
@@ -110,7 +115,7 @@ _data/conferences.yml              generated: conferences + deadlines
 _data/areas.yml                    generated: research areas and labels
 index.html                         the page (server-rendered card list)
 static/css/style.css               styling, light and dark
-static/js/main.js                  countdowns, sorting, filtering
+static/js/main.js                  countdowns, sorting, filtering, timezone, theme
 scripts/sync_ccfddl.py             regenerates the data from upstream
 ical/                              generated: calendar feeds
 .github/workflows/sync-deadlines.yml   daily refresh
