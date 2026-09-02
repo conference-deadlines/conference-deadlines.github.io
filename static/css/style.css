@@ -438,6 +438,17 @@ a:hover { text-decoration: underline; }
 }
 
 .dl-abstract { border-left: 3px solid var(--muted); }
+.dl-tba { border-left: 3px dashed var(--muted); }
+
+.dl-timer.tba {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: .06em;
+  color: var(--muted);
+}
+
+.conf[data-state="tba"] { opacity: .82; }
+.conf[data-state="tba"]:hover { opacity: 1; }
 .dl-paper { border-left: 3px solid var(--rank); }
 
 .dl-label {

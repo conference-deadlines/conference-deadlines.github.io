@@ -91,8 +91,8 @@ layout: null
     <div class="control-row">
       <input type="search" id="search" placeholder="Search by name, description or location…" autocomplete="off">
       <label class="toggle">
-        <input type="checkbox" id="hide-past" checked>
-        Hide passed deadlines
+        <input type="checkbox" id="hide-tba">
+        Only announced deadlines
       </label>
       <button type="button" id="reset" class="reset">Reset filters</button>
     </div>
@@ -138,6 +138,7 @@ layout: null
     <article class="conf rank-{{ rank }}" id="{{ slug }}"
              data-deadline="{{ deadline.date }}"
              {% if deadline.abstract %}data-abstract="{{ deadline.abstract }}"{% endif %}
+             data-state="{% if conf.tba %}tba{% else %}announced{% endif %}"
              data-tags="{{ conf.areas | join: ' ' }} {{ conf.tags | join: ' ' }}"
              data-search="{{ conf.name | downcase }} {{ conf.description | downcase }} {{ conf.place | downcase }}">
 
@@ -183,6 +184,13 @@ layout: null
       </div>
 
       <div class="conf-times">
+        {%- if conf.tba %}
+        <div class="dl dl-tba">
+          <span class="dl-label">Next round</span>
+          <span class="dl-timer tba">TBA</span>
+          <span class="dl-date dl-previous" data-previous="{{ deadline.date }}"></span>
+        </div>
+        {%- else %}
         {%- if deadline.abstract %}
         <div class="dl dl-abstract">
           <span class="dl-label">Abstract</span>
@@ -195,6 +203,7 @@ layout: null
           <span class="dl-timer" data-timer="paper">…</span>
           <span class="dl-date" data-date="paper">{{ deadline.date }}</span>
         </div>
+        {%- endif %}
       </div>
     </article>
     {% endfor %}

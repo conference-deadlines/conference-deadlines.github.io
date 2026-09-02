@@ -20,6 +20,8 @@ just one.
   entry.
 - Filtering by area and by rank, plus free-text search over name, description
   and location.
+- Conferences whose next round has not been announced show **TBA**, with the
+  date of their previous round, rather than being hidden.
 - **Timezone picker** — every date renders in whichever timezone the reader
   picks, defaulting to their own. Anywhere on Earth (AoE), the convention most
   CFPs actually use, is offered at the top of the list. Countdowns are absolute
@@ -30,6 +32,11 @@ just one.
 
 Venues with rolling monthly submission (VLDB and friends) show their next three
 rounds rather than all twelve.
+
+A conference is dropped entirely once its newest known deadline is more than a
+year old: upstream keeps records for venues that stopped being updated years
+ago, and a tracker showing a five-year-old deadline is just wrong. Everything
+between "announced" and that cutoff shows as TBA.
 
 ## How the data works
 

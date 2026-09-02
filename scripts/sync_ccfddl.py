@@ -264,6 +264,13 @@ def to_record(conf: dict, area: str, now: dt.datetime) -> dict | None:
     if not deadlines:
         return None
 
+    # trim_deadlines only falls back to a past deadline when the edition has no
+    # future one left, which means the next cycle has not been announced yet.
+    # Those are surfaced as TBA rather than dropped -- "we don't know yet" is
+    # useful information, and the previous cycle's date shows roughly when to
+    # expect the call.
+    announced = any(dt.datetime.fromisoformat(d["date"]) > now for d in deadlines)
+
     record = {
         "name": str(conf.get("title") or "").strip(),
         "description": str(conf.get("description") or "").strip(),
@@ -273,6 +280,8 @@ def to_record(conf: dict, area: str, now: dt.datetime) -> dict | None:
         "areas": [area],
         "tags": tags_for(conf),
     }
+    if not announced:
+        record["tba"] = True
     if conf.get("dblp"):
         record["dblp"] = f"https://dblp.org/db/conf/{conf['dblp']}/index.html"
     if edition.get("date"):

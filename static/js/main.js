@@ -10,7 +10,7 @@
   var list = document.getElementById('conf-list');
   var cards = Array.prototype.slice.call(document.querySelectorAll('.conf'));
   var searchBox = document.getElementById('search');
-  var hidePast = document.getElementById('hide-past');
+  var hideTba = document.getElementById('hide-tba');
   var resetButton = document.getElementById('reset');
   var resultCount = document.getElementById('result-count');
   var emptyNote = document.getElementById('empty');
@@ -167,7 +167,13 @@
     var abstractRaw = card.getAttribute('data-abstract');
     var abstract = abstractRaw ? new Date(abstractRaw) : null;
 
+    var isTba = card.getAttribute('data-state') === 'tba';
+
     return {
+      tba: isTba,
+      previous: isTba && card.querySelector('.dl-previous')
+        ? new Date(card.querySelector('.dl-previous').getAttribute('data-previous'))
+        : null,
       dateNodes: Array.prototype.slice.call(card.querySelectorAll('.dl-date')),
       card: card,
       paper: isNaN(paper) ? null : paper,
@@ -186,6 +192,12 @@
   function renderDates() {
     entries.forEach(function (entry) {
       entry.dateNodes.forEach(function (node) {
+        if (node.classList.contains('dl-previous')) {
+          if (entry.previous && !isNaN(entry.previous)) {
+            node.textContent = 'Last round ' + dateFormat.format(entry.previous);
+          }
+          return;
+        }
         var when = node.getAttribute('data-date') === 'abstract'
           ? entry.abstract : entry.paper;
         if (when) node.textContent = dateFormat.format(when);
@@ -246,6 +258,7 @@
   function tick() {
     var now = new Date();
     entries.forEach(function (entry) {
+      if (entry.tba) return;
       var paperOpen = paintTimer(entry.timers.paper, entry.paper, now);
       paintTimer(entry.timers.abstract, entry.abstract, now);
       entry.past = !paperOpen;
@@ -258,12 +271,19 @@
   function sortCards() {
     var now = new Date();
     var ordered = entries.slice().sort(function (a, b) {
+      // Announced deadlines first, soonest first. TBA entries follow, ordered
+      // by how recently their last round ran -- the ones most likely to
+      // announce next sit at the top of that group.
+      if (a.tba !== b.tba) return a.tba ? 1 : -1;
+      if (a.tba && b.tba) {
+        if (!a.previous) return 1;
+        if (!b.previous) return -1;
+        return b.previous - a.previous;
+      }
       if (!a.paper) return 1;
       if (!b.paper) return -1;
       var aPast = a.paper < now;
       var bPast = b.paper < now;
-      // Upcoming deadlines first (soonest first), then passed ones (most
-      // recent first) so a just-missed deadline stays near the top.
       if (aPast !== bPast) return aPast ? 1 : -1;
       return aPast ? b.paper - a.paper : a.paper - b.paper;
     });
@@ -282,14 +302,14 @@
 
   function applyFilters() {
     var query = searchBox.value.trim().toLowerCase();
-    var skipPast = hidePast.checked;
+    var skipTba = hideTba.checked;
     var selections = groups.map(selectedIn);
     var shown = 0;
 
     entries.forEach(function (entry) {
       var visible = true;
 
-      if (skipPast && entry.past) visible = false;
+      if (skipTba && entry.tba) visible = false;
 
       if (visible && query) {
         visible = entry.haystack.indexOf(query) !== -1;
@@ -316,7 +336,7 @@
 
   function saveState() {
     writeStore(STORE_KEY, JSON.stringify({
-      hidePast: hidePast.checked,
+      hideTba: hideTba.checked,
       groups: groups.map(selectedIn)
     }));
   }
@@ -328,7 +348,7 @@
     } catch (err) { saved = null; }
     if (!saved) return;
 
-    if (typeof saved.hidePast === 'boolean') hidePast.checked = saved.hidePast;
+    if (typeof saved.hideTba === 'boolean') hideTba.checked = saved.hideTba;
     if (!Array.isArray(saved.groups)) return;
 
     groups.forEach(function (group, i) {
@@ -537,7 +557,7 @@
 
   searchBox.addEventListener('input', applyFilters);
 
-  hidePast.addEventListener('change', function () {
+  hideTba.addEventListener('change', function () {
     saveState();
     applyFilters();
   });
@@ -551,7 +571,7 @@
 
   resetButton.addEventListener('click', function () {
     searchBox.value = '';
-    hidePast.checked = true;
+    hideTba.checked = false;
     groups.forEach(function (group) {
       group.querySelectorAll('input').forEach(function (input) { input.checked = false; });
     });
