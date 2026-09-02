@@ -5,119 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Architecture & Systems
 BEGIN:VEVENT
-UID:lisa-2021-0-paper@conference-deadlines
-DTSTAMP:20210224T045959Z
-DTSTART:20210224T045959Z
-DTEND:20210224T052959Z
-TRANSP:TRANSPARENT
-SUMMARY:LISA 2021 deadline
-DESCRIPTION:Large Installation System Administration Conference\nhttps://ww
- w.usenix.org/conference/lisa21\nLocation: Virtual Event
-URL:https://www.usenix.org/conference/lisa21
-END:VEVENT
-BEGIN:VEVENT
-UID:ispa-2021-0-paper@conference-deadlines
-DTSTAMP:20210710T115959Z
-DTSTART:20210710T115959Z
-DTEND:20210710T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISPA 2021 deadline
-DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proces
- sing with Applications\nhttp://www.cloud-conf.net/ispa2021/\nLocation: New
-  York\, USA
-URL:http://www.cloud-conf.net/ispa2021/
-END:VEVENT
-BEGIN:VEVENT
-UID:vee-2022-0-paper@conference-deadlines
-DTSTAMP:20211204T115959Z
-DTSTART:20211204T115959Z
-DTEND:20211204T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:VEE 2022 deadline
-DESCRIPTION:Virtual Execution Environments\nhttps://conf.researchr.org/home
- /vee-2022\nLocation: Virtual
-URL:https://conf.researchr.org/home/vee-2022
-END:VEVENT
-BEGIN:VEVENT
-UID:netys-2024-0-abstract@conference-deadlines
-DTSTAMP:20240301T115900Z
-DTSTART:20240301T115900Z
-DTEND:20240301T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:NETYS 2024 abstract deadline
-DESCRIPTION:The International Conference on Networked Systems\nhttps://nety
- s.net/\nLocation: Rabat\, Morocco
-URL:https://netys.net/
-END:VEVENT
-BEGIN:VEVENT
-UID:netys-2024-0-paper@conference-deadlines
-DTSTAMP:20240308T115900Z
-DTSTART:20240308T115900Z
-DTEND:20240308T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:NETYS 2024 deadline
-DESCRIPTION:The International Conference on Networked Systems\nhttps://nety
- s.net/\nLocation: Rabat\, Morocco
-URL:https://netys.net/
-END:VEVENT
-BEGIN:VEVENT
-UID:fccm-2025-0-abstract@conference-deadlines
-DTSTAMP:20250111T115959Z
-DTSTART:20250111T115959Z
-DTEND:20250111T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FCCM 2025 abstract deadline
-DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
- nhttps://www.fccm.org/\nLocation: Fayetteville\, Arkansas\, USA
-URL:https://www.fccm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:fccm-2025-0-paper@conference-deadlines
-DTSTAMP:20250118T115959Z
-DTSTART:20250118T115959Z
-DTEND:20250118T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FCCM 2025 deadline
-DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
- nhttps://www.fccm.org/\nLocation: Fayetteville\, Arkansas\, USA
-URL:https://www.fccm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:hot-chips-2026-0-paper@conference-deadlines
-DTSTAMP:20250330T115959Z
-DTSTART:20250330T115959Z
-DTEND:20250330T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Hot Chips 2026 deadline
-DESCRIPTION:Hot Chips: A Symposium on High Performance Chips\nhttps://www.h
- otchips.org/\nLocation: Memorial Auditorium\, Stanford\, Palo Alto\, CA
-URL:https://www.hotchips.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:hpcc-2025-0-paper@conference-deadlines
-DTSTAMP:20250519T115959Z
-DTSTART:20250519T115959Z
-DTEND:20250519T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HPCC 2025 deadline
-DESCRIPTION:IEEE International Conference on High Performance Computing and
-  Communications\nhttps://hpcn.exeter.ac.uk/hpcc2025/\nLocation: Exeter\, U
- K
-URL:https://hpcn.exeter.ac.uk/hpcc2025/
-END:VEVENT
-BEGIN:VEVENT
-UID:pdcat-2025-0-paper@conference-deadlines
-DTSTAMP:20250815T135900Z
-DTSTART:20250815T135900Z
-DTEND:20250815T142900Z
-TRANSP:TRANSPARENT
-SUMMARY:PDCAT 2025 deadline
-DESCRIPTION:International Conference on Parallel and Distributed Computing\
- , Applications and Technologies\nhttps://www.pd-cat.org/\nLocation: Gold C
- oast\, Australia
-URL:https://www.pd-cat.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:isca-2026-0-paper@conference-deadlines
 DTSTAMP:20251118T115959Z
 DTSTART:20251118T115959Z
@@ -149,17 +36,6 @@ SUMMARY:DAC 2026 deadline
 DESCRIPTION:Design Automation Conference\nhttps://dac.com/2026/call-for-con
  tributions\nLocation: Long Beach\, CA
 URL:https://dac.com/2026/call-for-contributions
-END:VEVENT
-BEGIN:VEVENT
-UID:ccgrid-2026-0-abstract@conference-deadlines
-DTSTAMP:20251222T115959Z
-DTSTART:20251222T115959Z
-DTEND:20251222T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCGRID 2026 abstract deadline
-DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
- mputing\nhttps://www.ccgrid2026.org/\nLocation: Sydney\, Australia
-URL:https://www.ccgrid2026.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccgrid-2026-0-paper@conference-deadlines
@@ -215,17 +91,6 @@ SUMMARY:CF 2026 deadline
 DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
  w.computingfrontiers.org/2026/\nLocation: Catania\, Sicily\, Italy
 URL:https://www.computingfrontiers.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdcs-2026-0-abstract@conference-deadlines
-DTSTAMP:20260122T115959Z
-DTSTART:20260122T115959Z
-DTEND:20260122T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDCS 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
- nhttp://icdcs2026.icdcs.org/\nLocation: Seoul\, South Korea
-URL:http://icdcs2026.icdcs.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdcs-2026-0-paper@conference-deadlines

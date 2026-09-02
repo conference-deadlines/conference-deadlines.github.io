@@ -5,40 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Security & Privacy
 BEGIN:VEVENT
-UID:hotsec-2021-0-paper@conference-deadlines
-DTSTAMP:20211013T115959Z
-DTSTART:20211013T115959Z
-DTEND:20211013T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HotSec 2021 deadline (Extended)
-DESCRIPTION:USENIX Workshop on Hot Topics in Security\nhttps://www.usenix.o
- rg/conferences/byname/158\nLocation: Vancouver\, British Columbia\, Canada
-URL:https://www.usenix.org/conferences/byname/158
-END:VEVENT
-BEGIN:VEVENT
-UID:dfrws-apac-2025-0-paper@conference-deadlines
-DTSTAMP:20250524T115959Z
-DTSTART:20250524T115959Z
-DTEND:20250524T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DFRWS APAC 2025 deadline
-DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
- org/conferences/dfrws-apac-2025/\nLocation: Seoul\, South Korea
-URL:https://dfrws.org/conferences/dfrws-apac-2025/
-END:VEVENT
-BEGIN:VEVENT
-UID:trustcom-2025-0-paper@conference-deadlines
-DTSTAMP:20250801T155959Z
-DTSTART:20250801T155959Z
-DTEND:20250801T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:TrustCom 2025 deadline
-DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy i
- n Computing and Communications\nhttps://ieee-aiplus-2025.org/\nLocation: G
- uiyang\, China
-URL:https://ieee-aiplus-2025.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:indocrypt-2025-0-paper@conference-deadlines
 DTSTAMP:20250902T115959Z
 DTSTART:20250902T115959Z
@@ -138,6 +104,17 @@ DESCRIPTION:International Conference on Security and Privacy in Communicati
  on Networks\nhttps://securecomm.eai-conferences.org/2026/\nLocation: Lanca
  ster\, UK and hybrid
 URL:https://securecomm.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:sec-2026-0-paper@conference-deadlines
+DTSTAMP:20251220T115959Z
+DTSTART:20251220T115959Z
+DTEND:20251220T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SEC 2026 deadline (Submission deadline)
+DESCRIPTION:IFIP International Information Security Conference\nhttps://ifi
+ psec.org/index.html\nLocation: Perth\, Australia
+URL:https://ifipsec.org/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:codaspy-2026-0-paper@conference-deadlines
@@ -306,28 +283,6 @@ SUMMARY:NSPW 2026 deadline
 DESCRIPTION:New Security Paradigms Workshop\nhttps://www.nspw.org/2026\nLoc
  ation: Victoria\, BC\, Canada
 URL:https://www.nspw.org/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:sec-2026-0-abstract@conference-deadlines
-DTSTAMP:20260425T115959Z
-DTSTART:20260425T115959Z
-DTEND:20260425T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SEC 2026 abstract deadline
-DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
- 2026/\nLocation: Santa Clara University\, CA\, USA
-URL:https://acm-ieee-sec.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:sec-2026-0-paper@conference-deadlines
-DTSTAMP:20260502T115959Z
-DTSTART:20260502T115959Z
-DTEND:20260502T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SEC 2026 deadline
-DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
- 2026/\nLocation: Santa Clara University\, CA\, USA
-URL:https://acm-ieee-sec.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:srds-2026-0-paper@conference-deadlines

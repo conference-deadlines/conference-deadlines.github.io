@@ -217,18 +217,29 @@
     return 'today';
   }
 
+  var DAY = 86400000;
+
+  // Graded urgency: the closer a deadline is, the hotter it reads.
+  function urgencyClass(remaining) {
+    if (remaining < DAY) return 'due-now';
+    if (remaining < 3 * DAY) return 'due-soon';
+    if (remaining < 14 * DAY) return 'due-near';
+    return null;
+  }
+
   function paintTimer(node, when, now) {
     if (!node || !when) return false;
     var remaining = when - now;
     if (remaining > 0) {
       node.textContent = humanize(remaining);
-      node.classList.remove('passed');
-      node.classList.toggle('urgent', remaining < 7 * 86400000);
+      node.classList.remove('passed', 'due-now', 'due-soon', 'due-near');
+      var level = urgencyClass(remaining);
+      if (level) node.classList.add(level);
       return true;
     }
     node.textContent = passedFor(now - when);
     node.classList.add('passed');
-    node.classList.remove('urgent');
+    node.classList.remove('due-now', 'due-soon', 'due-near');
     return false;
   }
 

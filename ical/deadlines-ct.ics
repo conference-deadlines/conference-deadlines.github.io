@@ -5,72 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Theory
 BEGIN:VEVENT
-UID:ijcar-2026-0-abstract@conference-deadlines
-DTSTAMP:20260207T115959Z
-DTSTART:20260207T115959Z
-DTEND:20260207T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCAR 2026 abstract deadline
-DESCRIPTION:International Joint Conference on Automated Reasoning\nhttps://
- www.floc26.org/ijcar\nLocation: Lisbon\, Portugal
-URL:https://www.floc26.org/ijcar
-END:VEVENT
-BEGIN:VEVENT
-UID:ijcar-2026-0-paper@conference-deadlines
-DTSTAMP:20250216T115959Z
-DTSTART:20250216T115959Z
-DTEND:20250216T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCAR 2026 deadline
-DESCRIPTION:International Joint Conference on Automated Reasoning\nhttps://
- www.floc26.org/ijcar\nLocation: Lisbon\, Portugal
-URL:https://www.floc26.org/ijcar
-END:VEVENT
-BEGIN:VEVENT
-UID:cade-2025-0-abstract@conference-deadlines
-DTSTAMP:20250218T115959Z
-DTSTART:20250218T115959Z
-DTEND:20250218T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CADE 2025 abstract deadline
-DESCRIPTION:The Conference on Automated Deduction\nhttps://www.dhbw-stuttga
- rt.de/cade-30/\nLocation: DHBW Stuttgart\, Stuttgart\, Germany
-URL:https://www.dhbw-stuttgart.de/cade-30/
-END:VEVENT
-BEGIN:VEVENT
-UID:cade-2025-0-paper@conference-deadlines
-DTSTAMP:20250225T115959Z
-DTSTART:20250225T115959Z
-DTEND:20250225T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CADE 2025 deadline
-DESCRIPTION:The Conference on Automated Deduction\nhttps://www.dhbw-stuttga
- rt.de/cade-30/\nLocation: DHBW Stuttgart\, Stuttgart\, Germany
-URL:https://www.dhbw-stuttgart.de/cade-30/
-END:VEVENT
-BEGIN:VEVENT
-UID:cocoon-2026-0-paper@conference-deadlines
-DTSTAMP:20250305T115959Z
-DTSTART:20250305T115959Z
-DTEND:20250305T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COCOON 2026 deadline
-DESCRIPTION:International Computing and Combinatorics Conference\nhttps://e
- vent.ntu.edu.sg/cocoon2026\nLocation: Singapore
-URL:https://event.ntu.edu.sg/cocoon2026
-END:VEVENT
-BEGIN:VEVENT
-UID:setta-2025-0-paper@conference-deadlines
-DTSTAMP:20250821T115959Z
-DTSTART:20250821T115959Z
-DTEND:20250821T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SETTA 2025 deadline (Round 2 Paper Submission)
-DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools 
- and Applications\nhttps://www.setta2025.uk\nLocation: Oxford\, UK
-URL:https://www.setta2025.uk
-END:VEVENT
-BEGIN:VEVENT
 UID:stoc-2026-0-paper@conference-deadlines
 DTSTAMP:20251104T215959Z
 DTSTART:20251104T215959Z
@@ -218,17 +152,6 @@ SUMMARY:FOCS 2026 deadline
 DESCRIPTION:IEEE Symposium on Foundations of Computer Science\nhttps://sanj
  eevkhanna.org/FOCS2026_CFP.html\nLocation: New York City\, NY\, USA
 URL:https://sanjeevkhanna.org/FOCS2026_CFP.html
-END:VEVENT
-BEGIN:VEVENT
-UID:fmcad-2026-0-abstract@conference-deadlines
-DTSTAMP:20260504T115959Z
-DTSTART:20260504T115959Z
-DTEND:20260504T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FMCAD 2026 abstract deadline
-DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
- at/FMCAD26/\nLocation: Graz\, Austria
-URL:https://fmcad.forsyte.at/FMCAD26/
 END:VEVENT
 BEGIN:VEVENT
 UID:fmcad-2026-0-paper@conference-deadlines

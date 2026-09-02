@@ -8,6 +8,12 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/static/img/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/static/img/favicon-32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/static/img/favicon-16.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/static/img/apple-touch-icon.png' | relative_url }}">
+  <meta name="theme-color" content="#1d4ed8">
+
   <meta name="site-build" content="{{ site.time | date: '%s' }}">
   {%- if site.goatcounter_code and site.goatcounter_code != "" %}
   <meta name="goatcounter-code" content="{{ site.goatcounter_code }}">
@@ -121,7 +127,15 @@ layout: null
     {% for deadline in conf.deadlines %}
     {% assign index = forloop.index %}
     {% capture slug %}{{ conf.name | append: '-' | append: conf.year | append: '-' | append: index | slugify }}{% endcapture %}
-    <article class="conf" id="{{ slug }}"
+    {%- assign rank = 'none' -%}
+    {%- for tag in conf.tags -%}
+      {%- if tag == 'CORE-ASTAR' %}{% assign rank = 'astar' %}
+      {%- elsif tag == 'CORE-A' %}{% assign rank = 'a' %}
+      {%- elsif tag == 'CORE-B' %}{% assign rank = 'b' %}
+      {%- elsif tag == 'CORE-C' %}{% assign rank = 'c' %}
+      {%- endif -%}
+    {%- endfor -%}
+    <article class="conf rank-{{ rank }}" id="{{ slug }}"
              data-deadline="{{ deadline.date }}"
              {% if deadline.abstract %}data-abstract="{{ deadline.abstract }}"{% endif %}
              data-tags="{{ conf.areas | join: ' ' }} {{ conf.tags | join: ' ' }}"
@@ -136,10 +150,12 @@ layout: null
         <p class="badges">
           {%- for tag in conf.tags -%}
             {%- if tag == 'CORE-ASTAR' -%}
-              <span class="badge core">CORE A*</span>
+              <span class="badge core core-astar">CORE A*</span>
             {%- elsif tag == 'CORE-N' -%}
+              <span class="badge core core-none">Unranked</span>
             {%- elsif tag contains 'CORE-' -%}
-              <span class="badge core">CORE {{ tag | remove: 'CORE-' }}</span>
+              {%- assign letter = tag | remove: 'CORE-' -%}
+              <span class="badge core core-{{ letter | downcase }}">CORE {{ letter }}</span>
             {%- endif -%}
           {%- endfor -%}
           {%- for area in conf.areas -%}

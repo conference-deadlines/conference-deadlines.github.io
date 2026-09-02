@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Conference deadline countdown">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+
+  <!-- stopwatch crown and stem -->
+  <rect x="26" y="6" width="12" height="6" rx="2.5" fill="#fff"/>
+  <rect x="29.5" y="11" width="5" height="5" fill="#fff"/>
+
+  <!-- dial -->
+  <circle cx="32" cy="38" r="17" fill="none" stroke="#fff" stroke-width="5"/>
+
+  <!-- hands, set near the hour to read as "time nearly up" -->
+  <path d="M32 38 V27" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M32 38 H41" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</svg>

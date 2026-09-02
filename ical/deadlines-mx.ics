@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Interdisciplinary & Emerging
 BEGIN:VEVENT
-UID:isbra-2025-0-paper@conference-deadlines
-DTSTAMP:20250402T115959Z
-DTSTART:20250402T115959Z
-DTEND:20250402T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISBRA 2025 deadline
-DESCRIPTION:International Symposium on Bioinformatics Research and Applicat
- ions\nhttps://www.helsinki.fi/en/conferences/isbra2025\nLocation: Helsinki
- \, Finland
-URL:https://www.helsinki.fi/en/conferences/isbra2025
-END:VEVENT
-BEGIN:VEVENT
 UID:recomb-2026-0-abstract@conference-deadlines
 DTSTAMP:20251108T115959Z
 DTSTART:20251108T115959Z

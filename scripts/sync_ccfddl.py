@@ -73,6 +73,13 @@ CORE_TAGS = {"A*": "CORE-ASTAR", "A": "CORE-A", "B": "CORE-B", "C": "CORE-C"}
 # Cap on how many upcoming rounds of a rolling-deadline venue we render.
 MAX_UPCOMING = 3
 
+# Drop a conference once its newest known deadline is this old. Upstream keeps
+# entries for venues that stopped being updated years ago (LISA's last record is
+# 2021), and a tracker that lists a deadline five years gone is just wrong. A
+# year is generous enough to keep venues whose next cycle simply is not
+# announced yet.
+STALE_AFTER_DAYS = 365
+
 
 def load_sources(offline: pathlib.Path | None) -> tuple[dict[str, list[tuple[str, str]]], str]:
     """Return ({area: [(filename, yaml_text), ...]}, types_yaml_text)."""
@@ -186,7 +193,16 @@ def build_deadlines(edition: dict) -> list[dict]:
             record["comment"] = str(comment).strip()
         abstract = parse_stamp(entry.get("abstract_deadline"), tz)
         if abstract:
-            record["abstract"] = abstract
+            # A handful of upstream records have the two dates crossed (often a
+            # stale year on one of them). We cannot tell which is right, and a
+            # wrong abstract date is worse than none, so drop it.
+            if abstract >= when:
+                print(
+                    f"  ! abstract {abstract} not before deadline {when}; dropping abstract",
+                    file=sys.stderr,
+                )
+            else:
+                record["abstract"] = abstract
         deadlines.append(record)
     deadlines.sort(key=lambda d: d["date"])
     return deadlines
@@ -281,7 +297,15 @@ def build_records(area_files: dict[str, list[tuple[str, str]]], now: dt.datetime
                 record = to_record(conf, area, now)
                 if not record or not record["name"]:
                     continue
-                key = record["name"].lower()
+                # Keying on the name alone merged distinct conferences that
+                # share an abbreviation -- FSE is both Fast Software Encryption
+                # (security) and Foundations of Software Engineering. Include
+                # the DBLP id (or the full name) so only genuine cross-listings
+                # of the same venue merge.
+                key = (
+                    record["name"].lower(),
+                    (conf.get("dblp") or record["description"]).lower(),
+                )
                 existing = records.get(key)
                 if existing:
                     # Same venue listed under two areas: merge the area tags
@@ -295,8 +319,21 @@ def build_records(area_files: dict[str, list[tuple[str, str]]], now: dt.datetime
                     continue
                 records[key] = record
 
+    cutoff = now - dt.timedelta(days=STALE_AFTER_DAYS)
+    live, stale = [], []
+    for record in records.values():
+        newest = max(dt.datetime.fromisoformat(d["date"]) for d in record["deadlines"])
+        (stale if newest < cutoff else live).append(record)
+
+    if stale:
+        print(
+            f"  dropped {len(stale)} conferences with no deadline in the last "
+            f"{STALE_AFTER_DAYS} days",
+            file=sys.stderr,
+        )
+
     return sorted(
-        records.values(),
+        live,
         key=lambda r: dt.datetime.fromisoformat(r["deadlines"][0]["date"]),
     )
 

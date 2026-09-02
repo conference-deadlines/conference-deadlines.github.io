@@ -12,6 +12,18 @@
   --chip-bg: #eef1f5;
   --chip-on: #1f6feb;
   --shadow: 0 1px 2px rgba(16, 24, 40, .06);
+
+  /* One hue per CORE rank, used by both the badge and the card's edge. */
+  --rank-astar: #7c3aed;
+  --rank-a: #1f6feb;
+  --rank-b: #0d9488;
+  --rank-c: #b45309;
+  --rank-none: #8b929c;
+
+  /* Countdown urgency. */
+  --due-now: #dc2626;
+  --due-soon: #ea580c;
+  --due-near: #b45309;
 }
 
 /* Dark applies when the system asks for it and the user has not forced
@@ -30,6 +42,16 @@
     --chip-bg: #21262d;
     --chip-on: #1f6feb;
     --shadow: none;
+
+    --rank-astar: #a78bfa;
+    --rank-a: #58a6ff;
+    --rank-b: #2dd4bf;
+    --rank-c: #fbbf24;
+    --rank-none: #6b7480;
+
+    --due-now: #f87171;
+    --due-soon: #fb923c;
+    --due-near: #fbbf24;
   }
 }
 
@@ -46,6 +68,16 @@
   --chip-bg: #21262d;
   --chip-on: #1f6feb;
   --shadow: none;
+
+  --rank-astar: #a78bfa;
+  --rank-a: #58a6ff;
+  --rank-b: #2dd4bf;
+  --rank-c: #fbbf24;
+  --rank-none: #6b7480;
+
+  --due-now: #f87171;
+  --due-soon: #fb923c;
+  --due-near: #fbbf24;
 }
 
 * { box-sizing: border-box; }
@@ -311,9 +343,11 @@ a:hover { text-decoration: underline; }
 
 /* ---------- conference cards ---------- */
 
-.conf-list { display: flex; flex-direction: column; gap: 10px; }
+.conf-list { display: flex; flex-direction: column; gap: 8px; }
 
 .conf {
+  --rank: var(--rank-none);
+  border-left: 4px solid var(--rank);
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
@@ -324,7 +358,20 @@ a:hover { text-decoration: underline; }
   border: 1px solid var(--border);
   border-radius: 10px;
   box-shadow: var(--shadow);
+  transition: border-color .15s ease, transform .15s ease;
 }
+
+.conf:hover { border-color: var(--muted); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .conf:hover { transform: translateY(-1px); }
+}
+
+.conf.rank-astar { --rank: var(--rank-astar); }
+.conf.rank-a     { --rank: var(--rank-a); }
+.conf.rank-b     { --rank: var(--rank-b); }
+.conf.rank-c     { --rank: var(--rank-c); }
+.conf.rank-none  { --rank: var(--border); }
 
 .conf[hidden] { display: none; }
 .conf.past { opacity: .55; }
@@ -358,7 +405,12 @@ a:hover { text-decoration: underline; }
   color: var(--muted);
 }
 
-.badge.core { background: var(--accent); color: #fff; }
+.badge.core { background: var(--rank, var(--rank-none)); color: #fff; }
+.badge.core-astar { --rank: var(--rank-astar); }
+.badge.core-a     { --rank: var(--rank-a); }
+.badge.core-b     { --rank: var(--rank-b); }
+.badge.core-c     { --rank: var(--rank-c); }
+.badge.core-none  { --rank: transparent; color: var(--muted); border: 1px solid var(--border); }
 
 .desc { margin: 0 0 4px; font-size: 14px; color: var(--text); }
 .conf .meta { margin: 0; font-size: 13px; }
@@ -386,7 +438,7 @@ a:hover { text-decoration: underline; }
 }
 
 .dl-abstract { border-left: 3px solid var(--muted); }
-.dl-paper { border-left: 3px solid var(--accent); }
+.dl-paper { border-left: 3px solid var(--rank); }
 
 .dl-label {
   grid-area: label;
@@ -405,7 +457,9 @@ a:hover { text-decoration: underline; }
   font-variant-numeric: tabular-nums;
 }
 
-.dl-timer.urgent { color: var(--urgent); }
+.dl-timer.due-now  { color: var(--due-now); }
+.dl-timer.due-soon { color: var(--due-soon); }
+.dl-timer.due-near { color: var(--due-near); }
 .dl-timer.passed { font-size: 14px; font-weight: 400; color: var(--past); }
 
 .dl-date {

@@ -5,28 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Networking
 BEGIN:VEVENT
-UID:ipsn-2022-0-abstract@conference-deadlines
-DTSTAMP:20211023T115959Z
-DTSTART:20211023T115959Z
-DTEND:20211023T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IPSN 2022 abstract deadline
-DESCRIPTION:ACM/IEEE International Conference on Information Processing in 
- Sensor Networks\nhttps://ipsn.acm.org/2022/\nLocation: Milan\, Italy
-URL:https://ipsn.acm.org/2022/
-END:VEVENT
-BEGIN:VEVENT
-UID:ipsn-2022-0-paper@conference-deadlines
-DTSTAMP:20211030T115959Z
-DTSTART:20211030T115959Z
-DTEND:20211030T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IPSN 2022 deadline
-DESCRIPTION:ACM/IEEE International Conference on Information Processing in 
- Sensor Networks\nhttps://ipsn.acm.org/2022/\nLocation: Milan\, Italy
-URL:https://ipsn.acm.org/2022/
-END:VEVENT
-BEGIN:VEVENT
 UID:mobisys-2026-0-abstract@conference-deadlines
 DTSTAMP:20251129T115959Z
 DTSTART:20251129T115959Z

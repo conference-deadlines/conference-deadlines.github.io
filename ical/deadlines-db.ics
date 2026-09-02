@@ -262,72 +262,6 @@ DESCRIPTION:International Conference on Innovative Data Systems Research\nh
 URL:https://www.cidrdb.org/cidr2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:vldb-2027-0-abstract@conference-deadlines
-DTSTAMP:20260826T000000Z
-DTSTART:20260826T000000Z
-DTEND:20260826T003000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 abstract deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-0-paper@conference-deadlines
-DTSTAMP:20260902T000000Z
-DTSTART:20260902T000000Z
-DTEND:20260902T003000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-1-abstract@conference-deadlines
-DTSTAMP:20260926T000000Z
-DTSTART:20260926T000000Z
-DTEND:20260926T003000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 abstract deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-1-paper@conference-deadlines
-DTSTAMP:20261002T000000Z
-DTSTART:20261002T000000Z
-DTEND:20261002T003000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-2-abstract@conference-deadlines
-DTSTAMP:20261026T000000Z
-DTSTART:20261026T000000Z
-DTEND:20261026T003000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 abstract deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-2-paper@conference-deadlines
-DTSTAMP:20261102T010000Z
-DTSTART:20261102T010000Z
-DTEND:20261102T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:icdt-2027-0-abstract@conference-deadlines
 DTSTAMP:20260904T115959Z
 DTSTART:20260904T115959Z
@@ -370,6 +304,72 @@ SUMMARY:ADMA 2026 deadline (Encore Paper)
 DESCRIPTION:The International Conference on Advanced Data Mining and Applic
  ations\nhttps://adma2026.github.io/\nLocation: Hong Kong\, China
 URL:https://adma2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-0-abstract@conference-deadlines
+DTSTAMP:20260926T000000Z
+DTSTART:20260926T000000Z
+DTEND:20260926T003000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 abstract deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-0-paper@conference-deadlines
+DTSTAMP:20261002T000000Z
+DTSTART:20261002T000000Z
+DTEND:20261002T003000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-1-abstract@conference-deadlines
+DTSTAMP:20261026T000000Z
+DTSTART:20261026T000000Z
+DTEND:20261026T003000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 abstract deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-1-paper@conference-deadlines
+DTSTAMP:20261102T010000Z
+DTSTART:20261102T010000Z
+DTEND:20261102T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-2-abstract@conference-deadlines
+DTSTAMP:20261126T010000Z
+DTSTART:20261126T010000Z
+DTEND:20261126T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 abstract deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-2-paper@conference-deadlines
+DTSTAMP:20261202T010000Z
+DTSTART:20261202T010000Z
+DTEND:20261202T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecir-2027-0-abstract@conference-deadlines
