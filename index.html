@@ -14,6 +14,7 @@ layout: null
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/static/img/apple-touch-icon.png' | relative_url }}">
   <meta name="theme-color" content="#1d4ed8">
 
+  <script id="i18n-data" type="application/json">{{ site.data.i18n | jsonify }}</script>
   <meta name="site-build" content="{{ site.time | date: '%s' }}">
   {%- if site.goatcounter_code and site.goatcounter_code != "" %}
   <meta name="goatcounter-code" content="{{ site.goatcounter_code }}">
@@ -47,21 +48,28 @@ layout: null
                  2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48
                  0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/>
       </svg>
-      <span>Star</span>
+      <span data-i18n="star">Star</span>
       <span class="gh-count" id="gh-count" hidden></span>
     </a>
 
     <div class="pref">
-      <label for="tz-select" class="visually-hidden">Timezone</label>
+      <label for="tz-select" class="visually-hidden" data-i18n="timezone">Timezone</label>
       <span class="pref-icon" aria-hidden="true">&#127760;</span>
       <select id="tz-select"></select>
     </div>
     <div class="pref">
-      <span id="theme-label" class="visually-hidden">Theme</span>
+      <span id="lang-label" class="visually-hidden" data-i18n="language">Language</span>
+      <div class="segmented" role="group" aria-labelledby="lang-label">
+        <button type="button" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" data-lang="vi" aria-pressed="false">VI</button>
+      </div>
+    </div>
+    <div class="pref">
+      <span id="theme-label" class="visually-hidden" data-i18n="theme">Theme</span>
       <div class="segmented" role="group" aria-labelledby="theme-label">
-        <button type="button" data-theme-choice="system" aria-pressed="true">Auto</button>
-        <button type="button" data-theme-choice="light" aria-pressed="false">Light</button>
-        <button type="button" data-theme-choice="dark" aria-pressed="false">Dark</button>
+        <button type="button" data-theme-choice="system" aria-pressed="true" data-i18n="theme_auto">Auto</button>
+        <button type="button" data-theme-choice="light" aria-pressed="false" data-i18n="theme_light">Light</button>
+        <button type="button" data-theme-choice="dark" aria-pressed="false" data-i18n="theme_dark">Dark</button>
       </div>
     </div>
   </div>
@@ -70,16 +78,20 @@ layout: null
 <header class="masthead">
   <div class="wrap">
     <h1>{{ site.title }}</h1>
-    <p class="tagline">{{ site.tagline }}</p>
+    <p class="tagline" data-i18n="tagline">{{ site.tagline }}</p>
     <p class="meta">
-      {{ site.data.conferences | size }} conferences across ten research areas.
-      Last updated {{ site.time | date: "%-d %B %Y" }}.
+      <span id="summary-line"
+            data-count="{{ site.data.conferences | size }}"
+            data-updated="{{ site.time | date_to_xmlschema }}">
+        {{ site.data.conferences | size }} conferences across ten research areas.
+        Last updated {{ site.time | date: "%-d %B %Y" }}.
+      </span>
     </p>
 
     <p class="meta">
       <span id="tz-note">All times are shown in your local timezone.</span>
-      Subscribe via iCal:
-      <a href="{{ '/ical/deadlines-all.ics' | relative_url }}">all areas</a>{% for area in site.data.areas %},
+      <span data-i18n="ical">Subscribe via iCal:</span>
+      <a href="{{ '/ical/deadlines-all.ics' | relative_url }}" data-i18n="ical_all">all areas</a>{% for area in site.data.areas %},
       <a href="{{ '/ical/deadlines-' | append: area.tag | downcase | append: '.ics' | relative_url }}">{{ area.label }}</a>{% endfor %}.
     </p>
   </div>
@@ -89,16 +101,22 @@ layout: null
 
   <section class="controls" aria-label="Filters">
     <div class="control-row">
-      <input type="search" id="search" placeholder="Search by name, description or location…" autocomplete="off">
+      <input type="search" id="search" data-i18n-placeholder="search" placeholder="Search by name, description or location…" autocomplete="off">
       <label class="toggle">
         <input type="checkbox" id="hide-tba">
-        Only announced deadlines
+        <span data-i18n="only_announced">Only announced deadlines</span>
       </label>
-      <button type="button" id="reset" class="reset">Reset filters</button>
+      <select id="country-select" aria-label="Country">
+        <option value="" data-i18n="all_countries">All countries</option>
+        {%- for c in site.data.countries %}
+        <option value="{{ c.name }}">{{ c.name }} ({{ c.count }})</option>
+        {%- endfor %}
+      </select>
+      <button type="button" id="reset" class="reset" data-i18n="reset">Reset filters</button>
     </div>
 
     <fieldset class="filter-group" data-group="area">
-      <legend>Research area</legend>
+      <legend data-i18n="research_area">Research area</legend>
       {% for area in site.data.areas %}
       <label class="chip" title="{{ area.name }}">
         <input type="checkbox" value="{{ area.tag }}"> {{ area.label }}
@@ -108,12 +126,12 @@ layout: null
 
 
     <fieldset class="filter-group" data-group="core">
-      <legend><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" rel="noopener">CORE</a> rank</legend>
+      <legend><a href="https://portal.core.edu.au/conf-ranks/" target="_blank" rel="noopener">CORE</a> <span data-i18n="core_rank">rank</span></legend>
       {% assign core_ranks = "CORE-ASTAR,CORE-A,CORE-B,CORE-C,CORE-N" | split: "," %}
       {% for rank in core_ranks %}
       <label class="chip">
         <input type="checkbox" value="{{ rank }}">
-        {% if rank == "CORE-ASTAR" %}A*{% elsif rank == "CORE-N" %}Unranked{% else %}{{ rank | remove: "CORE-" }}{% endif %}
+        {% if rank == "CORE-ASTAR" %}A*{% elsif rank == "CORE-N" %}<span data-i18n="unranked">Unranked</span>{% else %}{{ rank | remove: "CORE-" }}{% endif %}
       </label>
       {% endfor %}
     </fieldset>
@@ -140,12 +158,13 @@ layout: null
              {% if deadline.abstract %}data-abstract="{{ deadline.abstract }}"{% endif %}
              data-state="{% if conf.tba %}tba{% else %}announced{% endif %}"
              data-tags="{{ conf.areas | join: ' ' }} {{ conf.tags | join: ' ' }}"
+             data-country="{{ conf.country }}"
              data-search="{{ conf.name | downcase }} {{ conf.description | downcase }} {{ conf.place | downcase }}">
 
       <div class="conf-main">
         <h2>
           <a href="{{ conf.link }}" target="_blank" rel="noopener">{{ conf.name }} {{ conf.year }}</a>
-          {% if total > 1 %}<span class="cycle">round {{ index }} of {{ total }}</span>{% endif %}
+          {% if total > 1 %}<span class="cycle" data-i18n-round data-n="{{ index }}" data-total="{{ total }}">round {{ index }} of {{ total }}</span>{% endif %}
         </h2>
 
         <p class="badges">
@@ -186,20 +205,20 @@ layout: null
       <div class="conf-times">
         {%- if conf.tba %}
         <div class="dl dl-tba">
-          <span class="dl-label">Next round</span>
-          <span class="dl-timer tba">TBA</span>
+          <span class="dl-label" data-i18n="next_round">Next round</span>
+          <span class="dl-timer tba" data-i18n="tba">TBA</span>
           <span class="dl-date dl-previous" data-previous="{{ deadline.date }}"></span>
         </div>
         {%- else %}
         {%- if deadline.abstract %}
         <div class="dl dl-abstract">
-          <span class="dl-label">Abstract</span>
+          <span class="dl-label" data-i18n="abstract">Abstract</span>
           <span class="dl-timer" data-timer="abstract">…</span>
           <span class="dl-date" data-date="abstract">{{ deadline.abstract }}</span>
         </div>
         {%- endif %}
         <div class="dl dl-paper">
-          <span class="dl-label">{% if deadline.abstract %}Full paper{% else %}Deadline{% endif %}</span>
+          <span class="dl-label" data-i18n="{% if deadline.abstract %}full_paper{% else %}deadline{% endif %}">{% if deadline.abstract %}Full paper{% else %}Deadline{% endif %}</span>
           <span class="dl-timer" data-timer="paper">…</span>
           <span class="dl-date" data-date="paper">{{ deadline.date }}</span>
         </div>
@@ -210,7 +229,7 @@ layout: null
     {% endfor %}
   </main>
 
-  <p class="empty" id="empty" hidden>No conferences match these filters.</p>
+  <p class="empty" id="empty" data-i18n="empty" hidden>No conferences match these filters.</p>
 
   <footer>
     <p>
@@ -226,15 +245,15 @@ layout: null
       <span id="stats-visitors"></span> visitors.
     </p>
     <p>
-      Always confirm against the official call for papers —
-      <a href="https://github.com/{{ site.github_org }}/{{ site.github_repo }}" target="_blank" rel="noopener">report a problem</a>.
+      <span data-i18n="confirm_cfp">Always confirm against the official call for papers —</span>
+      <a href="https://github.com/{{ site.github_org }}/{{ site.github_repo }}" target="_blank" rel="noopener" data-i18n="report">report a problem</a>.
     </p>
   </footer>
 </div>
 
 <div id="update-banner" class="update-banner" role="status" hidden>
-  <span>Deadline data has been updated.</span>
-  <button type="button" id="update-reload">Reload</button>
+  <span data-i18n="updated_banner">Deadline data has been updated.</span>
+  <button type="button" id="update-reload" data-i18n="reload">Reload</button>
   <button type="button" id="update-dismiss" aria-label="Dismiss">&times;</button>
 </div>
 

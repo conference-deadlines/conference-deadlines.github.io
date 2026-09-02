@@ -35,6 +35,7 @@ AREAS = ("DS", "NW", "SC", "SE", "DB", "CT", "CG", "AI", "HI", "MX")
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA_FILE = REPO_ROOT / "_data" / "conferences.yml"
 AREAS_FILE = REPO_ROOT / "_data" / "areas.yml"
+COUNTRIES_FILE = REPO_ROOT / "_data" / "countries.yml"
 ICAL_DIR = REPO_ROOT / "ical"
 
 # Civil-time abbreviations upstream uses that need real DST rules.
@@ -66,6 +67,75 @@ AREA_LABELS = {
     "AI": "Artificial Intelligence",
     "HI": "HCI & Ubiquitous Computing",
     "MX": "Interdisciplinary & Emerging",
+}
+
+# Upstream writes locations as free text ("Salt Lake City, Utah", "MONTREAL,
+# CANADA", "Chania, Greec"), so the country has to be recovered rather than read
+# off a field. Everything below exists to make that recovery reliable.
+COUNTRY_ALIASES = {
+    "usa": "United States", "u.s.a": "United States", "u.s.a.": "United States",
+    "us": "United States", "u.s.": "United States", "united states": "United States",
+    "united state": "United States", "united states of america": "United States",
+    "uk": "United Kingdom", "u.k.": "United Kingdom", "england": "United Kingdom",
+    "scotland": "United Kingdom", "wales": "United Kingdom",
+    "northern ireland": "United Kingdom", "great britain": "United Kingdom",
+    "united kingdom": "United Kingdom",
+    "korea": "South Korea", "republic of korea": "South Korea",
+    "south korea": "South Korea", "korea, republic of": "South Korea",
+    "the netherlands": "Netherlands", "netherlands": "Netherlands", "holland": "Netherlands",
+    "czech republic": "Czechia", "czechia": "Czechia",
+    "u.a.e.": "United Arab Emirates", "u.a.e": "United Arab Emirates",
+    "uae": "United Arab Emirates",
+    "united arab emirates": "United Arab Emirates",
+    "greec": "Greece",          # upstream typo
+    "taiwan， china": "Taiwan", "taiwan, china": "Taiwan", "taiwan": "Taiwan",
+    "russian federation": "Russia", "viet nam": "Vietnam",
+    "hong kong sar": "Hong Kong", "macau sar": "Macau",
+}
+
+# A location ending in a US state (or state code) is in the United States.
+US_STATES = {
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine",
+    "maryland", "massachusetts", "michigan", "minnesota", "mississippi",
+    "missouri", "montana", "nebraska", "nevada", "new hampshire", "new jersey",
+    "new mexico", "new york", "north carolina", "north dakota", "ohio",
+    "oklahoma", "oregon", "pennsylvania", "rhode island", "south carolina",
+    "south dakota", "tennessee", "texas", "utah", "vermont", "virginia",
+    "washington", "west virginia", "wisconsin", "wyoming",
+    "district of columbia", "washington dc", "washington d.c.",
+    "al", "ak", "az", "ar", "ca", "co", "ct", "de", "fl", "ga", "hi", "id",
+    "il", "in", "ia", "ks", "ky", "la", "ma", "md", "me", "mi", "mn", "mo",
+    "ms", "mt", "nc", "nd", "ne", "nh", "nj", "nm", "nv", "ny", "oh", "ok",
+    "or", "pa", "ri", "sc", "sd", "tn", "tx", "ut", "va", "vt", "wa", "wi",
+    "wv", "wy", "dc",
+}
+
+# Cities upstream sometimes gives without a country.
+CITY_COUNTRY = {
+    "mexico city": "Mexico", "singapore": "Singapore", "hong kong": "Hong Kong",
+    "macau": "Macau", "luxembourg": "Luxembourg", "monaco": "Monaco",
+}
+
+# Locations that are not places at all.
+NON_PLACES = {"virtual", "online", "tbd", "tba", "hybrid", "remote", "n/a", ""}
+
+# Countries that appear as a bare token; anything not otherwise recognised is
+# accepted at face value when it looks like a name rather than a street address.
+COUNTRY_HINTS = {
+    "china", "italy", "australia", "germany", "portugal", "japan", "canada",
+    "france", "greece", "spain", "brazil", "belgium", "morocco", "ireland",
+    "switzerland", "vietnam", "india", "sweden", "thailand", "iceland",
+    "finland", "austria", "mexico", "denmark", "norway", "poland", "turkey",
+    "israel", "chile", "argentina", "colombia", "peru", "egypt", "kenya",
+    "nigeria", "south africa", "new zealand", "malaysia", "indonesia",
+    "philippines", "lithuania", "hungary", "slovakia", "slovenia", "croatia",
+    "serbia", "romania", "bulgaria", "estonia", "latvia", "cyprus", "malta",
+    "cambodia", "panama", "barbados", "costa rica", "uruguay", "qatar",
+    "saudi arabia", "jordan", "lebanon", "pakistan", "bangladesh", "sri lanka",
+    "nepal", "russia", "ukraine", "belarus", "kazakhstan", "iran", "iraq",
+    "tunisia", "algeria", "ghana", "tanzania", "uganda", "ethiopia", "senegal",
 }
 
 CORE_TAGS = {"A*": "CORE-ASTAR", "A": "CORE-A", "B": "CORE-B", "C": "CORE-C"}
@@ -248,6 +318,46 @@ def trim_deadlines(deadlines: list[dict], now: dt.datetime) -> list[dict]:
     return deadlines[-1:]
 
 
+def country_for(place: str | None) -> str | None:
+    """Recover the country from an upstream free-text location.
+
+    Works right-to-left through the comma-separated parts, since the country is
+    normally last but sometimes trails a state ("Salt Lake City, Utah") or an
+    aside ("Toronto, Canada & Virtual").
+    """
+    if not place:
+        return None
+
+    cleaned = place.replace("\uff0c", ",")           # fullwidth comma
+    cleaned = re.sub(r"\(.*?\)", " ", cleaned)        # "(hybrid)", "(tentative)"
+    cleaned = re.sub(r"\s*(?:&|and)\s+(?:online|virtual|hybrid|remote)\b", " ",
+                     cleaned, flags=re.IGNORECASE)
+
+    parts = [part.strip(" .\t") for part in cleaned.split(",")]
+    parts = [part for part in parts if part]
+
+    for part in reversed(parts):
+        key = part.lower().strip(" .")
+        if key in NON_PLACES:
+            continue
+        if key in COUNTRY_ALIASES:
+            return COUNTRY_ALIASES[key]
+        if key in US_STATES:
+            return "United States"
+        if key in CITY_COUNTRY:
+            return CITY_COUNTRY[key]
+        if key in COUNTRY_HINTS:
+            return part.strip().title() if part.isupper() or part.islower() else part.strip()
+
+    # Nothing matched: accept a plausible trailing name rather than lose it, but
+    # reject anything that looks like a venue or street line.
+    if parts:
+        last = parts[-1]
+        if last.lower() not in NON_PLACES and len(last) > 2 and not any(c.isdigit() for c in last):
+            return last.strip().title() if last.isupper() else last.strip()
+    return None
+
+
 def tags_for(conf: dict) -> list[str]:
     """Rank tags shown on a card. Only the CORE ranking is surfaced -- the CCF
     catalogue is used to decide which venues exist, not to rank them here."""
@@ -288,6 +398,9 @@ def to_record(conf: dict, area: str, now: dt.datetime) -> dict | None:
         record["date"] = str(edition["date"]).strip()
     if edition.get("place"):
         record["place"] = str(edition["place"]).strip()
+        country = country_for(record["place"])
+        if country:
+            record["country"] = country
     return record
 
 
@@ -490,6 +603,20 @@ def main() -> int:
     body = yaml.safe_dump(records, allow_unicode=True, sort_keys=False, width=1000)
     DATA_FILE.write_text(header + body, encoding="utf-8")
     print(f"wrote {DATA_FILE.relative_to(REPO_ROOT)}", file=sys.stderr)
+
+    counts: dict[str, int] = {}
+    for record in records:
+        if record.get("country"):
+            counts[record["country"]] = counts.get(record["country"], 0) + 1
+    COUNTRIES_FILE.write_text(
+        "# Generated by scripts/sync_ccfddl.py -- do not edit by hand.\n"
+        + yaml.safe_dump(
+            [{"name": n, "count": c} for n, c in sorted(counts.items())],
+            allow_unicode=True, sort_keys=False,
+        ),
+        encoding="utf-8",
+    )
+    print(f"wrote {COUNTRIES_FILE.relative_to(REPO_ROOT)} ({len(counts)} countries)", file=sys.stderr)
 
     areas = write_areas(types_yaml)
     print(f"wrote {AREAS_FILE.relative_to(REPO_ROOT)} ({len(areas)} areas)", file=sys.stderr)

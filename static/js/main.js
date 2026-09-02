@@ -11,6 +11,7 @@
   var cards = Array.prototype.slice.call(document.querySelectorAll('.conf'));
   var searchBox = document.getElementById('search');
   var hideTba = document.getElementById('hide-tba');
+  var countrySelect = document.getElementById('country-select');
   var resetButton = document.getElementById('reset');
   var resultCount = document.getElementById('result-count');
   var emptyNote = document.getElementById('empty');
@@ -21,6 +22,7 @@
   var themeButtons = Array.prototype.slice.call(
     document.querySelectorAll('[data-theme-choice]'));
 
+  var LANG_KEY = 'conference-deadlines-lang';
   var STORE_KEY = 'conference-deadlines-filters';
   var TZ_KEY = 'conference-deadlines-timezone';
   var THEME_KEY = 'conference-deadlines-theme';
@@ -32,6 +34,34 @@
 
   function writeStore(key, value) {
     try { window.localStorage.setItem(key, value); } catch (e) { /* storage blocked */ }
+  }
+
+  /* ---------- language ----------
+   *
+   * Only the interface translates. Conference names, descriptions and places
+   * stay as published -- they are official titles, not prose, and a machine
+   * rendering of "Fast Software Encryption" helps nobody. */
+
+  var TRANSLATIONS = {};
+  try {
+    TRANSLATIONS = JSON.parse(document.getElementById('i18n-data').textContent);
+  } catch (e) { TRANSLATIONS = { en: {} }; }
+
+  var LOCALES = { en: undefined, vi: 'vi-VN' };
+  var lang = readStore(LANG_KEY);
+  if (!TRANSLATIONS[lang]) lang = 'en';
+
+  function t(key, vars) {
+    var table = TRANSLATIONS[lang] || TRANSLATIONS.en || {};
+    var text = table[key];
+    if (text === undefined) text = (TRANSLATIONS.en || {})[key];
+    if (text === undefined) return key;
+    if (vars) {
+      Object.keys(vars).forEach(function (name) {
+        text = text.replace('%{' + name + '}', vars[name]);
+      });
+    }
+    return text;
   }
 
   /* ---------- timezone ---------- */
@@ -63,12 +93,13 @@
       year: 'numeric', month: 'short', day: 'numeric',
       hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
     };
+    var locale = LOCALES[lang];
     try {
       options.timeZone = currentZone;
-      dateFormat = new Intl.DateTimeFormat(undefined, options);
+      dateFormat = new Intl.DateTimeFormat(locale, options);
     } catch (e) {
       delete options.timeZone;
-      dateFormat = new Intl.DateTimeFormat(undefined, options);
+      dateFormat = new Intl.DateTimeFormat(locale, options);
     }
   }
 
@@ -111,6 +142,13 @@
     ];
   }
 
+  function rebuildZonePicker() {
+    var keep = tzSelect.value;
+    tzSelect.textContent = '';
+    buildZonePicker();
+    if (keep) tzSelect.value = keep;
+  }
+
   function buildZonePicker() {
     var frag = document.createDocumentFragment();
 
@@ -123,8 +161,8 @@
 
     var common = document.createElement('optgroup');
     common.label = 'Common';
-    common.appendChild(option(localZone, 'Local — ' + zoneLabel(localZone)));
-    common.appendChild(option(AOE, 'Anywhere on Earth (AoE) — the deadline standard'));
+    common.appendChild(option(localZone, t('local_time') + ' — ' + zoneLabel(localZone)));
+    common.appendChild(option(AOE, t('aoe')));
     common.appendChild(option('UTC', zoneLabel('UTC')));
     frag.appendChild(common);
 
@@ -155,9 +193,9 @@
       ? 'Anywhere on Earth (UTC-12)'
       : currentZone.replace(/_/g, ' ');
     var offset = offsetOf(currentZone);
-    tzNote.textContent = 'All times are shown in ' + label +
-      (offset && currentZone !== AOE ? ', ' + offset : '') +
-      (currentZone === localZone ? ' (your local timezone).' : '.');
+    if (offset && currentZone !== AOE) label += ', ' + offset;
+    tzNote.textContent = t(
+      currentZone === localZone ? 'times_local' : 'times_in', { zone: label });
   }
 
   /* ---------- model ---------- */
@@ -179,6 +217,7 @@
       paper: isNaN(paper) ? null : paper,
       abstract: abstract && !isNaN(abstract) ? abstract : null,
       tags: (card.getAttribute('data-tags') || '').split(/\s+/).filter(Boolean),
+      country: card.getAttribute('data-country') || '',
       haystack: card.getAttribute('data-search') || '',
       timers: {
         paper: card.querySelector('[data-timer="paper"]'),
@@ -194,7 +233,7 @@
       entry.dateNodes.forEach(function (node) {
         if (node.classList.contains('dl-previous')) {
           if (entry.previous && !isNaN(entry.previous)) {
-            node.textContent = 'Last round ' + dateFormat.format(entry.previous);
+            node.textContent = t('last_round', { date: dateFormat.format(entry.previous) });
           }
           return;
         }
@@ -223,10 +262,10 @@
     var days = Math.floor(ms / 86400000);
     if (days >= 365) {
       var years = Math.floor(days / 365);
-      return years + (years === 1 ? ' year ago' : ' years ago');
+      return t(years === 1 ? 'years_ago_one' : 'years_ago_many', { n: years });
     }
-    if (days >= 1) return days + (days === 1 ? ' day ago' : ' days ago');
-    return 'today';
+    if (days >= 1) return t(days === 1 ? 'days_ago_one' : 'days_ago_many', { n: days });
+    return t('today');
   }
 
   var DAY = 86400000;
@@ -303,6 +342,7 @@
   function applyFilters() {
     var query = searchBox.value.trim().toLowerCase();
     var skipTba = hideTba.checked;
+    var country = countrySelect.value;
     var selections = groups.map(selectedIn);
     var shown = 0;
 
@@ -310,6 +350,8 @@
       var visible = true;
 
       if (skipTba && entry.tba) visible = false;
+
+      if (visible && country) visible = entry.country === country;
 
       if (visible && query) {
         visible = entry.haystack.indexOf(query) !== -1;
@@ -328,7 +370,7 @@
     });
 
     resultCount.textContent =
-      shown + (shown === 1 ? ' deadline' : ' deadlines') + ' shown';
+      t(shown === 1 ? 'shown_one' : 'shown_many', { count: shown });
     emptyNote.hidden = shown !== 0;
   }
 
@@ -349,6 +391,7 @@
     if (!saved) return;
 
     if (typeof saved.hideTba === 'boolean') hideTba.checked = saved.hideTba;
+    if (typeof saved.country === 'string') countrySelect.value = saved.country;
     if (!Array.isArray(saved.groups)) return;
 
     groups.forEach(function (group, i) {
@@ -515,14 +558,65 @@
     });
   });
 
+  /* ---------- applying a language ---------- */
+
+  function applyLanguage(next) {
+    lang = TRANSLATIONS[next] ? next : 'en';
+    document.documentElement.lang = lang;
+
+    document.querySelectorAll('[data-i18n]').forEach(function (node) {
+      node.textContent = t(node.getAttribute('data-i18n'));
+    });
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(function (node) {
+      node.placeholder = t(node.getAttribute('data-i18n-placeholder'));
+    });
+    document.querySelectorAll('[data-i18n-round]').forEach(function (node) {
+      node.textContent = t('round_of', {
+        n: node.getAttribute('data-n'), total: node.getAttribute('data-total')
+      });
+    });
+
+    var summary = document.getElementById('summary-line');
+    if (summary) {
+      var count = summary.getAttribute('data-count');
+      var updated = new Date(summary.getAttribute('data-updated'));
+      var shownDate = isNaN(updated) ? '' : new Intl.DateTimeFormat(LOCALES[lang], {
+        year: 'numeric', month: 'long', day: 'numeric'
+      }).format(updated);
+      summary.textContent = t('summary', { count: count }) + ' ' +
+        t('updated', { date: shownDate });
+    }
+
+    langButtons.forEach(function (button) {
+      button.setAttribute('aria-pressed',
+        button.getAttribute('data-lang') === lang ? 'true' : 'false');
+    });
+
+    // Anything rendered from data rather than markup has to be redrawn.
+    buildFormatter();
+    rebuildZonePicker();
+    updateZoneNote();
+    renderDates();
+    tick();
+    applyFilters();
+  }
+
+  var langButtons = Array.prototype.slice.call(document.querySelectorAll('[data-lang]'));
+  langButtons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      var next = button.getAttribute('data-lang');
+      writeStore(LANG_KEY, next);
+      applyLanguage(next);
+    });
+  });
+
   /* ---------- wiring ---------- */
 
   applyTheme(savedTheme);
 
   buildFormatter();
   buildZonePicker();
-  updateZoneNote();
-  renderDates();
+  applyLanguage(lang);
 
   tzSelect.addEventListener('change', function () {
     currentZone = tzSelect.value;
@@ -557,6 +651,11 @@
 
   searchBox.addEventListener('input', applyFilters);
 
+  countrySelect.addEventListener('change', function () {
+    saveState();
+    applyFilters();
+  });
+
   hideTba.addEventListener('change', function () {
     saveState();
     applyFilters();
@@ -572,6 +671,7 @@
   resetButton.addEventListener('click', function () {
     searchBox.value = '';
     hideTba.checked = false;
+    countrySelect.value = '';
     groups.forEach(function (group) {
       group.querySelectorAll('input').forEach(function (input) { input.checked = false; });
     });

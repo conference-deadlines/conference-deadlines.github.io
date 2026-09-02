@@ -252,6 +252,19 @@ a:hover { text-decoration: underline; }
   outline-offset: 1px;
 }
 
+#country-select {
+  padding: 8px 10px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  max-width: 220px;
+}
+
+#country-select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
 .toggle { font-size: 14px; color: var(--muted); white-space: nowrap; cursor: pointer; }
 .toggle input { margin-right: 5px; vertical-align: -1px; }
 

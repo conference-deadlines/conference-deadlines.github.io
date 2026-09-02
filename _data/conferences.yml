@@ -14,6 +14,7 @@
   dblp: https://dblp.org/db/conf/indocrypt/index.html
   date: December 14-17, 2025
   place: IIIT Bhubaneswar, Odisha, India
+  country: India
 - name: DFRWS
   description: Digital Forensic Research Workshop
   year: 2026
@@ -29,6 +30,7 @@
   dblp: https://dblp.org/db/conf/dfrws/index.html
   date: March 24-27, 2026
   place: Linköping, Sweden
+  country: Sweden
 - name: IFIP WG 11.9
   description: IFIP WG 11.9 International Conference on Digital Forensics
   year: 2026
@@ -44,6 +46,7 @@
   dblp: https://dblp.org/db/conf/NO DBLP/index.html
   date: January 5 - 6, 2026
   place: New Delhi, India
+  country: India
 - name: AISTATS
   description: International Conference on Artificial Intelligence and Statistics
   year: 2026
@@ -59,6 +62,7 @@
   dblp: https://dblp.org/db/conf/aistats/index.html
   date: May 2-5, 2026
   place: Morocco
+  country: Morocco
 - name: PerCom
   description: IEEE International Conference on Pervasive Computing and Communications
   year: 2026
@@ -73,6 +77,7 @@
   dblp: https://dblp.org/db/conf/percom/index.html
   date: March 16 - 20, 2026
   place: Pisa, Italy
+  country: Italy
 - name: NOMS
   description: IEEE/IFIP Network Operations and Management Symposium
   year: 2026
@@ -87,6 +92,7 @@
   dblp: https://dblp.org/db/conf/noms/index.html
   date: May 18-22, 2026
   place: Rome, Italy
+  country: Italy
 - name: PAM
   description: Passive and Active Measurement Conference
   year: 2026
@@ -116,6 +122,7 @@
   dblp: https://dblp.org/db/conf/etaps/index.html
   date: April 11-16, 2026
   place: Torino, Italy
+  country: Italy
 - name: ICPC
   description: IEEE International Conference on Program Comprehension
   year: 2026
@@ -131,6 +138,7 @@
   dblp: https://dblp.org/db/conf/icpc/index.html
   date: April 12-13, 2026
   place: Rio de Janeiro, Brazil
+  country: Brazil
 - name: MSR
   description: International Conference on Mining Software Repositories
   year: 2026
@@ -146,6 +154,7 @@
   dblp: https://dblp.org/db/conf/msr/index.html
   date: April 13-14, 2026
   place: Rio de Janeiro, Brazil
+  country: Brazil
 - name: DASFAA
   description: Database Systems for Advanced Applications
   year: 2026
@@ -161,6 +170,7 @@
   dblp: https://dblp.org/db/conf/dasfaa/index.html
   date: April 21-24, 2026
   place: Jeju Island, South Korea
+  country: South Korea
 - name: STOC
   description: ACM Symposium on the Theory of Computing
   year: 2026
@@ -175,6 +185,7 @@
   dblp: https://dblp.org/db/conf/stoc/index.html
   date: June 22-26, 2026
   place: Salt Lake City, Utah, USA
+  country: United States
 - name: PacificVis
   description: IEEE Pacific Visualization Symposium
   year: 2026
@@ -191,6 +202,7 @@
   dblp: https://dblp.org/db/conf/pacificvis/index.html
   date: April 20 - 23, 2026
   place: Sydney, Australia
+  country: Australia
 - name: CVPR
   description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   year: 2026
@@ -206,6 +218,7 @@
   dblp: https://dblp.org/db/conf/cvpr/index.html
   date: June 3-7, 2026
   place: Denver, Colorado, United States
+  country: United States
 - name: HSCC
   description: 'International Conference on Hybrid Systems: Computation and Control'
   year: 2026
@@ -221,6 +234,7 @@
   dblp: https://dblp.org/db/conf/hybrid/index.html
   date: May 11-14, 2026
   place: Saint Malo, France
+  country: France
 - name: RECOMB
   description: International Conference on Research inComputational Molecular Biology
   year: 2026
@@ -236,6 +250,7 @@
   dblp: https://dblp.org/db/conf/recomb/index.html
   date: May 26 - 29, 2026
   place: Thessaloniki, Greece
+  country: Greece
 - name: PAKDD
   description: Pacific-Asia Conference on Knowledge Discovery and Data Mining
   year: 2026
@@ -250,6 +265,7 @@
   dblp: https://dblp.org/db/conf/pakdd/index.html
   date: June 9-12, 2026
   place: Hong Kong, China
+  country: China
 - name: ISCA
   description: International Symposium on Computer Architecture
   year: 2026
@@ -265,6 +281,7 @@
   dblp: https://dblp.org/db/conf/isca/index.html
   date: June 27-July 1, 2026
   place: Raleigh, USA
+  country: United States
 - name: DAC
   description: Design Automation Conference
   year: 2026
@@ -280,6 +297,7 @@
   dblp: https://dblp.org/db/conf/dac/index.html
   date: July 26-29, 2026
   place: Long Beach, CA
+  country: United States
 - name: ESANN
   description: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
   year: 2026
@@ -294,6 +312,7 @@
   dblp: https://dblp.org/db/conf/esann/index.html
   date: April 22 - 24, 2026
   place: Bruges, Belgium and Online
+  country: Belgium
 - name: EuroS&P
   description: IEEE European Symposium on Security and Privacy
   year: 2026
@@ -308,6 +327,7 @@
   dblp: https://dblp.org/db/conf/eurosp/index.html
   date: July 6 - 10, 2026
   place: Lisbon, Portugal
+  country: Portugal
 - name: FSE
   description: Fast Software Encryption
   year: 2026
@@ -323,6 +343,7 @@
   dblp: https://dblp.org/db/conf/fse/index.html
   date: March 23-27, 2026
   place: Singapore, Singapore
+  country: Singapore
 - name: CAiSE
   description: International Conference on Advanced Information Systems Engineering
   year: 2026
@@ -338,6 +359,7 @@
   dblp: https://dblp.org/db/conf/caise/index.html
   date: June 8-12, 2026
   place: Verona, Italy
+  country: Italy
 - name: FM
   description: International Symposium on Formal Methods
   year: 2026
@@ -353,6 +375,7 @@
   dblp: https://dblp.org/db/conf/fm/index.html
   date: May 18-22, 2026
   place: Tokyo, Japan
+  country: Japan
 - name: SOCG
   description: International Symposium on Computational Geometry
   year: 2026
@@ -368,6 +391,7 @@
   dblp: https://dblp.org/db/conf/compgeom/index.html
   date: June 2-5, 2026
   place: New Brunswick, New Jersey, USA
+  country: United States
 - name: MobiSys
   description: ACM International Conference on Mobile Systems, Applications, and Services
   year: 2026
@@ -383,6 +407,7 @@
   dblp: https://dblp.org/db/conf/mobisys/index.html
   date: June 21-25, 2026
   place: Cambridge, UK
+  country: United Kingdom
 - name: WoWMoM
   description: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks
   year: 2026
@@ -398,6 +423,7 @@
   dblp: https://dblp.org/db/conf/wowmom/index.html
   date: June 16-19, 2026
   place: Bologna, Italy
+  country: Italy
 - name: CPAL
   description: The Conference on Parsimony and Learning
   year: 2026
@@ -412,6 +438,7 @@
   dblp: https://dblp.org/db/conf/cpal/index.html
   date: March 23-27, 2026
   place: Tübingen, Germany
+  country: Germany
 - name: ICAPS
   description: International Conference on Automated Planning and Scheduling
   year: 2026
@@ -427,6 +454,7 @@
   dblp: https://dblp.org/db/conf/icaps/index.html
   date: June 27 - July 2, 2026
   place: Dublin, Ireland
+  country: Ireland
 - name: ISPASS
   description: International Symposium on Performance Analysis of Systems and Software
   year: 2026
@@ -442,6 +470,7 @@
   dblp: https://dblp.org/db/conf/ispass/index.html
   date: April 26-28, 2026
   place: Seoul, South Korea
+  country: South Korea
 - name: SecureComm
   description: International Conference on Security and Privacy in Communication Networks
   year: 2026
@@ -456,6 +485,7 @@
   dblp: https://dblp.org/db/conf/securecomm/index.html
   date: July 21-24, 2026
   place: Lancaster, UK and hybrid
+  country: United Kingdom
 - name: GMP
   description: International Conference on Geometric Modeling and Processing
   year: 2026
@@ -471,6 +501,7 @@
   dblp: https://dblp.org/db/conf/gmp/index.html
   date: May 27-29, 2026
   place: Pilsen, Czech Republic
+  country: Czechia
 - name: SEC
   description: IFIP International Information Security Conference
   year: 2026
@@ -486,6 +517,7 @@
   dblp: https://dblp.org/db/conf/sec/index.html
   date: June 09 - 11, 2026
   place: Perth, Australia
+  country: Australia
 - name: ICPR
   description: International Conference on Pattern Recognition
   year: 2026
@@ -500,6 +532,7 @@
   dblp: https://dblp.org/db/conf/icpr/index.html
   date: August 17-21, 2026
   place: Lyon, France
+  country: France
 - name: CCGRID
   description: IEEE International Symposium on Cluster, Cloud and Internet Computing
   year: 2026
@@ -514,6 +547,7 @@
   dblp: https://dblp.org/db/conf/ccgrid/index.html
   date: May 18-21, 2026
   place: Sydney, Australia
+  country: Australia
 - name: ICST
   description: IEEE International Conference on Software Testing, Verification and Validation
   year: 2026
@@ -528,6 +562,7 @@
   dblp: https://dblp.org/db/conf/icst/index.html
   date: May 18-22, 2026
   place: Daejeon, South Korea
+  country: South Korea
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
   year: 2026
@@ -542,6 +577,7 @@
   dblp: https://dblp.org/db/conf/codaspy/index.html
   date: June 23-25, 2026
   place: Frankfurt am Main, Germany
+  country: Germany
 - name: ICME
   description: The IEEE International Conference on Multimedia & Expo
   year: 2026
@@ -556,6 +592,7 @@
   dblp: https://dblp.org/db/conf/icme/index.html
   date: July 6 - July 10, 2026
   place: Bangkok, Thailand
+  country: Thailand
 - name: ETS
   description: IEEE European Test Symposium
   year: 2026
@@ -571,6 +608,7 @@
   dblp: https://dblp.org/db/conf/ets/index.html
   date: May 25-29, 2026
   place: Chania, Greec
+  country: Greece
 - name: KSEM
   description: International Conference on Knowledge Science, Engineering and Management
   year: 2026
@@ -585,6 +623,7 @@
   dblp: https://dblp.org/db/conf/ksem/index.html
   date: July 17-19, 2026
   place: Beijing, China
+  country: China
 - name: ICWSM
   description: The International AAAI Conference on Web and Social Media
   year: 2026
@@ -600,6 +639,7 @@
   dblp: https://dblp.org/db/conf/icwsm/index.html
   date: May 27-29, 2026
   place: Los Angeles, CA, USA
+  country: United States
 - name: NOSSDAV
   description: International Workshop on Network and Operating System Support for Digital Audio and Video
   year: 2026
@@ -614,6 +654,7 @@
   dblp: https://dblp.org/db/conf/nossdav/index.html
   date: April 8, 2026
   place: Hong Kong, China
+  country: China
 - name: ISIT
   description: IEEE International Symposium on Information Theory
   year: 2026
@@ -628,6 +669,7 @@
   dblp: https://dblp.org/db/conf/isit/index.html
   date: June 28 - July 3, 2026
   place: Guangzhou, China
+  country: China
 - name: CF
   description: ACM International Conference on Computing Frontiers
   year: 2026
@@ -643,6 +685,7 @@
   dblp: https://dblp.org/db/conf/cf/index.html
   date: May 19-21, 2026
   place: Catania, Sicily, Italy
+  country: Italy
 - name: IJCAI
   description: International Joint Conference on Artificial Intelligence
   year: 2026
@@ -658,6 +701,7 @@
   dblp: https://dblp.org/db/conf/ijcai/index.html
   date: August 15-21, 2026
   place: Bremen, Germany
+  country: Germany
 - name: DIS
   description: ACM Conference on Designing Interactive Systems
   year: 2026
@@ -673,6 +717,7 @@
   dblp: https://dblp.org/db/conf/ACMdis/index.html
   date: June 13 - 17, 2026
   place: Singapore
+  country: Singapore
 - name: ICDF2C
   description: International Conference on Digital Forensics & Cyber Crime
   year: 2026
@@ -687,6 +732,7 @@
   dblp: https://dblp.org/db/conf/icdf2c/index.html
   date: September 8-10, 2026
   place: Reykjavik, Iceland
+  country: Iceland
 - name: ICDCS
   description: IEEE International Conference on Distributed Computing Systems
   year: 2026
@@ -701,6 +747,7 @@
   dblp: https://dblp.org/db/conf/icdcs/index.html
   date: June 22-25, 2026
   place: Seoul, South Korea
+  country: South Korea
 - name: ACM SIGGRAPH
   description: ACM SIGGRAPH Annual Conference
   year: 2026
@@ -716,6 +763,7 @@
   dblp: https://dblp.org/db/conf/siggraph/index.html
   date: July 19 - 23, 2026
   place: Los Angeles, California
+  country: United States
 - name: SIGIR
   description: International Conference on Research on Development in Information Retrieval
   year: 2026
@@ -731,6 +779,7 @@
   dblp: https://dblp.org/db/conf/sigir/index.html
   date: July 20-24, 2026
   place: Melbourne, Australia
+  country: Australia
 - name: LICS
   description: IEEE Symposium on Logic in Computer Science
   year: 2026
@@ -746,6 +795,7 @@
   dblp: https://dblp.org/db/conf/lics/index.html
   date: July 20-23, 2026
   place: Lisbon, Portugal
+  country: Portugal
 - name: EASE
   description: International Conference on Evaluation and Assessment in Software Engineering
   year: 2026
@@ -762,6 +812,7 @@
   dblp: https://dblp.org/db/conf/ease/index.html
   date: June 9 - 12, 2026
   place: Glasgow, United Kingdom
+  country: United Kingdom
 - name: BIS
   description: International Conference on Business Information Systems
   year: 2026
@@ -776,6 +827,7 @@
   dblp: https://dblp.org/db/conf/bis/index.html
   date: June 10-12, 2026
   place: Prague, Czech Republic
+  country: Czechia
 - name: GECCO
   description: Genetic and Evolutionary Computation Conference
   year: 2026
@@ -791,6 +843,7 @@
   dblp: https://dblp.org/db/conf/gecco/index.html
   date: July 13-17, 2026
   place: San José, Costa Rica (hybrid)
+  country: Costa Rica
 - name: CAV
   description: International Conference on Computer-Aided Verification
   year: 2026
@@ -805,6 +858,7 @@
   dblp: https://dblp.org/db/conf/cav/index.html
   date: July 26-29, 2026
   place: Lisbon, Portugal
+  country: Portugal
 - name: ICML
   description: International Conference on Machine Learning
   year: 2026
@@ -821,6 +875,7 @@
   dblp: https://dblp.org/db/conf/icml/index.html
   date: July 6-12, 2026
   place: Seoul, Korea
+  country: South Korea
 - name: RSS
   description: Robotics Science and Systems
   year: 2026
@@ -836,6 +891,7 @@
   dblp: https://dblp.org/db/conf/rss/index.html
   date: July 13-17, 2026
   place: Sydney, Australia
+  country: Australia
 - name: COMPSAC
   description: International Computer Software and Applications Conference
   year: 2026
@@ -850,6 +906,7 @@
   dblp: https://dblp.org/db/conf/compsac/index.html
   date: July 7-10, 2026
   place: Madrid, Spain
+  country: Spain
 - name: SAC
   description: Selected Areas in Cryptography
   year: 2026
@@ -865,6 +922,7 @@
   dblp: https://dblp.org/db/conf/sacrypt/index.html
   date: August 24-28, 2026
   place: Ottawa, Ontario, Canada
+  country: Canada
 - name: CogSci
   description: Annual Meeting of the Cognitive Science Society
   year: 2026
@@ -879,6 +937,7 @@
   dblp: https://dblp.org/db/conf/cogsci/index.html
   date: July 22-25, 2026
   place: Rio de Janeiro, Brazil
+  country: Brazil
 - name: ICIP
   description: The IEEE International Conference on Image Processing
   year: 2026
@@ -893,6 +952,7 @@
   dblp: https://dblp.org/db/conf/icip/index.html
   date: Sep 13-17, 2026
   place: Tampere, Finland
+  country: Finland
 - name: COLT
   description: Annual Conference on Learning Theory
   year: 2026
@@ -907,6 +967,7 @@
   dblp: https://dblp.org/db/conf/colt/index.html
   date: June 29 - July 3, 2026
   place: San Diego, California
+  country: United States
 - name: HPDC
   description: ACM Symposium on High-Performance Parallel and Distributed Computing
   year: 2026
@@ -922,6 +983,7 @@
   dblp: https://dblp.org/db/conf/hpdc/index.html
   date: July 13-16, 2026
   place: Cleveland, OH, USA
+  country: United States
 - name: FORTE
   description: International Conference on Formal Techniques for (Networked and) Distributed Systems
   year: 2026
@@ -937,6 +999,7 @@
   dblp: https://dblp.org/db/conf/forte/index.html
   date: June 8-12, 2026
   place: Urbino, Italy
+  country: Italy
 - name: SIGCOMM
   description: ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
   year: 2026
@@ -952,6 +1015,7 @@
   dblp: https://dblp.org/db/conf/sigcomm/index.html
   date: August 17 - 21, 2026
   place: Denver, Colorado, USA
+  country: United States
 - name: ICALP
   description: EATCS International Colloquium on Automata, Languages, and Programming
   year: 2026
@@ -966,6 +1030,7 @@
   dblp: https://dblp.org/db/conf/icalp/index.html
   date: July 6-10, 2026
   place: London, UK
+  country: United Kingdom
 - name: Networking
   description: IFIP International Conference on Networking
   year: 2026
@@ -980,6 +1045,7 @@
   dblp: https://dblp.org/db/conf/networking/index.html
   date: May 24-27, 2026
   place: Lugano, Switzerland
+  country: Switzerland
 - name: ICS
   description: ACM International Conference on Supercomputing
   year: 2026
@@ -996,6 +1062,7 @@
   dblp: https://dblp.org/db/conf/ics/index.html
   date: July 6-9, 2026
   place: Belfast, Northern Ireland, United Kingdom
+  country: United Kingdom
 - name: IWQoS
   description: IEEE/ACM International Symposium on Quality of Service
   year: 2026
@@ -1011,6 +1078,7 @@
   dblp: https://dblp.org/db/conf/iwqos/index.html
   date: 29 June - 2 July, 2026
   place: Dubai, United Arab Emirates
+  country: United Arab Emirates
 - name: CRYPTO
   description: International Cryptology Conference
   year: 2026
@@ -1025,6 +1093,7 @@
   dblp: https://dblp.org/db/conf/crypto/index.html
   date: August 17-20, 2026
   place: Santa Barbara, USA
+  country: United States
 - name: ICCCN
   description: IEEE International Conference on Computer Communications and Networks
   year: 2026
@@ -1039,6 +1108,7 @@
   dblp: https://dblp.org/db/conf/icccn/index.html
   date: July 27-30, 2026
   place: Honolulu, Hawaii, USA
+  country: United States
 - name: EUSIPCO
   description: European Signal Processing Conference
   year: 2026
@@ -1053,6 +1123,7 @@
   dblp: https://dblp.org/db/conf/eusipcolyon/index.html
   date: August 31 - September 4, 2026
   place: Bruges, Belgium
+  country: Belgium
 - name: KR
   description: International Conference on Principles of Knowledge Representation and Reasoning
   year: 2026
@@ -1068,6 +1139,7 @@
   dblp: https://dblp.org/db/conf/kr/index.html
   date: July 20-23, 2026
   place: Lisbon, Portugal
+  country: Portugal
 - name: ISCC
   description: IEEE Symposium on Computers and Communications
   year: 2026
@@ -1082,6 +1154,7 @@
   dblp: https://dblp.org/db/conf/iscc/index.html
   date: June 23-26, 2026
   place: Vilamoura, Algarve, Portugal
+  country: Portugal
 - name: PODC
   description: ACM Symposium on Principles of Distributed Computing
   year: 2026
@@ -1097,6 +1170,7 @@
   dblp: https://dblp.org/db/conf/podc/index.html
   date: July 6-10, 2026
   place: Egham, England
+  country: United Kingdom
 - name: IH&MMSec
   description: ACM Workshop on Information Hiding and Multimedia Security
   year: 2026
@@ -1112,6 +1186,7 @@
   dblp: https://dblp.org/db/conf/ih/index.html
   date: June 17-19, 2026
   place: Florence, Italy
+  country: Italy
 - name: DIMVA
   description: Detection of Intrusions and Malware & Vulnerability Assessment
   year: 2026
@@ -1127,6 +1202,7 @@
   dblp: https://dblp.org/db/conf/dimva/index.html
   date: July 1-3, 2026
   place: Chania, Greece
+  country: Greece
 - name: SOUPS
   description: Symposium On Usable Privacy and Security
   year: 2026
@@ -1142,6 +1218,7 @@
   dblp: https://dblp.org/db/conf/soups/index.html
   date: August 23-26, 2026
   place: Hannover, Germany
+  country: Germany
 - name: ICFP
   description: International Conference on Function Programming
   year: 2026
@@ -1156,6 +1233,7 @@
   dblp: https://dblp.org/db/conf/icfp/index.html
   date: August 24 - 29, 2026
   place: Indiana University Indianapolis, United States
+  country: United States
 - name: CoNLL
   description: Conference on Computational Natural Language Learning
   year: 2026
@@ -1170,6 +1248,7 @@
   dblp: https://dblp.org/db/conf/conll/index.html
   date: July 3 - 4, 2026
   place: San Diego, California, United States
+  country: United States
 - name: InterSpeech
   description: Conference of the International Speech Communication Association
   year: 2026
@@ -1184,6 +1263,7 @@
   dblp: https://dblp.org/db/conf/interspeech/index.html
   date: September 27 - October 1, 2026
   place: Sydney, Australia
+  country: Australia
 - name: UAI
   description: Conference on Uncertainty in Artificial Intelligence
   year: 2026
@@ -1198,6 +1278,7 @@
   dblp: https://dblp.org/db/conf/uai/index.html
   date: August 17-21, 2026
   place: Amsterdam, Netherlands
+  country: Netherlands
 - name: MICCAI
   description: International Conference on Medical Image Computing and Computer Assisted Intervention
   year: 2026
@@ -1213,6 +1294,7 @@
   dblp: https://dblp.org/db/conf/miccai/index.html
   date: Oct 4-8, 2026
   place: ADNEC Centre, Abu Dhabi, U.A.E.
+  country: United Arab Emirates
 - name: ACISP
   description: Australasia Conference on Information Security and Privacy
   year: 2026
@@ -1228,6 +1310,7 @@
   dblp: https://dblp.org/db/conf/acisp/index.html
   date: July 6-9, 2026
   place: Perth, Australia
+  country: Australia
 - name: ICDAR
   description: International Conference on Document Analysis and Recognition
   year: 2026
@@ -1243,6 +1326,7 @@
   dblp: https://dblp.org/db/conf/icdar/index.html
   date: August 30 - September 4, 2026
   place: Vienna, Austria
+  country: Austria
 - name: SPAA
   description: ACM Symposium on Parallelism in Algorithms and Architectures
   year: 2026
@@ -1258,6 +1342,7 @@
   dblp: https://dblp.org/db/conf/spaa/index.html
   date: July 6 - July 10, 2026
   place: London, UK
+  country: United Kingdom
 - name: IROS
   description: IEEE/RSJ International Conference on Intelligent Robots and Systems
   year: 2026
@@ -1272,6 +1357,7 @@
   dblp: https://dblp.org/db/conf/iros/index.html
   date: September 27 - October 1, 2026
   place: Pittsburgh, PA, USA
+  country: United States
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
   year: 2026
@@ -1287,6 +1373,7 @@
   dblp: https://dblp.org/db/conf/sacmat/index.html
   date: July 8-10, 2026
   place: Waterloo, Canada
+  country: Canada
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
   year: 2026
@@ -1302,6 +1389,7 @@
   dblp: https://dblp.org/db/conf/wisec/index.html
   date: June 30 - July 3, 2026
   place: Saarbrücken, Germany
+  country: Germany
 - name: ECCV
   description: European Conference on Computer Vision
   year: 2026
@@ -1317,6 +1405,7 @@
   dblp: https://dblp.org/db/conf/eccv/index.html
   date: September 8 - 13, 2026
   place: Malmö, Sweden
+  country: Sweden
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution
   year: 2026
@@ -1333,6 +1422,7 @@
   dblp: https://dblp.org/db/conf/icsm/index.html
   date: September 14-18, 2026
   place: Benevento, Italy
+  country: Italy
 - name: ECSCW
   description: European Conference on Computer Supported Cooperative Work
   year: 2026
@@ -1348,6 +1438,7 @@
   dblp: https://dblp.org/db/conf/ecscw/index.html
   date: 29 June - 3 July, 2026
   place: Munich, Germany
+  country: Germany
 - name: SAT
   description: International Conference on Theory and Applications of Satisfiability Testing
   year: 2026
@@ -1363,6 +1454,7 @@
   dblp: https://dblp.org/db/conf/sat/index.html
   date: July 20 - July 23, 2026
   place: Lisbon, Portugal
+  country: Portugal
 - name: APNet
   description: Asia-Pacific Workshop on Networking
   year: 2026
@@ -1377,6 +1469,7 @@
   dblp: https://dblp.org/db/conf/apnet/index.html
   date: August 6-7, 2026
   place: Singapore
+  country: Singapore
 - name: Euro-Par
   description: European Conference on Parallel and Distributed Computing
   year: 2026
@@ -1392,6 +1485,7 @@
   dblp: https://dblp.org/db/conf/europar/index.html
   date: August 24-28, 2026
   place: Pisa, Italy
+  country: Italy
 - name: CP
   description: International Conference on Principles and Practice of Constraint Programming
   year: 2026
@@ -1407,6 +1501,7 @@
   dblp: https://dblp.org/db/conf/cp/index.html
   date: July 20-23, 2026
   place: Lisbon, Portugal
+  country: Portugal
 - name: WASA
   description: International Conference on Wireless Algorithms, Systems, and Applications
   year: 2026
@@ -1421,6 +1516,7 @@
   dblp: https://dblp.org/db/conf/wasa/index.html
   date: July 6-9, 2026
   place: Xi'an, China
+  country: China
 - name: GLSVLSI
   description: Great Lakes Symposium on VLSI
   year: 2026
@@ -1435,6 +1531,7 @@
   dblp: https://dblp.org/db/conf/glvlsi/index.html
   date: June 22-24, 2026
   place: Finger Lakes, NY, USA
+  country: United States
 - name: ISMAR
   description: International Symposium on Mixed and Augmented Reality
   year: 2026
@@ -1450,6 +1547,7 @@
   dblp: https://dblp.org/db/conf/ismar/index.html
   date: Oct 5-9, 2026
   place: Bari, Italy
+  country: Italy
 - name: OOPSLA
   description: Conference on Object-Oriented Programming Systems, Languages, and Applications
   year: 2026
@@ -1465,6 +1563,7 @@
   dblp: https://dblp.org/db/conf/oopsla/index.html
   date: October 3-9, 2026
   place: Oakland, California, United States
+  country: United States
 - name: ProbML
   description: Symposium on Probabilistic Machine Learning
   year: 2026
@@ -1479,6 +1578,7 @@
   dblp: https://dblp.org/db/conf/probml/index.html
   date: July 5, 2026
   place: Seoul, South Korea
+  country: South Korea
 - name: ICCBR
   description: International Conference on Case-Based Reasoning
   year: 2026
@@ -1493,6 +1593,7 @@
   dblp: https://dblp.org/db/conf/iccbr/index.html
   date: August 13-16, 2026
   place: Bremen, Germany
+  country: Germany
 - name: Cloud
   description: IEEE International Conference on Cloud Computing
   year: 2026
@@ -1507,6 +1608,7 @@
   dblp: https://dblp.org/db/conf/IEEEcloud/index.html
   date: July 13-18, 2026
   place: Sydney, Australia
+  country: Australia
 - name: ASE
   description: International Conference on Automated Software Engineering
   year: 2026
@@ -1521,6 +1623,7 @@
   dblp: https://dblp.org/db/conf/kbse/index.html
   date: October 12 - 16, 2026
   place: Munich, Germany
+  country: Germany
 - name: PPSN
   description: International Conference on Parallel Problem Solving From Nature
   year: 2026
@@ -1535,6 +1638,7 @@
   dblp: https://dblp.org/db/conf/ppsn/index.html
   date: August 29-September 2, 2026
   place: University of Trento, Trento, Italy
+  country: Italy
 - name: CODES+ISSS
   description: International Conference on Hardware/Software Co-design and System Synthesis
   year: 2026
@@ -1550,6 +1654,7 @@
   dblp: https://dblp.org/db/conf/codes/index.html
   date: October 4-9, 2026
   place: Barcelona, Spain
+  country: Spain
 - name: ICANN
   description: International Conference on Artificial Neural Networks
   year: 2026
@@ -1564,6 +1669,7 @@
   dblp: https://dblp.org/db/conf/icann/index.html
   date: Sept 14-17, 2026
   place: Conference center of the School of Psychology, University of Padua, Italy
+  country: Italy
 - name: EMSOFT
   description: International Conference on Embedded Software
   year: 2026
@@ -1579,6 +1685,7 @@
   dblp: https://dblp.org/db/conf/emsoft/index.html
   date: October 4 - 9, 2026
   place: Barcelona, Spain
+  country: Spain
 - name: IEEE VIS
   description: IEEE Visualization Conference
   year: 2026
@@ -1594,6 +1701,7 @@
   dblp: https://dblp.org/db/conf/visualization/index.html
   date: November 9-13, 2026
   place: Boston, Massachusetts, USA
+  country: United States
 - name: COLM
   description: Conference on Language Modeling
   year: 2026
@@ -1609,6 +1717,7 @@
   dblp: https://dblp.org/db/conf/colm/index.html
   date: October 6-9, 2026
   place: Hilton Union Square, San Francisco, USA
+  country: United States
 - name: UIST
   description: ACM Symposium on User Interface Software and Technology
   year: 2026
@@ -1624,6 +1733,7 @@
   dblp: https://dblp.org/db/conf/uist/index.html
   date: November 2 - 5, 2026
   place: GM Renaissance Center, Detroit, MI, USA
+  country: United States
 - name: FOCS
   description: IEEE Symposium on Foundations of Computer Science
   year: 2026
@@ -1638,6 +1748,7 @@
   dblp: https://dblp.org/db/conf/focs/index.html
   date: November 8-11, 2026
   place: New York City, NY, USA
+  country: United States
 - name: SOSP
   description: ACM Symposium on Operating Systems Principles
   year: 2026
@@ -1653,6 +1764,7 @@
   dblp: https://dblp.org/db/conf/sosp/index.html
   date: September 29 - October 2, 2026
   place: Clarion Congress Hotel Prague, Prague, Czechia
+  country: Czechia
 - name: ACM MM
   description: ACM International Conference on Multimedia
   year: 2026
@@ -1668,6 +1780,7 @@
   dblp: https://dblp.org/db/conf/mm/index.html
   date: November 10-14, 2026
   place: Rio de Janeiro, Brazil
+  country: Brazil
 - name: ICIC
   description: International Conference on Intelligent Computing
   year: 2026
@@ -1682,6 +1795,7 @@
   dblp: https://dblp.org/db/conf/icic/index.html
   date: July 22-26, 2026
   place: Toronto, Canada
+  country: Canada
 - name: ASAP
   description: IEEE International Conference on Application-Specific Systems, Architectures, and Processors
   year: 2026
@@ -1697,6 +1811,7 @@
   dblp: https://dblp.org/db/conf/asap/index.html
   date: September 3-4, 2026
   place: London, UK
+  country: United Kingdom
 - name: MICRO
   description: IEEE/ACM International Symposium on Microarchitecture
   year: 2026
@@ -1712,6 +1827,7 @@
   dblp: https://dblp.org/db/conf/micro/index.html
   date: October 31-November 4, 2026
   place: Athens, Greece
+  country: Greece
 - name: SC
   description: International Conference for High Performance Computing, Networking, Storage, and Analysis
   year: 2026
@@ -1727,6 +1843,7 @@
   dblp: https://dblp.org/db/conf/sc/index.html
   date: November 15-20, 2026
   place: McCormick Place, Chicago, Illinois, USA
+  country: United States
 - name: APPT
   description: International Symposium on Advanced Parallel Programming Technologies
   year: 2026
@@ -1742,6 +1859,7 @@
   dblp: https://dblp.org/db/conf/appt/index.html
   date: July 27-31, 2026
   place: Brussels, Belgium
+  country: Belgium
 - name: RE
   description: IEEE International Requirements Engineering Conference
   year: 2026
@@ -1757,6 +1875,7 @@
   dblp: https://dblp.org/db/conf/re/index.html
   date: August 17-21, 2026
   place: Montreal, Canada
+  country: Canada
 - name: MSST
   description: International Conference on Massive Storage Systems and Technology
   year: 2026
@@ -1771,6 +1890,7 @@
   dblp: https://dblp.org/db/conf/mss/index.html
   date: June 1-5, 2026
   place: Santa Clara University, Santa Clara, CA, USA
+  country: United States
 - name: ICCAD
   description: IEEE/ACM International Conference on Computer-Aided Design
   year: 2026
@@ -1786,6 +1906,7 @@
   dblp: https://dblp.org/db/conf/iccad/index.html
   date: November 8 - 12, 2026
   place: San Jose, California, USA
+  country: United States
 - name: SGP
   description: Eurographics Symposium on Geometry Processing
   year: 2026
@@ -1802,6 +1923,7 @@
   dblp: https://dblp.org/db/conf/sgp/index.html
   date: July 1 - 3, 2026
   place: Bern, Switzerland
+  country: Switzerland
 - name: EGSR
   description: Eurographics Symposium on Rendering
   year: 2026
@@ -1817,6 +1939,7 @@
   dblp: https://dblp.org/db/conf/rt/index.html
   date: July 1-3, 2026
   place: Bordeaux, France
+  country: France
 - name: JCC
   description: International Conference on JointCloud Computing
   year: 2026
@@ -1832,6 +1955,7 @@
   dblp: https://dblp.org/db/conf/N/index.html
   date: Jul 27-30, 2026
   place: Tokyo, Japan
+  country: Japan
 - name: RAID
   description: International Symposium on Recent Advances in Intrusion Detection
   year: 2026
@@ -1846,6 +1970,7 @@
   dblp: https://dblp.org/db/conf/raid/index.html
   date: October 11-14, 2026
   place: Lancaster, UK
+  country: United Kingdom
 - name: SDM
   description: SIAM International Conference on Data Mining
   year: 2026
@@ -1861,6 +1986,7 @@
   dblp: https://dblp.org/db/conf/sdm/index.html
   date: November 19-20, 2026
   place: Salt Lake City, Utah, USA
+  country: United States
 - name: BlockSys
   description: International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems
   year: 2026
@@ -1875,6 +2001,7 @@
   dblp: https://dblp.org/db/conf/blocksys/index.html
   date: July 29-31, 2026
   place: Chengdu, China
+  country: China
 - name: ICMI
   description: ACM International Conference on Multimodal Interaction
   year: 2026
@@ -1890,6 +2017,7 @@
   dblp: https://dblp.org/db/conf/icmi/index.html
   date: Oct 5 - 9, 2026
   place: Napoli, Italy
+  country: Italy
 - name: CGI
   description: Computer Graphics International
   year: 2026
@@ -1905,6 +2033,7 @@
   dblp: https://dblp.org/db/conf/cgi/index.html
   date: July 06-10, 2026
   place: London, UK
+  country: United Kingdom
 - name: LCN
   description: IEEE Conference on Local Computer Networks
   year: 2026
@@ -1919,6 +2048,7 @@
   dblp: https://dblp.org/db/conf/lcn/index.html
   date: October 7-9, 2026
   place: Coimbra, Portugal
+  country: Portugal
 - name: MobiHoc
   description: International Symposium on Mobile Ad Hoc Networking and Computing
   year: 2026
@@ -1934,6 +2064,7 @@
   dblp: https://dblp.org/db/conf/mobihoc/index.html
   date: November 23-26, 2026
   place: Tokyo, Japan
+  country: Japan
 - name: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2026
@@ -1949,6 +2080,7 @@
   dblp: https://dblp.org/db/conf/esorics/index.html
   date: September 14-18, 2026
   place: Rome, Italy
+  country: Italy
 - name: RecSys
   description: ACM Conference on Recommender Systems
   year: 2026
@@ -1964,6 +2096,7 @@
   dblp: https://dblp.org/db/conf/recsys/index.html
   date: September 28 - October 2, 2026
   place: Minneapolis, Minnesota, USA
+  country: United States
 - name: ITC
   description: International Test Conference
   year: 2026
@@ -1979,6 +2112,7 @@
   dblp: https://dblp.org/db/conf/itc/index.html
   date: October 11-16, 2026
   place: Grand Hyatt San Antonio Riverwalk, TX, USA
+  country: United States
 - name: ITC-Asia
   description: IEEE International Test Conference in Asia
   year: 2026
@@ -1994,6 +2128,7 @@
   dblp: https://dblp.org/db/conf/itc-asia/index.html
   date: August 19-21, 2026
   place: Ningbo International Conference Center, Ningbo, China
+  country: China
 - name: FMCAD
   description: Formal Methods in Computer-Aided Design
   year: 2026
@@ -2008,6 +2143,7 @@
   dblp: https://dblp.org/db/conf/fmcad/index.html
   date: Sep. 14-18, 2026
   place: Graz, Austria
+  country: Austria
 - name: CONCUR
   description: International Conference on Concurrency Theory
   year: 2026
@@ -2023,6 +2159,7 @@
   dblp: https://dblp.org/db/conf/concur/index.html
   date: Sep 1-4, 2026
   place: Liverpool, UK
+  country: United Kingdom
 - name: WISA
   description: Web Information Systems and Applications
   year: 2026
@@ -2038,6 +2175,7 @@
   dblp: https://dblp.org/db/conf/wisa/index.html
   date: August 07-09, 2026
   place: Kunming, China
+  country: China
 - name: IMC
   description: ACM Internet Measurement Conference
   year: 2026
@@ -2054,6 +2192,7 @@
   dblp: https://dblp.org/db/conf/imc/index.html
   date: Oct 12-16, 2026
   place: Karlsruhe, Germany
+  country: Germany
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2026
@@ -2069,6 +2208,7 @@
   dblp: https://dblp.org/db/conf/ccs/index.html
   date: November 15-19, 2026
   place: World Forum, Hague, Netherlands
+  country: Netherlands
 - name: PACT
   description: International Conference on Parallel Architectures and Compilation Techniques
   year: 2026
@@ -2084,6 +2224,7 @@
   dblp: https://dblp.org/db/conf/pact/index.html
   date: October 19-22, 2026
   place: Chicago, Illinois, USA
+  country: United States
 - name: NSPW
   description: New Security Paradigms Workshop
   year: 2026
@@ -2098,6 +2239,7 @@
   dblp: https://dblp.org/db/conf/nspw/index.html
   date: September 27-30, 2026
   place: Victoria, BC, Canada
+  country: Canada
 - name: IJCB
   description: International Joint Conference on Biometrics
   year: 2026
@@ -2112,6 +2254,7 @@
   dblp: https://dblp.org/db/conf/icb/index.html
   date: September 1-4, 2026
   place: Rome, Italy
+  country: Italy
 - name: CollaborateCom
   description: 'International Conference on Collaborative Computing: Networking, Applications and Worksharing'
   year: 2026
@@ -2126,6 +2269,7 @@
   dblp: https://dblp.org/db/conf/colcom/index.html
   date: November 14-15, 2026
   place: Hong Kong SAR, China
+  country: China
 - name: ICPP
   description: International Conference on Parallel Processing
   year: 2026
@@ -2141,6 +2285,7 @@
   dblp: https://dblp.org/db/conf/icpp/index.html
   date: September 28-October 1, 2026
   place: Singapore
+  country: Singapore
 - name: SEC
   description: ACM/IEEE Symposium on Edge Computing
   year: 2026
@@ -2156,6 +2301,7 @@
   dblp: https://dblp.org/db/conf/ieeesec/index.html
   date: Oct 13-16, 2026
   place: Santa Clara University, CA, USA
+  country: United States
 - name: GLOBECOM
   description: IEEE Global Communications Conference
   year: 2026
@@ -2170,6 +2316,7 @@
   dblp: https://dblp.org/db/conf/globecom/index.html
   date: December 7-11, 2026
   place: Macao, China
+  country: China
 - name: SMC
   description: IEEE International Conference on Systems, Man, and Cybernetics
   year: 2026
@@ -2184,6 +2331,7 @@
   dblp: https://dblp.org/db/conf/smc/index.html
   date: October 4-7, 2026
   place: Bellevue, WA, USA
+  country: United States
 - name: Internetware
   description: Asia-Pacific Symposium on Internetware
   year: 2026
@@ -2200,6 +2348,7 @@
   dblp: https://dblp.org/db/conf/internetware/index.html
   date: July 18-20, 2026
   place: Gold Coast, Australia
+  country: Australia
 - name: NeurIPS
   description: Conference on Neural Information Processing Systems
   year: 2026
@@ -2215,6 +2364,7 @@
   dblp: https://dblp.org/db/conf/nips/index.html
   date: December 6, 2026
   place: Sydney, Australia
+  country: Australia
 - name: CLUSTER
   description: IEEE International Conference on Cluster Computing
   year: 2026
@@ -2230,6 +2380,7 @@
   dblp: https://dblp.org/db/conf/cluster/index.html
   date: September 22-25, 2026
   place: Alexandria, Virginia, USA
+  country: United States
 - name: ISWC
   description: International Semantic Web Conference
   year: 2026
@@ -2245,6 +2396,7 @@
   dblp: https://dblp.org/db/conf/semweb/index.html
   date: October 25-29, 2026
   place: Bari, Italy
+  country: Italy
 - name: SRDS
   description: IEEE International Symposium on Reliable Distributed Systems
   year: 2026
@@ -2260,6 +2412,7 @@
   dblp: https://dblp.org/db/conf/srds/index.html
   date: September 21-25, 2026
   place: Rome, Italy
+  country: Italy
 - name: CCCG
   description: Canadian Conference on Computational Geometry
   year: 2026
@@ -2275,6 +2428,7 @@
   dblp: https://dblp.org/db/conf/cccg/index.html
   date: August 12-14, 2026
   place: Orillia, Ontario, Canada
+  country: Canada
 - name: SEKE
   description: International Conference on Software Engineering and Knowledge Engineering
   year: 2026
@@ -2289,6 +2443,7 @@
   dblp: https://dblp.org/db/conf/seke/index.html
   date: Oct 1 - Oct 10, 2025
   place: Toronto, Canada & Virtual
+  country: Canada
 - name: ACM SIGGRAPH ASIA
   description: ACM SIGGRAPH Annual Conference in Asia
   year: 2026
@@ -2304,6 +2459,7 @@
   dblp: https://dblp.org/db/conf/siggrapha/index.html
   date: December 1-4, 2026
   place: KLCC, Kuala Lumpur, Malaysia
+  country: Malaysia
 - name: IISWC
   description: IEEE International Symposium on Workload Characterization
   year: 2026
@@ -2318,6 +2474,7 @@
   dblp: https://dblp.org/db/conf/iiswc/index.html
   date: September 27-29, 2026
   place: Boulder, USA
+  country: United States
 - name: APWeb-WAIM
   description: APWeb-WAIM joint international conference on Web and Big Data
   year: 2026
@@ -2333,6 +2490,7 @@
   dblp: https://dblp.org/db/conf/APWeb/index.html
   date: September 7-9, 2026
   place: Danang, Vietnam
+  country: Vietnam
 - name: ESEM
   description: International Symposium on Empirical Software Engineering and Measurement
   year: 2026
@@ -2348,6 +2506,7 @@
   dblp: https://dblp.org/db/conf/esem/index.html
   date: October 4 - 9, 2026
   place: München, Germany
+  country: Germany
 - name: TCC
   description: Theory of Cryptography Conference
   year: 2026
@@ -2362,6 +2521,7 @@
   dblp: https://dblp.org/db/conf/tcc/index.html
   date: November 10-13, 2026
   place: New York City, USA
+  country: United States
 - name: APSys
   description: ACM SIGOPS Asia-Pacific Workshop on Systems
   year: 2026
@@ -2377,6 +2537,7 @@
   dblp: https://dblp.org/db/conf/apsys/index.html
   date: September 17-18, 2026
   place: Bangkok, Thailand
+  country: Thailand
 - name: ASIACRYPT
   description: International Conference on the Theory and Application of Cryptology and Information Security
   year: 2026
@@ -2391,6 +2552,7 @@
   dblp: https://dblp.org/db/conf/asiacrypt/index.html
   date: December 7-11, 2026
   place: Hong Kong, China
+  country: China
 - name: RTSS
   description: The IEEE Real-Time Systems Symposium
   year: 2026
@@ -2405,6 +2567,7 @@
   dblp: https://dblp.org/db/conf/rtss/index.html
   date: December 9-11, 2026
   place: Yokohama, Japan
+  country: Japan
 - name: Performance
   description: International Symposium on Computer Performance, Modeling, Measurements and Evaluation
   year: 2026
@@ -2420,6 +2583,7 @@
   dblp: https://dblp.org/db/conf/performance/index.html
   date: November 3-5, 2026
   place: Ghent, Belgium
+  country: Belgium
 - name: ICNP
   description: IEEE International Conference on Network Protocols
   year: 2026
@@ -2435,6 +2599,7 @@
   dblp: https://dblp.org/db/conf/icnp/index.html
   date: October 5-8, 2026
   place: Tempe, Arizona, USA
+  country: United States
 - name: RuleML+RR
   description: International Joint Conference on Rules and Reasoning
   year: 2026
@@ -2450,6 +2615,7 @@
   dblp: https://dblp.org/db/conf/rulemlrr/index.html
   date: August 24-26, 2026
   place: Vilnius, Lithuania
+  country: Lithuania
 - name: ICICS
   description: International Conference on Information and Communications Security
   year: 2026
@@ -2465,6 +2631,7 @@
   dblp: https://dblp.org/db/conf/icics/index.html
   date: October 27-30, 2026
   place: Fukui, Japan
+  country: Japan
 - name: CIKM
   description: ACM International Conference on Information and Knowledge Management
   year: 2026
@@ -2480,6 +2647,7 @@
   dblp: https://dblp.org/db/conf/cikm/index.html
   date: November 7-11, 2026
   place: Rome, Italy
+  country: Italy
 - name: SYSTOR
   description: The ACM International Systems and Storage Conference
   year: 2026
@@ -2510,6 +2678,7 @@
   dblp: https://dblp.org/db/conf/emnlp/index.html
   date: October 24 - 29, 2026
   place: Budapest, Hungary
+  country: Hungary
 - name: IJCNLP
   description: International Joint Conference on Natural Language Processing
   year: 2026
@@ -2525,6 +2694,7 @@
   dblp: https://dblp.org/db/conf/ijcnlp/index.html
   date: Nov 6-10, 2026
   place: Hengqin, Zhuhai, China
+  country: China
 - name: ACSAC
   description: Annual Computer Security Applications Conference
   year: 2026
@@ -2539,6 +2709,7 @@
   dblp: https://dblp.org/db/conf/acsac/index.html
   date: December 7-11, 2026
   place: Los Angeles, California, USA
+  country: United States
 - name: AFT
   description: Advances in Financial Technologies
   year: 2026
@@ -2554,6 +2725,7 @@
   dblp: https://dblp.org/db/conf/aft/index.html
   date: October 6-9, 2026
   place: London, UK
+  country: United Kingdom
 - name: CoRL
   description: The Conference on Robot Learning
   year: 2026
@@ -2569,6 +2741,7 @@
   dblp: https://dblp.org/db/conf/corl/index.html
   date: November 10-12, 2026
   place: Austin, Texas, USA
+  country: United States
 - name: BMVC
   description: British Machine Vision Conference
   year: 2026
@@ -2584,6 +2757,7 @@
   dblp: https://dblp.org/db/conf/bmvc/index.html
   date: November 23-26, 2026
   place: Lancaster, UK
+  country: United Kingdom
 - name: SIGSPATIAL
   description: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
   year: 2026
@@ -2599,6 +2773,7 @@
   dblp: https://dblp.org/db/conf/sigspatial/index.html
   date: November 3-6, 2026
   place: Riverside, CA, USA
+  country: United States
 - name: PRCV
   description: Chinese Conference on Pattern Recognition and Computer Vision
   year: 2026
@@ -2613,6 +2788,7 @@
   dblp: https://dblp.org/db/conf/prcv/index.html
   date: Aug 22-25, 2026
   place: Harbin, China
+  country: China
 - name: RV
   description: International Conference on Runtime Verification
   year: 2026
@@ -2627,6 +2803,7 @@
   dblp: https://dblp.org/db/conf/rv/index.html
   date: October 6-9, 2026
   place: Kingston, Canada
+  country: Canada
 - name: ICONIP
   description: International Conference on Neural Information Processing
   year: 2026
@@ -2641,6 +2818,7 @@
   dblp: https://dblp.org/db/conf/iconip/index.html
   date: November 23-27, 2026
   place: Melbourne, Australia
+  country: Australia
 - name: WiCON
   description: International Wireless Internet Conference
   year: 2026
@@ -2655,6 +2833,7 @@
   dblp: https://dblp.org/db/conf/wicon/index.html
   date: December 2-4, 2026
   place: Bratislava, Slovakia
+  country: Slovakia
 - name: MSWiM
   description: International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
   year: 2026
@@ -2669,6 +2848,7 @@
   dblp: https://dblp.org/db/conf/mswim/index.html
   date: October 26-30, 2026
   place: Paris, France
+  country: France
 - name: HiPEAC
   description: International Conference on High Performance and Embedded Architectures and Compilers
   year: 2027
@@ -2683,6 +2863,7 @@
   dblp: https://dblp.org/db/conf/hipeac/index.html
   date: January 18-20, 2027
   place: Glasgow, Scotland, UK
+  country: United Kingdom
 - name: SCA
   description: ACM SIGGRAPH/Eurographics Symposium on Computer Animation
   year: 2026
@@ -2698,6 +2879,7 @@
   dblp: https://dblp.org/db/conf/sca/index.html
   date: July 8-10, 2026
   place: Barcelona, Spain
+  country: Spain
 - name: EUVIP
   description: European Conference on Visual Information Processing
   year: 2026
@@ -2712,6 +2894,7 @@
   dblp: https://dblp.org/db/conf/euvip/index.html
   date: September 28 - October 1, 2026
   place: Luxembourg, Luxembourg
+  country: Luxembourg
 - name: ICCD
   description: International Conference on Computer Design
   year: 2026
@@ -2728,6 +2911,7 @@
   dblp: https://dblp.org/db/conf/iccd/index.html
   date: November 16-18, 2026
   place: Hong Kong SAR, China
+  country: China
 - name: SenSys
   description: ACM Conference on Embedded Networked Sensor Systems
   year: 2027
@@ -2744,6 +2928,7 @@
   dblp: https://dblp.org/db/conf/sensys/index.html
   date: May 17-20, 2027
   place: New York, USA
+  country: United States
 - name: HotStorage
   description: ACM Workshop on Hot Topics in Storage and File Systems
   year: 2026
@@ -2758,6 +2943,7 @@
   dblp: https://dblp.org/db/conf/hotstorage/index.html
   date: September 28-29, 2026
   place: Prague, Czechia
+  country: Czechia
 - name: CoNEXT
   description: International Conference on Emerging Networking Experiments and Technologies
   year: 2026
@@ -2774,6 +2960,7 @@
   dblp: https://dblp.org/db/conf/conext/index.html
   date: December 7-10, 2026
   place: Utrecht, The Netherlands
+  country: Netherlands
 - name: Middleware
   description: International Middleware Conference
   year: 2026
@@ -2790,6 +2977,7 @@
   dblp: https://dblp.org/db/conf/middleware/index.html
   date: December 14-18, 2026
   place: Universitat Rovira i Virgili, Tarragona, Spain
+  country: Spain
 - name: ATS
   description: IEEE Asian Test Symposium
   year: 2026
@@ -2804,6 +2992,7 @@
   dblp: https://dblp.org/db/conf/ats/index.html
   date: December 1-3, 2026
   place: Taiwan
+  country: Taiwan
 - name: ICDM
   description: IEEE International Conference on Data Mining
   year: 2026
@@ -2819,6 +3008,7 @@
   dblp: https://dblp.org/db/conf/icdm/index.html
   date: November 12-15, 2026
   place: Shenyang, China
+  country: China
 - name: CICAI
   description: CAAI International Conference on Artificial Intelligence
   year: 2026
@@ -2833,6 +3023,7 @@
   dblp: https://dblp.org/db/conf/cicai/index.html
   date: October 17-19, 2026
   place: Haining, Zhejiang, China
+  country: China
 - name: PG
   description: Pacific Graphics, The Pacific Conference on Computer Graphics and Applications
   year: 2026
@@ -2848,6 +3039,7 @@
   dblp: https://dblp.org/db/conf/pg/index.html
   date: October 6-9, 2026
   place: Singapore Management University, Singapore
+  country: Singapore
 - name: SIGOPS ATC
   description: ACM SIGOPS Annual Technical Conference
   year: 2026
@@ -2862,6 +3054,7 @@
   dblp: https://dblp.org/db/conf/usenix/index.html
   date: November 15-18, 2026
   place: Hyatt Hotel, Shatin, Hong Kong, China
+  country: China
 - name: SCAM
   description: IEEE International Working Conference on Source Code Analysis and Manipulation
   year: 2026
@@ -2877,6 +3070,7 @@
   dblp: https://dblp.org/db/conf/scam/index.html
   date: September 14-15, 2026
   place: Benevento, Italy
+  country: Italy
 - name: FPT
   description: International Conference on Field Programmable Technology
   year: 2026
@@ -2892,6 +3086,7 @@
   dblp: https://dblp.org/db/conf/fpt/index.html
   date: December 07 - December 10, 2026
   place: Honolulu, Hawaii, USA
+  country: United States
 - name: APBC
   description: Asia Pacific Bioinformatics Conference
   year: 2026
@@ -2906,6 +3101,7 @@
   dblp: https://dblp.org/db/conf/apbc/index.html
   date: October 21-24, 2026
   place: Hsinchu, Taiwan， China
+  country: China
 - name: HICSS
   description: Hawaii International Conference on System Sciences
   year: 2027
@@ -2921,6 +3117,7 @@
   dblp: https://dblp.org/db/conf/hicss/index.html
   date: January 5-8, 2027
   place: Big Island, Hawaii, USA
+  country: United States
 - name: SLT
   description: IEEE Spoken Language Technology (SLT) Workshop
   year: 2026
@@ -2935,6 +3132,7 @@
   dblp: https://dblp.org/db/conf/slt/index.html
   date: December 13-16, 2026
   place: Palermo, Sicily, Italy
+  country: Italy
 - name: NLPCC
   description: CCF International Conference on Natural Language Processing and Chinese Computing
   year: 2026
@@ -2949,6 +3147,7 @@
   dblp: https://dblp.org/db/conf/nlpcc/index.html
   date: November 3-5, 2026
   place: Macau, China
+  country: China
 - name: ISC
   description: Information Security Conference
   year: 2026
@@ -2963,6 +3162,7 @@
   dblp: https://dblp.org/db/conf/isw/index.html
   date: October 28-30, 2026
   place: Rennes, France
+  country: France
 - name: ISAAC
   description: International Symposium on Algorithms and Computation
   year: 2026
@@ -2977,6 +3177,7 @@
   dblp: https://dblp.org/db/conf/isaac/index.html
   date: December 6-9, 2026
   place: Hangzhou, China
+  country: China
 - name: PRICAI
   description: Pacific Rim International Conference on Artificial Intelligence
   year: 2026
@@ -2991,6 +3192,7 @@
   dblp: https://dblp.org/db/conf/pricai/index.html
   date: Nov 17-20, 2026
   place: Guangzhou, China
+  country: China
 - name: ICTAI
   description: International Conference on Tools with Artificial Intellignce
   year: 2026
@@ -3005,6 +3207,7 @@
   dblp: https://dblp.org/db/conf/ictai/index.html
   date: November 02-04, 2026
   place: Boca Raton FL, USA
+  country: United States
 - name: ICPADS
   description: IEEE International Conference on Parallel and Distributed Systems
   year: 2026
@@ -3019,6 +3222,7 @@
   dblp: https://dblp.org/db/conf/icpads/index.html
   date: November 22-26 2026
   place: Tokyo, Japan
+  country: Japan
 - name: ICSE
   description: International Conference on Software Engineering
   year: 2027
@@ -3035,6 +3239,7 @@
   dblp: https://dblp.org/db/conf/icse/index.html
   date: April 25-May 01, 2027
   place: Dublin, Ireland
+  country: Ireland
 - name: WISE
   description: International Conference on Web Information Systems Engineering
   year: 2026
@@ -3050,6 +3255,7 @@
   dblp: https://dblp.org/db/conf/wise/index.html
   date: November 2-5, 2026
   place: Venice, Italy
+  country: Italy
 - name: INSCRYPT
   description: International Conference on Information Security and Cryptology
   year: 2026
@@ -3065,6 +3271,7 @@
   dblp: https://dblp.org/db/conf/cisc/index.html
   date: Nov 07-09, 2026
   place: Hong Kong SAR, China
+  country: China
 - name: WINE
   description: Conference on Web and Internet Economics
   year: 2026
@@ -3079,6 +3286,7 @@
   dblp: https://dblp.org/db/conf/wine/index.html
   date: December 1-4, 2026
   place: Hong Kong, China
+  country: China
 - name: SIGCSE
   description: Technical Symposium on Computer Science Education Conference
   year: 2027
@@ -3094,6 +3302,7 @@
   dblp: https://dblp.org/db/conf/sigcse/index.html
   date: February 17-20, 2027
   place: Sacramento, California, USA
+  country: United States
 - name: NCMMSC
   description: National Conference on Man-Machine Speech Communication
   year: 2026
@@ -3108,6 +3317,7 @@
   dblp: https://dblp.org/db/conf/ncmmsc/index.html
   date: Nov 5-8, 2026
   place: Hengqin, China
+  country: China
 - name: BIBM
   description: IEEE International Conference on Bioinformatics and Biomedicine
   year: 2026
@@ -3122,6 +3332,7 @@
   dblp: https://dblp.org/db/conf/bibm/index.html
   date: Dec 1-4, 2026
   place: Dallas, USA
+  country: United States
 - name: ACCV
   description: Asian Conference on Computer Vision
   year: 2026
@@ -3136,6 +3347,7 @@
   dblp: https://dblp.org/db/conf/accv/index.html
   date: December 14-18, 2026
   place: Osaka, Japan
+  country: Japan
 - name: ACML
   description: Asian Conference on Machine Learning
   year: 2026
@@ -3151,6 +3363,7 @@
   dblp: https://dblp.org/db/conf/acml/index.html
   date: December 1-4, 2026
   place: Melbourne, Australia
+  country: Australia
 - name: POPL
   description: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
   year: 2027
@@ -3166,6 +3379,7 @@
   dblp: https://dblp.org/db/conf/popl/index.html
   date: January 10-16, 2027
   place: Mexico City
+  country: Mexico
 - name: SODA
   description: ACM-SIAM Symposium on Discrete Algorithms
   year: 2027
@@ -3180,6 +3394,7 @@
   dblp: https://dblp.org/db/conf/soda/index.html
   date: January 24-27, 2027
   place: Philadelphia, Pennsylvania, USA
+  country: United States
 - name: ASP-DAC
   description: Asia and South Pacific Design Automation Conference
   year: 2027
@@ -3195,6 +3410,7 @@
   dblp: https://dblp.org/db/conf/aspdac/index.html
   date: Jan 25-28, 2027
   place: Hitotsubashi Hall, Tokyo, Japan
+  country: Japan
 - name: SoCC
   description: ACM Symposium on Cloud Computing
   year: 2026
@@ -3211,6 +3427,7 @@
   dblp: https://dblp.org/db/conf/cloud/index.html
   date: November 18-20, 2026
   place: Singapore
+  country: Singapore
 - name: HotNets
   description: ACM Workshop on Hot Topics in Networks
   year: 2026
@@ -3225,6 +3442,7 @@
   dblp: https://dblp.org/db/conf/hotnets/index.html
   date: November 16-17, 2026
   place: Salt Lake City, Utah, USA
+  country: United States
 - name: ICECCS
   description: International Conference on Engineering of Complex Computer Systems
   year: 2026
@@ -3240,6 +3458,7 @@
   dblp: https://dblp.org/db/conf/iceccs/index.html
   date: November 23-24, 2026
   place: Brisbane, Australia
+  country: Australia
 - name: ISS
   description: ACM International Conference on Interactive Surfaces and Spaces
   year: 2026
@@ -3255,6 +3474,7 @@
   dblp: https://dblp.org/db/conf/tabletop/index.html
   date: November 23-26, 2026
   place: Turin, Italy
+  country: Italy
 - name: ICA3PP
   description: International Conference on Algorithms and Architectures for Parallel Processing
   year: 2026
@@ -3270,6 +3490,7 @@
   dblp: https://dblp.org/db/conf/ica3pp/index.html
   date: October 26-28, 2026
   place: Exeter, UK
+  country: United Kingdom
 - name: SIGKDD
   description: ACM Knowledge Discovery and Data Mining
   year: 2027
@@ -3286,6 +3507,7 @@
   dblp: https://dblp.org/db/conf/kdd/index.html
   date: August 1-5, 2027
   place: San Jose, California, USA
+  country: United States
 - name: AAAI
   description: AAAI Conference on Artificial Intelligence
   year: 2027
@@ -3301,6 +3523,7 @@
   dblp: https://dblp.org/db/conf/aaai/index.html
   date: February 16-23, 2027
   place: Montréal, Québec, Canada
+  country: Canada
 - name: HPCA
   description: IEEE International Symposium on High-Performance Computer Architecture
   year: 2027
@@ -3316,6 +3539,7 @@
   dblp: https://dblp.org/db/conf/hpca/index.html
   date: Jan 30-Feb 3, 2027
   place: Salt Lake City, Utah
+  country: United States
 - name: INFOCOM
   description: IEEE International Conference on Computer Communications
   year: 2027
@@ -3331,6 +3555,7 @@
   dblp: https://dblp.org/db/conf/infocom/index.html
   date: May 24 - 27, 2027
   place: Honolulu, HI, USA
+  country: United States
 - name: CSCloud
   description: IEEE International Conference on Cyber Security and Cloud Computing
   year: 2026
@@ -3345,6 +3570,7 @@
   dblp: https://dblp.org/db/conf/cscloud/index.html
   date: December 19-21, 2026
   place: Shanghai, China
+  country: China
 - name: ICAIF
   description: International Conference on AI in Finance
   year: 2026
@@ -3359,6 +3585,7 @@
   dblp: https://dblp.org/db/conf/icaif/index.html
   date: November 14-17, 2026
   place: Milan, Italy
+  country: Italy
 - name: PPoPP
   description: ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming
   year: 2027
@@ -3373,6 +3600,7 @@
   dblp: https://dblp.org/db/conf/ppopp/index.html
   date: Mar 20-24, 2027
   place: Salt Lake City, Utah, USA
+  country: United States
 - name: EACL
   description: The Annual Conference of the European Chapter of the Association for Computational Linguistics
   year: 2027
@@ -3388,6 +3616,7 @@
   dblp: https://dblp.org/db/conf/eacl/index.html
   date: March 9-14, 2027
   place: Athens, Greece
+  country: Greece
 - name: CIDR
   description: International Conference on Innovative Data Systems Research
   year: 2027
@@ -3402,6 +3631,7 @@
   dblp: https://dblp.org/db/conf/cidr/index.html
   date: January 24-27, 2027
   place: Amsterdam, The Netherlands
+  country: Netherlands
 - name: DAI
   description: International Conference on Distributed Artificial Intelligence
   year: 2026
@@ -3417,6 +3647,7 @@
   dblp: https://dblp.org/db/conf/dai2/index.html
   date: November 29-December 2, 2026
   place: Hong Kong, China
+  country: China
 - name: PKC
   description: International Conference on Practice and Theory of Public-Key Cryptography
   year: 2027
@@ -3431,6 +3662,7 @@
   dblp: https://dblp.org/db/conf/pkc/index.html
   date: March 1-4, 2027
   place: Taipei, Taiwan
+  country: Taiwan
 - name: MMM
   description: International Conference on Multimedia Modeling
   year: 2027
@@ -3445,6 +3677,7 @@
   dblp: https://dblp.org/db/conf/mmm/index.html
   date: January 5-8, 2027
   place: Siem Reap, Cambodia
+  country: Cambodia
 - name: NDSS
   description: Network and Distributed System Security (NDSS) Symposium
   year: 2027
@@ -3460,6 +3693,7 @@
   dblp: https://dblp.org/db/conf/ndss/index.html
   date: March 22 - March 26, 2027
   place: Seoul, Republic of Korea
+  country: South Korea
 - name: IUI
   description: ACM Conference on Intelligent User Interfaces
   year: 2027
@@ -3475,6 +3709,7 @@
   dblp: https://dblp.org/db/conf/iui/index.html
   date: February 8-11, 2027
   place: Helsinki, Finland
+  country: Finland
 - name: BigData
   description: IEEE International Conference on Big Data
   year: 2026
@@ -3489,6 +3724,7 @@
   dblp: https://dblp.org/db/conf/bigdataconf/index.html
   date: December 14-17, 2026
   place: Phoenix, Arizona, United State
+  country: United States
 - name: 3DV
   description: International Conference on 3D Vision
   year: 2027
@@ -3504,6 +3740,7 @@
   dblp: https://dblp.org/db/conf/3dim/index.html
   date: April 6-9, 2027
   place: Thessaloniki, Greece
+  country: Greece
 - name: WACV
   description: IEEE/CVF Winter Conference on Applications of Computer Vision
   year: 2027
@@ -3520,6 +3757,7 @@
   dblp: https://dblp.org/db/conf/wacv/index.html
   date: Jan 5 - 9, 2027
   place: Disney Springs, Buena Vista, FL, USA
+  country: United States
 - name: MSN
   description: International Conference on Mobility, Sensing and Networking
   year: 2026
@@ -3534,6 +3772,7 @@
   dblp: https://dblp.org/db/conf/msn/index.html
   date: December 18-20, 2026
   place: Ningbo, China
+  country: China
 - name: IEEE VR
   description: IEEE Virtual Reality
   year: 2027
@@ -3549,6 +3788,7 @@
   dblp: https://dblp.org/db/conf/vr/index.html
   date: February 27 - March 3, 2027
   place: Melbourne, Australia
+  country: Australia
 - name: MMAsia
   description: ACM Multimedia Asia
   year: 2026
@@ -3563,6 +3803,7 @@
   dblp: https://dblp.org/db/conf/mmasia/index.html
   date: December 15-18, 2026
   place: VinUniversity, Hanoi, Vietnam
+  country: Vietnam
 - name: MobiCom
   description: ACM Annual International Conference On Mobile Computing And Networking
   year: 2027
@@ -3592,6 +3833,7 @@
   dblp: https://dblp.org/db/conf/asplos/index.html
   date: April 11-15, 2027
   place: Crete, Greece
+  country: Greece
 - name: IEEE/ACM CGO
   description: The International Symposium on Code Generation and Optimization
   year: 2027
@@ -3606,6 +3848,7 @@
   dblp: https://dblp.org/db/conf/cgo/index.html
   date: TBD
   place: Salt Lake City, Utah, USA
+  country: United States
 - name: ICDT
   description: International Conference on Database Theory
   year: 2027
@@ -3620,6 +3863,7 @@
   dblp: https://dblp.org/db/conf/icdt/index.html
   date: April 6-9, 2027
   place: Lille, France
+  country: France
 - name: CHI
   description: ACM Conference on Human Factors in Computing Systems
   year: 2027
@@ -3633,6 +3877,7 @@
   dblp: https://dblp.org/db/conf/chi/index.html
   date: May 10 - 14, 2027
   place: David L. Lawrence Convention Center, Pittsburgh, USA
+  country: United States
 - name: ADMA
   description: The International Conference on Advanced Data Mining and Applications
   year: 2026
@@ -3649,6 +3894,7 @@
   dblp: https://dblp.org/db/conf/adma/index.html
   date: November 13 - 15, 2026
   place: Hong Kong, China
+  country: China
 - name: ICRA
   description: IEEE International Conference on Robotics and Automation
   year: 2027
@@ -3662,6 +3908,7 @@
   dblp: https://dblp.org/db/conf/icra/index.html
   date: May 24-28, 2027
   place: Seoul, Republic of Korea
+  country: South Korea
 - name: FAST
   description: USENIX Conference on File and Storage Technologies
   year: 2027
@@ -3676,6 +3923,7 @@
   dblp: https://dblp.org/db/conf/fast/index.html
   date: FEBRUARY 23-25, 2027
   place: Renton, WA, USA
+  country: United States
 - name: WCNC
   description: IEEE Wireless Communications and Networking Conference
   year: 2027
@@ -3689,6 +3937,7 @@
   dblp: https://dblp.org/db/conf/wcnc/index.html
   date: April 5-8, 2027
   place: Panama City, Panama
+  country: Panama
 - name: VMCAI
   description: International Conference on Verification, Model Checking, and Abstract Interpretation
   year: 2027
@@ -3702,6 +3951,7 @@
   dblp: https://dblp.org/db/conf/vmcai/index.html
   date: January 11-12, 2027
   place: Mexico City, Mexico
+  country: Mexico
 - name: ICASSP
   description: IEEE International Conference on Acoustics, Speech, and Signal Processing
   year: 2027
@@ -3715,6 +3965,7 @@
   dblp: https://dblp.org/db/conf/icassp/index.html
   date: May 16-21, 2027
   place: Toronto, Canada
+  country: Canada
 - name: NSDI
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2027
@@ -3729,6 +3980,7 @@
   dblp: https://dblp.org/db/conf/nsdi/index.html
   date: May 11-13, 2027
   place: Providence, RI, USA
+  country: United States
 - name: MMSys
   description: ACM International Conference on Multimedia Systems
   year: 2027
@@ -3743,6 +3995,7 @@
   dblp: https://dblp.org/db/conf/mmsys/index.html
   date: March 30 - April 2, 2027
   place: Ghent, Belgium
+  country: Belgium
 - name: EUROCRYPT
   description: European Cryptology Conference
   year: 2027
@@ -3756,6 +4009,7 @@
   dblp: https://dblp.org/db/conf/eurocrypt/index.html
   date: April 11-15, 2027
   place: Eindhoven, Netherlands
+  country: Netherlands
 - name: FC
   description: Financial Cryptography and Data Security
   year: 2027
@@ -3770,6 +4024,7 @@
   dblp: https://dblp.org/db/conf/fc/index.html
   date: February 8-12, 2027
   place: Barbados (tentative)
+  country: Barbados
 - name: DATE
   description: Design, Automation & Test in Europe
   year: 2027
@@ -3784,6 +4039,7 @@
   dblp: https://dblp.org/db/conf/date/index.html
   date: March 22-24, 2027
   place: Dresden, Germany
+  country: Germany
 - name: EuroSys
   description: European Conference on Computer Systems
   year: 2027
@@ -3799,6 +4055,7 @@
   dblp: https://dblp.org/db/conf/eurosys/index.html
   date: April 19-24, 2027
   place: Rabat, Morocco
+  country: Morocco
 - name: ACNS
   description: Applied Cryptography and Network Security
   year: 2027
@@ -3815,6 +4072,7 @@
   dblp: https://dblp.org/db/conf/acns/index.html
   date: June 28 - July 1, 2027
   place: Royal Holloway, Egham, UK
+  country: United Kingdom
 - name: SANER
   description: IEEE International Conference on Software Analysis, Evolution and Reengineering
   year: 2027
@@ -3830,6 +4088,7 @@
   dblp: https://dblp.org/db/conf/wcre/index.html
   date: March 9-12, 2027
   place: Richmond, Virginia, United States
+  country: United States
 - name: ICLR
   description: International Conference on Learning Representations
   year: 2027
@@ -3844,6 +4103,7 @@
   dblp: https://dblp.org/db/conf/iclr/index.html
   date: April 26-30, 2027
   place: San Francisco, CA, USA
+  country: United States
 - name: SATML
   description: IEEE Conference on Secure and Trustworthy Machine Learning
   year: 2027
@@ -3857,6 +4117,7 @@
   dblp: https://dblp.org/db/conf/satml/index.html
   date: May 2027 (exact dates TBD)
   place: Reykjavik, Iceland
+  country: Iceland
 - name: Eurographics
   description: Eurographics
   year: 2027
@@ -3871,6 +4132,7 @@
   dblp: https://dblp.org/db/conf/eurographics/index.html
   date: May 10-14, 2027
   place: Lucca, Italy
+  country: Italy
 - name: VLDB
   description: International Conference on Very Large Data Bases
   year: 2027
@@ -3889,6 +4151,7 @@
   dblp: https://dblp.org/db/conf/vldb/index.html
   date: August 23 - August 27, 2027
   place: Athens, Greece
+  country: Greece
 - name: FPGA
   description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   year: 2027
@@ -3905,6 +4168,7 @@
   dblp: https://dblp.org/db/conf/fpga/index.html
   date: March 14 - March 16, 2027
   place: Monterey, California, USA
+  country: United States
 - name: ECIR
   description: European Conference on Information Retrieval
   year: 2027
@@ -3919,6 +4183,7 @@
   dblp: https://dblp.org/db/conf/ecir/index.html
   date: March 21-25, 2027
   place: Southampton, UK
+  country: United Kingdom
 - name: ICC
   description: IEEE International Conference on Communications
   year: 2027
@@ -3932,6 +4197,7 @@
   dblp: https://dblp.org/db/conf/icc/index.html
   date: May 30 - June 3, 2027
   place: Washington, DC, USA
+  country: United States
 - name: DCC
   description: Data Compression Conference
   year: 2027
@@ -3945,6 +4211,7 @@
   dblp: https://dblp.org/db/conf/dcc/index.html
   date: March 23-26, 2027
   place: Snowbird, Utah, United States
+  country: United States
 - name: FSE
   description: ACM International Conference on the Foundations of Software Engineering
   year: 2027
@@ -3958,6 +4225,7 @@
   dblp: https://dblp.org/db/conf/sigsoft/index.html
   date: July 12-16, 2027
   place: Shenzhen, China
+  country: China
 - name: EDBT
   description: International Conference on Extending Database Technology
   year: 2027
@@ -3971,6 +4239,7 @@
   dblp: https://dblp.org/db/conf/edbt/index.html
   date: April 6-9, 2027
   place: Lille, France
+  country: France
 - name: AAMAS
   description: International Conference on Autonomous Agents and Multiagent Systems
   year: 2027
@@ -3985,6 +4254,7 @@
   dblp: https://dblp.org/db/conf/ifaamas/index.html
   date: May 03, 2027
   place: Hanoi, Vietnam
+  country: Vietnam
 - name: IPDPS
   description: IEEE International Parallel and Distributed Processing Symposium
   year: 2027
@@ -3999,6 +4269,7 @@
   dblp: https://dblp.org/db/conf/ipps/index.html
   date: June 1-5, 2027
   place: Seattle, USA
+  country: United States
 - name: SIGMETRICS
   description: ACM Special Interest Group on Measurement and Evaluation
   year: 2027
@@ -4017,6 +4288,7 @@
   dblp: https://dblp.org/db/conf/sigmetrics/index.html
   date: June 7-11, 2027
   place: Atlanta, Georgia, USA
+  country: United States
 - name: ALT
   description: International Conference on Algorithmic Learning Theory
   year: 2027
@@ -4030,6 +4302,7 @@
   dblp: https://dblp.org/db/conf/alt/index.html
   date: March 9-12, 2027
   place: Leiden, Netherlands
+  country: Netherlands
 - name: COLING
   description: INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS
   year: 2027
@@ -4044,6 +4317,7 @@
   dblp: https://dblp.org/db/conf/coling/index.html
   date: May 9-14, 2027
   place: Macau SAR, China
+  country: China
 - name: NAACL
   description: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
   year: 2027
@@ -4058,6 +4332,7 @@
   dblp: https://dblp.org/db/conf/naacl/index.html
   date: June 1-5, 2027
   place: San Francisco, California, USA
+  country: United States
 - name: ISCAS
   description: IEEE International Symposium on Circuits and Systems
   year: 2027
@@ -4071,6 +4346,7 @@
   dblp: https://dblp.org/db/conf/iscas/index.html
   date: June 6-9, 2027
   place: Bordeaux, France
+  country: France
 - name: CHES
   description: International Conference on Cryptographic Hardware and Embedded Systems
   year: 2027
@@ -4089,6 +4365,7 @@
   dblp: https://dblp.org/db/conf/ches/index.html
   date: September 6 - 9, 2027
   place: Cancún, Mexico
+  country: Mexico
 - name: CSFW
   description: IEEE Computer Security Foundations Symposium
   year: 2027
@@ -4105,6 +4382,7 @@
   dblp: https://dblp.org/db/conf/csfw/index.html
   date: TBA
   place: Tokyo, Japan
+  country: Japan
 - name: FG
   description: International Conference on Automatic Face and Gesture Recognition
   year: 2027
@@ -4119,6 +4397,7 @@
   dblp: https://dblp.org/db/conf/fg/index.html
   date: April 26-30, 2027
   place: Marrakesh, Morocco
+  country: Morocco
 - name: SIGMOD
   description: ACM Conference on Management of Data
   year: 2027
@@ -4134,6 +4413,7 @@
   dblp: https://dblp.org/db/conf/sigmod/index.html
   date: June 13-19, 2027
   place: Huntington Beach, CA, USA
+  country: United States
 - name: WWW
   description: International World Wide Web Conferences
   year: 2027
@@ -4148,6 +4428,7 @@
   dblp: https://dblp.org/db/conf/www/index.html
   date: May 10 - 14, 2027
   place: Dublin, Ireland
+  country: Ireland
 - name: CT-RSA
   description: Cryptographer's Track at RSA Conference
   year: 2027
@@ -4162,6 +4443,7 @@
   dblp: https://dblp.org/db/conf/ctrsa/index.html
   date: April 5-8, 2027
   place: San Francisco, California, USA
+  country: United States
 - name: CVM
   description: The international conference on Computational Visual Media
   year: 2027
@@ -4176,6 +4458,7 @@
   dblp: https://dblp.org/db/conf/cvm/index.html
   date: April 9-11, 2027
   place: Nanyang Technological University, Singapore
+  country: Singapore
 - name: MLSys
   description: Conference on Machine Learning and Systems
   year: 2027
@@ -4189,6 +4472,7 @@
   dblp: https://dblp.org/db/conf/mlsys/index.html
   date: TBD
   place: Bellevue, Washington, USA
+  country: United States
 - name: UbiComp/ISWC
   description: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   year: 2026
@@ -4203,6 +4487,7 @@
   dblp: https://dblp.org/db/conf/huc/index.html
   date: October 11-15, 2026
   place: Shanghai, China
+  country: China
 - name: RTAS
   description: IEEE Real-Time and Embedded Technology and Applications Symposium
   year: 2027
@@ -4217,6 +4502,7 @@
   dblp: https://dblp.org/db/conf/rtas/index.html
   date: May 17-20, 2027
   place: Boulder, Colorado
+  country: United States
 - name: ICDE
   description: IEEE International Conference on Data Engineering
   year: 2027
@@ -4231,6 +4517,7 @@
   dblp: https://dblp.org/db/conf/icde/index.html
   date: May 17-21, 2027
   place: Copenhagen, Denmark
+  country: Denmark
 - name: PLDI
   description: ACM SIGPLAN Conference on Programming Language Design & Implementation
   year: 2027
@@ -4244,6 +4531,7 @@
   dblp: https://dblp.org/db/conf/pldi/index.html
   date: June 5-11, 2027
   place: Atlanta, Georgia, USA
+  country: United States
 - name: REFSQ
   description: 'Requirements Engineering: Foundation for Software Quality'
   year: 2027
@@ -4258,6 +4546,7 @@
   dblp: https://dblp.org/db/conf/refsq/index.html
   date: April 12-15, 2027
   place: Basel, Switzerland
+  country: Switzerland
 - name: S&P
   description: IEEE Symposium on Security and Privacy
   year: 2027
@@ -4273,6 +4562,7 @@
   dblp: https://dblp.org/db/conf/sp/index.html
   date: May 17-19, 2027
   place: MONTREAL, CANADA
+  country: Canada
 - name: WSDM
   description: International Conference on Web Search and Data Mining
   year: 2027
@@ -4287,6 +4577,7 @@
   dblp: https://dblp.org/db/conf/wsdm/index.html
   date: February 15 - 19, 2027
   place: Cordis, Hong Kong SAR, China
+  country: China
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
   year: 2027
@@ -4300,6 +4591,7 @@
   dblp: https://dblp.org/db/conf/secon/index.html
   date: May 5-7, 2027
   place: Lisbon, Portugal
+  country: Portugal
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2027
@@ -4316,6 +4608,7 @@
   dblp: https://dblp.org/db/conf/pet/index.html
   date: July 19-24, 2027
   place: Delft, The Netherlands
+  country: Netherlands
 - name: DSN
   description: International Conference on Dependable Systems and Networks
   year: 2027
@@ -4330,6 +4623,7 @@
   dblp: https://dblp.org/db/conf/dsn/index.html
   date: June 22-25, 2027
   place: Berlin, Germany
+  country: Germany
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2027
@@ -4344,6 +4638,7 @@
   dblp: https://dblp.org/db/conf/osdi/index.html
   date: July 7-9, 2027
   place: Baltimore, MD, USA
+  country: United States
 - name: AsiaCCS
   description: Asia Conference on Computer and Communications Security
   year: 2027
@@ -4358,6 +4653,7 @@
   dblp: https://dblp.org/db/conf/ccs/index.html
   date: July 12-16, 2027
   place: Macau, China
+  country: China
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
   year: 2027
@@ -4372,6 +4668,7 @@
   dblp: https://dblp.org/db/conf/issta/index.html
   date: September 7-10, 2027
   place: Singapore
+  country: Singapore
 - name: USENIX Security
   description: USENIX Security Symposium
   year: 2027
@@ -4387,6 +4684,7 @@
   dblp: https://dblp.org/db/conf/uss/index.html
   date: August 11-13, 2027
   place: Denver, CO, USA
+  country: United States
 - name: ICMR
   description: ACM SIGMM International Conference on Multimedia Retrieval
   year: 2027
@@ -4400,6 +4698,7 @@
   dblp: https://dblp.org/db/conf/mir/index.html
   date: June 7-10, 2027
   place: Singapore
+  country: Singapore
 - name: IJCNN
   description: International Joint Conference on Neural Networks
   year: 2027
@@ -4413,6 +4712,7 @@
   dblp: https://dblp.org/db/conf/ijcnn/index.html
   date: June 14 - 18, 2027
   place: Cape Town, South Africa
+  country: South Africa
 - name: IEEE CEC
   description: IEEE Congress on Evolutionary Computation
   year: 2027
@@ -4426,3 +4726,4 @@
   dblp: https://dblp.org/db/conf/cec/index.html
   date: July 25-28, 2027
   place: Edinburgh, Scotland, UK
+  country: United Kingdom

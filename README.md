@@ -22,6 +22,15 @@ just one.
   and location.
 - Conferences whose next round has not been announced show **TBA**, with the
   date of their previous round, rather than being hidden.
+- **Country filter** — the host country is recovered from upstream's free-text
+  location strings ("Salt Lake City, Utah", "MONTREAL, CANADA", "Chania, Greec")
+  by [`country_for`](scripts/sync_ccfddl.py), which normalises aliases, US
+  states and typos. 301 of 304 resolve; the rest are genuinely virtual or TBD.
+- **English / Vietnamese interface** — UI strings live in
+  [`_data/i18n.yml`](_data/i18n.yml) and swap client-side, with dates and
+  relative times rendered in the matching locale. Conference names,
+  descriptions and locations are deliberately left untranslated: they are
+  official titles, not prose.
 - **Timezone picker** — every date renders in whichever timezone the reader
   picks, defaulting to their own. Anywhere on Earth (AoE), the convention most
   CFPs actually use, is offered at the top of the list. Countdowns are absolute

@@ -1,0 +1,99 @@
+# UI translations. Conference names, descriptions and locations stay in their
+# original language -- they are official titles, not prose to translate.
+en:
+  name: English
+  language: Language
+  tagline: Countdowns to paper and abstract submission deadlines for computer science conferences worldwide.
+  summary: "%{count} conferences across ten research areas."
+  updated: "Last updated %{date}."
+  times_in: "All times are shown in %{zone}."
+  times_local: "All times are shown in %{zone} (your local timezone)."
+  ical: "Subscribe via iCal:"
+  ical_all: all areas
+  search: Search by name, description or location…
+  only_announced: Only announced deadlines
+  reset: Reset filters
+  all_countries: All countries
+  research_area: Research area
+  core_rank: rank
+  unranked: Unranked
+  shown_one: "%{count} deadline shown"
+  shown_many: "%{count} deadlines shown"
+  empty: No conferences match these filters.
+  timezone: Timezone
+  theme: Theme
+  theme_auto: Auto
+  theme_light: Light
+  theme_dark: Dark
+  star: Star
+  local_time: Local
+  aoe: Anywhere on Earth (AoE) — the deadline standard
+  abstract: Abstract
+  full_paper: Full paper
+  deadline: Deadline
+  next_round: Next round
+  tba: TBA
+  last_round: "Last round %{date}"
+  round_of: "round %{n} of %{total}"
+  days_ago_one: "%{n} day ago"
+  days_ago_many: "%{n} days ago"
+  years_ago_one: "%{n} year ago"
+  years_ago_many: "%{n} years ago"
+  today: today
+  updated_banner: Deadline data has been updated.
+  reload: Reload
+  stats: "%{views} page views from %{visitors} visitors."
+  confirm_cfp: Always confirm against the official call for papers —
+  report: report a problem
+  credits_data: Deadline data is community-maintained
+  credits_upstream: upstream
+  credits_sync: and re-synced here daily. Rankings from
+
+vi:
+  name: Tiếng Việt
+  language: Ngôn ngữ
+  tagline: Đếm ngược hạn nộp bài và tóm tắt cho các hội nghị khoa học máy tính trên toàn thế giới.
+  summary: "%{count} hội nghị thuộc mười lĩnh vực nghiên cứu."
+  updated: "Cập nhật lần cuối %{date}."
+  times_in: "Tất cả thời gian hiển thị theo %{zone}."
+  times_local: "Tất cả thời gian hiển thị theo %{zone} (múi giờ của bạn)."
+  ical: "Đăng ký qua iCal:"
+  ical_all: tất cả lĩnh vực
+  search: Tìm theo tên, mô tả hoặc địa điểm…
+  only_announced: Chỉ hạn đã công bố
+  reset: Đặt lại bộ lọc
+  all_countries: Tất cả quốc gia
+  research_area: Lĩnh vực nghiên cứu
+  core_rank: xếp hạng
+  unranked: Chưa xếp hạng
+  shown_one: "Hiển thị %{count} hạn nộp"
+  shown_many: "Hiển thị %{count} hạn nộp"
+  empty: Không có hội nghị nào khớp với bộ lọc này.
+  timezone: Múi giờ
+  theme: Giao diện
+  theme_auto: Tự động
+  theme_light: Sáng
+  theme_dark: Tối
+  star: Gắn sao
+  local_time: Giờ địa phương
+  aoe: Anywhere on Earth (AoE) — chuẩn hạn nộp quốc tế
+  abstract: Tóm tắt
+  full_paper: Toàn văn
+  deadline: Hạn nộp
+  next_round: Đợt tiếp theo
+  tba: Chưa công bố
+  last_round: "Đợt trước %{date}"
+  round_of: "đợt %{n} / %{total}"
+  days_ago_one: "%{n} ngày trước"
+  days_ago_many: "%{n} ngày trước"
+  years_ago_one: "%{n} năm trước"
+  years_ago_many: "%{n} năm trước"
+  today: hôm nay
+  updated_banner: Dữ liệu hạn nộp đã được cập nhật.
+  reload: Tải lại
+  stats: "%{views} lượt xem từ %{visitors} người truy cập."
+  confirm_cfp: Luôn kiểm tra lại với thông báo mời nộp bài chính thức —
+  report: báo lỗi
+  credits_data: Dữ liệu hạn nộp được cộng đồng duy trì
+  credits_upstream: tại nguồn
+  credits_sync: và đồng bộ hằng ngày. Xếp hạng từ
