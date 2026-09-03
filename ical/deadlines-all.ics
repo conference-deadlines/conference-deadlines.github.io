@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - All areas
 BEGIN:VEVENT
-UID:indocrypt-2025-0-paper@conference-deadlines
-DTSTAMP:20250902T115959Z
-DTSTART:20250902T115959Z
-DTEND:20250902T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:INDOCRYPT 2025 deadline
-DESCRIPTION:International Conference on Cryptology in India\nhttps://www.in
- docrypt2025.in/\nLocation: IIIT Bhubaneswar\, Odisha\, India
-URL:https://www.indocrypt2025.in/
-END:VEVENT
-BEGIN:VEVENT
 UID:dfrws-2026-0-abstract@conference-deadlines
 DTSTAMP:20250920T115959Z
 DTSTART:20250920T115959Z
@@ -212,30 +201,6 @@ SUMMARY:PacificVis 2026 deadline (Conference track)
 DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2026.gi
  thub.io/\nLocation: Sydney\, Australia
 URL:https://pacificvis2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:cvpr-2026-0-abstract@conference-deadlines
-DTSTAMP:20251107T115900Z
-DTSTART:20251107T115900Z
-DTEND:20251107T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:CVPR 2026 abstract deadline
-DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
- nhttps://cvpr.thecvf.com/Conferences/2026\nLocation: Denver\, Colorado\, U
- nited States
-URL:https://cvpr.thecvf.com/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cvpr-2026-0-paper@conference-deadlines
-DTSTAMP:20251114T115900Z
-DTSTART:20251114T115900Z
-DTEND:20251114T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:CVPR 2026 deadline
-DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
- nhttps://cvpr.thecvf.com/Conferences/2026\nLocation: Denver\, Colorado\, U
- nited States
-URL:https://cvpr.thecvf.com/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:hscc-2026-0-abstract@conference-deadlines
@@ -3066,28 +3031,6 @@ DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
 URL:https://www.iccd-conf.com/2026/home.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sensys-2027-0-abstract@conference-deadlines
-DTSTAMP:20260530T115900Z
-DTSTART:20260530T115900Z
-DTEND:20260530T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SenSys 2027 abstract deadline (1st deadline)
-DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
- nsys.acm.org/2027/\nLocation: New York\, USA
-URL:https://sensys.acm.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sensys-2027-0-paper@conference-deadlines
-DTSTAMP:20260606T115900Z
-DTSTART:20260606T115900Z
-DTEND:20260606T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SenSys 2027 deadline (1st deadline)
-DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
- nsys.acm.org/2027/\nLocation: New York\, USA
-URL:https://sensys.acm.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:hotstorage-2026-0-paper@conference-deadlines
 DTSTAMP:20260606T115959Z
 DTSTART:20260606T115959Z
@@ -4728,6 +4671,28 @@ DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous
  Computing\nhttps://www.ubicomp.org/ubicomp-iswc-2026\nLocation: Shanghai\,
   China
 URL:https://www.ubicomp.org/ubicomp-iswc-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sensys-2027-0-abstract@conference-deadlines
+DTSTAMP:20261030T115900Z
+DTSTART:20261030T115900Z
+DTEND:20261030T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SenSys 2027 abstract deadline (2nd deadline)
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
+ nsys.acm.org/2027/\nLocation: Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sensys-2027-0-paper@conference-deadlines
+DTSTAMP:20261106T115900Z
+DTSTART:20261106T115900Z
+DTEND:20261106T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SenSys 2027 deadline (2nd deadline)
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
+ nsys.acm.org/2027/\nLocation: Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:rtas-2027-0-paper@conference-deadlines

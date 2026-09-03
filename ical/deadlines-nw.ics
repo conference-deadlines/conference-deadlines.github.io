@@ -302,28 +302,6 @@ DESCRIPTION:International Conference on Modeling\, Analysis and Simulation
 URL:https://mswimconf.com/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:sensys-2027-0-abstract@conference-deadlines
-DTSTAMP:20260530T115900Z
-DTSTART:20260530T115900Z
-DTEND:20260530T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SenSys 2027 abstract deadline (1st deadline)
-DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
- nsys.acm.org/2027/\nLocation: New York\, USA
-URL:https://sensys.acm.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sensys-2027-0-paper@conference-deadlines
-DTSTAMP:20260606T115900Z
-DTSTART:20260606T115900Z
-DTEND:20260606T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SenSys 2027 deadline (1st deadline)
-DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
- nsys.acm.org/2027/\nLocation: New York\, USA
-URL:https://sensys.acm.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:conext-2026-0-abstract@conference-deadlines
 DTSTAMP:20260530T115959Z
 DTSTART:20260530T115959Z
@@ -480,6 +458,28 @@ SUMMARY:ICC 2027 deadline
 DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
  7.ieee-icc.org\nLocation: Washington\, DC\, USA
 URL:https://icc2027.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+UID:sensys-2027-0-abstract@conference-deadlines
+DTSTAMP:20261030T115900Z
+DTSTART:20261030T115900Z
+DTEND:20261030T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SenSys 2027 abstract deadline (2nd deadline)
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
+ nsys.acm.org/2027/\nLocation: Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sensys-2027-0-paper@conference-deadlines
+DTSTAMP:20261106T115900Z
+DTSTART:20261106T115900Z
+DTEND:20261106T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SenSys 2027 deadline (2nd deadline)
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
+ nsys.acm.org/2027/\nLocation: Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines

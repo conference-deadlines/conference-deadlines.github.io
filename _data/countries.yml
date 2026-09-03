@@ -34,7 +34,7 @@
 - name: Iceland
   count: 2
 - name: India
-  count: 2
+  count: 1
 - name: Ireland
   count: 3
 - name: Italy
@@ -80,6 +80,6 @@
 - name: United Kingdom
   count: 18
 - name: United States
-  count: 70
+  count: 69
 - name: Vietnam
   count: 3

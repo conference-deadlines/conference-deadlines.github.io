@@ -27,30 +27,6 @@ DESCRIPTION:International Conference on Artificial Intelligence and Statist
 URL:https://virtual.aistats.org/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cvpr-2026-0-abstract@conference-deadlines
-DTSTAMP:20251107T115900Z
-DTSTART:20251107T115900Z
-DTEND:20251107T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:CVPR 2026 abstract deadline
-DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
- nhttps://cvpr.thecvf.com/Conferences/2026\nLocation: Denver\, Colorado\, U
- nited States
-URL:https://cvpr.thecvf.com/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cvpr-2026-0-paper@conference-deadlines
-DTSTAMP:20251114T115900Z
-DTSTART:20251114T115900Z
-DTEND:20251114T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:CVPR 2026 deadline
-DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
- nhttps://cvpr.thecvf.com/Conferences/2026\nLocation: Denver\, Colorado\, U
- nited States
-URL:https://cvpr.thecvf.com/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:esann-2026-0-paper@conference-deadlines
 DTSTAMP:20251120T075959Z
 DTSTART:20251120T075959Z

@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Security & Privacy
 BEGIN:VEVENT
-UID:indocrypt-2025-0-paper@conference-deadlines
-DTSTAMP:20250902T115959Z
-DTSTART:20250902T115959Z
-DTEND:20250902T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:INDOCRYPT 2025 deadline
-DESCRIPTION:International Conference on Cryptology in India\nhttps://www.in
- docrypt2025.in/\nLocation: IIIT Bhubaneswar\, Odisha\, India
-URL:https://www.indocrypt2025.in/
-END:VEVENT
-BEGIN:VEVENT
 UID:dfrws-2026-0-abstract@conference-deadlines
 DTSTAMP:20250920T115959Z
 DTSTART:20250920T115959Z
