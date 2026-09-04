@@ -746,6 +746,30 @@ DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
 URL:https://fg2027.ieee-biometrics.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:cvpr-2027-0-abstract@conference-deadlines
+DTSTAMP:20261111T115900Z
+DTSTART:20261111T115900Z
+DTEND:20261111T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CVPR 2027 abstract deadline
+DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+ nhttps://cvpr.thecvf.com/Conferences/2027\nLocation: Seattle\, WA\, United
+  States
+URL:https://cvpr.thecvf.com/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-0-paper@conference-deadlines
+DTSTAMP:20261117T115900Z
+DTSTART:20261117T115900Z
+DTEND:20261117T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CVPR 2027 deadline
+DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+ nhttps://cvpr.thecvf.com/Conferences/2027\nLocation: Seattle\, WA\, United
+  States
+URL:https://cvpr.thecvf.com/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
 UID:ijcnn-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z

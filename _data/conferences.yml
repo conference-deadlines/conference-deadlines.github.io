@@ -3769,6 +3769,7 @@
   - NW
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/mobicom/index.html
   date: Oct 18-22, 2027
   place: TBD
@@ -4516,6 +4517,21 @@
   date: April 12-15, 2027
   place: Basel, Switzerland
   country: Switzerland
+- name: CVPR
+  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  year: 2027
+  link: https://cvpr.thecvf.com/Conferences/2027
+  deadlines:
+  - date: '2026-11-16T23:59:00-12:00'
+    abstract: '2026-11-10T23:59:00-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/cvpr/index.html
+  date: June 20-24, 2027
+  place: Seattle, WA, United States
+  country: United States
 - name: S&P
   description: IEEE Symposium on Security and Privacy
   year: 2027

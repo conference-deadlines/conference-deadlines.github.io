@@ -4750,6 +4750,30 @@ DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
 URL:https://2027.refsq.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:cvpr-2027-0-abstract@conference-deadlines
+DTSTAMP:20261111T115900Z
+DTSTART:20261111T115900Z
+DTEND:20261111T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CVPR 2027 abstract deadline
+DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+ nhttps://cvpr.thecvf.com/Conferences/2027\nLocation: Seattle\, WA\, United
+  States
+URL:https://cvpr.thecvf.com/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-0-paper@conference-deadlines
+DTSTAMP:20261117T115900Z
+DTSTART:20261117T115900Z
+DTEND:20261117T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CVPR 2027 deadline
+DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+ nhttps://cvpr.thecvf.com/Conferences/2027\nLocation: Seattle\, WA\, United
+  States
+URL:https://cvpr.thecvf.com/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
 UID:s-p-2027-0-abstract@conference-deadlines
 DTSTAMP:20261111T115959Z
 DTSTART:20261111T115959Z
