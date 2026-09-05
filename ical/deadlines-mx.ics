@@ -263,25 +263,25 @@ URL:https://bigdataieee.org/BigData2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:www-2027-0-abstract@conference-deadlines
-DTSTAMP:20261012T115959Z
-DTSTART:20261012T115959Z
-DTEND:20261012T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WWW 2027 abstract deadline
-DESCRIPTION:International World Wide Web Conferences\nhttps://acmweb2027.or
- g/\nLocation: Dublin\, Ireland
-URL:https://acmweb2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:www-2027-0-paper@conference-deadlines
 DTSTAMP:20261019T115959Z
 DTSTART:20261019T115959Z
 DTEND:20261019T122959Z
 TRANSP:TRANSPARENT
+SUMMARY:WWW 2027 abstract deadline
+DESCRIPTION:International World Wide Web Conferences\nhttps://www2027.thewe
+ bconf.org/\nLocation: Dublin\, Ireland
+URL:https://www2027.thewebconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:www-2027-0-paper@conference-deadlines
+DTSTAMP:20261026T115959Z
+DTSTART:20261026T115959Z
+DTEND:20261026T122959Z
+TRANSP:TRANSPARENT
 SUMMARY:WWW 2027 deadline
-DESCRIPTION:International World Wide Web Conferences\nhttps://acmweb2027.or
- g/\nLocation: Dublin\, Ireland
-URL:https://acmweb2027.org/
+DESCRIPTION:International World Wide Web Conferences\nhttps://www2027.thewe
+ bconf.org/\nLocation: Dublin\, Ireland
+URL:https://www2027.thewebconf.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:mlsys-2027-0-paper@conference-deadlines

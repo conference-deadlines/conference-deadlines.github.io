@@ -5,28 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Artificial Intelligence
 BEGIN:VEVENT
-UID:aistats-2026-0-abstract@conference-deadlines
-DTSTAMP:20250926T115959Z
-DTSTART:20250926T115959Z
-DTEND:20250926T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:AISTATS 2026 abstract deadline
-DESCRIPTION:International Conference on Artificial Intelligence and Statist
- ics\nhttps://virtual.aistats.org/Conferences/2026\nLocation: Morocco
-URL:https://virtual.aistats.org/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:aistats-2026-0-paper@conference-deadlines
-DTSTAMP:20251003T115959Z
-DTSTART:20251003T115959Z
-DTEND:20251003T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:AISTATS 2026 deadline
-DESCRIPTION:International Conference on Artificial Intelligence and Statist
- ics\nhttps://virtual.aistats.org/Conferences/2026\nLocation: Morocco
-URL:https://virtual.aistats.org/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:esann-2026-0-paper@conference-deadlines
 DTSTAMP:20251120T075959Z
 DTSTART:20251120T075959Z
@@ -664,6 +642,30 @@ SUMMARY:ICLR 2027 deadline
 DESCRIPTION:International Conference on Learning Representations\nhttps://i
  clr.cc/Conferences/2027\nLocation: San Francisco\, CA\, USA
 URL:https://iclr.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-0-abstract@conference-deadlines
+DTSTAMP:20260930T115959Z
+DTSTART:20260930T115959Z
+DTEND:20260930T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AISTATS 2027 abstract deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statist
+ ics\nhttps://virtual.aistats.org/Conferences/2027\nLocation: Montréal\, C
+ anada
+URL:https://virtual.aistats.org/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-0-paper@conference-deadlines
+DTSTAMP:20261007T115959Z
+DTSTART:20261007T115959Z
+DTEND:20261007T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AISTATS 2027 deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statist
+ ics\nhttps://virtual.aistats.org/Conferences/2027\nLocation: Montréal\, C
+ anada
+URL:https://virtual.aistats.org/Conferences/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:aamas-2027-0-abstract@conference-deadlines

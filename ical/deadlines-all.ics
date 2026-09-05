@@ -38,28 +38,6 @@ DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
 URL:http://www.ifip119.org/Conferences/
 END:VEVENT
 BEGIN:VEVENT
-UID:aistats-2026-0-abstract@conference-deadlines
-DTSTAMP:20250926T115959Z
-DTSTART:20250926T115959Z
-DTEND:20250926T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:AISTATS 2026 abstract deadline
-DESCRIPTION:International Conference on Artificial Intelligence and Statist
- ics\nhttps://virtual.aistats.org/Conferences/2026\nLocation: Morocco
-URL:https://virtual.aistats.org/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:aistats-2026-0-paper@conference-deadlines
-DTSTAMP:20251003T115959Z
-DTSTART:20251003T115959Z
-DTEND:20251003T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:AISTATS 2026 deadline
-DESCRIPTION:International Conference on Artificial Intelligence and Statist
- ics\nhttps://virtual.aistats.org/Conferences/2026\nLocation: Morocco
-URL:https://virtual.aistats.org/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:percom-2026-0-paper@conference-deadlines
 DTSTAMP:20251004T115900Z
 DTSTART:20251004T115900Z
@@ -4046,17 +4024,6 @@ DESCRIPTION:European Cryptology Conference\nhttps://eurocrypt.iacr.org/2027
 URL:https://eurocrypt.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:fc-2027-0-paper@conference-deadlines
-DTSTAMP:20260918T115959Z
-DTSTART:20260918T115959Z
-DTEND:20260918T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FC 2027 deadline (Submission deadline)
-DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
- \nLocation: Barbados (tentative)
-URL:https://fc27.ifca.ai/
-END:VEVENT
-BEGIN:VEVENT
 UID:date-2027-0-abstract@conference-deadlines
 DTSTAMP:20260914T115959Z
 DTSTART:20260914T115959Z
@@ -4121,6 +4088,17 @@ SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
 DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
  .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
 URL:https://acns2027.isg.rhul.ac.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc-2027-0-paper@conference-deadlines
+DTSTAMP:20260925T115959Z
+DTSTART:20260925T115959Z
+DTEND:20260925T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FC 2027 deadline (Submission deadline)
+DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
+ \nLocation: Barbados
+URL:https://fc27.ifca.ai/
 END:VEVENT
 BEGIN:VEVENT
 UID:saner-2027-0-abstract@conference-deadlines
@@ -4345,6 +4323,30 @@ DESCRIPTION:ACM International Conference on the Foundations of Software Eng
  ineering\nhttps://conf.researchr.org/home/fse-2027\nLocation: Shenzhen\, C
  hina
 URL:https://conf.researchr.org/home/fse-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-0-abstract@conference-deadlines
+DTSTAMP:20260930T115959Z
+DTSTART:20260930T115959Z
+DTEND:20260930T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AISTATS 2027 abstract deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statist
+ ics\nhttps://virtual.aistats.org/Conferences/2027\nLocation: Montréal\, C
+ anada
+URL:https://virtual.aistats.org/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:aistats-2027-0-paper@conference-deadlines
+DTSTAMP:20261007T115959Z
+DTSTART:20261007T115959Z
+DTEND:20261007T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AISTATS 2027 deadline
+DESCRIPTION:International Conference on Artificial Intelligence and Statist
+ ics\nhttps://virtual.aistats.org/Conferences/2027\nLocation: Montréal\, C
+ anada
+URL:https://virtual.aistats.org/Conferences/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:edbt-2027-0-paper@conference-deadlines
@@ -4592,28 +4594,6 @@ DESCRIPTION:ACM Conference on Management of Data\nhttps://2027.sigmod.org/\
 URL:https://2027.sigmod.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:www-2027-0-abstract@conference-deadlines
-DTSTAMP:20261012T115959Z
-DTSTART:20261012T115959Z
-DTEND:20261012T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WWW 2027 abstract deadline
-DESCRIPTION:International World Wide Web Conferences\nhttps://acmweb2027.or
- g/\nLocation: Dublin\, Ireland
-URL:https://acmweb2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:www-2027-0-paper@conference-deadlines
-DTSTAMP:20261019T115959Z
-DTSTART:20261019T115959Z
-DTEND:20261019T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WWW 2027 deadline
-DESCRIPTION:International World Wide Web Conferences\nhttps://acmweb2027.or
- g/\nLocation: Dublin\, Ireland
-URL:https://acmweb2027.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:ct-rsa-2027-0-paper@conference-deadlines
 DTSTAMP:20261023T115959Z
 DTSTART:20261023T115959Z
@@ -4624,6 +4604,28 @@ DESCRIPTION:Cryptographer's Track at RSA Conference\nhttps://www.esat.kuleu
  ven.be/cosic/events/ct-rsa-2027/\nLocation: San Francisco\, California\, U
  SA
 URL:https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:www-2027-0-abstract@conference-deadlines
+DTSTAMP:20261019T115959Z
+DTSTART:20261019T115959Z
+DTEND:20261019T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WWW 2027 abstract deadline
+DESCRIPTION:International World Wide Web Conferences\nhttps://www2027.thewe
+ bconf.org/\nLocation: Dublin\, Ireland
+URL:https://www2027.thewebconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:www-2027-0-paper@conference-deadlines
+DTSTAMP:20261026T115959Z
+DTSTART:20261026T115959Z
+DTEND:20261026T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WWW 2027 deadline
+DESCRIPTION:International World Wide Web Conferences\nhttps://www2027.thewe
+ bconf.org/\nLocation: Dublin\, Ireland
+URL:https://www2027.thewebconf.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cvm-2027-0-abstract@conference-deadlines

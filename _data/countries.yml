@@ -12,7 +12,7 @@
 - name: Cambodia
   count: 1
 - name: Canada
-  count: 11
+  count: 12
 - name: China
   count: 33
 - name: Costa Rica
@@ -50,7 +50,7 @@
 - name: Mexico
   count: 3
 - name: Morocco
-  count: 3
+  count: 2
 - name: Netherlands
   count: 7
 - name: Panama

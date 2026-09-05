@@ -32,22 +32,6 @@
   date: January 5 - 6, 2026
   place: New Delhi, India
   country: India
-- name: AISTATS
-  description: International Conference on Artificial Intelligence and Statistics
-  year: 2026
-  link: https://virtual.aistats.org/Conferences/2026
-  deadlines:
-  - date: '2025-10-02T23:59:59-12:00'
-    abstract: '2025-09-25T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/aistats/index.html
-  date: May 2-5, 2026
-  place: Morocco
-  country: Morocco
 - name: PerCom
   description: IEEE International Conference on Pervasive Computing and Communications
   year: 2026
@@ -3964,21 +3948,6 @@
   date: April 11-15, 2027
   place: Eindhoven, Netherlands
   country: Netherlands
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2027
-  link: https://fc27.ifca.ai/
-  deadlines:
-  - date: '2026-09-17T23:59:59-12:00'
-    comment: Submission deadline
-  areas:
-  - SC
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/fc/index.html
-  date: February 8-12, 2027
-  place: Barbados (tentative)
-  country: Barbados
 - name: DATE
   description: Design, Automation & Test in Europe
   year: 2027
@@ -4027,6 +3996,21 @@
   date: June 28 - July 1, 2027
   place: Royal Holloway, Egham, UK
   country: United Kingdom
+- name: FC
+  description: Financial Cryptography and Data Security
+  year: 2027
+  link: https://fc27.ifca.ai/
+  deadlines:
+  - date: '2026-09-24T23:59:59-12:00'
+    comment: Submission deadline
+  areas:
+  - SC
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/fc/index.html
+  date: February 8-12, 2027
+  place: Barbados
+  country: Barbados
 - name: SANER
   description: IEEE International Conference on Software Analysis, Evolution and Reengineering
   year: 2027
@@ -4180,6 +4164,21 @@
   date: July 12-16, 2027
   place: Shenzhen, China
   country: China
+- name: AISTATS
+  description: International Conference on Artificial Intelligence and Statistics
+  year: 2027
+  link: https://virtual.aistats.org/Conferences/2027
+  deadlines:
+  - date: '2026-10-06T23:59:59-12:00'
+    abstract: '2026-09-29T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/aistats/index.html
+  date: May 3, 2027
+  place: Montréal, Canada
+  country: Canada
 - name: EDBT
   description: International Conference on Extending Database Technology
   year: 2027
@@ -4368,21 +4367,6 @@
   date: June 13-19, 2027
   place: Huntington Beach, CA, USA
   country: United States
-- name: WWW
-  description: International World Wide Web Conferences
-  year: 2027
-  link: https://acmweb2027.org/
-  deadlines:
-  - date: '2026-10-18T23:59:59-12:00'
-    abstract: '2026-10-11T23:59:59-12:00'
-  areas:
-  - MX
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/www/index.html
-  date: May 10 - 14, 2027
-  place: Dublin, Ireland
-  country: Ireland
 - name: CT-RSA
   description: Cryptographer's Track at RSA Conference
   year: 2027
@@ -4398,6 +4382,21 @@
   date: April 5-8, 2027
   place: San Francisco, California, USA
   country: United States
+- name: WWW
+  description: International World Wide Web Conferences
+  year: 2027
+  link: https://www2027.thewebconf.org/
+  deadlines:
+  - date: '2026-10-25T23:59:59-12:00'
+    abstract: '2026-10-18T23:59:59-12:00'
+  areas:
+  - MX
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/www/index.html
+  date: May 10 - 14, 2027
+  place: Dublin, Ireland
+  country: Ireland
 - name: CVM
   description: The international conference on Computational Visual Media
   year: 2027
