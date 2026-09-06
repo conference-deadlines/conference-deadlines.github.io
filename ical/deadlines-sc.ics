@@ -183,18 +183,6 @@ DESCRIPTION:Symposium On Usable Privacy and Security\nhttps://soups.page/\n
 URL:https://soups.page/
 END:VEVENT
 BEGIN:VEVENT
-UID:acisp-2026-0-paper@conference-deadlines
-DTSTAMP:20260227T115959Z
-DTSTART:20260227T115959Z
-DTEND:20260227T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACISP 2026 deadline (2nd round Deadline)
-DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
- ps://acisp-conference.github.io/acisp2026/index.html\nLocation: Perth\, Au
- stralia
-URL:https://acisp-conference.github.io/acisp2026/index.html
-END:VEVENT
-BEGIN:VEVENT
 UID:sacmat-2026-0-paper@conference-deadlines
 DTSTAMP:20260303T115959Z
 DTSTART:20260303T115959Z
@@ -529,6 +517,28 @@ SUMMARY:S&P 2027 deadline (Second Paper submission deadline)
 DESCRIPTION:IEEE Symposium on Security and Privacy\nhttps://sp2027.ieee-sec
  urity.org/index.html\nLocation: MONTREAL\, CANADA
 URL:https://sp2027.ieee-security.org/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:acisp-2027-0-paper@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACISP 2027 deadline (1st round Deadline)
+DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
+ ps://acisp.org/\nLocation: Melbourne\, Australia
+URL:https://acisp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acisp-2027-1-paper@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACISP 2027 deadline (2nd round Deadline)
+DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
+ ps://acisp.org/\nLocation: Melbourne\, Australia
+URL:https://acisp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:pets-2027-0-paper@conference-deadlines

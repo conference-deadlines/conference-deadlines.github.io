@@ -847,17 +847,6 @@ DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
 URL:https://gecco-2026.sigevo.org/HomePage
 END:VEVENT
 BEGIN:VEVENT
-UID:cav-2026-0-paper@conference-deadlines
-DTSTAMP:20260129T115959Z
-DTSTART:20260129T115959Z
-DTEND:20260129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CAV 2026 deadline
-DESCRIPTION:International Conference on Computer-Aided Verification\nhttps:
- //conferences.i-cav.org/2026/\nLocation: Lisbon\, Portugal
-URL:https://conferences.i-cav.org/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:icml-2026-0-abstract@conference-deadlines
 DTSTAMP:20260124T115959Z
 DTSTART:20260124T115959Z
@@ -1273,18 +1262,6 @@ DESCRIPTION:International Conference on Medical Image Computing and Compute
  r Assisted Intervention\nhttps://conferences.miccai.org/2026/en/IMPORTANT-
  DATES.html\nLocation: ADNEC Centre\, Abu Dhabi\, U.A.E.
 URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
-END:VEVENT
-BEGIN:VEVENT
-UID:acisp-2026-0-paper@conference-deadlines
-DTSTAMP:20260227T115959Z
-DTSTART:20260227T115959Z
-DTEND:20260227T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACISP 2026 deadline (2nd round Deadline)
-DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
- ps://acisp-conference.github.io/acisp2026/index.html\nLocation: Perth\, Au
- stralia
-URL:https://acisp-conference.github.io/acisp2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2026-0-abstract@conference-deadlines
@@ -4820,6 +4797,28 @@ DESCRIPTION:IEEE International Conference on Sensing\, Communication\, and
 URL:https://secon2027.ieee-secon.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:acisp-2027-0-paper@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACISP 2027 deadline (1st round Deadline)
+DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
+ ps://acisp.org/\nLocation: Melbourne\, Australia
+URL:https://acisp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acisp-2027-1-paper@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACISP 2027 deadline (2nd round Deadline)
+DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
+ ps://acisp.org/\nLocation: Melbourne\, Australia
+URL:https://acisp.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:pets-2027-0-paper@conference-deadlines
 DTSTAMP:20261201T115959Z
 DTSTART:20261201T115959Z
@@ -4917,6 +4916,17 @@ SUMMARY:ISSTA 2027 deadline
 DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and Ana
  lysis\nhttps://conf.researchr.org/home/issta-2027\nLocation: Singapore
 URL:https://conf.researchr.org/home/issta-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:cav-2027-0-paper@conference-deadlines
+DTSTAMP:20270121T115959Z
+DTSTART:20270121T115959Z
+DTEND:20270121T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CAV 2027 deadline
+DESCRIPTION:International Conference on Computer-Aided Verification\nhttps:
+ //conferences.i-cav.org/2027/\nLocation: KIT\, Amsterdam\, The Netherlands
+URL:https://conferences.i-cav.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:usenix-security-2027-0-abstract@conference-deadlines

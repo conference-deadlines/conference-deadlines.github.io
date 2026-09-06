@@ -797,21 +797,6 @@
   date: July 13-17, 2026
   place: San José, Costa Rica (hybrid)
   country: Costa Rica
-- name: CAV
-  description: International Conference on Computer-Aided Verification
-  year: 2026
-  link: https://conferences.i-cav.org/2026/
-  deadlines:
-  - date: '2026-01-28T23:59:59-12:00'
-  areas:
-  - CT
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/cav/index.html
-  date: July 26-29, 2026
-  place: Lisbon, Portugal
-  country: Portugal
 - name: ICML
   description: International Conference on Machine Learning
   year: 2026
@@ -1248,22 +1233,6 @@
   date: Oct 4-8, 2026
   place: ADNEC Centre, Abu Dhabi, U.A.E.
   country: United Arab Emirates
-- name: ACISP
-  description: Australasia Conference on Information Security and Privacy
-  year: 2026
-  link: https://acisp-conference.github.io/acisp2026/index.html
-  deadlines:
-  - date: '2026-02-26T23:59:59-12:00'
-    comment: 2nd round Deadline
-  areas:
-  - SC
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/acisp/index.html
-  date: July 6-9, 2026
-  place: Perth, Australia
-  country: Australia
 - name: ICDAR
   description: International Conference on Document Analysis and Recognition
   year: 2026
@@ -4576,6 +4545,23 @@
   date: May 5-7, 2027
   place: Lisbon, Portugal
   country: Portugal
+- name: ACISP
+  description: Australasia Conference on Information Security and Privacy
+  year: 2027
+  link: https://acisp.org/
+  deadlines:
+  - date: '2026-11-30T23:59:59-12:00'
+    comment: 1st round Deadline
+  - date: '2027-03-01T23:59:59-12:00'
+    comment: 2nd round Deadline
+  areas:
+  - SC
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/acisp/index.html
+  date: July 7-10, 2027
+  place: Melbourne, Australia
+  country: Australia
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2027
@@ -4653,6 +4639,20 @@
   date: September 7-10, 2027
   place: Singapore
   country: Singapore
+- name: CAV
+  description: International Conference on Computer-Aided Verification
+  year: 2027
+  link: https://conferences.i-cav.org/2027/
+  deadlines:
+  - date: '2027-01-20T23:59:59-12:00'
+  areas:
+  - CT
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/cav/index.html
+  date: July 19-23, 2027
+  place: KIT, Amsterdam, The Netherlands
+  country: Netherlands
 - name: USENIX Security
   description: USENIX Security Symposium
   year: 2027
