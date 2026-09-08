@@ -4444,8 +4444,8 @@ DTSTART:20261013T115959Z
 DTEND:20261013T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:COLING 2027 deadline (ARR Submission)
-DESCRIPTION:INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS\nhttps:/
- /2027.coling-iccl.org/\nLocation: Macau SAR\, China
+DESCRIPTION:International Conference on Computational Linguistics\nhttps://
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China
 URL:https://2027.coling-iccl.org/
 END:VEVENT
 BEGIN:VEVENT
