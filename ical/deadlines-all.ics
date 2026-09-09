@@ -126,28 +126,6 @@ DESCRIPTION:International Conference on Mining Software Repositories\nhttps
 URL:https://2026.msrconf.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:dasfaa-2026-0-abstract@conference-deadlines
-DTSTAMP:20251021T115959Z
-DTSTART:20251021T115959Z
-DTEND:20251021T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DASFAA 2026 abstract deadline
-DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2026.
- github.io/\nLocation: Jeju Island\, South Korea
-URL:https://dasfaa2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:dasfaa-2026-0-paper@conference-deadlines
-DTSTAMP:20251028T115959Z
-DTSTART:20251028T115959Z
-DTEND:20251028T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DASFAA 2026 deadline
-DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2026.
- github.io/\nLocation: Jeju Island\, South Korea
-URL:https://dasfaa2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
 UID:stoc-2026-0-paper@conference-deadlines
 DTSTAMP:20251104T215959Z
 DTSTART:20251104T215959Z
@@ -4784,6 +4762,17 @@ SUMMARY:WSDM 2027 deadline (Short Paper)
 DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
  /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
 URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dasfaa-2027-0-paper@conference-deadlines
+DTSTAMP:20261126T115959Z
+DTSTART:20261126T115959Z
+DTEND:20261126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DASFAA 2027 deadline
+DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
+ github.io/\nLocation: Shenyang\, China
+URL:https://dasfaa2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines

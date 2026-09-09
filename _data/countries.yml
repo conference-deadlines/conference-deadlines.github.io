@@ -14,7 +14,7 @@
 - name: Canada
   count: 12
 - name: China
-  count: 33
+  count: 34
 - name: Costa Rica
   count: 1
 - name: Czechia
@@ -64,7 +64,7 @@
 - name: South Africa
   count: 1
 - name: South Korea
-  count: 8
+  count: 7
 - name: Spain
   count: 5
 - name: Sweden

@@ -124,22 +124,6 @@
   date: April 13-14, 2026
   place: Rio de Janeiro, Brazil
   country: Brazil
-- name: DASFAA
-  description: Database Systems for Advanced Applications
-  year: 2026
-  link: https://dasfaa2026.github.io/
-  deadlines:
-  - date: '2025-10-27T23:59:59-12:00'
-    abstract: '2025-10-20T23:59:59-12:00'
-  areas:
-  - DB
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/dasfaa/index.html
-  date: April 21-24, 2026
-  place: Jeju Island, South Korea
-  country: South Korea
 - name: STOC
   description: ACM Symposium on the Theory of Computing
   year: 2026
@@ -4530,6 +4514,20 @@
   dblp: https://dblp.org/db/conf/wsdm/index.html
   date: February 15 - 19, 2027
   place: Cordis, Hong Kong SAR, China
+  country: China
+- name: DASFAA
+  description: Database Systems for Advanced Applications
+  year: 2027
+  link: https://dasfaa2027.github.io/
+  deadlines:
+  - date: '2026-11-25T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/dasfaa/index.html
+  date: May 27-30, 2027
+  place: Shenyang, China
   country: China
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
