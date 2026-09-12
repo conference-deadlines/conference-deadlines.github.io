@@ -227,28 +227,6 @@ DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
 URL:https://iscaconf.org/isca2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:dac-2026-0-abstract@conference-deadlines
-DTSTAMP:20251112T010000Z
-DTSTART:20251112T010000Z
-DTEND:20251112T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:DAC 2026 abstract deadline
-DESCRIPTION:Design Automation Conference\nhttps://dac.com/2026/call-for-con
- tributions\nLocation: Long Beach\, CA
-URL:https://dac.com/2026/call-for-contributions
-END:VEVENT
-BEGIN:VEVENT
-UID:dac-2026-0-paper@conference-deadlines
-DTSTAMP:20251119T010000Z
-DTSTART:20251119T010000Z
-DTEND:20251119T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:DAC 2026 deadline
-DESCRIPTION:Design Automation Conference\nhttps://dac.com/2026/call-for-con
- tributions\nLocation: Long Beach\, CA
-URL:https://dac.com/2026/call-for-contributions
-END:VEVENT
-BEGIN:VEVENT
 UID:esann-2026-0-paper@conference-deadlines
 DTSTAMP:20251120T075959Z
 DTSTART:20251120T075959Z
@@ -4762,6 +4740,17 @@ SUMMARY:WSDM 2027 deadline (Short Paper)
 DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
  /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
 URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dac-2027-0-paper@conference-deadlines
+DTSTAMP:20261119T010000Z
+DTSTART:20261119T010000Z
+DTEND:20261119T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:DAC 2027 deadline
+DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
+ -for-contributions\nLocation: San Jose\, CA
+URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
 UID:dasfaa-2027-0-paper@conference-deadlines

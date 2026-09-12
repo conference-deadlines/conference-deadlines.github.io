@@ -16,28 +16,6 @@ DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
 URL:https://iscaconf.org/isca2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:dac-2026-0-abstract@conference-deadlines
-DTSTAMP:20251112T010000Z
-DTSTART:20251112T010000Z
-DTEND:20251112T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:DAC 2026 abstract deadline
-DESCRIPTION:Design Automation Conference\nhttps://dac.com/2026/call-for-con
- tributions\nLocation: Long Beach\, CA
-URL:https://dac.com/2026/call-for-contributions
-END:VEVENT
-BEGIN:VEVENT
-UID:dac-2026-0-paper@conference-deadlines
-DTSTAMP:20251119T010000Z
-DTSTART:20251119T010000Z
-DTEND:20251119T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:DAC 2026 deadline
-DESCRIPTION:Design Automation Conference\nhttps://dac.com/2026/call-for-con
- tributions\nLocation: Long Beach\, CA
-URL:https://dac.com/2026/call-for-contributions
-END:VEVENT
-BEGIN:VEVENT
 UID:ccgrid-2026-0-paper@conference-deadlines
 DTSTAMP:20251222T115959Z
 DTSTART:20251222T115959Z
@@ -961,5 +939,16 @@ SUMMARY:RTAS 2027 deadline (Submission Deadline (Firm))
 DESCRIPTION:IEEE Real-Time and Embedded Technology and Applications Symposi
  um\nhttps://2027.rtas.org/\nLocation: Boulder\, Colorado
 URL:https://2027.rtas.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dac-2027-0-paper@conference-deadlines
+DTSTAMP:20261119T010000Z
+DTSTART:20261119T010000Z
+DTEND:20261119T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:DAC 2027 deadline
+DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
+ -for-contributions\nLocation: San Jose\, CA
+URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 END:VCALENDAR

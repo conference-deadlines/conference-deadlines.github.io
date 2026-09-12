@@ -219,22 +219,6 @@
   date: June 27-July 1, 2026
   place: Raleigh, USA
   country: United States
-- name: DAC
-  description: Design Automation Conference
-  year: 2026
-  link: https://dac.com/2026/call-for-contributions
-  deadlines:
-  - date: '2025-11-18T17:00:00-08:00'
-    abstract: '2025-11-11T17:00:00-08:00'
-  areas:
-  - DS
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/dac/index.html
-  date: July 26-29, 2026
-  place: Long Beach, CA
-  country: United States
 - name: ESANN
   description: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
   year: 2026
@@ -3737,6 +3721,7 @@
   - DS
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/cgo/index.html
   date: TBD
   place: Salt Lake City, Utah, USA
@@ -3752,6 +3737,7 @@
   - DB
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/icdt/index.html
   date: April 6-9, 2027
   place: Lille, France
@@ -3766,6 +3752,7 @@
   - HI
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/chi/index.html
   date: May 10 - 14, 2027
   place: David L. Lawrence Convention Center, Pittsburgh, USA
@@ -4516,6 +4503,20 @@
   date: February 15 - 19, 2027
   place: Cordis, Hong Kong SAR, China
   country: China
+- name: DAC
+  description: Design Automation Conference
+  year: 2027
+  link: https://dac.com/2027/authors/call-for-contributions
+  deadlines:
+  - date: '2026-11-18T17:00:00-08:00'
+  areas:
+  - DS
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/dac/index.html
+  date: July 11-14, 2027
+  place: San Jose, CA
+  country: United States
 - name: DASFAA
   description: Database Systems for Advanced Applications
   year: 2027
