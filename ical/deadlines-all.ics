@@ -3827,17 +3827,6 @@ DTSTAMP:20260912T115959Z
 DTSTART:20260912T115959Z
 DTEND:20260912T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ADMA 2026 deadline (Poster Paper)
-DESCRIPTION:The International Conference on Advanced Data Mining and Applic
- ations\nhttps://adma2026.github.io/\nLocation: Hong Kong\, China
-URL:https://adma2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:adma-2026-1-paper@conference-deadlines
-DTSTAMP:20260912T115959Z
-DTSTART:20260912T115959Z
-DTEND:20260912T122959Z
-TRANSP:TRANSPARENT
 SUMMARY:ADMA 2026 deadline (Encore Paper)
 DESCRIPTION:The International Conference on Advanced Data Mining and Applic
  ations\nhttps://adma2026.github.io/\nLocation: Hong Kong\, China

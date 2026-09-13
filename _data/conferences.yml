@@ -2252,7 +2252,7 @@
   - CORE-ASTAR
   tba: true
   dblp: https://dblp.org/db/conf/nips/index.html
-  date: December 6, 2026
+  date: December 6-12, 2026
   place: Sydney, Australia
   country: Australia
 - name: CLUSTER
@@ -3763,13 +3763,12 @@
   link: https://adma2026.github.io/
   deadlines:
   - date: '2026-09-11T23:59:59-12:00'
-    comment: Poster Paper
-  - date: '2026-09-11T23:59:59-12:00'
     comment: Encore Paper
   areas:
   - DB
   tags:
   - CORE-C
+  tba: true
   dblp: https://dblp.org/db/conf/adma/index.html
   date: November 13 - 15, 2026
   place: Hong Kong, China
