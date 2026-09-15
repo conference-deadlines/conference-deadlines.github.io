@@ -60,17 +60,6 @@ DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
 URL:https://pam2026.at/
 END:VEVENT
 BEGIN:VEVENT
-UID:euros-p-2026-0-paper@conference-deadlines
-DTSTAMP:20251121T115959Z
-DTSTART:20251121T115959Z
-DTEND:20251121T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EuroS&P 2026 deadline
-DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
- 2026.ieee-security.org/\nLocation: Lisbon\, Portugal
-URL:https://eurosp2026.ieee-security.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:fse-2026-0-paper@conference-deadlines
 DTSTAMP:20251124T115959Z
 DTSTART:20251124T115959Z
@@ -583,6 +572,28 @@ SUMMARY:DSN 2027 deadline
 DESCRIPTION:International Conference on Dependable Systems and Networks\nht
  tps://dsn2027-berlin.github.io/\nLocation: Berlin\, Germany
 URL:https://dsn2027-berlin.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:euros-p-2027-0-abstract@conference-deadlines
+DTSTAMP:20261126T115959Z
+DTSTART:20261126T115959Z
+DTEND:20261126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroS&P 2027 abstract deadline
+DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
+ 2027.ieee-security.org/\nLocation: Madrid\, Spain
+URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:euros-p-2027-0-paper@conference-deadlines
+DTSTAMP:20261203T115959Z
+DTSTART:20261203T115959Z
+DTEND:20261203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroS&P 2027 deadline
+DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
+ 2027.ieee-security.org/\nLocation: Madrid\, Spain
+URL:https://eurosp2027.ieee-security.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:asiaccs-2027-0-paper@conference-deadlines

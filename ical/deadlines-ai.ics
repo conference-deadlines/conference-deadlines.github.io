@@ -644,6 +644,17 @@ DESCRIPTION:International Conference on Learning Representations\nhttps://i
 URL:https://iclr.cc/Conferences/2027
 END:VEVENT
 BEGIN:VEVENT
+UID:cvc-2027-0-paper@conference-deadlines
+DTSTAMP:20261002T115900Z
+DTSTART:20261002T115900Z
+DTEND:20261002T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CVC 2027 deadline
+DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
+ tion: Amsterdam\, Netherlands
+URL:https://saiconference.com/CVC
+END:VEVENT
+BEGIN:VEVENT
 UID:aistats-2027-0-abstract@conference-deadlines
 DTSTAMP:20260930T115959Z
 DTSTART:20260930T115959Z
@@ -746,6 +757,53 @@ SUMMARY:FG 2027 deadline
 DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
  ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
 URL:https://fg2027.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eurogp-2027-0-paper@conference-deadlines
+DTSTAMP:20261102T115900Z
+DTSTART:20261102T115900Z
+DTEND:20261102T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroGP 2027 deadline (Full papers)
+DESCRIPTION:European Conference on Genetic Programming\nhttps://www.evostar
+ .org/2027/eurogp/\nLocation: Mainz\, Germany (hybrid)
+URL:https://www.evostar.org/2027/eurogp/
+END:VEVENT
+BEGIN:VEVENT
+UID:evoapplications-2027-0-paper@conference-deadlines
+DTSTAMP:20261102T115900Z
+DTSTART:20261102T115900Z
+DTEND:20261102T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:EvoApplications 2027 deadline (Full papers)
+DESCRIPTION:International Conference on the Applications of Evolutionary Co
+ mputation\nhttps://www.evostar.org/2027/evoapps/\nLocation: Mainz\, German
+ y (hybrid)
+URL:https://www.evostar.org/2027/evoapps/
+END:VEVENT
+BEGIN:VEVENT
+UID:evocop-2027-0-paper@conference-deadlines
+DTSTAMP:20261102T115900Z
+DTSTART:20261102T115900Z
+DTEND:20261102T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:EvoCOP 2027 deadline (Full papers)
+DESCRIPTION:European Conference on Evolutionary Computation in Combinatoria
+ l Optimisation\nhttps://www.evostar.org/2027/evocop/\nLocation: Mainz\, Ge
+ rmany (hybrid)
+URL:https://www.evostar.org/2027/evocop/
+END:VEVENT
+BEGIN:VEVENT
+UID:evomusart-2027-0-paper@conference-deadlines
+DTSTAMP:20261102T115900Z
+DTSTART:20261102T115900Z
+DTEND:20261102T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:EvoMUSART 2027 deadline (Full papers)
+DESCRIPTION:International Conference on Artificial Intelligence in Music\, 
+ Sound\, Art and Design\nhttps://www.evostar.org/2027/evomusart/\nLocation:
+  Mainz\, Germany (hybrid)
+URL:https://www.evostar.org/2027/evomusart/
 END:VEVENT
 BEGIN:VEVENT
 UID:cvpr-2027-0-abstract@conference-deadlines

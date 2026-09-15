@@ -143,6 +143,28 @@ DESCRIPTION:IEEE Symposium on Foundations of Computer Science\nhttps://sanj
 URL:https://sanjeevkhanna.org/FOCS2026_CFP.html
 END:VEVENT
 BEGIN:VEVENT
+UID:esa-2026-0-abstract@conference-deadlines
+DTSTAMP:20260422T115959Z
+DTSTART:20260422T115959Z
+DTEND:20260422T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESA 2026 abstract deadline
+DESCRIPTION:European Symposium on Algorithms\nhttps://algo-conference.org/2
+ 026/esa/\nLocation: L'Aquila\, Italy
+URL:https://algo-conference.org/2026/esa/
+END:VEVENT
+BEGIN:VEVENT
+UID:esa-2026-0-paper@conference-deadlines
+DTSTAMP:20260424T115959Z
+DTSTART:20260424T115959Z
+DTEND:20260424T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESA 2026 deadline
+DESCRIPTION:European Symposium on Algorithms\nhttps://algo-conference.org/2
+ 026/esa/\nLocation: L'Aquila\, Italy
+URL:https://algo-conference.org/2026/esa/
+END:VEVENT
+BEGIN:VEVENT
 UID:fmcad-2026-0-paper@conference-deadlines
 DTSTAMP:20260427T115959Z
 DTSTART:20260427T115959Z

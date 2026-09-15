@@ -16,17 +16,6 @@ DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
 URL:https://iscaconf.org/isca2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ccgrid-2026-0-paper@conference-deadlines
-DTSTAMP:20251222T115959Z
-DTSTART:20251222T115959Z
-DTEND:20251222T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCGRID 2026 deadline
-DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
- mputing\nhttps://www.ccgrid2026.org/\nLocation: Sydney\, Australia
-URL:https://www.ccgrid2026.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:ets-2026-0-abstract@conference-deadlines
 DTSTAMP:20251216T115959Z
 DTSTART:20251216T115959Z
@@ -478,17 +467,6 @@ SUMMARY:SEC 2026 deadline
 DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
  2026/\nLocation: Santa Clara University\, CA\, USA
 URL:https://acm-ieee-sec.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cluster-2026-0-abstract@conference-deadlines
-DTSTAMP:20260501T115959Z
-DTSTART:20260501T115959Z
-DTEND:20260501T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CLUSTER 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Cluster Computing\nhttps://clu
- stercomp.org/2026\nLocation: Alexandria\, Virginia\, USA
-URL:https://clustercomp.org/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster-2026-0-paper@conference-deadlines
@@ -950,5 +928,29 @@ SUMMARY:DAC 2027 deadline
 DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
  -for-contributions\nLocation: San Jose\, CA
 URL:https://dac.com/2027/authors/call-for-contributions
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2027-0-abstract@conference-deadlines
+DTSTAMP:20261125T115959Z
+DTSTART:20261125T115959Z
+DTEND:20261125T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCGRID 2027 abstract deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
+ s\, USA
+URL:https://hpcclab.org/ccgrid27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCGRID 2027 deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
+ s\, USA
+URL:https://hpcclab.org/ccgrid27/
 END:VEVENT
 END:VCALENDAR

@@ -426,4 +426,26 @@ DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
  github.io/\nLocation: Shenyang\, China
 URL:https://dasfaa2027.github.io/
 END:VEVENT
+BEGIN:VEVENT
+UID:pods-2027-0-abstract@conference-deadlines
+DTSTAMP:20261204T115959Z
+DTSTART:20261204T115959Z
+DTEND:20261204T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PODS 2027 abstract deadline (Second Submission Cycle)
+DESCRIPTION:ACM Symposium on Principles of Database Systems\nhttps://2027.s
+ igmod.org/\nLocation: Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pods-2027-0-paper@conference-deadlines
+DTSTAMP:20261211T115959Z
+DTSTART:20261211T115959Z
+DTEND:20261211T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PODS 2027 deadline (Second Submission Cycle)
+DESCRIPTION:ACM Symposium on Principles of Database Systems\nhttps://2027.s
+ igmod.org/\nLocation: Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
 END:VCALENDAR

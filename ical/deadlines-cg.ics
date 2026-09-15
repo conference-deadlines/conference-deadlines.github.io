@@ -170,28 +170,6 @@ DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
 URL:https://2026.acmmm.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sgp-2026-0-abstract@conference-deadlines
-DTSTAMP:20260413T235959Z
-DTSTART:20260413T235959Z
-DTEND:20260414T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:SGP 2026 abstract deadline (Second round)
-DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
- g/\nLocation: Bern\, Switzerland
-URL:https://sgp26.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sgp-2026-0-paper@conference-deadlines
-DTSTAMP:20260415T235959Z
-DTSTART:20260415T235959Z
-DTEND:20260416T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:SGP 2026 deadline (Second round)
-DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
- g/\nLocation: Bern\, Switzerland
-URL:https://sgp26.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:egsr-2026-0-abstract@conference-deadlines
 DTSTAMP:20260408T235959Z
 DTSTART:20260408T235959Z
@@ -212,6 +190,28 @@ SUMMARY:EGSR 2026 deadline
 DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
  \nLocation: Bordeaux\, France
 URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:sgp-2026-0-abstract@conference-deadlines
+DTSTAMP:20260413T235959Z
+DTSTART:20260413T235959Z
+DTEND:20260414T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:SGP 2026 abstract deadline (Second round)
+DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
+ g/\nLocation: Bern\, Switzerland
+URL:https://sgp26.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sgp-2026-0-paper@conference-deadlines
+DTSTAMP:20260415T235959Z
+DTSTART:20260415T235959Z
+DTEND:20260416T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:SGP 2026 deadline (Second round)
+DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
+ g/\nLocation: Bern\, Switzerland
+URL:https://sgp26.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cgi-2026-0-paper@conference-deadlines
@@ -461,5 +461,27 @@ SUMMARY:ICMR 2027 deadline
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\nhtt
  ps://www.icmr2027.org/\nLocation: Singapore
 URL:https://www.icmr2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ieee-cog-2027-0-paper@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IEEE CoG 2027 deadline (Full Technical Paper)
+DESCRIPTION:IEEE Conference on Games\nhttps://cog2027.u-aizu.ac.jp/\nLocati
+ on: Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+UID:ieee-cog-2027-1-paper@conference-deadlines
+DTSTAMP:20270516T115959Z
+DTSTART:20270516T115959Z
+DTEND:20270516T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IEEE CoG 2027 deadline (Auxiliary Paper)
+DESCRIPTION:IEEE Conference on Games\nhttps://cog2027.u-aizu.ac.jp/\nLocati
+ on: Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
 END:VEVENT
 END:VCALENDAR

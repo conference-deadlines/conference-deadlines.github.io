@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Software Engineering
 BEGIN:VEVENT
-UID:etaps-2026-0-paper@conference-deadlines
-DTSTAMP:20251017T115959Z
-DTSTART:20251017T115959Z
-DTEND:20251017T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ETAPS 2026 deadline (Submission deadline ESOP round 2)
-DESCRIPTION:European Joint Conferences on Theory and Practice of Software\n
- https://etaps.org/2026\nLocation: Torino\, Italy
-URL:https://etaps.org/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:icpc-2026-0-abstract@conference-deadlines
 DTSTAMP:20251020T115959Z
 DTSTART:20251020T115959Z
@@ -226,18 +215,6 @@ SUMMARY:CP 2026 deadline
 DESCRIPTION:International Conference on Principles and Practice of Constrai
  nt Programming\nhttps://cp2026.a4cp.org/\nLocation: Lisbon\, Portugal
 URL:https://cp2026.a4cp.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:oopsla-2026-0-paper@conference-deadlines
-DTSTAMP:20260318T115959Z
-DTSTART:20260318T115959Z
-DTEND:20260318T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:OOPSLA 2026 deadline (Submission Deadline Round 2)
-DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
-  and Applications\nhttps://conf.researchr.org/track/splash-2026/oopsla-202
- 6\nLocation: Oakland\, California\, United States
-URL:https://conf.researchr.org/track/splash-2026/oopsla-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:ase-2026-0-paper@conference-deadlines
@@ -481,6 +458,41 @@ DESCRIPTION:ACM International Conference on the Foundations of Software Eng
  ineering\nhttps://conf.researchr.org/home/fse-2027\nLocation: Shenzhen\, C
  hina
 URL:https://conf.researchr.org/home/fse-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:oopsla-2027-0-paper@conference-deadlines
+DTSTAMP:20261015T115959Z
+DTSTART:20261015T115959Z
+DTEND:20261015T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:OOPSLA 2027 deadline (Submission Deadline Round 1)
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
+  and Applications\nhttps://2027.splashcon.org/track/splashoopsla2027\nLoca
+ tion: Prague\, Czechia
+URL:https://2027.splashcon.org/track/splashoopsla2027
+END:VEVENT
+BEGIN:VEVENT
+UID:oopsla-2027-1-paper@conference-deadlines
+DTSTAMP:20270408T115959Z
+DTSTART:20270408T115959Z
+DTEND:20270408T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:OOPSLA 2027 deadline (Submission Deadline Round 2)
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
+  and Applications\nhttps://2027.splashcon.org/track/splashoopsla2027\nLoca
+ tion: Prague\, Czechia
+URL:https://2027.splashcon.org/track/splashoopsla2027
+END:VEVENT
+BEGIN:VEVENT
+UID:etaps-2027-0-paper@conference-deadlines
+DTSTAMP:20261016T115959Z
+DTSTART:20261016T115959Z
+DTEND:20261016T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ETAPS 2027 deadline (ESOP round 2\, FoSSaCS\, TACAS\, iFS)
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software\n
+ https://etaps.org/2027\nLocation: Copenhagen\, Denmark
+URL:https://etaps.org/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:pldi-2027-0-paper@conference-deadlines
