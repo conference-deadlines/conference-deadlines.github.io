@@ -5,39 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - All areas
 BEGIN:VEVENT
-UID:dfrws-2026-0-abstract@conference-deadlines
-DTSTAMP:20250920T115959Z
-DTSTART:20250920T115959Z
-DTEND:20250920T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DFRWS 2026 abstract deadline
-DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
- es/dfrws-eu-2026/\nLocation: Linköping\, Sweden
-URL:https://dfrws.org/conferences/dfrws-eu-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:dfrws-2026-0-paper@conference-deadlines
-DTSTAMP:20250927T115959Z
-DTSTART:20250927T115959Z
-DTEND:20250927T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DFRWS 2026 deadline
-DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
- es/dfrws-eu-2026/\nLocation: Linköping\, Sweden
-URL:https://dfrws.org/conferences/dfrws-eu-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ifip-wg-11-9-2026-0-paper@conference-deadlines
-DTSTAMP:20251001T115959Z
-DTSTART:20251001T115959Z
-DTEND:20251001T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IFIP WG 11.9 2026 deadline (Submission Deadline)
-DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
- p://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
-URL:http://www.ifip119.org/Conferences/
-END:VEVENT
-BEGIN:VEVENT
 UID:percom-2026-0-paper@conference-deadlines
 DTSTAMP:20251004T115900Z
 DTSTART:20251004T115900Z
@@ -411,18 +378,6 @@ DESCRIPTION:International Symposium on Performance Analysis of Systems and
 URL:https://ispass.org/ispass2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:securecomm-2026-0-paper@conference-deadlines
-DTSTAMP:20251216T115959Z
-DTSTART:20251216T115959Z
-DTEND:20251216T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SecureComm 2026 deadline
-DESCRIPTION:International Conference on Security and Privacy in Communicati
- on Networks\nhttps://securecomm.eai-conferences.org/2026/\nLocation: Lanca
- ster\, UK and hybrid
-URL:https://securecomm.eai-conferences.org/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:gmp-2026-0-abstract@conference-deadlines
 DTSTAMP:20251216T235959Z
 DTSTART:20251216T235959Z
@@ -477,17 +432,6 @@ DESCRIPTION:IEEE International Conference on Software Testing\, Verificatio
  n and Validation\nhttps://conf.researchr.org/home/icst-2026\nLocation: Dae
  jeon\, South Korea
 URL:https://conf.researchr.org/home/icst-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:codaspy-2026-0-paper@conference-deadlines
-DTSTAMP:20251227T115959Z
-DTSTART:20251227T115959Z
-DTEND:20251227T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CODASPY 2026 deadline
-DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
- tps://www.codaspy.org/2026/\nLocation: Frankfurt am Main\, Germany
-URL:https://www.codaspy.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icme-2026-0-paper@conference-deadlines
@@ -632,17 +576,6 @@ SUMMARY:DIS 2026 deadline
 DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
  m.org/2026/\nLocation: Singapore
 URL:https://dis.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdf2c-2026-0-paper@conference-deadlines
-DTSTAMP:20260121T115959Z
-DTSTART:20260121T115959Z
-DTEND:20260121T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDF2C 2026 deadline
-DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
- tps://icdf2c.eai-conferences.org/2026/\nLocation: Reykjavik\, Iceland
-URL:https://icdf2c.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdcs-2026-0-paper@conference-deadlines
@@ -1216,17 +1149,6 @@ SUMMARY:IROS 2026 deadline
 DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sys
  tems\nhttps://2026.ieee-iros.org/\nLocation: Pittsburgh\, PA\, USA
 URL:https://2026.ieee-iros.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sacmat-2026-0-paper@conference-deadlines
-DTSTAMP:20260303T115959Z
-DTSTART:20260303T115959Z
-DTEND:20260303T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2026 deadline (Second Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2026/index.php\nLocation: Waterloo\, Canada
-URL:https://www.sacmat.org/2026/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:wisec-2026-0-paper@conference-deadlines
@@ -3965,6 +3887,28 @@ DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
 URL:https://fc27.ifca.ai/
 END:VEVENT
 BEGIN:VEVENT
+UID:dfrws-2027-0-abstract@conference-deadlines
+DTSTAMP:20260919T115959Z
+DTSTART:20260919T115959Z
+DTEND:20260919T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2027 abstract deadline
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfceurope2027/\nLocation: Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-2027-0-paper@conference-deadlines
+DTSTAMP:20260926T115959Z
+DTSTART:20260926T115959Z
+DTEND:20260926T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2027 deadline
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfceurope2027/\nLocation: Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:saner-2027-0-abstract@conference-deadlines
 DTSTAMP:20260922T115959Z
 DTSTART:20260922T115959Z
@@ -4336,6 +4280,17 @@ DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
 URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
+DTSTAMP:20261011T115959Z
+DTSTART:20261011T115959Z
+DTEND:20261011T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IFIP WG 11.9 2027 deadline (Submission Deadline)
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
+ ps://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+END:VEVENT
+BEGIN:VEVENT
 UID:alt-2027-0-paper@conference-deadlines
 DTSTAMP:20261013T115959Z
 DTSTART:20261013T115959Z
@@ -4584,6 +4539,28 @@ DESCRIPTION:Conference on Machine Learning and Systems\nhttps://mlsys.org/\
 URL:https://mlsys.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:sacmat-2027-0-paper@conference-deadlines
+DTSTAMP:20261031T115959Z
+DTSTART:20261031T115959Z
+DTEND:20261031T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (First Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-1-paper@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (Second Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:eurogp-2027-0-paper@conference-deadlines
 DTSTAMP:20261102T115900Z
 DTSTART:20261102T115900Z
@@ -4788,6 +4765,28 @@ DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
 URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
+UID:codaspy-2027-0-abstract@conference-deadlines
+DTSTAMP:20261117T115959Z
+DTSTART:20261117T115959Z
+DTEND:20261117T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2027 abstract deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:codaspy-2027-0-paper@conference-deadlines
+DTSTAMP:20261124T115959Z
+DTSTART:20261124T115959Z
+DTEND:20261124T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2027 deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:dasfaa-2027-0-paper@conference-deadlines
 DTSTAMP:20261126T115959Z
 DTSTART:20261126T115959Z
@@ -4977,6 +4976,17 @@ DESCRIPTION:Asia Conference on Computer and Communications Security\nhttps:
 URL:https://asiaccs2027.cityu.edu.mo/index.html
 END:VEVENT
 BEGIN:VEVENT
+UID:icdf2c-2027-0-paper@conference-deadlines
+DTSTAMP:20261216T115959Z
+DTSTART:20261216T115959Z
+DTEND:20261216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDF2C 2027 deadline (Full Paper Submission deadline)
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
+ tps://icdf2c.eai-conferences.org/2027/\nLocation: New York\, USA
+URL:https://icdf2c.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:issta-2027-0-abstract@conference-deadlines
 DTSTAMP:20270109T115959Z
 DTSTART:20270109T115959Z
@@ -5063,6 +5073,18 @@ SUMMARY:IEEE CEC 2027 deadline
 DESCRIPTION:IEEE Congress on Evolutionary Computation\nhttps://ieeecec.org/
  2027\nLocation: Edinburgh\, Scotland\, UK
 URL:https://ieeecec.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:securecomm-2027-0-paper@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline)
+DESCRIPTION:International Conference on Security and Privacy in Communicati
+ on Networks\nhttps://securecomm.eai-conferences.org/2027/\nLocation: Hefei
+ \, China
+URL:https://securecomm.eai-conferences.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ieee-cog-2027-0-paper@conference-deadlines
