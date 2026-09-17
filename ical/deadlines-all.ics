@@ -3742,17 +3742,6 @@ DESCRIPTION:International Conference on Verification\, Model Checking\, and
 URL:https://conf.researchr.org/home/VMCAI-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:icassp-2027-0-paper@conference-deadlines
-DTSTAMP:20260917T115959Z
-DTSTART:20260917T115959Z
-DTEND:20260917T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICASSP 2027 deadline
-DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Signa
- l Processing\nhttps://2027.ieeeicassp.org/\nLocation: Toronto\, Canada
-URL:https://2027.ieeeicassp.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:nsdi-2027-0-abstract@conference-deadlines
 DTSTAMP:20260911T035959Z
 DTSTART:20260911T035959Z
@@ -3830,6 +3819,17 @@ SUMMARY:DATE 2027 deadline
 DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
  ce.com/date-2027-call-papers\nLocation: Dresden\, Germany
 URL:https://www.date-conference.com/date-2027-call-papers
+END:VEVENT
+BEGIN:VEVENT
+UID:icassp-2027-0-paper@conference-deadlines
+DTSTAMP:20260924T115959Z
+DTSTART:20260924T115959Z
+DTEND:20260924T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICASSP 2027 deadline
+DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Signa
+ l Processing\nhttps://2027.ieeeicassp.org/\nLocation: Toronto\, Canada
+URL:https://2027.ieeeicassp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurosys-2027-0-abstract@conference-deadlines

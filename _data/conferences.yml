@@ -3643,6 +3643,7 @@
   - DS
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/fast/index.html
   date: FEBRUARY 23-25, 2027
   place: Renton, WA, USA
@@ -3657,6 +3658,7 @@
   - NW
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/wcnc/index.html
   date: April 5-8, 2027
   place: Panama City, Panama
@@ -3675,20 +3677,6 @@
   date: January 11-12, 2027
   place: Mexico City, Mexico
   country: Mexico
-- name: ICASSP
-  description: IEEE International Conference on Acoustics, Speech, and Signal Processing
-  year: 2027
-  link: https://2027.ieeeicassp.org/
-  deadlines:
-  - date: '2026-09-16T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/icassp/index.html
-  date: May 16-21, 2027
-  place: Toronto, Canada
-  country: Canada
 - name: NSDI
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2027
@@ -3748,6 +3736,20 @@
   date: March 22-24, 2027
   place: Dresden, Germany
   country: Germany
+- name: ICASSP
+  description: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  year: 2027
+  link: https://2027.ieeeicassp.org/
+  deadlines:
+  - date: '2026-09-23T23:59:59-12:00'
+  areas:
+  - CG
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/icassp/index.html
+  date: May 16-21, 2027
+  place: Toronto, Canada
+  country: Canada
 - name: EuroSys
   description: European Conference on Computer Systems
   year: 2027
