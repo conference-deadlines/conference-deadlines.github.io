@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Theory
 BEGIN:VEVENT
-UID:stoc-2026-0-paper@conference-deadlines
-DTSTAMP:20251104T215959Z
-DTSTART:20251104T215959Z
-DTEND:20251104T222959Z
-TRANSP:TRANSPARENT
-SUMMARY:STOC 2026 deadline
-DESCRIPTION:ACM Symposium on the Theory of Computing\nhttps://acm-stoc.org/
- stoc2026/\nLocation: Salt Lake City\, Utah\, USA
-URL:https://acm-stoc.org/stoc2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:hscc-2026-0-abstract@conference-deadlines
 DTSTAMP:20251107T115959Z
 DTSTART:20251107T115959Z
@@ -219,6 +208,17 @@ DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\nhttps://www.siam.org
  /conferences-events/siam-conferences/soda27/\nLocation: Philadelphia\, Pen
  nsylvania\, USA
 URL:https://www.siam.org/conferences-events/siam-conferences/soda27/
+END:VEVENT
+BEGIN:VEVENT
+UID:stoc-2027-0-paper@conference-deadlines
+DTSTAMP:20261103T115959Z
+DTSTART:20261103T115959Z
+DTEND:20261103T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:STOC 2027 deadline
+DESCRIPTION:ACM Symposium on the Theory of Computing\nhttps://acm-stoc.org/
+ stoc2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://acm-stoc.org/stoc2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:cav-2027-0-paper@conference-deadlines

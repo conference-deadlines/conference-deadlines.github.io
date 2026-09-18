@@ -76,21 +76,6 @@
   date: April 13-14, 2026
   place: Rio de Janeiro, Brazil
   country: Brazil
-- name: STOC
-  description: ACM Symposium on the Theory of Computing
-  year: 2026
-  link: https://acm-stoc.org/stoc2026/
-  deadlines:
-  - date: '2025-11-04T16:59:59-05:00'
-  areas:
-  - CT
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/stoc/index.html
-  date: June 22-26, 2026
-  place: Salt Lake City, Utah, USA
-  country: United States
 - name: PacificVis
   description: IEEE Pacific Visualization Symposium
   year: 2026
@@ -3673,6 +3658,7 @@
   - SE
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/vmcai/index.html
   date: January 11-12, 2027
   place: Mexico City, Mexico
@@ -3688,6 +3674,7 @@
   - NW
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/nsdi/index.html
   date: May 11-13, 2027
   place: Providence, RI, USA
@@ -4395,6 +4382,20 @@
   date: October 11-15, 2026
   place: Shanghai, China
   country: China
+- name: STOC
+  description: ACM Symposium on the Theory of Computing
+  year: 2027
+  link: https://acm-stoc.org/stoc2027/
+  deadlines:
+  - date: '2026-11-02T23:59:59-12:00'
+  areas:
+  - CT
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/stoc/index.html
+  date: June 6-11, 2027
+  place: Atlanta, Georgia, USA
+  country: United States
 - name: SenSys
   description: ACM Conference on Embedded Networked Sensor Systems
   year: 2027
