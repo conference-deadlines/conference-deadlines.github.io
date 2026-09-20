@@ -828,30 +828,6 @@ DESCRIPTION:International Conference on Formal Techniques for (Networked an
 URL:https://www.discotec.org/2026/forte
 END:VEVENT
 BEGIN:VEVENT
-UID:sigcomm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260131T115959Z
-DTSTART:20260131T115959Z
-DTEND:20260131T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGCOMM 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Applications\, Technologies\, A
- rchitectures\, and Protocols for Computer Communication\nhttps://conferenc
- es.sigcomm.org/sigcomm/2026/\nLocation: Denver\, Colorado\, USA
-URL:https://conferences.sigcomm.org/sigcomm/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigcomm-2026-0-paper@conference-deadlines
-DTSTAMP:20260207T115959Z
-DTSTART:20260207T115959Z
-DTEND:20260207T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGCOMM 2026 deadline
-DESCRIPTION:ACM International Conference on Applications\, Technologies\, A
- rchitectures\, and Protocols for Computer Communication\nhttps://conferenc
- es.sigcomm.org/sigcomm/2026/\nLocation: Denver\, Colorado\, USA
-URL:https://conferences.sigcomm.org/sigcomm/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:icalp-2026-0-paper@conference-deadlines
 DTSTAMP:20260207T115959Z
 DTSTART:20260207T115959Z
@@ -3708,17 +3684,6 @@ DESCRIPTION:USENIX Conference on File and Storage Technologies\nhttps://www
 URL:https://www.usenix.org/conference/fast27
 END:VEVENT
 BEGIN:VEVENT
-UID:wcnc-2027-0-paper@conference-deadlines
-DTSTAMP:20260916T115959Z
-DTSTART:20260916T115959Z
-DTEND:20260916T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WCNC 2027 deadline
-DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
- /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
-URL:https://wcnc2027.ieee-wcnc.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:vmcai-2027-0-paper@conference-deadlines
 DTSTAMP:20260917T115959Z
 DTSTART:20260917T115959Z
@@ -4142,6 +4107,17 @@ DESCRIPTION:ACM International Conference on the Foundations of Software Eng
  ineering\nhttps://conf.researchr.org/home/fse-2027\nLocation: Shenzhen\, C
  hina
 URL:https://conf.researchr.org/home/fse-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:wcnc-2027-0-paper@conference-deadlines
+DTSTAMP:20261006T035959Z
+DTSTART:20261006T035959Z
+DTEND:20261006T042959Z
+TRANSP:TRANSPARENT
+SUMMARY:WCNC 2027 deadline
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
+ /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
+URL:https://wcnc2027.ieee-wcnc.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:aistats-2027-0-abstract@conference-deadlines

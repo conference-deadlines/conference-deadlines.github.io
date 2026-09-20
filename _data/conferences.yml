@@ -768,22 +768,6 @@
   date: June 8-12, 2026
   place: Urbino, Italy
   country: Italy
-- name: SIGCOMM
-  description: ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
-  year: 2026
-  link: https://conferences.sigcomm.org/sigcomm/2026/
-  deadlines:
-  - date: '2026-02-06T23:59:59-12:00'
-    abstract: '2026-01-30T23:59:59-12:00'
-  areas:
-  - NW
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/sigcomm/index.html
-  date: August 17 - 21, 2026
-  place: Denver, Colorado, USA
-  country: United States
 - name: ICALP
   description: EATCS International Colloquium on Automata, Languages, and Programming
   year: 2026
@@ -3633,21 +3617,6 @@
   date: FEBRUARY 23-25, 2027
   place: Renton, WA, USA
   country: United States
-- name: WCNC
-  description: IEEE Wireless Communications and Networking Conference
-  year: 2027
-  link: https://wcnc2027.ieee-wcnc.org/
-  deadlines:
-  - date: '2026-09-15T23:59:59-12:00'
-  areas:
-  - NW
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/wcnc/index.html
-  date: April 5-8, 2027
-  place: Panama City, Panama
-  country: Panama
 - name: VMCAI
   description: International Conference on Verification, Model Checking, and Abstract Interpretation
   year: 2027
@@ -3983,6 +3952,20 @@
   date: July 12-16, 2027
   place: Shenzhen, China
   country: China
+- name: WCNC
+  description: IEEE Wireless Communications and Networking Conference
+  year: 2027
+  link: https://wcnc2027.ieee-wcnc.org/
+  deadlines:
+  - date: '2026-10-05T23:59:59-04:00'
+  areas:
+  - NW
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/wcnc/index.html
+  date: April 5-8, 2027
+  place: Panama City, Panama
+  country: Panama
 - name: AISTATS
   description: International Conference on Artificial Intelligence and Statistics
   year: 2027
@@ -4184,7 +4167,7 @@
   tags:
   - CORE-A
   dblp: https://dblp.org/db/conf/csfw/index.html
-  date: TBA
+  date: September 13-17, 2027
   place: Tokyo, Japan
   country: Japan
 - name: ETAPS
@@ -4289,7 +4272,7 @@
   tags:
   - CORE-N
   dblp: https://dblp.org/db/conf/mlsys/index.html
-  date: TBD
+  date: June 21-25, 2027
   place: Bellevue, Washington, USA
   country: United States
 - name: SACMAT
