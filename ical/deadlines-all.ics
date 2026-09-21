@@ -82,6 +82,28 @@ DESCRIPTION:International Conference on Mining Software Repositories\nhttps
 URL:https://2026.msrconf.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:recomb-2027-0-abstract@conference-deadlines
+DTSTAMP:20251029T115959Z
+DTSTART:20251029T115959Z
+DTEND:20251029T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RECOMB 2027 abstract deadline
+DESCRIPTION:International Conference on Research inComputational Molecular 
+ Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
+URL:https://recomb.org/recomb2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:recomb-2027-0-paper@conference-deadlines
+DTSTAMP:20251105T115959Z
+DTSTART:20251105T115959Z
+DTEND:20251105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RECOMB 2027 deadline
+DESCRIPTION:International Conference on Research inComputational Molecular 
+ Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
+URL:https://recomb.org/recomb2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:pacificvis-2026-0-abstract@conference-deadlines
 DTSTAMP:20251102T115900Z
 DTSTART:20251102T115900Z
@@ -126,28 +148,6 @@ DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
  trol\nhttps://www.isis.vanderbilt.edu/events/hscciccps-2026\nLocation: Sai
  nt Malo\, France
 URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:recomb-2026-0-abstract@conference-deadlines
-DTSTAMP:20251108T115959Z
-DTSTART:20251108T115959Z
-DTEND:20251108T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RECOMB 2026 abstract deadline
-DESCRIPTION:International Conference on Research inComputational Molecular 
- Biology\nhttps://recomb.org/recomb2026/\nLocation: Thessaloniki\, Greece
-URL:https://recomb.org/recomb2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:recomb-2026-0-paper@conference-deadlines
-DTSTAMP:20251115T115959Z
-DTSTART:20251115T115959Z
-DTEND:20251115T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RECOMB 2026 deadline
-DESCRIPTION:International Conference on Research inComputational Molecular 
- Biology\nhttps://recomb.org/recomb2026/\nLocation: Thessaloniki\, Greece
-URL:https://recomb.org/recomb2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:pakdd-2026-0-paper@conference-deadlines
@@ -576,28 +576,6 @@ SUMMARY:ICDCS 2026 deadline
 DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
  nhttp://icdcs2026.icdcs.org/\nLocation: Seoul\, South Korea
 URL:http://icdcs2026.icdcs.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-2026-0-abstract@conference-deadlines
-DTSTAMP:20260115T220000Z
-DTSTART:20260115T220000Z
-DTEND:20260115T223000Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH 2026 abstract deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2026.siggraph.org/\nLo
- cation: Los Angeles\, California
-URL:https://s2026.siggraph.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-2026-0-paper@conference-deadlines
-DTSTAMP:20260122T220000Z
-DTSTART:20260122T220000Z
-DTEND:20260122T223000Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH 2026 deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2026.siggraph.org/\nLo
- cation: Los Angeles\, California
-URL:https://s2026.siggraph.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigir-2026-0-abstract@conference-deadlines
@@ -2295,28 +2273,6 @@ DESCRIPTION:International Conference on Software Engineering and Knowledge
  Engineering\nhttps://ksiresearch.org/seke/seke26.html\nLocation: Toronto\,
   Canada & Virtual
 URL:https://ksiresearch.org/seke/seke26.html
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-asia-2026-0-abstract@conference-deadlines
-DTSTAMP:20260506T115900Z
-DTSTART:20260506T115900Z
-DTEND:20260506T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH ASIA 2026 abstract deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\nhttps://asia.siggraph.o
- rg/2026/\nLocation: KLCC\, Kuala Lumpur\, Malaysia
-URL:https://asia.siggraph.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-asia-2026-0-paper@conference-deadlines
-DTSTAMP:20260513T115900Z
-DTSTART:20260513T115900Z
-DTEND:20260513T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH ASIA 2026 deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\nhttps://asia.siggraph.o
- rg/2026/\nLocation: KLCC\, Kuala Lumpur\, Malaysia
-URL:https://asia.siggraph.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:iiswc-2026-0-paper@conference-deadlines

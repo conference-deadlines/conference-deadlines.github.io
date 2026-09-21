@@ -5,26 +5,26 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Interdisciplinary & Emerging
 BEGIN:VEVENT
-UID:recomb-2026-0-abstract@conference-deadlines
-DTSTAMP:20251108T115959Z
-DTSTART:20251108T115959Z
-DTEND:20251108T122959Z
+UID:recomb-2027-0-abstract@conference-deadlines
+DTSTAMP:20251029T115959Z
+DTSTART:20251029T115959Z
+DTEND:20251029T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RECOMB 2026 abstract deadline
+SUMMARY:RECOMB 2027 abstract deadline
 DESCRIPTION:International Conference on Research inComputational Molecular 
- Biology\nhttps://recomb.org/recomb2026/\nLocation: Thessaloniki\, Greece
-URL:https://recomb.org/recomb2026/
+ Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
+URL:https://recomb.org/recomb2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:recomb-2026-0-paper@conference-deadlines
-DTSTAMP:20251115T115959Z
-DTSTART:20251115T115959Z
-DTEND:20251115T122959Z
+UID:recomb-2027-0-paper@conference-deadlines
+DTSTAMP:20251105T115959Z
+DTSTART:20251105T115959Z
+DTEND:20251105T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RECOMB 2026 deadline
+SUMMARY:RECOMB 2027 deadline
 DESCRIPTION:International Conference on Research inComputational Molecular 
- Biology\nhttps://recomb.org/recomb2026/\nLocation: Thessaloniki\, Greece
-URL:https://recomb.org/recomb2026/
+ Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
+URL:https://recomb.org/recomb2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:bis-2026-0-paper@conference-deadlines

@@ -60,28 +60,6 @@ DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
 URL:https://2026.ieeeicme.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:acm-siggraph-2026-0-abstract@conference-deadlines
-DTSTAMP:20260115T220000Z
-DTSTART:20260115T220000Z
-DTEND:20260115T223000Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH 2026 abstract deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2026.siggraph.org/\nLo
- cation: Los Angeles\, California
-URL:https://s2026.siggraph.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-2026-0-paper@conference-deadlines
-DTSTAMP:20260122T220000Z
-DTSTART:20260122T220000Z
-DTEND:20260122T223000Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH 2026 deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2026.siggraph.org/\nLo
- cation: Los Angeles\, California
-URL:https://s2026.siggraph.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:icip-2026-0-paper@conference-deadlines
 DTSTAMP:20260204T235959Z
 DTSTART:20260204T235959Z
@@ -236,28 +214,6 @@ SUMMARY:CCCG 2026 deadline (Submission Deadline)
 DESCRIPTION:Canadian Conference on Computational Geometry\nhttps://sites.go
  ogle.com/view/cccg-2026/home\nLocation: Orillia\, Ontario\, Canada
 URL:https://sites.google.com/view/cccg-2026/home
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-asia-2026-0-abstract@conference-deadlines
-DTSTAMP:20260506T115900Z
-DTSTART:20260506T115900Z
-DTEND:20260506T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH ASIA 2026 abstract deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\nhttps://asia.siggraph.o
- rg/2026/\nLocation: KLCC\, Kuala Lumpur\, Malaysia
-URL:https://asia.siggraph.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-siggraph-asia-2026-0-paper@conference-deadlines
-DTSTAMP:20260513T115900Z
-DTSTART:20260513T115900Z
-DTEND:20260513T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM SIGGRAPH ASIA 2026 deadline
-DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\nhttps://asia.siggraph.o
- rg/2026/\nLocation: KLCC\, Kuala Lumpur\, Malaysia
-URL:https://asia.siggraph.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:prcv-2026-0-paper@conference-deadlines
