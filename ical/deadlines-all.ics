@@ -150,17 +150,6 @@ DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
 URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:pakdd-2026-0-paper@conference-deadlines
-DTSTAMP:20251116T075959Z
-DTSTART:20251116T075959Z
-DTEND:20251116T082959Z
-TRANSP:TRANSPARENT
-SUMMARY:PAKDD 2026 deadline
-DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
- nhttps://www.pakdd2026.org/\nLocation: Hong Kong\, China
-URL:https://www.pakdd2026.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:isca-2026-0-paper@conference-deadlines
 DTSTAMP:20251118T115959Z
 DTSTART:20251118T115959Z
@@ -321,28 +310,6 @@ SUMMARY:CPAL 2026 deadline
 DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
  ation: Tübingen\, Germany
 URL:https://cpal.cc/
-END:VEVENT
-BEGIN:VEVENT
-UID:icaps-2026-0-abstract@conference-deadlines
-DTSTAMP:20251203T115959Z
-DTSTART:20251203T115959Z
-DTEND:20251203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICAPS 2026 abstract deadline
-DESCRIPTION:International Conference on Automated Planning and Scheduling\n
- https://icaps26.icaps-conference.org/\nLocation: Dublin\, Ireland
-URL:https://icaps26.icaps-conference.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icaps-2026-0-paper@conference-deadlines
-DTSTAMP:20251209T115959Z
-DTSTART:20251209T115959Z
-DTEND:20251209T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICAPS 2026 deadline
-DESCRIPTION:International Conference on Automated Planning and Scheduling\n
- https://icaps26.icaps-conference.org/\nLocation: Dublin\, Ireland
-URL:https://icaps26.icaps-conference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ispass-2026-0-abstract@conference-deadlines
@@ -4482,6 +4449,17 @@ DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
 URL:https://www.sacmat.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:cscwd-2027-0-paper@conference-deadlines
+DTSTAMP:20261101T115959Z
+DTSTART:20261101T115959Z
+DTEND:20261101T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSCWD 2027 deadline
+DESCRIPTION:International Conference on Computer Supported Cooperative Work
+  in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
+URL:http://2027.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
 UID:eurogp-2027-0-paper@conference-deadlines
 DTSTAMP:20261102T115900Z
 DTSTART:20261102T115900Z
@@ -4697,6 +4675,17 @@ DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
 URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
+UID:pakdd-2027-0-paper@conference-deadlines
+DTSTAMP:20261121T115959Z
+DTSTART:20261121T115959Z
+DTEND:20261121T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PAKDD 2027 deadline
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
+ nhttps://www.pakdd2027.org/\nLocation: Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:codaspy-2027-0-abstract@conference-deadlines
 DTSTAMP:20261117T115959Z
 DTSTART:20261117T115959Z
@@ -4906,6 +4895,28 @@ SUMMARY:AsiaCCS 2027 deadline (2nd round Deadline)
 DESCRIPTION:Asia Conference on Computer and Communications Security\nhttps:
  //asiaccs2027.cityu.edu.mo/index.html\nLocation: Macau\, China
 URL:https://asiaccs2027.cityu.edu.mo/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-0-abstract@conference-deadlines
+DTSTAMP:20261208T115959Z
+DTSTART:20261208T115959Z
+DTEND:20261208T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICAPS 2027 abstract deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling\n
+ https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
+URL:https://icaps27.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-0-paper@conference-deadlines
+DTSTAMP:20261215T115959Z
+DTSTART:20261215T115959Z
+DTEND:20261215T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICAPS 2027 deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling\n
+ https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
+URL:https://icaps27.icaps-conference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdf2c-2027-0-paper@conference-deadlines

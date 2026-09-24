@@ -172,6 +172,17 @@ DESCRIPTION:ACM Conference on Human Factors in Computing Systems\nhttps://c
 URL:https://chi2027.acm.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:cscwd-2027-0-paper@conference-deadlines
+DTSTAMP:20261101T115959Z
+DTSTART:20261101T115959Z
+DTEND:20261101T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSCWD 2027 deadline
+DESCRIPTION:International Conference on Computer Supported Cooperative Work
+  in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
+URL:http://2027.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
 UID:ubicomp-iswc-2026-0-paper@conference-deadlines
 DTSTAMP:20261102T115959Z
 DTSTART:20261102T115959Z

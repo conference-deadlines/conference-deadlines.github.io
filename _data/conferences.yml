@@ -125,21 +125,6 @@
   date: May 11-14, 2026
   place: Saint Malo, France
   country: France
-- name: PAKDD
-  description: Pacific-Asia Conference on Knowledge Discovery and Data Mining
-  year: 2026
-  link: https://www.pakdd2026.org/
-  deadlines:
-  - date: '2025-11-15T23:59:59-08:00'
-  areas:
-  - DB
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/pakdd/index.html
-  date: June 9-12, 2026
-  place: Hong Kong, China
-  country: China
 - name: ISCA
   description: International Symposium on Computer Architecture
   year: 2026
@@ -282,22 +267,6 @@
   date: March 23-27, 2026
   place: Tübingen, Germany
   country: Germany
-- name: ICAPS
-  description: International Conference on Automated Planning and Scheduling
-  year: 2026
-  link: https://icaps26.icaps-conference.org/
-  deadlines:
-  - date: '2025-12-08T23:59:59-12:00'
-    abstract: '2025-12-02T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/icaps/index.html
-  date: June 27 - July 2, 2026
-  place: Dublin, Ireland
-  country: Ireland
 - name: ISPASS
   description: International Symposium on Performance Analysis of Systems and Software
   year: 2026
@@ -4261,6 +4230,20 @@
   date: July 19-21, 2027
   place: Durham, England, United Kingdom
   country: United Kingdom
+- name: CSCWD
+  description: International Conference on Computer Supported Cooperative Work in Design
+  year: 2027
+  link: http://2027.cscwd.org
+  deadlines:
+  - date: '2026-10-31T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/cscwd/index.html
+  date: May 26-28, 2027
+  place: Brisbane, Australia
+  country: Australia
 - name: EuroGP
   description: European Conference on Genetic Programming
   year: 2027
@@ -4485,6 +4468,20 @@
   date: July 11-14, 2027
   place: San Jose, CA
   country: United States
+- name: PAKDD
+  description: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  year: 2027
+  link: https://www.pakdd2027.org/
+  deadlines:
+  - date: '2026-11-20T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/pakdd/index.html
+  date: June 29-July 2, 2027
+  place: Wellington, New Zealand
+  country: New Zealand
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
   year: 2027
@@ -4653,6 +4650,21 @@
   date: July 12-16, 2027
   place: Macau, China
   country: China
+- name: ICAPS
+  description: International Conference on Automated Planning and Scheduling
+  year: 2027
+  link: https://icaps27.icaps-conference.org/
+  deadlines:
+  - date: '2026-12-14T23:59:59-12:00'
+    abstract: '2026-12-07T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/icaps/index.html
+  date: June 27 - July 2, 2027
+  place: Columbia, SC, USA
+  country: United States
 - name: ICDF2C
   description: International Conference on Digital Forensics & Cyber Crime
   year: 2027

@@ -28,28 +28,6 @@ DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
 URL:https://cpal.cc/
 END:VEVENT
 BEGIN:VEVENT
-UID:icaps-2026-0-abstract@conference-deadlines
-DTSTAMP:20251203T115959Z
-DTSTART:20251203T115959Z
-DTEND:20251203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICAPS 2026 abstract deadline
-DESCRIPTION:International Conference on Automated Planning and Scheduling\n
- https://icaps26.icaps-conference.org/\nLocation: Dublin\, Ireland
-URL:https://icaps26.icaps-conference.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icaps-2026-0-paper@conference-deadlines
-DTSTAMP:20251209T115959Z
-DTSTART:20251209T115959Z
-DTEND:20251209T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICAPS 2026 deadline
-DESCRIPTION:International Conference on Automated Planning and Scheduling\n
- https://icaps26.icaps-conference.org/\nLocation: Dublin\, Ireland
-URL:https://icaps26.icaps-conference.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:icpr-2026-0-paper@conference-deadlines
 DTSTAMP:20251221T115959Z
 DTSTART:20251221T115959Z
@@ -828,6 +806,28 @@ DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
  nhttps://cvpr.thecvf.com/Conferences/2027\nLocation: Seattle\, WA\, United
   States
 URL:https://cvpr.thecvf.com/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-0-abstract@conference-deadlines
+DTSTAMP:20261208T115959Z
+DTSTART:20261208T115959Z
+DTEND:20261208T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICAPS 2027 abstract deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling\n
+ https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
+URL:https://icaps27.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icaps-2027-0-paper@conference-deadlines
+DTSTAMP:20261215T115959Z
+DTSTART:20261215T115959Z
+DTEND:20261215T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICAPS 2027 deadline
+DESCRIPTION:International Conference on Automated Planning and Scheduling\n
+ https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
+URL:https://icaps27.icaps-conference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ijcnn-2027-0-paper@conference-deadlines

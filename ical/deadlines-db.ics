@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Databases & Data Mining
 BEGIN:VEVENT
-UID:pakdd-2026-0-paper@conference-deadlines
-DTSTAMP:20251116T075959Z
-DTSTART:20251116T075959Z
-DTEND:20251116T082959Z
-TRANSP:TRANSPARENT
-SUMMARY:PAKDD 2026 deadline
-DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
- nhttps://www.pakdd2026.org/\nLocation: Hong Kong\, China
-URL:https://www.pakdd2026.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:sigir-2026-0-abstract@conference-deadlines
 DTSTAMP:20260116T115959Z
 DTSTART:20260116T115959Z
@@ -414,6 +403,17 @@ SUMMARY:WSDM 2027 deadline (Short Paper)
 DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
  /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
 URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pakdd-2027-0-paper@conference-deadlines
+DTSTAMP:20261121T115959Z
+DTSTART:20261121T115959Z
+DTEND:20261121T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PAKDD 2027 deadline
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
+ nhttps://www.pakdd2027.org/\nLocation: Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:dasfaa-2027-0-paper@conference-deadlines
