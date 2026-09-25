@@ -5,59 +5,26 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Graphics & Multimedia
 BEGIN:VEVENT
-UID:pacificvis-2026-0-abstract@conference-deadlines
-DTSTAMP:20251102T115900Z
-DTSTART:20251102T115900Z
-DTEND:20251102T122900Z
+UID:eurovis-2026-0-abstract@conference-deadlines
+DTSTAMP:20251127T115959Z
+DTSTART:20251127T115959Z
+DTEND:20251127T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:PacificVis 2026 abstract deadline (Conference track)
-DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2026.gi
- thub.io/\nLocation: Sydney\, Australia
-URL:https://pacificvis2026.github.io/
+SUMMARY:EuroVis 2026 abstract deadline
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
+ rg.uk/\nLocation: Nottingham\, United Kingdom
+URL:https://www.eurovis.org.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:pacificvis-2026-0-paper@conference-deadlines
-DTSTAMP:20251109T115900Z
-DTSTART:20251109T115900Z
-DTEND:20251109T122900Z
+UID:eurovis-2026-0-paper@conference-deadlines
+DTSTAMP:20251204T115959Z
+DTSTART:20251204T115959Z
+DTEND:20251204T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:PacificVis 2026 deadline (Conference track)
-DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2026.gi
- thub.io/\nLocation: Sydney\, Australia
-URL:https://pacificvis2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:gmp-2026-0-abstract@conference-deadlines
-DTSTAMP:20251216T235959Z
-DTSTART:20251216T235959Z
-DTEND:20251217T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:GMP 2026 abstract deadline
-DESCRIPTION:International Conference on Geometric Modeling and Processing\n
- https://gmp2026.kma.zcu.cz/\nLocation: Pilsen\, Czech Republic
-URL:https://gmp2026.kma.zcu.cz/
-END:VEVENT
-BEGIN:VEVENT
-UID:gmp-2026-0-paper@conference-deadlines
-DTSTAMP:20251218T235959Z
-DTSTART:20251218T235959Z
-DTEND:20251219T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:GMP 2026 deadline
-DESCRIPTION:International Conference on Geometric Modeling and Processing\n
- https://gmp2026.kma.zcu.cz/\nLocation: Pilsen\, Czech Republic
-URL:https://gmp2026.kma.zcu.cz/
-END:VEVENT
-BEGIN:VEVENT
-UID:icme-2026-0-paper@conference-deadlines
-DTSTAMP:20260101T115959Z
-DTSTART:20260101T115959Z
-DTEND:20260101T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICME 2026 deadline
-DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
- /2026.ieeeicme.org/\nLocation: Bangkok\, Thailand
-URL:https://2026.ieeeicme.org/
+SUMMARY:EuroVis 2026 deadline
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
+ rg.uk/\nLocation: Nottingham\, United Kingdom
+URL:https://www.eurovis.org.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:icip-2026-0-paper@conference-deadlines
@@ -71,15 +38,15 @@ DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
 URL:https://2026.ieeeicip.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:interspeech-2026-0-paper@conference-deadlines
-DTSTAMP:20260225T235959Z
-DTSTART:20260225T235959Z
-DTEND:20260226T002959Z
+UID:casa-2026-0-paper@conference-deadlines
+DTSTAMP:20260211T115959Z
+DTSTART:20260211T115959Z
+DTEND:20260211T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:InterSpeech 2026 deadline
-DESCRIPTION:Conference of the International Speech Communication Associatio
- n\nhttps://interspeech2026.org/\nLocation: Sydney\, Australia
-URL:https://interspeech2026.org/
+SUMMARY:CASA 2026 deadline
+DESCRIPTION:International Conference on Computer Animation and Social Agent
+ s\nhttps://cgs-network.org/CASAXR26/\nLocation: Geneva\, Switzerland
+URL:https://cgs-network.org/CASAXR26/
 END:VEVENT
 BEGIN:VEVENT
 UID:ismar-2026-0-abstract@conference-deadlines
@@ -170,41 +137,6 @@ DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
 URL:https://egsr2026.inria.fr/
 END:VEVENT
 BEGIN:VEVENT
-UID:sgp-2026-0-abstract@conference-deadlines
-DTSTAMP:20260413T235959Z
-DTSTART:20260413T235959Z
-DTEND:20260414T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:SGP 2026 abstract deadline (Second round)
-DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
- g/\nLocation: Bern\, Switzerland
-URL:https://sgp26.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sgp-2026-0-paper@conference-deadlines
-DTSTAMP:20260415T235959Z
-DTSTART:20260415T235959Z
-DTEND:20260416T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:SGP 2026 deadline (Second round)
-DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
- g/\nLocation: Bern\, Switzerland
-URL:https://sgp26.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:cgi-2026-0-paper@conference-deadlines
-DTSTAMP:20260420T235900Z
-DTSTART:20260420T235900Z
-DTEND:20260421T002900Z
-TRANSP:TRANSPARENT
-SUMMARY:CGI 2026 deadline (Second Track: Call for papers with final publica
- tion in LNCS Book published by Springer or in The Visual Computer journal 
- or Computer Animation and Virtual Worlds Journal)
-DESCRIPTION:Computer Graphics International\nhttps://www.cgs-network.org/cg
- i26/\nLocation: London\, UK
-URL:https://www.cgs-network.org/cgi26/
-END:VEVENT
-BEGIN:VEVENT
 UID:cccg-2026-0-paper@conference-deadlines
 DTSTAMP:20260509T115959Z
 DTSTART:20260509T115959Z
@@ -284,6 +216,17 @@ DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
 URL:https://www.ncmmsc.org.cn/
 END:VEVENT
 BEGIN:VEVENT
+UID:vinci-2026-0-paper@conference-deadlines
+DTSTAMP:20260730T115959Z
+DTSTART:20260730T115959Z
+DTEND:20260730T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:VINCI 2026 deadline
+DESCRIPTION:International Symposium on Visual Information Communication and
+  Interaction\nhttps://vinci-symp.org/\nLocation: Hangzhou\, China
+URL:https://vinci-symp.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:mmm-2027-0-paper@conference-deadlines
 DTSTAMP:20260817T115959Z
 DTSTART:20260817T115959Z
@@ -295,13 +238,35 @@ DESCRIPTION:International Conference on Multimedia Modeling\nhttps://www.mm
 URL:https://www.mmm2027.net/
 END:VEVENT
 BEGIN:VEVENT
-UID:3dv-2027-0-paper@conference-deadlines
-DTSTAMP:20260828T180000Z
-DTSTART:20260828T180000Z
-DTEND:20260828T183000Z
+UID:icvrv-2026-0-abstract@conference-deadlines
+DTSTAMP:20260816T115959Z
+DTSTART:20260816T115959Z
+DTEND:20260816T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:3DV 2027 deadline (Supplementary material due Sep 2\, 2026. All dea
- dlines are 11:00 am PDT.)
+SUMMARY:ICVRV 2026 abstract deadline
+DESCRIPTION:International Conference on Virtual Reality and Visualization\n
+ https://icvrv2026.aconf.org/\nLocation: Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icvrv-2026-0-paper@conference-deadlines
+DTSTAMP:20260823T115959Z
+DTSTART:20260823T115959Z
+DTEND:20260823T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICVRV 2026 deadline
+DESCRIPTION:International Conference on Virtual Reality and Visualization\n
+ https://icvrv2026.aconf.org/\nLocation: Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:3dv-2027-0-paper@conference-deadlines
+DTSTAMP:20260829T115959Z
+DTSTART:20260829T115959Z
+DTEND:20260829T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:3DV 2027 deadline (Abstract registration and paper submission are b
+ oth due Aug 28\; supplementary material is due Sep 2.)
 DESCRIPTION:International Conference on 3D Vision\nhttps://3dvconf.github.i
  o/2027/\nLocation: Thessaloniki\, Greece
 URL:https://3dvconf.github.io/2027/
@@ -408,6 +373,50 @@ DESCRIPTION:The international conference on Computational Visual Media\nhtt
 URL:http://iccvm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:pacificvis-2027-0-abstract@conference-deadlines
+DTSTAMP:20261103T115959Z
+DTSTART:20261103T115959Z
+DTEND:20261103T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PacificVis 2027 abstract deadline (Conference track)
+DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2027.gi
+ thub.io/\nLocation: Busan\, South Korea
+URL:https://pacificvis2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:pacificvis-2027-0-paper@conference-deadlines
+DTSTAMP:20261110T115959Z
+DTSTART:20261110T115959Z
+DTEND:20261110T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PacificVis 2027 deadline (Conference track)
+DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2027.gi
+ thub.io/\nLocation: Busan\, South Korea
+URL:https://pacificvis2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:gmp-2027-0-abstract@conference-deadlines
+DTSTAMP:20261214T235959Z
+DTSTART:20261214T235959Z
+DTEND:20261215T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:GMP 2027 abstract deadline
+DESCRIPTION:International Conference on Geometric Modeling and Processing\n
+ https://gmp-conference-2027.github.io/gmp2027/\nLocation: Singapore
+URL:https://gmp-conference-2027.github.io/gmp2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:gmp-2027-0-paper@conference-deadlines
+DTSTAMP:20261221T235959Z
+DTSTART:20261221T235959Z
+DTEND:20261222T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:GMP 2027 deadline
+DESCRIPTION:International Conference on Geometric Modeling and Processing\n
+ https://gmp-conference-2027.github.io/gmp2027/\nLocation: Singapore
+URL:https://gmp-conference-2027.github.io/gmp2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:icmr-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z
@@ -417,6 +426,52 @@ SUMMARY:ICMR 2027 deadline
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\nhtt
  ps://www.icmr2027.org/\nLocation: Singapore
 URL:https://www.icmr2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eusipco-2027-0-paper@conference-deadlines
+DTSTAMP:20270207T115959Z
+DTSTART:20270207T115959Z
+DTEND:20270207T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EUSIPCO 2027 deadline
+DESCRIPTION:European Signal Processing Conference\nhttps://eusipco2027.de/\
+ nLocation: Darmstadt\, Germany
+URL:https://eusipco2027.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:interspeech-2027-0-paper@conference-deadlines
+DTSTAMP:20270209T235959Z
+DTSTART:20270209T235959Z
+DTEND:20270210T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:InterSpeech 2027 deadline
+DESCRIPTION:Conference of the International Speech Communication Associatio
+ n\nhttps://interspeech2027.org/\nLocation: São Paulo\, Brazil
+URL:https://interspeech2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cgi-2027-0-paper@conference-deadlines
+DTSTAMP:20270228T235959Z
+DTSTART:20270228T235959Z
+DTEND:20270301T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CGI 2027 deadline (First Track: Call for papers with final publicat
+ ion in The Visual Computer Journal)
+DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
+ \nLocation: Cairns\, Australia
+URL:https://cgs-network.org/cgi27/
+END:VEVENT
+BEGIN:VEVENT
+UID:cgi-2027-1-paper@conference-deadlines
+DTSTAMP:20270420T235959Z
+DTSTART:20270420T235959Z
+DTEND:20270421T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CGI 2027 deadline (Second Track: Call for papers with final publica
+ tion in LNCS Book published by Springer)
+DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
+ \nLocation: Cairns\, Australia
+URL:https://cgs-network.org/cgi27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ieee-cog-2027-0-paper@conference-deadlines

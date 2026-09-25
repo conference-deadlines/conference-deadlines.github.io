@@ -5,96 +5,37 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Theory
 BEGIN:VEVENT
-UID:hscc-2026-0-abstract@conference-deadlines
-DTSTAMP:20251107T115959Z
-DTSTART:20251107T115959Z
-DTEND:20251107T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HSCC 2026 abstract deadline
-DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
- trol\nhttps://www.isis.vanderbilt.edu/events/hscciccps-2026\nLocation: Sai
- nt Malo\, France
-URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:hscc-2026-0-paper@conference-deadlines
-DTSTAMP:20251114T115959Z
-DTSTART:20251114T115959Z
-DTEND:20251114T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HSCC 2026 deadline
-DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
- trol\nhttps://www.isis.vanderbilt.edu/events/hscciccps-2026\nLocation: Sai
- nt Malo\, France
-URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:socg-2026-0-abstract@conference-deadlines
-DTSTAMP:20251126T115900Z
-DTSTART:20251126T115900Z
-DTEND:20251126T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SOCG 2026 abstract deadline
-DESCRIPTION:International Symposium on Computational Geometry\nhttps://cgwe
- ek26.computational-geometry.org/contribute/\nLocation: New Brunswick\, New
-  Jersey\, USA
-URL:https://cgweek26.computational-geometry.org/contribute/
-END:VEVENT
-BEGIN:VEVENT
-UID:socg-2026-0-paper@conference-deadlines
-DTSTAMP:20251203T115900Z
-DTSTART:20251203T115900Z
-DTEND:20251203T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SOCG 2026 deadline
-DESCRIPTION:International Symposium on Computational Geometry\nhttps://cgwe
- ek26.computational-geometry.org/contribute/\nLocation: New Brunswick\, New
-  Jersey\, USA
-URL:https://cgweek26.computational-geometry.org/contribute/
-END:VEVENT
-BEGIN:VEVENT
-UID:isit-2026-0-paper@conference-deadlines
-DTSTAMP:20260117T115959Z
-DTSTART:20260117T115959Z
-DTEND:20260117T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISIT 2026 deadline
-DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
- 6.ieee-isit.org/\nLocation: Guangzhou\, China
-URL:https://2026.ieee-isit.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:lics-2026-0-abstract@conference-deadlines
-DTSTAMP:20260116T115959Z
-DTSTART:20260116T115959Z
-DTEND:20260116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:LICS 2026 abstract deadline
-DESCRIPTION:IEEE Symposium on Logic in Computer Science\nhttps://lics.siglo
- g.org/lics26/\nLocation: Lisbon\, Portugal
-URL:https://lics.siglog.org/lics26/
-END:VEVENT
-BEGIN:VEVENT
-UID:lics-2026-0-paper@conference-deadlines
-DTSTAMP:20260123T115959Z
-DTSTART:20260123T115959Z
-DTEND:20260123T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:LICS 2026 deadline
-DESCRIPTION:IEEE Symposium on Logic in Computer Science\nhttps://lics.siglo
- g.org/lics26/\nLocation: Lisbon\, Portugal
-URL:https://lics.siglog.org/lics26/
-END:VEVENT
-BEGIN:VEVENT
-UID:icalp-2026-0-paper@conference-deadlines
+UID:ijcar-2026-0-abstract@conference-deadlines
 DTSTAMP:20260207T115959Z
 DTSTART:20260207T115959Z
 DTEND:20260207T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICALP 2026 deadline
-DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and Pr
- ogramming\nhttps://icalppodcspaa2026.cs.rhul.ac.uk/\nLocation: London\, UK
-URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
+SUMMARY:IJCAR 2026 abstract deadline
+DESCRIPTION:International Joint Conference on Automated Reasoning\nhttps://
+ www.floc26.org/ijcar\nLocation: Lisbon\, Portugal
+URL:https://www.floc26.org/ijcar
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcar-2026-0-paper@conference-deadlines
+DTSTAMP:20260216T115959Z
+DTSTART:20260216T115959Z
+DTEND:20260216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAR 2026 deadline
+DESCRIPTION:International Joint Conference on Automated Reasoning\nhttps://
+ www.floc26.org/ijcar\nLocation: Lisbon\, Portugal
+URL:https://www.floc26.org/ijcar
+END:VEVENT
+BEGIN:VEVENT
+UID:cocoon-2026-0-paper@conference-deadlines
+DTSTAMP:20260305T115959Z
+DTSTART:20260305T115959Z
+DTEND:20260305T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COCOON 2026 deadline
+DESCRIPTION:International Computing and Combinatorics Conference\nhttps://e
+ vent.ntu.edu.sg/cocoon2026\nLocation: Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
 END:VEVENT
 BEGIN:VEVENT
 UID:sat-2026-0-abstract@conference-deadlines
@@ -154,17 +95,6 @@ DESCRIPTION:European Symposium on Algorithms\nhttps://algo-conference.org/2
 URL:https://algo-conference.org/2026/esa/
 END:VEVENT
 BEGIN:VEVENT
-UID:fmcad-2026-0-paper@conference-deadlines
-DTSTAMP:20260427T115959Z
-DTSTART:20260427T115959Z
-DTEND:20260427T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FMCAD 2026 deadline
-DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
- at/FMCAD26/\nLocation: Graz\, Austria
-URL:https://fmcad.forsyte.at/FMCAD26/
-END:VEVENT
-BEGIN:VEVENT
 UID:concur-2026-0-abstract@conference-deadlines
 DTSTAMP:20260421T115959Z
 DTSTART:20260421T115959Z
@@ -185,6 +115,28 @@ SUMMARY:CONCUR 2026 deadline
 DESCRIPTION:International Conference on Concurrency Theory\nhttps://confest
  -2026.github.io/concur/\nLocation: Liverpool\, UK
 URL:https://confest-2026.github.io/concur/
+END:VEVENT
+BEGIN:VEVENT
+UID:fmcad-2026-0-abstract@conference-deadlines
+DTSTAMP:20260505T115959Z
+DTSTART:20260505T115959Z
+DTEND:20260505T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FMCAD 2026 abstract deadline
+DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
+ at/FMCAD26/\nLocation: Graz\, Austria
+URL:https://fmcad.forsyte.at/FMCAD26/
+END:VEVENT
+BEGIN:VEVENT
+UID:fmcad-2026-0-paper@conference-deadlines
+DTSTAMP:20260512T115959Z
+DTSTART:20260512T115959Z
+DTEND:20260512T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FMCAD 2026 deadline
+DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
+ at/FMCAD26/\nLocation: Graz\, Austria
+URL:https://fmcad.forsyte.at/FMCAD26/
 END:VEVENT
 BEGIN:VEVENT
 UID:isaac-2026-0-paper@conference-deadlines
@@ -210,6 +162,29 @@ DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\nhttps://www.siam.org
 URL:https://www.siam.org/conferences-events/siam-conferences/soda27/
 END:VEVENT
 BEGIN:VEVENT
+UID:setta-2026-0-paper@conference-deadlines
+DTSTAMP:20260825T115959Z
+DTSTART:20260825T115959Z
+DTEND:20260825T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SETTA 2026 deadline (Round 2 (extended))
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools 
+ and Applications\nhttps://www.setta2026.sg/\nLocation: Singapore
+URL:https://www.setta2026.sg/
+END:VEVENT
+BEGIN:VEVENT
+UID:icalp-2027-0-paper@conference-deadlines
+DTSTAMP:20260916T115959Z
+DTSTART:20260916T115959Z
+DTEND:20260916T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICALP 2027 deadline (Track B first round\; Track A and Track B seco
+ nd round TBA)
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and Pr
+ ogramming\nhttps://icalp.uj.edu.pl/\nLocation: Kraków\, Poland
+URL:https://icalp.uj.edu.pl/
+END:VEVENT
+BEGIN:VEVENT
 UID:stoc-2027-0-paper@conference-deadlines
 DTSTAMP:20261103T115959Z
 DTSTART:20261103T115959Z
@@ -221,6 +196,39 @@ DESCRIPTION:ACM Symposium on the Theory of Computing\nhttps://acm-stoc.org/
 URL:https://acm-stoc.org/stoc2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:hscc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261030T115959Z
+DTSTART:20261030T115959Z
+DTEND:20261030T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HSCC 2027 abstract deadline
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
+ trol\nhttps://hscc.acm.org/2027/\nLocation: Boulder\, Colorado\, USA
+URL:https://hscc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:hscc-2027-0-paper@conference-deadlines
+DTSTAMP:20261106T115959Z
+DTSTART:20261106T115959Z
+DTEND:20261106T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HSCC 2027 deadline
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
+ trol\nhttps://hscc.acm.org/2027/\nLocation: Boulder\, Colorado\, USA
+URL:https://hscc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isit-2027-0-paper@conference-deadlines
+DTSTAMP:20270111T115959Z
+DTSTART:20270111T115959Z
+DTEND:20270111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISIT 2027 deadline
+DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
+ 7.ieee-isit.org/\nLocation: Sorrento\, Italy
+URL:https://2027.ieee-isit.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:cav-2027-0-paper@conference-deadlines
 DTSTAMP:20270121T115959Z
 DTSTART:20270121T115959Z
@@ -230,5 +238,27 @@ SUMMARY:CAV 2027 deadline
 DESCRIPTION:International Conference on Computer-Aided Verification\nhttps:
  //conferences.i-cav.org/2027/\nLocation: KIT\, Amsterdam\, The Netherlands
 URL:https://conferences.i-cav.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cade-2027-0-abstract@conference-deadlines
+DTSTAMP:20270216T115959Z
+DTSTART:20270216T115959Z
+DTEND:20270216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CADE 2027 abstract deadline
+DESCRIPTION:The Conference on Automated Deduction\nhttps://fscd-cade.scienc
+ e.ru.nl/\nLocation: Nijmegen\, Netherlands
+URL:https://fscd-cade.science.ru.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:cade-2027-0-paper@conference-deadlines
+DTSTAMP:20270223T115959Z
+DTSTART:20270223T115959Z
+DTEND:20270223T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CADE 2027 deadline
+DESCRIPTION:The Conference on Automated Deduction\nhttps://fscd-cade.scienc
+ e.ru.nl/\nLocation: Nijmegen\, Netherlands
+URL:https://fscd-cade.science.ru.nl/
 END:VEVENT
 END:VCALENDAR

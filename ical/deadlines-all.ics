@@ -5,28 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - All areas
 BEGIN:VEVENT
-UID:percom-2026-0-paper@conference-deadlines
-DTSTAMP:20251004T115900Z
-DTSTART:20251004T115900Z
-DTEND:20251004T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:PerCom 2026 deadline
-DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
- ications\nhttps://percom.org/\nLocation: Pisa\, Italy
-URL:https://percom.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:noms-2026-0-paper@conference-deadlines
-DTSTAMP:20251013T095959Z
-DTSTART:20251013T095959Z
-DTEND:20251013T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:NOMS 2026 deadline
-DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\nhttps://
- noms2026.ieee-noms.org/\nLocation: Rome\, Italy
-URL:https://noms2026.ieee-noms.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:pam-2026-0-paper@conference-deadlines
 DTSTAMP:20251016T115959Z
 DTSTART:20251016T115959Z
@@ -38,284 +16,32 @@ DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
 URL:https://pam2026.at/
 END:VEVENT
 BEGIN:VEVENT
-UID:icpc-2026-0-abstract@conference-deadlines
-DTSTAMP:20251020T115959Z
-DTSTART:20251020T115959Z
-DTEND:20251020T122959Z
+UID:eurovis-2026-0-abstract@conference-deadlines
+DTSTAMP:20251127T115959Z
+DTSTART:20251127T115959Z
+DTEND:20251127T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICPC 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Program Comprehension\nhttps:/
- /conf.researchr.org/home/icpc-2026\nLocation: Rio de Janeiro\, Brazil
-URL:https://conf.researchr.org/home/icpc-2026
+SUMMARY:EuroVis 2026 abstract deadline
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
+ rg.uk/\nLocation: Nottingham\, United Kingdom
+URL:https://www.eurovis.org.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:icpc-2026-0-paper@conference-deadlines
-DTSTAMP:20251024T115959Z
-DTSTART:20251024T115959Z
-DTEND:20251024T122959Z
+UID:eurovis-2026-0-paper@conference-deadlines
+DTSTAMP:20251204T115959Z
+DTSTART:20251204T115959Z
+DTEND:20251204T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICPC 2026 deadline
-DESCRIPTION:IEEE International Conference on Program Comprehension\nhttps:/
- /conf.researchr.org/home/icpc-2026\nLocation: Rio de Janeiro\, Brazil
-URL:https://conf.researchr.org/home/icpc-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:msr-2026-0-abstract@conference-deadlines
-DTSTAMP:20251021T115959Z
-DTSTART:20251021T115959Z
-DTEND:20251021T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MSR 2026 abstract deadline
-DESCRIPTION:International Conference on Mining Software Repositories\nhttps
- ://2026.msrconf.org/\nLocation: Rio de Janeiro\, Brazil
-URL:https://2026.msrconf.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:msr-2026-0-paper@conference-deadlines
-DTSTAMP:20251024T115959Z
-DTSTART:20251024T115959Z
-DTEND:20251024T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MSR 2026 deadline
-DESCRIPTION:International Conference on Mining Software Repositories\nhttps
- ://2026.msrconf.org/\nLocation: Rio de Janeiro\, Brazil
-URL:https://2026.msrconf.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:recomb-2027-0-abstract@conference-deadlines
-DTSTAMP:20251029T115959Z
-DTSTART:20251029T115959Z
-DTEND:20251029T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RECOMB 2027 abstract deadline
-DESCRIPTION:International Conference on Research inComputational Molecular 
- Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
-URL:https://recomb.org/recomb2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:recomb-2027-0-paper@conference-deadlines
-DTSTAMP:20251105T115959Z
-DTSTART:20251105T115959Z
-DTEND:20251105T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RECOMB 2027 deadline
-DESCRIPTION:International Conference on Research inComputational Molecular 
- Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
-URL:https://recomb.org/recomb2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:pacificvis-2026-0-abstract@conference-deadlines
-DTSTAMP:20251102T115900Z
-DTSTART:20251102T115900Z
-DTEND:20251102T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:PacificVis 2026 abstract deadline (Conference track)
-DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2026.gi
- thub.io/\nLocation: Sydney\, Australia
-URL:https://pacificvis2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:pacificvis-2026-0-paper@conference-deadlines
-DTSTAMP:20251109T115900Z
-DTSTART:20251109T115900Z
-DTEND:20251109T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:PacificVis 2026 deadline (Conference track)
-DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2026.gi
- thub.io/\nLocation: Sydney\, Australia
-URL:https://pacificvis2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:hscc-2026-0-abstract@conference-deadlines
-DTSTAMP:20251107T115959Z
-DTSTART:20251107T115959Z
-DTEND:20251107T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HSCC 2026 abstract deadline
-DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
- trol\nhttps://www.isis.vanderbilt.edu/events/hscciccps-2026\nLocation: Sai
- nt Malo\, France
-URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:hscc-2026-0-paper@conference-deadlines
-DTSTAMP:20251114T115959Z
-DTSTART:20251114T115959Z
-DTEND:20251114T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HSCC 2026 deadline
-DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
- trol\nhttps://www.isis.vanderbilt.edu/events/hscciccps-2026\nLocation: Sai
- nt Malo\, France
-URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:isca-2026-0-paper@conference-deadlines
-DTSTAMP:20251118T115959Z
-DTSTART:20251118T115959Z
-DTEND:20251118T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISCA 2026 deadline (full paper deadline)
-DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
- onf.org/isca2026/\nLocation: Raleigh\, USA
-URL:https://iscaconf.org/isca2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:esann-2026-0-paper@conference-deadlines
-DTSTAMP:20251120T075959Z
-DTSTART:20251120T075959Z
-DTEND:20251120T082959Z
-TRANSP:TRANSPARENT
-SUMMARY:ESANN 2026 deadline
-DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
- l Intelligence and Machine Learning\nhttps://www.esann.org/\nLocation: Bru
- ges\, Belgium and Online
-URL:https://www.esann.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:fse-2026-0-paper@conference-deadlines
-DTSTAMP:20251124T115959Z
-DTSTART:20251124T115959Z
-DTEND:20251124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FSE 2026 deadline (ToSC\, Volume 2026\, Issue 1 Submission deadline
- )
-DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2026/\nLocation:
-  Singapore\, Singapore
-URL:https://fse.iacr.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:caise-2026-0-abstract@conference-deadlines
-DTSTAMP:20251115T115959Z
-DTSTART:20251115T115959Z
-DTEND:20251115T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CAiSE 2026 abstract deadline
-DESCRIPTION:International Conference on Advanced Information Systems Engine
- ering\nhttps://caise26.polimi.it/\nLocation: Verona\, Italy
-URL:https://caise26.polimi.it/
-END:VEVENT
-BEGIN:VEVENT
-UID:caise-2026-0-paper@conference-deadlines
-DTSTAMP:20251129T115959Z
-DTSTART:20251129T115959Z
-DTEND:20251129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CAiSE 2026 deadline
-DESCRIPTION:International Conference on Advanced Information Systems Engine
- ering\nhttps://caise26.polimi.it/\nLocation: Verona\, Italy
-URL:https://caise26.polimi.it/
-END:VEVENT
-BEGIN:VEVENT
-UID:fm-2026-0-abstract@conference-deadlines
-DTSTAMP:20251126T115900Z
-DTSTART:20251126T115900Z
-DTEND:20251126T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:FM 2026 abstract deadline
-DESCRIPTION:International Symposium on Formal Methods\nhttps://conf.researc
- hr.org/home/fm-2026\nLocation: Tokyo\, Japan
-URL:https://conf.researchr.org/home/fm-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:fm-2026-0-paper@conference-deadlines
-DTSTAMP:20251203T115900Z
-DTSTART:20251203T115900Z
-DTEND:20251203T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:FM 2026 deadline
-DESCRIPTION:International Symposium on Formal Methods\nhttps://conf.researc
- hr.org/home/fm-2026\nLocation: Tokyo\, Japan
-URL:https://conf.researchr.org/home/fm-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:socg-2026-0-abstract@conference-deadlines
-DTSTAMP:20251126T115900Z
-DTSTART:20251126T115900Z
-DTEND:20251126T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SOCG 2026 abstract deadline
-DESCRIPTION:International Symposium on Computational Geometry\nhttps://cgwe
- ek26.computational-geometry.org/contribute/\nLocation: New Brunswick\, New
-  Jersey\, USA
-URL:https://cgweek26.computational-geometry.org/contribute/
-END:VEVENT
-BEGIN:VEVENT
-UID:socg-2026-0-paper@conference-deadlines
-DTSTAMP:20251203T115900Z
-DTSTART:20251203T115900Z
-DTEND:20251203T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SOCG 2026 deadline
-DESCRIPTION:International Symposium on Computational Geometry\nhttps://cgwe
- ek26.computational-geometry.org/contribute/\nLocation: New Brunswick\, New
-  Jersey\, USA
-URL:https://cgweek26.computational-geometry.org/contribute/
-END:VEVENT
-BEGIN:VEVENT
-UID:mobisys-2026-0-abstract@conference-deadlines
-DTSTAMP:20251129T115959Z
-DTSTART:20251129T115959Z
-DTEND:20251129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MobiSys 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
-  and Services\nhttps://www.sigmobile.org/mobisys/2026/\nLocation: Cambridg
- e\, UK
-URL:https://www.sigmobile.org/mobisys/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:mobisys-2026-0-paper@conference-deadlines
-DTSTAMP:20251206T115959Z
-DTSTART:20251206T115959Z
-DTEND:20251206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MobiSys 2026 deadline
-DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
-  and Services\nhttps://www.sigmobile.org/mobisys/2026/\nLocation: Cambridg
- e\, UK
-URL:https://www.sigmobile.org/mobisys/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:wowmom-2026-0-abstract@conference-deadlines
-DTSTAMP:20251119T115959Z
-DTSTART:20251119T115959Z
-DTEND:20251119T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WoWMoM 2026 abstract deadline
-DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
- d Multimedia Networks\nhttps://www.cs.unibo.it/wowmom2026/\nLocation: Bolo
- gna\, Italy
-URL:https://www.cs.unibo.it/wowmom2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:wowmom-2026-0-paper@conference-deadlines
-DTSTAMP:20251206T115959Z
-DTSTART:20251206T115959Z
-DTEND:20251206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WoWMoM 2026 deadline
-DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
- d Multimedia Networks\nhttps://www.cs.unibo.it/wowmom2026/\nLocation: Bolo
- gna\, Italy
-URL:https://www.cs.unibo.it/wowmom2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cpal-2026-0-paper@conference-deadlines
-DTSTAMP:20251206T115959Z
-DTSTART:20251206T115959Z
-DTEND:20251206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2026 deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tübingen\, Germany
-URL:https://cpal.cc/
+SUMMARY:EuroVis 2026 deadline
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
+ rg.uk/\nLocation: Nottingham\, United Kingdom
+URL:https://www.eurovis.org.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:ispass-2026-0-abstract@conference-deadlines
-DTSTAMP:20251206T115959Z
-DTSTART:20251206T115959Z
-DTEND:20251206T122959Z
+DTSTAMP:20251208T220000Z
+DTSTART:20251208T220000Z
+DTEND:20251208T223000Z
 TRANSP:TRANSPARENT
 SUMMARY:ISPASS 2026 abstract deadline
 DESCRIPTION:International Symposium on Performance Analysis of Systems and 
@@ -324,9 +50,9 @@ URL:https://ispass.org/ispass2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:ispass-2026-0-paper@conference-deadlines
-DTSTAMP:20251213T115959Z
-DTSTART:20251213T115959Z
-DTEND:20251213T122959Z
+DTSTAMP:20251215T220000Z
+DTSTART:20251215T220000Z
+DTEND:20251215T223000Z
 TRANSP:TRANSPARENT
 SUMMARY:ISPASS 2026 deadline
 DESCRIPTION:International Symposium on Performance Analysis of Systems and 
@@ -334,93 +60,15 @@ DESCRIPTION:International Symposium on Performance Analysis of Systems and
 URL:https://ispass.org/ispass2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:gmp-2026-0-abstract@conference-deadlines
-DTSTAMP:20251216T235959Z
-DTSTART:20251216T235959Z
-DTEND:20251217T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:GMP 2026 abstract deadline
-DESCRIPTION:International Conference on Geometric Modeling and Processing\n
- https://gmp2026.kma.zcu.cz/\nLocation: Pilsen\, Czech Republic
-URL:https://gmp2026.kma.zcu.cz/
-END:VEVENT
-BEGIN:VEVENT
-UID:gmp-2026-0-paper@conference-deadlines
-DTSTAMP:20251218T235959Z
-DTSTART:20251218T235959Z
-DTEND:20251219T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:GMP 2026 deadline
-DESCRIPTION:International Conference on Geometric Modeling and Processing\n
- https://gmp2026.kma.zcu.cz/\nLocation: Pilsen\, Czech Republic
-URL:https://gmp2026.kma.zcu.cz/
-END:VEVENT
-BEGIN:VEVENT
-UID:sec-2026-0-paper@conference-deadlines
-DTSTAMP:20251220T115959Z
-DTSTART:20251220T115959Z
-DTEND:20251220T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SEC 2026 deadline (Submission deadline)
-DESCRIPTION:IFIP International Information Security Conference\nhttps://ifi
- psec.org/index.html\nLocation: Perth\, Australia
-URL:https://ifipsec.org/index.html
-END:VEVENT
-BEGIN:VEVENT
 UID:icpr-2026-0-paper@conference-deadlines
-DTSTAMP:20251221T115959Z
-DTSTART:20251221T115959Z
-DTEND:20251221T122959Z
+DTSTAMP:20260111T115959Z
+DTSTART:20260111T115959Z
+DTEND:20260111T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICPR 2026 deadline
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://icpr20
  26.org/\nLocation: Lyon\, France
 URL:https://icpr2026.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icst-2026-0-paper@conference-deadlines
-DTSTAMP:20251223T115959Z
-DTSTART:20251223T115959Z
-DTEND:20251223T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICST 2026 deadline
-DESCRIPTION:IEEE International Conference on Software Testing\, Verificatio
- n and Validation\nhttps://conf.researchr.org/home/icst-2026\nLocation: Dae
- jeon\, South Korea
-URL:https://conf.researchr.org/home/icst-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:icme-2026-0-paper@conference-deadlines
-DTSTAMP:20260101T115959Z
-DTSTART:20260101T115959Z
-DTEND:20260101T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICME 2026 deadline
-DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
- /2026.ieeeicme.org/\nLocation: Bangkok\, Thailand
-URL:https://2026.ieeeicme.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ets-2026-0-abstract@conference-deadlines
-DTSTAMP:20251216T115959Z
-DTSTART:20251216T115959Z
-DTEND:20251216T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ETS 2026 abstract deadline
-DESCRIPTION:IEEE European Test Symposium\nhttps://ets2026.uniwa.gr/\nLocati
- on: Chania\, Greec
-URL:https://ets2026.uniwa.gr/
-END:VEVENT
-BEGIN:VEVENT
-UID:ets-2026-0-paper@conference-deadlines
-DTSTAMP:20260113T115959Z
-DTSTART:20260113T115959Z
-DTEND:20260113T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ETS 2026 deadline
-DESCRIPTION:IEEE European Test Symposium\nhttps://ets2026.uniwa.gr/\nLocati
- on: Chania\, Greec
-URL:https://ets2026.uniwa.gr/
 END:VEVENT
 BEGIN:VEVENT
 UID:ksem-2026-0-paper@conference-deadlines
@@ -434,207 +82,26 @@ DESCRIPTION:International Conference on Knowledge Science\, Engineering and
 URL:https://ksem2026.rosc.org.cn/
 END:VEVENT
 BEGIN:VEVENT
-UID:icwsm-2026-0-paper@conference-deadlines
-DTSTAMP:20260116T115959Z
-DTSTART:20260116T115959Z
-DTEND:20260116T122959Z
+UID:fccm-2026-0-abstract@conference-deadlines
+DTSTAMP:20260111T115959Z
+DTSTART:20260111T115959Z
+DTEND:20260111T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICWSM 2026 deadline (3rd Full-paper Deadline)
-DESCRIPTION:The International AAAI Conference on Web and Social Media\nhttp
- s://www.icwsm.org/2026/index.html\nLocation: Los Angeles\, CA\, USA
-URL:https://www.icwsm.org/2026/index.html
+SUMMARY:FCCM 2026 abstract deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/past/2026/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.fccm.org/past/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:nossdav-2026-0-paper@conference-deadlines
-DTSTAMP:20260117T115959Z
-DTSTART:20260117T115959Z
-DTEND:20260117T122959Z
+UID:fccm-2026-0-paper@conference-deadlines
+DTSTAMP:20260118T115959Z
+DTSTART:20260118T115959Z
+DTEND:20260118T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:NOSSDAV 2026 deadline
-DESCRIPTION:International Workshop on Network and Operating System Support 
- for Digital Audio and Video\nhttps://nossdav.org/2026/\nLocation: Hong Kon
- g\, China
-URL:https://nossdav.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:isit-2026-0-paper@conference-deadlines
-DTSTAMP:20260117T115959Z
-DTSTART:20260117T115959Z
-DTEND:20260117T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISIT 2026 deadline
-DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
- 6.ieee-isit.org/\nLocation: Guangzhou\, China
-URL:https://2026.ieee-isit.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2026-0-abstract@conference-deadlines
-DTSTAMP:20260113T115959Z
-DTSTART:20260113T115959Z
-DTEND:20260113T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CF 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
- w.computingfrontiers.org/2026/\nLocation: Catania\, Sicily\, Italy
-URL:https://www.computingfrontiers.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cf-2026-0-paper@conference-deadlines
-DTSTAMP:20260120T115959Z
-DTSTART:20260120T115959Z
-DTEND:20260120T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CF 2026 deadline
-DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
- w.computingfrontiers.org/2026/\nLocation: Catania\, Sicily\, Italy
-URL:https://www.computingfrontiers.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ijcai-2026-0-abstract@conference-deadlines
-DTSTAMP:20260113T115959Z
-DTSTART:20260113T115959Z
-DTEND:20260113T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCAI 2026 abstract deadline
-DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
- s://2026.ijcai.org/\nLocation: Bremen\, Germany
-URL:https://2026.ijcai.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ijcai-2026-0-paper@conference-deadlines
-DTSTAMP:20260120T115959Z
-DTSTART:20260120T115959Z
-DTEND:20260120T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCAI 2026 deadline
-DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
- s://2026.ijcai.org/\nLocation: Bremen\, Germany
-URL:https://2026.ijcai.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:dis-2026-0-abstract@conference-deadlines
-DTSTAMP:20260110T115959Z
-DTSTART:20260110T115959Z
-DTEND:20260110T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DIS 2026 abstract deadline
-DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
- m.org/2026/\nLocation: Singapore
-URL:https://dis.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:dis-2026-0-paper@conference-deadlines
-DTSTAMP:20260120T115959Z
-DTSTART:20260120T115959Z
-DTEND:20260120T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DIS 2026 deadline
-DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
- m.org/2026/\nLocation: Singapore
-URL:https://dis.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdcs-2026-0-paper@conference-deadlines
-DTSTAMP:20260122T115959Z
-DTSTART:20260122T115959Z
-DTEND:20260122T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDCS 2026 deadline
-DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
- nhttp://icdcs2026.icdcs.org/\nLocation: Seoul\, South Korea
-URL:http://icdcs2026.icdcs.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigir-2026-0-abstract@conference-deadlines
-DTSTAMP:20260116T115959Z
-DTSTART:20260116T115959Z
-DTEND:20260116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGIR 2026 abstract deadline
-DESCRIPTION:International Conference on Research on Development in Informat
- ion Retrieval\nhttps://sigir2026.org/en-AU\nLocation: Melbourne\, Australi
- a
-URL:https://sigir2026.org/en-AU
-END:VEVENT
-BEGIN:VEVENT
-UID:sigir-2026-0-paper@conference-deadlines
-DTSTAMP:20260123T115959Z
-DTSTART:20260123T115959Z
-DTEND:20260123T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGIR 2026 deadline
-DESCRIPTION:International Conference on Research on Development in Informat
- ion Retrieval\nhttps://sigir2026.org/en-AU\nLocation: Melbourne\, Australi
- a
-URL:https://sigir2026.org/en-AU
-END:VEVENT
-BEGIN:VEVENT
-UID:lics-2026-0-abstract@conference-deadlines
-DTSTAMP:20260116T115959Z
-DTSTART:20260116T115959Z
-DTEND:20260116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:LICS 2026 abstract deadline
-DESCRIPTION:IEEE Symposium on Logic in Computer Science\nhttps://lics.siglo
- g.org/lics26/\nLocation: Lisbon\, Portugal
-URL:https://lics.siglog.org/lics26/
-END:VEVENT
-BEGIN:VEVENT
-UID:lics-2026-0-paper@conference-deadlines
-DTSTAMP:20260123T115959Z
-DTSTART:20260123T115959Z
-DTEND:20260123T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:LICS 2026 deadline
-DESCRIPTION:IEEE Symposium on Logic in Computer Science\nhttps://lics.siglo
- g.org/lics26/\nLocation: Lisbon\, Portugal
-URL:https://lics.siglog.org/lics26/
-END:VEVENT
-BEGIN:VEVENT
-UID:ease-2026-0-abstract@conference-deadlines
-DTSTAMP:20260117T115959Z
-DTSTART:20260117T115959Z
-DTEND:20260117T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EASE 2026 abstract deadline (Research Papers)
-DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
- re Engineering\nhttps://conf.researchr.org/home/ease-2026\nLocation: Glasg
- ow\, United Kingdom
-URL:https://conf.researchr.org/home/ease-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:ease-2026-0-paper@conference-deadlines
-DTSTAMP:20260124T115959Z
-DTSTART:20260124T115959Z
-DTEND:20260124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EASE 2026 deadline (Research Papers)
-DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
- re Engineering\nhttps://conf.researchr.org/home/ease-2026\nLocation: Glasg
- ow\, United Kingdom
-URL:https://conf.researchr.org/home/ease-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:bis-2026-0-paper@conference-deadlines
-DTSTAMP:20260126T115959Z
-DTSTART:20260126T115959Z
-DTEND:20260126T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:BIS 2026 deadline
-DESCRIPTION:International Conference on Business Information Systems\nhttps
- ://bisconf.org/2026/\nLocation: Prague\, Czech Republic
-URL:https://bisconf.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:gecco-2026-0-paper@conference-deadlines
-DTSTAMP:20260127T115900Z
-DTSTART:20260127T115900Z
-DTEND:20260127T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:GECCO 2026 deadline (Poster-only papers)
-DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
- 2026.sigevo.org/HomePage\nLocation: San José\, Costa Rica (hybrid)
-URL:https://gecco-2026.sigevo.org/HomePage
+SUMMARY:FCCM 2026 deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/past/2026/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.fccm.org/past/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icml-2026-0-abstract@conference-deadlines
@@ -661,48 +128,15 @@ DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
 URL:https://icml.cc/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:rss-2026-0-abstract@conference-deadlines
-DTSTAMP:20260124T115900Z
-DTSTART:20260124T115900Z
-DTEND:20260124T122900Z
+UID:cf-2026-0-paper@conference-deadlines
+DTSTAMP:20260202T115959Z
+DTSTART:20260202T115959Z
+DTEND:20260202T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RSS 2026 abstract deadline
-DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org\nL
- ocation: Sydney\, Australia
-URL:https://roboticsconference.org
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-2026-0-paper@conference-deadlines
-DTSTAMP:20260131T115900Z
-DTSTART:20260131T115900Z
-DTEND:20260131T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:RSS 2026 deadline
-DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org\nL
- ocation: Sydney\, Australia
-URL:https://roboticsconference.org
-END:VEVENT
-BEGIN:VEVENT
-UID:compsac-2026-0-paper@conference-deadlines
-DTSTAMP:20260201T115959Z
-DTSTART:20260201T115959Z
-DTEND:20260201T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COMPSAC 2026 deadline
-DESCRIPTION:International Computer Software and Applications Conference\nht
- tps://ieeecompsac.computer.org/2026/\nLocation: Madrid\, Spain
-URL:https://ieeecompsac.computer.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:sac-2026-0-paper@conference-deadlines
-DTSTAMP:20260203T115959Z
-DTSTART:20260203T115959Z
-DTEND:20260203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 1))
-DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
- nLocation: Ottawa\, Ontario\, Canada
-URL:https://sacworkshop.org/SAC26/
+SUMMARY:CF 2026 deadline
+DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
+ w.computingfrontiers.org/2026/\nLocation: Catania\, Sicily\, Italy
+URL:https://www.computingfrontiers.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cogsci-2026-0-paper@conference-deadlines
@@ -725,17 +159,6 @@ SUMMARY:ICIP 2026 deadline
 DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
  2026.ieeeicip.org/\nLocation: Tampere\, Finland
 URL:https://2026.ieeeicip.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:colt-2026-0-paper@conference-deadlines
-DTSTAMP:20260205T045959Z
-DTSTART:20260205T045959Z
-DTEND:20260205T052959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLT 2026 deadline
-DESCRIPTION:Annual Conference on Learning Theory\nhttps://learningtheory.or
- g/colt2026/\nLocation: San Diego\, California
-URL:https://learningtheory.org/colt2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hpdc-2026-0-paper@conference-deadlines
@@ -773,17 +196,6 @@ DESCRIPTION:International Conference on Formal Techniques for (Networked an
 URL:https://www.discotec.org/2026/forte
 END:VEVENT
 BEGIN:VEVENT
-UID:icalp-2026-0-paper@conference-deadlines
-DTSTAMP:20260207T115959Z
-DTSTART:20260207T115959Z
-DTEND:20260207T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICALP 2026 deadline
-DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and Pr
- ogramming\nhttps://icalppodcspaa2026.cs.rhul.ac.uk/\nLocation: London\, UK
-URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
-END:VEVENT
-BEGIN:VEVENT
 UID:networking-2026-0-paper@conference-deadlines
 DTSTAMP:20260209T115959Z
 DTSTART:20260209T115959Z
@@ -793,30 +205,6 @@ SUMMARY:Networking 2026 deadline
 DESCRIPTION:IFIP International Conference on Networking\nhttps://networking
  .ifip.org/2026/\nLocation: Lugano\, Switzerland
 URL:https://networking.ifip.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-2026-0-abstract@conference-deadlines
-DTSTAMP:20260203T115959Z
-DTSTART:20260203T115959Z
-DTEND:20260203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICS 2026 abstract deadline (Cycle 2)
-DESCRIPTION:ACM International Conference on Supercomputing\nhttps://dipsa-q
- ub.github.io/ICS2026-webpage/\nLocation: Belfast\, Northern Ireland\, Unit
- ed Kingdom
-URL:https://dipsa-qub.github.io/ICS2026-webpage/
-END:VEVENT
-BEGIN:VEVENT
-UID:ics-2026-0-paper@conference-deadlines
-DTSTAMP:20260210T115959Z
-DTSTART:20260210T115959Z
-DTEND:20260210T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICS 2026 deadline (Cycle 2)
-DESCRIPTION:ACM International Conference on Supercomputing\nhttps://dipsa-q
- ub.github.io/ICS2026-webpage/\nLocation: Belfast\, Northern Ireland\, Unit
- ed Kingdom
-URL:https://dipsa-qub.github.io/ICS2026-webpage/
 END:VEVENT
 BEGIN:VEVENT
 UID:iwqos-2026-0-abstract@conference-deadlines
@@ -841,6 +229,17 @@ DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
 URL:https://iwqos2026.ieee-iwqos.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:casa-2026-0-paper@conference-deadlines
+DTSTAMP:20260211T115959Z
+DTSTART:20260211T115959Z
+DTEND:20260211T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CASA 2026 deadline
+DESCRIPTION:International Conference on Computer Animation and Social Agent
+ s\nhttps://cgs-network.org/CASAXR26/\nLocation: Geneva\, Switzerland
+URL:https://cgs-network.org/CASAXR26/
+END:VEVENT
+BEGIN:VEVENT
 UID:crypto-2026-0-paper@conference-deadlines
 DTSTAMP:20260213T115959Z
 DTSTART:20260213T115959Z
@@ -863,39 +262,6 @@ DESCRIPTION:IEEE International Conference on Computer Communications and Ne
 URL:http://www.icccn.org/ICCCN26/
 END:VEVENT
 BEGIN:VEVENT
-UID:eusipco-2026-0-paper@conference-deadlines
-DTSTAMP:20260214T115959Z
-DTSTART:20260214T115959Z
-DTEND:20260214T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EUSIPCO 2026 deadline
-DESCRIPTION:European Signal Processing Conference\nhttps://eusipco2026.org/
- \nLocation: Bruges\, Belgium
-URL:https://eusipco2026.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:kr-2026-0-abstract@conference-deadlines
-DTSTAMP:20260209T115959Z
-DTSTART:20260209T115959Z
-DTEND:20260209T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:KR 2026 abstract deadline
-DESCRIPTION:International Conference on Principles of Knowledge Representat
- ion and Reasoning\nhttps://kr.org/KR2026/\nLocation: Lisbon\, Portugal
-URL:https://kr.org/KR2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:kr-2026-0-paper@conference-deadlines
-DTSTAMP:20260214T115959Z
-DTSTART:20260214T115959Z
-DTEND:20260214T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:KR 2026 deadline
-DESCRIPTION:International Conference on Principles of Knowledge Representat
- ion and Reasoning\nhttps://kr.org/KR2026/\nLocation: Lisbon\, Portugal
-URL:https://kr.org/KR2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:iscc-2026-0-paper@conference-deadlines
 DTSTAMP:20260215T235959Z
 DTSTART:20260215T235959Z
@@ -905,6 +271,28 @@ SUMMARY:ISCC 2026 deadline
 DESCRIPTION:IEEE Symposium on Computers and Communications\nhttps://ieee-is
  cc.computer.org/2026/\nLocation: Vilamoura\, Algarve\, Portugal
 URL:https://ieee-iscc.computer.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcar-2026-0-abstract@conference-deadlines
+DTSTAMP:20260207T115959Z
+DTSTART:20260207T115959Z
+DTEND:20260207T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAR 2026 abstract deadline
+DESCRIPTION:International Joint Conference on Automated Reasoning\nhttps://
+ www.floc26.org/ijcar\nLocation: Lisbon\, Portugal
+URL:https://www.floc26.org/ijcar
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcar-2026-0-paper@conference-deadlines
+DTSTAMP:20260216T115959Z
+DTSTART:20260216T115959Z
+DTEND:20260216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAR 2026 deadline
+DESCRIPTION:International Joint Conference on Automated Reasoning\nhttps://
+ www.floc26.org/ijcar\nLocation: Lisbon\, Portugal
+URL:https://www.floc26.org/ijcar
 END:VEVENT
 BEGIN:VEVENT
 UID:podc-2026-0-abstract@conference-deadlines
@@ -951,28 +339,6 @@ DESCRIPTION:Detection of Intrusions and Malware & Vulnerability Assessment\
 URL:https://www.dimva.org/dimva2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:soups-2026-0-paper@conference-deadlines
-DTSTAMP:20260220T115959Z
-DTSTART:20260220T115959Z
-DTEND:20260220T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SOUPS 2026 deadline (Paper Submission Deadline)
-DESCRIPTION:Symposium On Usable Privacy and Security\nhttps://soups.page/\n
- Location: Hannover\, Germany
-URL:https://soups.page/
-END:VEVENT
-BEGIN:VEVENT
-UID:icfp-2026-0-paper@conference-deadlines
-DTSTAMP:20260220T115959Z
-DTSTART:20260220T115959Z
-DTEND:20260220T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICFP 2026 deadline
-DESCRIPTION:International Conference on Function Programming\nhttps://icfp2
- 6.sigplan.org/\nLocation: Indiana University Indianapolis\, United States
-URL:https://icfp26.sigplan.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:conll-2026-0-paper@conference-deadlines
 DTSTAMP:20260220T115959Z
 DTSTART:20260220T115959Z
@@ -982,17 +348,6 @@ SUMMARY:CoNLL 2026 deadline
 DESCRIPTION:Conference on Computational Natural Language Learning\nhttps://
  www.conll.org/\nLocation: San Diego\, California\, United States
 URL:https://www.conll.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:interspeech-2026-0-paper@conference-deadlines
-DTSTAMP:20260225T235959Z
-DTSTART:20260225T235959Z
-DTEND:20260226T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:InterSpeech 2026 deadline
-DESCRIPTION:Conference of the International Speech Communication Associatio
- n\nhttps://interspeech2026.org/\nLocation: Sydney\, Australia
-URL:https://interspeech2026.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:uai-2026-0-paper@conference-deadlines
@@ -1006,61 +361,6 @@ DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\nhttps://w
 URL:https://www.auai.org/uai2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icdar-2026-0-abstract@conference-deadlines
-DTSTAMP:20260213T235959Z
-DTSTART:20260213T235959Z
-DTEND:20260214T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2026 abstract deadline
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2026.org/\nLocation: Vienna\, Austria
-URL:https://icdar2026.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2026-0-paper@conference-deadlines
-DTSTAMP:20260227T235959Z
-DTSTART:20260227T235959Z
-DTEND:20260228T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2026 deadline
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2026.org/\nLocation: Vienna\, Austria
-URL:https://icdar2026.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:spaa-2026-0-abstract@conference-deadlines
-DTSTAMP:20260221T115959Z
-DTSTART:20260221T115959Z
-DTEND:20260221T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SPAA 2026 abstract deadline
-DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
- ttps://spaa.acm.org/\nLocation: London\, UK
-URL:https://spaa.acm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:spaa-2026-0-paper@conference-deadlines
-DTSTAMP:20260228T115959Z
-DTSTART:20260228T115959Z
-DTEND:20260228T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SPAA 2026 deadline
-DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
- ttps://spaa.acm.org/\nLocation: London\, UK
-URL:https://spaa.acm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:iros-2026-0-paper@conference-deadlines
-DTSTAMP:20260303T075959Z
-DTSTART:20260303T075959Z
-DTEND:20260303T082959Z
-TRANSP:TRANSPARENT
-SUMMARY:IROS 2026 deadline
-DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sys
- tems\nhttps://2026.ieee-iros.org/\nLocation: Pittsburgh\, PA\, USA
-URL:https://2026.ieee-iros.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:wisec-2026-0-paper@conference-deadlines
 DTSTAMP:20260304T115959Z
 DTSTART:20260304T115959Z
@@ -1071,6 +371,17 @@ DESCRIPTION:ACM Conference on Security and Privacy in Wireless and Mobile N
  etworks\nhttps://wisec26.events.cispa.de/\nLocation: Saarbrücken\, German
  y
 URL:https://wisec26.events.cispa.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:cocoon-2026-0-paper@conference-deadlines
+DTSTAMP:20260305T115959Z
+DTSTART:20260305T115959Z
+DTEND:20260305T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COCOON 2026 deadline
+DESCRIPTION:International Computing and Combinatorics Conference\nhttps://e
+ vent.ntu.edu.sg/cocoon2026\nLocation: Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
 END:VEVENT
 BEGIN:VEVENT
 UID:eccv-2026-0-abstract@conference-deadlines
@@ -1095,28 +406,6 @@ DESCRIPTION:European Conference on Computer Vision\nhttps://eccv.ecva.net/\
 URL:https://eccv.ecva.net/
 END:VEVENT
 BEGIN:VEVENT
-UID:icsme-2026-0-abstract@conference-deadlines
-DTSTAMP:20260228T115959Z
-DTSTART:20260228T115959Z
-DTEND:20260228T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICSME 2026 abstract deadline (Research Papers Track)
-DESCRIPTION:International Conference on Software Maintenance and Evolution\
- nhttps://conf.researchr.org/home/icsme-2026\nLocation: Benevento\, Italy
-URL:https://conf.researchr.org/home/icsme-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:icsme-2026-0-paper@conference-deadlines
-DTSTAMP:20260307T115959Z
-DTSTART:20260307T115959Z
-DTEND:20260307T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICSME 2026 deadline (Research Papers Track)
-DESCRIPTION:International Conference on Software Maintenance and Evolution\
- nhttps://conf.researchr.org/home/icsme-2026\nLocation: Benevento\, Italy
-URL:https://conf.researchr.org/home/icsme-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:ecscw-2026-0-paper@conference-deadlines
 DTSTAMP:20260307T115959Z
 DTSTART:20260307T115959Z
@@ -1126,6 +415,28 @@ SUMMARY:ECSCW 2026 deadline (Conference Papers)
 DESCRIPTION:European Conference on Computer Supported Cooperative Work\nhtt
  ps://ecscw.eusset.eu/2026\nLocation: Munich\, Germany
 URL:https://ecscw.eusset.eu/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tase-2026-0-abstract@conference-deadlines
+DTSTAMP:20260302T115959Z
+DTSTART:20260302T115959Z
+DTEND:20260302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:TASE 2026 abstract deadline (Extended deadlines)
+DESCRIPTION:Theoretical Aspects of Software Engineering\nhttps://tase2026.g
+ ithub.io/\nLocation: Shanghai\, China
+URL:https://tase2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:tase-2026-0-paper@conference-deadlines
+DTSTAMP:20260308T115959Z
+DTSTART:20260308T115959Z
+DTEND:20260308T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:TASE 2026 deadline (Extended deadlines)
+DESCRIPTION:Theoretical Aspects of Software Engineering\nhttps://tase2026.g
+ ithub.io/\nLocation: Shanghai\, China
+URL:https://tase2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:sat-2026-0-abstract@conference-deadlines
@@ -1207,18 +518,6 @@ DESCRIPTION:International Conference on Principles and Practice of Constrai
 URL:https://cp2026.a4cp.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:wasa-2026-0-paper@conference-deadlines
-DTSTAMP:20260316T115959Z
-DTSTART:20260316T115959Z
-DTEND:20260316T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WASA 2026 deadline
-DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, and
-  Applications\nhttp://wasa-conference.org/WASA2026/\nLocation: Xi'an\, Chi
- na
-URL:http://wasa-conference.org/WASA2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:glsvlsi-2026-0-paper@conference-deadlines
 DTSTAMP:20260317T045900Z
 DTSTART:20260317T045900Z
@@ -1252,10 +551,32 @@ DESCRIPTION:International Symposium on Mixed and Augmented Reality\nhttps:/
 URL:https://www.ieeeismar.net/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:netys-2026-0-abstract@conference-deadlines
+DTSTAMP:20260312T115959Z
+DTSTART:20260312T115959Z
+DTEND:20260312T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NETYS 2026 abstract deadline
+DESCRIPTION:The International Conference on Networked Systems\nhttps://nety
+ s.net/\nLocation: Agadir\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:netys-2026-0-paper@conference-deadlines
+DTSTAMP:20260319T115959Z
+DTSTART:20260319T115959Z
+DTEND:20260319T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NETYS 2026 deadline
+DESCRIPTION:The International Conference on Networked Systems\nhttps://nety
+ s.net/\nLocation: Agadir\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VEVENT
 UID:probml-2026-0-paper@conference-deadlines
-DTSTAMP:20260320T235900Z
-DTSTART:20260320T235900Z
-DTEND:20260321T002900Z
+DTSTAMP:20260321T115900Z
+DTSTART:20260321T115900Z
+DTEND:20260321T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:ProbML 2026 deadline
 DESCRIPTION:Symposium on Probabilistic Machine Learning\nhttps://probml.cc\
@@ -1263,15 +584,28 @@ DESCRIPTION:Symposium on Probabilistic Machine Learning\nhttps://probml.cc\
 URL:https://probml.cc
 END:VEVENT
 BEGIN:VEVENT
-UID:iccbr-2026-0-paper@conference-deadlines
+UID:lctes-2026-0-abstract@conference-deadlines
+DTSTAMP:20260314T115959Z
+DTSTART:20260314T115959Z
+DTEND:20260314T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LCTES 2026 abstract deadline (Extended deadlines)
+DESCRIPTION:International Conference on Languages\, Compilers and Tools for
+  Embedded Systems\nhttps://pldi26.sigplan.org/home/LCTES-2026\nLocation: B
+ oulder\, Colorado\, USA
+URL:https://pldi26.sigplan.org/home/LCTES-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:lctes-2026-0-paper@conference-deadlines
 DTSTAMP:20260321T115959Z
 DTSTART:20260321T115959Z
 DTEND:20260321T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICCBR 2026 deadline
-DESCRIPTION:International Conference on Case-Based Reasoning\nhttps://2026.
- iccbr.org/\nLocation: Bremen\, Germany
-URL:https://2026.iccbr.org/
+SUMMARY:LCTES 2026 deadline (Extended deadlines)
+DESCRIPTION:International Conference on Languages\, Compilers and Tools for
+  Embedded Systems\nhttps://pldi26.sigplan.org/home/LCTES-2026\nLocation: B
+ oulder\, Colorado\, USA
+URL:https://pldi26.sigplan.org/home/LCTES-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cloud-2026-0-paper@conference-deadlines
@@ -1285,6 +619,41 @@ DESCRIPTION:IEEE International Conference on Cloud Computing\nhttps://servi
 URL:https://services.conferences.computer.org/2026/cloud/
 END:VEVENT
 BEGIN:VEVENT
+UID:icws-2026-0-paper@conference-deadlines
+DTSTAMP:20260323T115959Z
+DTSTART:20260323T115959Z
+DTEND:20260323T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICWS 2026 deadline
+DESCRIPTION:IEEE International Conference on Web Services (Research Track)\
+ nhttps://services.conferences.computer.org/2026/icws-2026/\nLocation: Sydn
+ ey\, Australia
+URL:https://services.conferences.computer.org/2026/icws-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:sse-2026-0-paper@conference-deadlines
+DTSTAMP:20260323T115959Z
+DTSTART:20260323T115959Z
+DTEND:20260323T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SSE 2026 deadline (Extended and firm paper submission deadline)
+DESCRIPTION:IEEE International Conference on Software Services Engineering\
+ nhttps://services.conferences.computer.org/2026/sse/\nLocation: Sydney\, A
+ ustralia
+URL:https://services.conferences.computer.org/2026/sse/
+END:VEVENT
+BEGIN:VEVENT
+UID:isbra-2026-0-paper@conference-deadlines
+DTSTAMP:20260323T115959Z
+DTSTART:20260323T115959Z
+DTEND:20260323T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISBRA 2026 deadline (Extended submission deadline)
+DESCRIPTION:International Symposium on Bioinformatics Research and Applicat
+ ions\nhttps://isbra2026.scimeeting.cn/\nLocation: Macau\, China
+URL:https://isbra2026.scimeeting.cn/
+END:VEVENT
+BEGIN:VEVENT
 UID:ase-2026-0-paper@conference-deadlines
 DTSTAMP:20260327T115959Z
 DTSTART:20260327T115959Z
@@ -1294,6 +663,52 @@ SUMMARY:ASE 2026 deadline
 DESCRIPTION:International Conference on Automated Software Engineering\nhtt
  ps://conf.researchr.org/home/ase-2026\nLocation: Munich\, Germany
 URL:https://conf.researchr.org/home/ase-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:models-2026-0-abstract@conference-deadlines
+DTSTAMP:20260321T115959Z
+DTSTART:20260321T115959Z
+DTEND:20260321T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MoDELS 2026 abstract deadline
+DESCRIPTION:International Conference on Model Driven Engineering Languages 
+ and Systems\nhttps://conf.researchr.org/home/models-2026\nLocation: Málag
+ a\, Spain
+URL:https://conf.researchr.org/home/models-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:models-2026-0-paper@conference-deadlines
+DTSTAMP:20260328T115959Z
+DTSTART:20260328T115959Z
+DTEND:20260328T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MoDELS 2026 deadline
+DESCRIPTION:International Conference on Model Driven Engineering Languages 
+ and Systems\nhttps://conf.researchr.org/home/models-2026\nLocation: Málag
+ a\, Spain
+URL:https://conf.researchr.org/home/models-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:iccbr-2026-0-abstract@conference-deadlines
+DTSTAMP:20260321T115959Z
+DTSTART:20260321T115959Z
+DTEND:20260321T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCBR 2026 abstract deadline
+DESCRIPTION:International Conference on Case-Based Reasoning\nhttps://2026.
+ iccbr.org/\nLocation: Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:iccbr-2026-0-paper@conference-deadlines
+DTSTAMP:20260328T115959Z
+DTSTART:20260328T115959Z
+DTEND:20260328T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCBR 2026 deadline
+DESCRIPTION:International Conference on Case-Based Reasoning\nhttps://2026.
+ iccbr.org/\nLocation: Bremen\, Germany
+URL:https://2026.iccbr.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ppsn-2026-0-paper@conference-deadlines
@@ -1408,6 +823,31 @@ SUMMARY:COLM 2026 deadline
 DESCRIPTION:Conference on Language Modeling\nhttps://colmweb.org\nLocation:
   Hilton Union Square\, San Francisco\, USA
 URL:https://colmweb.org
+END:VEVENT
+BEGIN:VEVENT
+UID:group-2027-0-abstract@conference-deadlines
+DTSTAMP:20260325T115959Z
+DTSTART:20260325T115959Z
+DTEND:20260325T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GROUP 2027 abstract deadline (Full Paper Second Wave Submissions (e
+ xtended))
+DESCRIPTION:ACM International Conference on Supporting Group Work\nhttps://
+ group.acm.org/conferences/group27/\nLocation: St Simons Island\, Georgia\,
+  USA
+URL:https://group.acm.org/conferences/group27/
+END:VEVENT
+BEGIN:VEVENT
+UID:group-2027-0-paper@conference-deadlines
+DTSTAMP:20260401T115959Z
+DTSTART:20260401T115959Z
+DTEND:20260401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GROUP 2027 deadline (Full Paper Second Wave Submissions (extended))
+DESCRIPTION:ACM International Conference on Supporting Group Work\nhttps://
+ group.acm.org/conferences/group27/\nLocation: St Simons Island\, Georgia\,
+  USA
+URL:https://group.acm.org/conferences/group27/
 END:VEVENT
 BEGIN:VEVENT
 UID:uist-2026-0-abstract@conference-deadlines
@@ -1570,6 +1010,17 @@ DESCRIPTION:International Conference for High Performance Computing\, Netwo
 URL:https://sc26.supercomputing.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:hot-chips-2026-0-paper@conference-deadlines
+DTSTAMP:20260409T115959Z
+DTSTART:20260409T115959Z
+DTEND:20260409T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Hot Chips 2026 deadline (Extended submission deadline)
+DESCRIPTION:Hot Chips: A Symposium on High Performance Chips\nhttps://www.h
+ otchips.org/\nLocation: Memorial Auditorium\, Stanford\, Palo Alto\, CA
+URL:https://www.hotchips.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:appt-2026-0-abstract@conference-deadlines
 DTSTAMP:20260404T115959Z
 DTSTART:20260404T115959Z
@@ -1592,27 +1043,16 @@ DESCRIPTION:International Symposium on Advanced Parallel Programming Techno
 URL:https://www.appt-conference.com/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:re-2026-0-paper@conference-deadlines
-DTSTAMP:20260414T115959Z
-DTSTART:20260414T115959Z
-DTEND:20260414T122959Z
+UID:wasa-2026-0-paper@conference-deadlines
+DTSTAMP:20260411T115959Z
+DTSTART:20260411T115959Z
+DTEND:20260411T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RE 2026 deadline (Journal Paper)
-DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
- /conf.researchr.org/home/RE-2026\nLocation: Montreal\, Canada
-URL:https://conf.researchr.org/home/RE-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:msst-2026-0-paper@conference-deadlines
-DTSTAMP:20260414T235959Z
-DTSTART:20260414T235959Z
-DTEND:20260415T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:MSST 2026 deadline
-DESCRIPTION:International Conference on Massive Storage Systems and Technol
- ogy\nhttps://msstconference.org/2026/index.html\nLocation: Santa Clara Uni
- versity\, Santa Clara\, CA\, USA
-URL:https://msstconference.org/2026/index.html
+SUMMARY:WASA 2026 deadline
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, and
+  Applications\nhttp://wasa-conference.org/WASA2026/\nLocation: Xi'an\, Chi
+ na
+URL:http://wasa-conference.org/WASA2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:iccad-2026-0-abstract@conference-deadlines
@@ -1657,28 +1097,6 @@ SUMMARY:EGSR 2026 deadline
 DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
  \nLocation: Bordeaux\, France
 URL:https://egsr2026.inria.fr/
-END:VEVENT
-BEGIN:VEVENT
-UID:sgp-2026-0-abstract@conference-deadlines
-DTSTAMP:20260413T235959Z
-DTSTART:20260413T235959Z
-DTEND:20260414T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:SGP 2026 abstract deadline (Second round)
-DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
- g/\nLocation: Bern\, Switzerland
-URL:https://sgp26.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sgp-2026-0-paper@conference-deadlines
-DTSTAMP:20260415T235959Z
-DTSTART:20260415T235959Z
-DTEND:20260416T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:SGP 2026 deadline (Second round)
-DESCRIPTION:Eurographics Symposium on Geometry Processing\nhttps://sgp26.or
- g/\nLocation: Bern\, Switzerland
-URL:https://sgp26.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:jcc-2026-0-abstract@conference-deadlines
@@ -1750,52 +1168,6 @@ DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
 URL:https://blocksys.info/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icmi-2026-0-abstract@conference-deadlines
-DTSTAMP:20260413T165959Z
-DTSTART:20260413T165959Z
-DTEND:20260413T172959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICMI 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
- /icmi.acm.org/2026/\nLocation: Napoli\, Italy
-URL:https://icmi.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icmi-2026-0-paper@conference-deadlines
-DTSTAMP:20260420T165959Z
-DTSTART:20260420T165959Z
-DTEND:20260420T172959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICMI 2026 deadline
-DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
- /icmi.acm.org/2026/\nLocation: Napoli\, Italy
-URL:https://icmi.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cgi-2026-0-paper@conference-deadlines
-DTSTAMP:20260420T235900Z
-DTSTART:20260420T235900Z
-DTEND:20260421T002900Z
-TRANSP:TRANSPARENT
-SUMMARY:CGI 2026 deadline (Second Track: Call for papers with final publica
- tion in LNCS Book published by Springer or in The Visual Computer journal 
- or Computer Animation and Virtual Worlds Journal)
-DESCRIPTION:Computer Graphics International\nhttps://www.cgs-network.org/cg
- i26/\nLocation: London\, UK
-URL:https://www.cgs-network.org/cgi26/
-END:VEVENT
-BEGIN:VEVENT
-UID:lcn-2026-0-paper@conference-deadlines
-DTSTAMP:20260421T115959Z
-DTSTART:20260421T115959Z
-DTEND:20260421T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:LCN 2026 deadline
-DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
- .org/\nLocation: Coimbra\, Portugal
-URL:https://www.ieeelcn.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:mobihoc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260414T115959Z
 DTSTART:20260414T115959Z
@@ -1829,26 +1201,39 @@ DESCRIPTION:European Symposium on Research in Computer Security\nhttps://si
 URL:https://sites.google.com/di.uniroma1.it/esorics2026/home
 END:VEVENT
 BEGIN:VEVENT
-UID:recsys-2026-0-abstract@conference-deadlines
-DTSTAMP:20260415T115959Z
-DTSTART:20260415T115959Z
-DTEND:20260415T122959Z
+UID:qrs-2026-0-abstract@conference-deadlines
+DTSTAMP:20260409T115959Z
+DTSTART:20260409T115959Z
+DTEND:20260409T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RecSys 2026 abstract deadline
-DESCRIPTION:ACM Conference on Recommender Systems\nhttps://recsys.acm.org/r
- ecsys26\nLocation: Minneapolis\, Minnesota\, USA
-URL:https://recsys.acm.org/recsys26
+SUMMARY:QRS 2026 abstract deadline (Regular and Short Papers (extended))
+DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
+  and Security\nhttps://qrs26.techconf.org/\nLocation: University of Floren
+ ce\, Florence\, Italy
+URL:https://qrs26.techconf.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:recsys-2026-0-paper@conference-deadlines
-DTSTAMP:20260422T115959Z
-DTSTART:20260422T115959Z
-DTEND:20260422T122959Z
+UID:qrs-2026-0-paper@conference-deadlines
+DTSTAMP:20260423T115959Z
+DTSTART:20260423T115959Z
+DTEND:20260423T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RecSys 2026 deadline
-DESCRIPTION:ACM Conference on Recommender Systems\nhttps://recsys.acm.org/r
- ecsys26\nLocation: Minneapolis\, Minnesota\, USA
-URL:https://recsys.acm.org/recsys26
+SUMMARY:QRS 2026 deadline (Regular and Short Papers (extended))
+DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
+  and Security\nhttps://qrs26.techconf.org/\nLocation: University of Floren
+ ce\, Florence\, Italy
+URL:https://qrs26.techconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:assets-2026-0-paper@conference-deadlines
+DTSTAMP:20260423T115959Z
+DTSTART:20260423T115959Z
+DTEND:20260423T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ASSETS 2026 deadline
+DESCRIPTION:ACM SIGACCESS Conference on Computers and Accessibility\nhttps:
+ //assets26.sigaccess.org/\nLocation: Porto\, Portugal
+URL:https://assets26.sigaccess.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:esa-2026-0-abstract@conference-deadlines
@@ -1871,6 +1256,30 @@ SUMMARY:ESA 2026 deadline
 DESCRIPTION:European Symposium on Algorithms\nhttps://algo-conference.org/2
  026/esa/\nLocation: L'Aquila\, Italy
 URL:https://algo-conference.org/2026/esa/
+END:VEVENT
+BEGIN:VEVENT
+UID:icmi-2026-0-abstract@conference-deadlines
+DTSTAMP:20260414T065959Z
+DTSTART:20260414T065959Z
+DTEND:20260414T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICMI 2026 abstract deadline (Paper deadline extended to Apr 23\, 23
+ :59 AoE\; normalized to UTC-7)
+DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
+ /icmi.acm.org/2026/\nLocation: Napoli\, Italy
+URL:https://icmi.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icmi-2026-0-paper@conference-deadlines
+DTSTAMP:20260424T115959Z
+DTSTART:20260424T115959Z
+DTEND:20260424T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICMI 2026 deadline (Paper deadline extended to Apr 23\, 23:59 AoE\;
+  normalized to UTC-7)
+DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
+ /icmi.acm.org/2026/\nLocation: Napoli\, Italy
+URL:https://icmi.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:itc-2026-0-abstract@conference-deadlines
@@ -1919,17 +1328,6 @@ DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
 URL:https://www.castest.com.cn/itcasia_2026
 END:VEVENT
 BEGIN:VEVENT
-UID:fmcad-2026-0-paper@conference-deadlines
-DTSTAMP:20260427T115959Z
-DTSTART:20260427T115959Z
-DTEND:20260427T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FMCAD 2026 deadline
-DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
- at/FMCAD26/\nLocation: Graz\, Austria
-URL:https://fmcad.forsyte.at/FMCAD26/
-END:VEVENT
-BEGIN:VEVENT
 UID:concur-2026-0-abstract@conference-deadlines
 DTSTAMP:20260421T115959Z
 DTSTART:20260421T115959Z
@@ -1972,39 +1370,6 @@ SUMMARY:WISA 2026 deadline
 DESCRIPTION:Web Information Systems and Applications\nhttps://conf.ccf.org.
  cn/WISA2026\nLocation: Kunming\, China
 URL:https://conf.ccf.org.cn/WISA2026
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260423T115959Z
-DTSTART:20260423T115959Z
-DTEND:20260423T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2026 abstract deadline (Cycle 2 Deadline)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2026/\nLocation: Karlsruhe\, Germany
-URL:https://conferences.sigcomm.org/imc/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2026-0-paper@conference-deadlines
-DTSTAMP:20260430T115959Z
-DTSTART:20260430T115959Z
-DTEND:20260430T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2026 deadline (Cycle 2 Deadline)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2026/\nLocation: Karlsruhe\, Germany
-URL:https://conferences.sigcomm.org/imc/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ccs-2026-0-paper@conference-deadlines
-DTSTAMP:20260430T115959Z
-DTSTART:20260430T115959Z
-DTEND:20260430T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCS 2026 deadline (Second Review Cycle)
-DESCRIPTION:ACM Conference on Computer and Communications Security\nhttps:/
- /www.sigsac.org/ccs/CCS2026/\nLocation: World Forum\, Hague\, Netherlands
-URL:https://www.sigsac.org/ccs/CCS2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:pact-2026-0-abstract@conference-deadlines
@@ -2087,28 +1452,6 @@ DESCRIPTION:International Conference on Parallel Processing\nhttps://icpp20
 URL:https://icpp2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:sec-2026-0-abstract@conference-deadlines
-DTSTAMP:20260425T115959Z
-DTSTART:20260425T115959Z
-DTEND:20260425T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SEC 2026 abstract deadline
-DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
- 2026/\nLocation: Santa Clara University\, CA\, USA
-URL:https://acm-ieee-sec.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:sec-2026-0-paper@conference-deadlines
-DTSTAMP:20260502T115959Z
-DTSTART:20260502T115959Z
-DTEND:20260502T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SEC 2026 deadline
-DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
- 2026/\nLocation: Santa Clara University\, CA\, USA
-URL:https://acm-ieee-sec.org/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:globecom-2026-0-paper@conference-deadlines
 DTSTAMP:20260504T035959Z
 DTSTART:20260504T035959Z
@@ -2129,6 +1472,17 @@ SUMMARY:SMC 2026 deadline
 DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cybernetic
  s\nhttps://www.ieeesmc2026.org/\nLocation: Bellevue\, WA\, USA
 URL:https://www.ieeesmc2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:lcn-2026-0-paper@conference-deadlines
+DTSTAMP:20260505T115959Z
+DTSTART:20260505T115959Z
+DTEND:20260505T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LCN 2026 deadline
+DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
+ .org/\nLocation: Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:internetware-2026-0-abstract@conference-deadlines
@@ -2186,6 +1540,28 @@ DESCRIPTION:IEEE International Conference on Cluster Computing\nhttps://clu
 URL:https://clustercomp.org/2026
 END:VEVENT
 BEGIN:VEVENT
+UID:sas-2026-0-abstract@conference-deadlines
+DTSTAMP:20260502T115959Z
+DTSTART:20260502T115959Z
+DTEND:20260502T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAS 2026 abstract deadline
+DESCRIPTION:International Static Analysis Symposium\nhttps://conf.researchr
+ .org/home/splash-issta-2026/sas-2026\nLocation: Oakland\, California\, USA
+URL:https://conf.researchr.org/home/splash-issta-2026/sas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sas-2026-0-paper@conference-deadlines
+DTSTAMP:20260508T115959Z
+DTSTART:20260508T115959Z
+DTEND:20260508T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAS 2026 deadline
+DESCRIPTION:International Static Analysis Symposium\nhttps://conf.researchr
+ .org/home/splash-issta-2026/sas-2026\nLocation: Oakland\, California\, USA
+URL:https://conf.researchr.org/home/splash-issta-2026/sas-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:iswc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260503T115959Z
 DTSTART:20260503T115959Z
@@ -2206,6 +1582,17 @@ SUMMARY:ISWC 2026 deadline
 DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
  cweb.org/\nLocation: Bari\, Italy
 URL:https://iswc2026.semanticweb.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sec-2026-0-paper@conference-deadlines
+DTSTAMP:20260509T115959Z
+DTSTART:20260509T115959Z
+DTEND:20260509T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SEC 2026 deadline
+DESCRIPTION:ACM/IEEE Symposium on Edge Computing\nhttps://acm-ieee-sec.org/
+ 2026/\nLocation: Santa Clara University\, CA\, USA
+URL:https://acm-ieee-sec.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:srds-2026-0-paper@conference-deadlines
@@ -2240,6 +1627,39 @@ DESCRIPTION:International Conference on Software Engineering and Knowledge
  Engineering\nhttps://ksiresearch.org/seke/seke26.html\nLocation: Toronto\,
   Canada & Virtual
 URL:https://ksiresearch.org/seke/seke26.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sac-2026-0-paper@conference-deadlines
+DTSTAMP:20260512T115959Z
+DTSTART:20260512T115959Z
+DTEND:20260512T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 2))
+DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
+ nLocation: Ottawa\, Ontario\, Canada
+URL:https://sacworkshop.org/SAC26/
+END:VEVENT
+BEGIN:VEVENT
+UID:fmcad-2026-0-abstract@conference-deadlines
+DTSTAMP:20260505T115959Z
+DTSTART:20260505T115959Z
+DTEND:20260505T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FMCAD 2026 abstract deadline
+DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
+ at/FMCAD26/\nLocation: Graz\, Austria
+URL:https://fmcad.forsyte.at/FMCAD26/
+END:VEVENT
+BEGIN:VEVENT
+UID:fmcad-2026-0-paper@conference-deadlines
+DTSTAMP:20260512T115959Z
+DTSTART:20260512T115959Z
+DTEND:20260512T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FMCAD 2026 deadline
+DESCRIPTION:Formal Methods in Computer-Aided Design\nhttps://fmcad.forsyte.
+ at/FMCAD26/\nLocation: Graz\, Austria
+URL:https://fmcad.forsyte.at/FMCAD26/
 END:VEVENT
 BEGIN:VEVENT
 UID:iiswc-2026-0-paper@conference-deadlines
@@ -2333,15 +1753,28 @@ DESCRIPTION:International Conference on the Theory and Application of Crypt
 URL:https://asiacrypt.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:rtss-2026-0-paper@conference-deadlines
+UID:atva-2026-0-abstract@conference-deadlines
+DTSTAMP:20260520T115959Z
+DTSTART:20260520T115959Z
+DTEND:20260520T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ATVA 2026 abstract deadline
+DESCRIPTION:International Symposium on Automated Technology for Verificatio
+ n and Analysis\nhttps://conf.researchr.org/track/aplas-atva-2026/atva-2026
+ \nLocation: Hong Kong SAR\, China
+URL:https://conf.researchr.org/track/aplas-atva-2026/atva-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:atva-2026-0-paper@conference-deadlines
 DTSTAMP:20260522T115959Z
 DTSTART:20260522T115959Z
 DTEND:20260522T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:RTSS 2026 deadline
-DESCRIPTION:The IEEE Real-Time Systems Symposium\nhttp://2026.rtss.org/\nLo
- cation: Yokohama\, Japan
-URL:http://2026.rtss.org/
+SUMMARY:ATVA 2026 deadline
+DESCRIPTION:International Symposium on Automated Technology for Verificatio
+ n and Analysis\nhttps://conf.researchr.org/track/aplas-atva-2026/atva-2026
+ \nLocation: Hong Kong SAR\, China
+URL:https://conf.researchr.org/track/aplas-atva-2026/atva-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:performance-2026-0-abstract@conference-deadlines
@@ -2475,7 +1908,8 @@ DTSTART:20260526T115959Z
 DTEND:20260526T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:IJCNLP 2026 deadline (ARR Submission\; commitment deadline: 2026-08
- -02\; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP))
+ -07\; second-round commitment: 2026-08-25\; AACL-IJCNLP 2026 (the 5th AACL
+  & 15th IJCNLP))
 DESCRIPTION:International Joint Conference on Natural Language Processing\n
  https://2026.aaclnet.org/\nLocation: Hengqin\, Zhuhai\, China
 URL:https://2026.aaclnet.org/
@@ -2490,6 +1924,28 @@ SUMMARY:ACSAC 2026 deadline
 DESCRIPTION:Annual Computer Security Applications Conference\nhttps://www.a
  csac.org/\nLocation: Los Angeles\, California\, USA
 URL:https://www.acsac.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:rtss-2026-0-abstract@conference-deadlines
+DTSTAMP:20260522T115959Z
+DTSTART:20260522T115959Z
+DTEND:20260522T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RTSS 2026 abstract deadline
+DESCRIPTION:The IEEE Real-Time Systems Symposium\nhttp://2026.rtss.org/\nLo
+ cation: Yokohama\, Japan
+URL:http://2026.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:rtss-2026-0-paper@conference-deadlines
+DTSTAMP:20260527T115959Z
+DTSTART:20260527T115959Z
+DTEND:20260527T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RTSS 2026 deadline
+DESCRIPTION:The IEEE Real-Time Systems Symposium\nhttp://2026.rtss.org/\nLo
+ cation: Yokohama\, Japan
+URL:http://2026.rtss.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:aft-2026-0-abstract@conference-deadlines
@@ -2558,30 +2014,6 @@ DESCRIPTION:British Machine Vision Conference\nhttps://bmvc2026.bmva.org/\n
 URL:https://bmvc2026.bmva.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigspatial-2026-0-abstract@conference-deadlines
-DTSTAMP:20260523T065959Z
-DTSTART:20260523T065959Z
-DTEND:20260523T072959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGSPATIAL 2026 abstract deadline
-DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
- ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
- Riverside\, CA\, USA
-URL:https://sigspatial2026.sigspatial.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigspatial-2026-0-paper@conference-deadlines
-DTSTAMP:20260530T065959Z
-DTSTART:20260530T065959Z
-DTEND:20260530T072959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGSPATIAL 2026 deadline
-DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
- ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
- Riverside\, CA\, USA
-URL:https://sigspatial2026.sigspatial.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:prcv-2026-0-paper@conference-deadlines
 DTSTAMP:20260531T115959Z
 DTSTART:20260531T115959Z
@@ -2591,6 +2023,17 @@ SUMMARY:PRCV 2026 deadline
 DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision\n
  https://www.prcv.cn/web/#/home\nLocation: Harbin\, China
 URL:https://www.prcv.cn/web/#/home
+END:VEVENT
+BEGIN:VEVENT
+UID:uic-2026-0-paper@conference-deadlines
+DTSTAMP:20260531T215959Z
+DTSTART:20260531T215959Z
+DTEND:20260531T222959Z
+TRANSP:TRANSPARENT
+SUMMARY:UIC 2026 deadline
+DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and Co
+ mputing\nhttps://swc-ieee-2026.github.io/uic/\nLocation: Rende\, Italy
+URL:https://swc-ieee-2026.github.io/uic/
 END:VEVENT
 BEGIN:VEVENT
 UID:rv-2026-0-paper@conference-deadlines
@@ -2672,6 +2115,31 @@ DESCRIPTION:European Conference on Visual Information Processing\nhttps://e
 URL:https://euvip2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
+UID:sigspatial-2026-0-abstract@conference-deadlines
+DTSTAMP:20260530T065959Z
+DTSTART:20260530T065959Z
+DTEND:20260530T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGSPATIAL 2026 abstract deadline (Extended Research Track deadline
+ s)
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
+ ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
+ Riverside\, CA\, USA
+URL:https://sigspatial2026.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigspatial-2026-0-paper@conference-deadlines
+DTSTAMP:20260606T065959Z
+DTSTART:20260606T065959Z
+DTEND:20260606T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGSPATIAL 2026 deadline (Extended Research Track deadlines)
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
+ ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
+ Riverside\, CA\, USA
+URL:https://sigspatial2026.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:iccd-2026-0-abstract@conference-deadlines
 DTSTAMP:20260530T115900Z
 DTSTART:20260530T115900Z
@@ -2729,6 +2197,28 @@ DESCRIPTION:International Conference on Emerging Networking Experiments and
 URL:https://conferences.sigcomm.org/co-next/2026/#!/home
 END:VEVENT
 BEGIN:VEVENT
+UID:dfrws-apac-2026-0-abstract@conference-deadlines
+DTSTAMP:20260530T115959Z
+DTSTART:20260530T115959Z
+DTEND:20260530T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS APAC 2026 abstract deadline
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
+ org/conferences/dfrws-apac-2026/\nLocation: Singapore
+URL:https://dfrws.org/conferences/dfrws-apac-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-apac-2026-0-paper@conference-deadlines
+DTSTAMP:20260606T115959Z
+DTSTART:20260606T115959Z
+DTEND:20260606T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS APAC 2026 deadline
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
+ org/conferences/dfrws-apac-2026/\nLocation: Singapore
+URL:https://dfrws.org/conferences/dfrws-apac-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:middleware-2026-0-abstract@conference-deadlines
 DTSTAMP:20260530T115959Z
 DTSTART:20260530T115959Z
@@ -2760,17 +2250,6 @@ SUMMARY:ATS 2026 deadline
 DESCRIPTION:IEEE Asian Test Symposium\nhttps://www.ats2026.tw/\nLocation: T
  aiwan
 URL:https://www.ats2026.tw/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260531T115959Z
-DTSTART:20260531T115959Z
-DTEND:20260531T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDM 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Data Mining\nhttp://icdm2026.n
- eu.edu.cn/\nLocation: Shenyang\, China
-URL:http://icdm2026.neu.edu.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdm-2026-0-paper@conference-deadlines
@@ -2843,17 +2322,6 @@ DESCRIPTION:IEEE International Working Conference on Source Code Analysis a
 URL:https://conf.researchr.org/home/scam-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:fpt-2026-0-paper@conference-deadlines
-DTSTAMP:20260613T115959Z
-DTSTART:20260613T115959Z
-DTEND:20260613T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FPT 2026 deadline (Submission Due (Conference Track))
-DESCRIPTION:International Conference on Field Programmable Technology\nhttp
- s://fpt2026.uark.edu\nLocation: Honolulu\, Hawaii\, USA
-URL:https://fpt2026.uark.edu
-END:VEVENT
-BEGIN:VEVENT
 UID:apbc-2026-0-paper@conference-deadlines
 DTSTAMP:20260615T235959Z
 DTSTART:20260615T235959Z
@@ -2887,6 +2355,17 @@ DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\nhttps://attend.
 URL:https://attend.ieee.org/slt-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:fpt-2026-0-paper@conference-deadlines
+DTSTAMP:20260620T115959Z
+DTSTART:20260620T115959Z
+DTEND:20260620T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FPT 2026 deadline (Submission Due (Conference Track))
+DESCRIPTION:International Conference on Field Programmable Technology\nhttp
+ s://fpt2026.uark.edu\nLocation: Honolulu\, Hawaii\, USA
+URL:https://fpt2026.uark.edu
+END:VEVENT
+BEGIN:VEVENT
 UID:nlpcc-2026-0-paper@conference-deadlines
 DTSTAMP:20260620T155959Z
 DTSTART:20260620T155959Z
@@ -2899,15 +2378,27 @@ DESCRIPTION:CCF International Conference on Natural Language Processing and
 URL:http://tcci.ccf.org.cn/conference/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:isc-2026-0-paper@conference-deadlines
+UID:aplas-2026-0-paper@conference-deadlines
 DTSTAMP:20260623T115959Z
 DTSTART:20260623T115959Z
 DTEND:20260623T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ISC 2026 deadline
-DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
- cation: Rennes\, France
-URL:https://isc2026.github.io/
+SUMMARY:APLAS 2026 deadline
+DESCRIPTION:Asian Symposium on Programming Languages and Systems\nhttps://c
+ onf.researchr.org/track/aplas-atva-2026/aplas-2026\nLocation: Hong Kong SA
+ R\, China
+URL:https://conf.researchr.org/track/aplas-atva-2026/aplas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:icfem-2026-0-paper@conference-deadlines
+DTSTAMP:20260623T115959Z
+DTSTART:20260623T115959Z
+DTEND:20260623T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICFEM 2026 deadline
+DESCRIPTION:International Conference on Formal Engineering Methods\nhttps:/
+ /icfem2026.github.io/\nLocation: Southampton\, UK
+URL:https://icfem2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:isaac-2026-0-paper@conference-deadlines
@@ -2930,17 +2421,6 @@ SUMMARY:PRICAI 2026 deadline
 DESCRIPTION:Pacific Rim International Conference on Artificial Intelligence
  \nhttps://2026.pricai.org/\nLocation: Guangzhou\, China
 URL:https://2026.pricai.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ictai-2026-0-paper@conference-deadlines
-DTSTAMP:20260701T115900Z
-DTSTART:20260701T115900Z
-DTEND:20260701T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ICTAI 2026 deadline
-DESCRIPTION:International Conference on Tools with Artificial Intellignce\n
- https://ictai.computer.org/2026/\nLocation: Boca Raton FL\, USA
-URL:https://ictai.computer.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icpads-2026-0-paper@conference-deadlines
@@ -2998,6 +2478,17 @@ DESCRIPTION:International Conference on Information Security and Cryptology
 URL:https://inscrypt2026.comp.polyu.edu.hk
 END:VEVENT
 BEGIN:VEVENT
+UID:isc-2026-0-paper@conference-deadlines
+DTSTAMP:20260703T115959Z
+DTSTART:20260703T115959Z
+DTEND:20260703T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISC 2026 deadline
+DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
+ cation: Rennes\, France
+URL:https://isc2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
 UID:wine-2026-0-paper@conference-deadlines
 DTSTAMP:20260703T115959Z
 DTSTART:20260703T115959Z
@@ -3053,10 +2544,21 @@ DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicine
 URL:https://ieeebibm.org/BIBM2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:accv-2026-0-abstract@conference-deadlines
+DTSTAMP:20260703T235959Z
+DTSTART:20260703T235959Z
+DTEND:20260704T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACCV 2026 abstract deadline
+DESCRIPTION:Asian Conference on Computer Vision\nhttps://accv2026.org/\nLoc
+ ation: Osaka\, Japan
+URL:https://accv2026.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:accv-2026-0-paper@conference-deadlines
-DTSTAMP:20260706T115959Z
-DTSTART:20260706T115959Z
-DTEND:20260706T122959Z
+DTSTAMP:20260705T235959Z
+DTSTART:20260705T235959Z
+DTEND:20260706T002959Z
 TRANSP:TRANSPARENT
 SUMMARY:ACCV 2026 deadline
 DESCRIPTION:Asian Conference on Computer Vision\nhttps://accv2026.org/\nLoc
@@ -3098,28 +2600,6 @@ DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\nhttps://www.siam.org
 URL:https://www.siam.org/conferences-events/siam-conferences/soda27/
 END:VEVENT
 BEGIN:VEVENT
-UID:asp-dac-2027-0-abstract@conference-deadlines
-DTSTAMP:20260704T050000Z
-DTSTART:20260704T050000Z
-DTEND:20260704T053000Z
-TRANSP:TRANSPARENT
-SUMMARY:ASP-DAC 2027 abstract deadline
-DESCRIPTION:Asia and South Pacific Design Automation Conference\nhttps://ww
- w.aspdac.com/aspdac2027/\nLocation: Hitotsubashi Hall\, Tokyo\, Japan
-URL:https://www.aspdac.com/aspdac2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:asp-dac-2027-0-paper@conference-deadlines
-DTSTAMP:20260711T050000Z
-DTSTART:20260711T050000Z
-DTEND:20260711T053000Z
-TRANSP:TRANSPARENT
-SUMMARY:ASP-DAC 2027 deadline
-DESCRIPTION:Asia and South Pacific Design Automation Conference\nhttps://ww
- w.aspdac.com/aspdac2027/\nLocation: Hitotsubashi Hall\, Tokyo\, Japan
-URL:https://www.aspdac.com/aspdac2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:socc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260708T115959Z
 DTSTART:20260708T115959Z
@@ -3153,6 +2633,72 @@ DESCRIPTION:ACM Workshop on Hot Topics in Networks\nhttps://conferences.sig
 URL:https://conferences.sigcomm.org/hotnets/2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:asp-dac-2027-0-abstract@conference-deadlines
+DTSTAMP:20260712T050000Z
+DTSTART:20260712T050000Z
+DTEND:20260712T053000Z
+TRANSP:TRANSPARENT
+SUMMARY:ASP-DAC 2027 abstract deadline
+DESCRIPTION:Asia and South Pacific Design Automation Conference\nhttps://ww
+ w.aspdac.com/aspdac2027/\nLocation: Hitotsubashi Hall\, Tokyo\, Japan
+URL:https://www.aspdac.com/aspdac2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:asp-dac-2027-0-paper@conference-deadlines
+DTSTAMP:20260719T050000Z
+DTSTART:20260719T050000Z
+DTEND:20260719T053000Z
+TRANSP:TRANSPARENT
+SUMMARY:ASP-DAC 2027 deadline
+DESCRIPTION:Asia and South Pacific Design Automation Conference\nhttps://ww
+ w.aspdac.com/aspdac2027/\nLocation: Hitotsubashi Hall\, Tokyo\, Japan
+URL:https://www.aspdac.com/aspdac2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icsoc-2026-0-abstract@conference-deadlines
+DTSTAMP:20260713T115959Z
+DTSTART:20260713T115959Z
+DTEND:20260713T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSOC 2026 abstract deadline (Regular and industrial papers)
+DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
+ /icsoc2026.it.p.lodz.pl/\nLocation: Lodz\, Poland
+URL:https://icsoc2026.it.p.lodz.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:icsoc-2026-0-paper@conference-deadlines
+DTSTAMP:20260720T115959Z
+DTSTART:20260720T115959Z
+DTEND:20260720T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSOC 2026 deadline (Regular and industrial papers)
+DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
+ /icsoc2026.it.p.lodz.pl/\nLocation: Lodz\, Poland
+URL:https://icsoc2026.it.p.lodz.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:apsec-2026-0-abstract@conference-deadlines
+DTSTAMP:20260714T115959Z
+DTSTART:20260714T115959Z
+DTEND:20260714T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:APSEC 2026 abstract deadline
+DESCRIPTION:Asia-Pacific Software Engineering Conference\nhttps://conf.rese
+ archr.org/home/apsec-2026\nLocation: Bali\, Indonesia
+URL:https://conf.researchr.org/home/apsec-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:apsec-2026-0-paper@conference-deadlines
+DTSTAMP:20260721T115959Z
+DTSTART:20260721T115959Z
+DTEND:20260721T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:APSEC 2026 deadline
+DESCRIPTION:Asia-Pacific Software Engineering Conference\nhttps://conf.rese
+ archr.org/home/apsec-2026\nLocation: Bali\, Indonesia
+URL:https://conf.researchr.org/home/apsec-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:iceccs-2026-0-paper@conference-deadlines
 DTSTAMP:20260721T115959Z
 DTSTART:20260721T115959Z
@@ -3163,6 +2709,17 @@ DESCRIPTION:International Conference on Engineering of Complex Computer Sys
  tems\nhttps://formal-analysis.com/iceccs/2026/\nLocation: Brisbane\, Austr
  alia
 URL:https://formal-analysis.com/iceccs/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ictai-2026-0-paper@conference-deadlines
+DTSTAMP:20260722T115900Z
+DTSTART:20260722T115900Z
+DTEND:20260722T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICTAI 2026 deadline
+DESCRIPTION:International Conference on Tools with Artificial Intellignce\n
+ https://ictai.computer.org/2026/\nLocation: Boca Raton FL\, USA
+URL:https://ictai.computer.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:iss-2026-0-paper@conference-deadlines
@@ -3230,6 +2787,17 @@ SUMMARY:AAAI 2027 deadline
 DESCRIPTION:AAAI Conference on Artificial Intelligence\nhttps://aaai.org/co
  nference/aaai/aaai-27/\nLocation: Montréal\, Québec\, Canada
 URL:https://aaai.org/conference/aaai/aaai-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:vinci-2026-0-paper@conference-deadlines
+DTSTAMP:20260730T115959Z
+DTSTART:20260730T115959Z
+DTEND:20260730T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:VINCI 2026 deadline
+DESCRIPTION:International Symposium on Visual Information Communication and
+  Interaction\nhttps://vinci-symp.org/\nLocation: Hangzhou\, China
+URL:https://vinci-symp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:hpca-2027-0-abstract@conference-deadlines
@@ -3337,6 +2905,40 @@ DESCRIPTION:International Conference on Innovative Data Systems Research\nh
 URL:https://www.cidrdb.org/cidr2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:hpcc-2026-0-paper@conference-deadlines
+DTSTAMP:20260806T115959Z
+DTSTART:20260806T115959Z
+DTEND:20260806T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HPCC 2026 deadline
+DESCRIPTION:IEEE International Conference on High Performance Computing and
+  Communications\nhttps://ieee-hyper-intelligence.org/2026/hpcc/\nLocation:
+  Luoyang\, Henan\, China
+URL:https://ieee-hyper-intelligence.org/2026/hpcc/
+END:VEVENT
+BEGIN:VEVENT
+UID:log-2026-0-abstract@conference-deadlines
+DTSTAMP:20260806T115959Z
+DTSTART:20260806T115959Z
+DTEND:20260806T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LOG 2026 abstract deadline
+DESCRIPTION:Learning on Graphs Conference\nhttps://logconference.org/\nLoca
+ tion: Northeastern University\, Boston\, USA
+URL:https://logconference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:log-2026-0-paper@conference-deadlines
+DTSTAMP:20260808T115959Z
+DTSTART:20260808T115959Z
+DTEND:20260808T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LOG 2026 deadline
+DESCRIPTION:Learning on Graphs Conference\nhttps://logconference.org/\nLoca
+ tion: Northeastern University\, Boston\, USA
+URL:https://logconference.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:dai-2026-0-paper@conference-deadlines
 DTSTAMP:20260811T115959Z
 DTSTART:20260811T115959Z
@@ -3414,13 +3016,57 @@ DESCRIPTION:IEEE International Conference on Big Data\nhttps://bigdataieee.
 URL:https://bigdataieee.org/BigData2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:3dv-2027-0-paper@conference-deadlines
-DTSTAMP:20260828T180000Z
-DTSTART:20260828T180000Z
-DTEND:20260828T183000Z
+UID:icvrv-2026-0-abstract@conference-deadlines
+DTSTAMP:20260816T115959Z
+DTSTART:20260816T115959Z
+DTEND:20260816T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:3DV 2027 deadline (Supplementary material due Sep 2\, 2026. All dea
- dlines are 11:00 am PDT.)
+SUMMARY:ICVRV 2026 abstract deadline
+DESCRIPTION:International Conference on Virtual Reality and Visualization\n
+ https://icvrv2026.aconf.org/\nLocation: Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icvrv-2026-0-paper@conference-deadlines
+DTSTAMP:20260823T115959Z
+DTSTART:20260823T115959Z
+DTEND:20260823T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICVRV 2026 deadline
+DESCRIPTION:International Conference on Virtual Reality and Visualization\n
+ https://icvrv2026.aconf.org/\nLocation: Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:setta-2026-0-paper@conference-deadlines
+DTSTAMP:20260825T115959Z
+DTSTART:20260825T115959Z
+DTEND:20260825T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SETTA 2026 deadline (Round 2 (extended))
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools 
+ and Applications\nhttps://www.setta2026.sg/\nLocation: Singapore
+URL:https://www.setta2026.sg/
+END:VEVENT
+BEGIN:VEVENT
+UID:indocrypt-2026-0-paper@conference-deadlines
+DTSTAMP:20260828T115959Z
+DTSTART:20260828T115959Z
+DTEND:20260828T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INDOCRYPT 2026 deadline (Extended submission deadline)
+DESCRIPTION:International Conference on Cryptology in India\nhttps://indocr
+ ypt2026.cdacb.in/\nLocation: Bengaluru\, India
+URL:https://indocrypt2026.cdacb.in/
+END:VEVENT
+BEGIN:VEVENT
+UID:3dv-2027-0-paper@conference-deadlines
+DTSTAMP:20260829T115959Z
+DTSTART:20260829T115959Z
+DTEND:20260829T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:3DV 2027 deadline (Abstract registration and paper submission are b
+ oth due Aug 28\; supplementary material is due Sep 2.)
 DESCRIPTION:International Conference on 3D Vision\nhttps://3dvconf.github.i
  o/2027/\nLocation: Thessaloniki\, Greece
 URL:https://3dvconf.github.io/2027/
@@ -3585,17 +3231,6 @@ DESCRIPTION:The International Conference on Advanced Data Mining and Applic
 URL:https://adma2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:icra-2027-0-paper@conference-deadlines
-DTSTAMP:20260916T065959Z
-DTSTART:20260916T065959Z
-DTEND:20260916T072959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICRA 2027 deadline
-DESCRIPTION:IEEE International Conference on Robotics and Automation\nhttps
- ://2027.ieee-icra.org/\nLocation: Seoul\, Republic of Korea
-URL:https://2027.ieee-icra.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:fast-2027-0-paper@conference-deadlines
 DTSTAMP:20260916T115900Z
 DTSTART:20260916T115900Z
@@ -3607,16 +3242,27 @@ DESCRIPTION:USENIX Conference on File and Storage Technologies\nhttps://www
 URL:https://www.usenix.org/conference/fast27
 END:VEVENT
 BEGIN:VEVENT
-UID:vmcai-2027-0-paper@conference-deadlines
-DTSTAMP:20260917T115959Z
-DTSTART:20260917T115959Z
-DTEND:20260917T122959Z
+UID:icalp-2027-0-paper@conference-deadlines
+DTSTAMP:20260916T115959Z
+DTSTART:20260916T115959Z
+DTEND:20260916T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:VMCAI 2027 deadline
-DESCRIPTION:International Conference on Verification\, Model Checking\, and
-  Abstract Interpretation\nhttps://conf.researchr.org/home/VMCAI-2027\nLoca
- tion: Mexico City\, Mexico
-URL:https://conf.researchr.org/home/VMCAI-2027
+SUMMARY:ICALP 2027 deadline (Track B first round\; Track A and Track B seco
+ nd round TBA)
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and Pr
+ ogramming\nhttps://icalp.uj.edu.pl/\nLocation: Kraków\, Poland
+URL:https://icalp.uj.edu.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:icra-2027-0-paper@conference-deadlines
+DTSTAMP:20260917T075959Z
+DTSTART:20260917T075959Z
+DTEND:20260917T082959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICRA 2027 deadline (Extended submission deadline)
+DESCRIPTION:IEEE International Conference on Robotics and Automation\nhttps
+ ://2027.ieee-icra.org/\nLocation: Seoul\, Republic of Korea
+URL:https://2027.ieee-icra.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:nsdi-2027-0-abstract@conference-deadlines
@@ -3643,28 +3289,6 @@ DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
 URL:https://www.usenix.org/conference/nsdi27
 END:VEVENT
 BEGIN:VEVENT
-UID:mmsys-2027-0-abstract@conference-deadlines
-DTSTAMP:20260911T115959Z
-DTSTART:20260911T115959Z
-DTEND:20260911T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMSys 2027 abstract deadline
-DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
- 7.acmmmsys.org\nLocation: Ghent\, Belgium
-URL:https://2027.acmmmsys.org
-END:VEVENT
-BEGIN:VEVENT
-UID:mmsys-2027-0-paper@conference-deadlines
-DTSTAMP:20260918T115959Z
-DTSTART:20260918T115959Z
-DTEND:20260918T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMSys 2027 deadline
-DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
- 7.acmmmsys.org\nLocation: Ghent\, Belgium
-URL:https://2027.acmmmsys.org
-END:VEVENT
-BEGIN:VEVENT
 UID:eurocrypt-2027-0-paper@conference-deadlines
 DTSTAMP:20260918T115959Z
 DTSTART:20260918T115959Z
@@ -3674,6 +3298,28 @@ SUMMARY:EUROCRYPT 2027 deadline
 DESCRIPTION:European Cryptology Conference\nhttps://eurocrypt.iacr.org/2027
  /\nLocation: Eindhoven\, Netherlands
 URL:https://eurocrypt.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:percom-2027-0-abstract@conference-deadlines
+DTSTAMP:20260912T115959Z
+DTSTART:20260912T115959Z
+DTEND:20260912T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PerCom 2027 abstract deadline (Extended deadlines)
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
+ ications\nhttps://percom.org/\nLocation: Goa\, India
+URL:https://percom.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:percom-2027-0-paper@conference-deadlines
+DTSTAMP:20260919T115959Z
+DTSTART:20260919T115959Z
+DTEND:20260919T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PerCom 2027 deadline (Extended deadlines)
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
+ ications\nhttps://percom.org/\nLocation: Goa\, India
+URL:https://percom.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:date-2027-0-abstract@conference-deadlines
@@ -3764,26 +3410,48 @@ DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
 URL:https://fc27.ifca.ai/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfrws-2027-0-abstract@conference-deadlines
+UID:spaa-2027-0-abstract@conference-deadlines
 DTSTAMP:20260919T115959Z
 DTSTART:20260919T115959Z
 DTEND:20260919T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:DFRWS 2027 abstract deadline
-DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
- es/dfceurope2027/\nLocation: Edinburgh\, Scotland
-URL:https://dfrws.org/conferences/dfceurope2027/
+SUMMARY:SPAA 2027 abstract deadline (Cycle 1)
+DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
+ ttps://spaa.acm.org/\nLocation: Atlanta\, GA\, USA
+URL:https://spaa.acm.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfrws-2027-0-paper@conference-deadlines
+UID:spaa-2027-0-paper@conference-deadlines
 DTSTAMP:20260926T115959Z
 DTSTART:20260926T115959Z
 DTEND:20260926T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:DFRWS 2027 deadline
-DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
- es/dfceurope2027/\nLocation: Edinburgh\, Scotland
-URL:https://dfrws.org/conferences/dfceurope2027/
+SUMMARY:SPAA 2027 deadline (Cycle 1)
+DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
+ ttps://spaa.acm.org/\nLocation: Atlanta\, GA\, USA
+URL:https://spaa.acm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:spaa-2027-1-abstract@conference-deadlines
+DTSTAMP:20270123T115959Z
+DTSTART:20270123T115959Z
+DTEND:20270123T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SPAA 2027 abstract deadline (Cycle 2)
+DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
+ ttps://spaa.acm.org/\nLocation: Atlanta\, GA\, USA
+URL:https://spaa.acm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:spaa-2027-1-paper@conference-deadlines
+DTSTAMP:20270130T115959Z
+DTSTART:20270130T115959Z
+DTEND:20270130T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SPAA 2027 deadline (Cycle 2)
+DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
+ ttps://spaa.acm.org/\nLocation: Atlanta\, GA\, USA
+URL:https://spaa.acm.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:saner-2027-0-abstract@conference-deadlines
@@ -3833,6 +3501,17 @@ DESCRIPTION:International Conference on Learning Representations\nhttps://i
 URL:https://iclr.cc/Conferences/2027
 END:VEVENT
 BEGIN:VEVENT
+UID:satml-2027-0-abstract@conference-deadlines
+DTSTAMP:20260923T115959Z
+DTSTART:20260923T115959Z
+DTEND:20260923T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SATML 2027 abstract deadline
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\nhtt
+ ps://satml.org/\nLocation: Reykjavik\, Iceland
+URL:https://satml.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:satml-2027-0-paper@conference-deadlines
 DTSTAMP:20260930T115959Z
 DTSTART:20260930T115959Z
@@ -3842,6 +3521,30 @@ SUMMARY:SATML 2027 deadline
 DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\nhtt
  ps://satml.org/\nLocation: Reykjavik\, Iceland
 URL:https://satml.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ispa-2026-0-paper@conference-deadlines
+DTSTAMP:20261001T115959Z
+DTSTART:20261001T115959Z
+DTEND:20261001T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPA 2026 deadline
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proces
+ sing with Applications\nhttps://ieee-ai-for-science.org/2026/ispa/\nLocati
+ on: Kuala Lumpur\, Malaysia
+URL:https://ieee-ai-for-science.org/2026/ispa/
+END:VEVENT
+BEGIN:VEVENT
+UID:vmcai-2027-0-paper@conference-deadlines
+DTSTAMP:20261001T115959Z
+DTSTART:20261001T115959Z
+DTEND:20261001T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:VMCAI 2027 deadline (Paper Submission)
+DESCRIPTION:International Conference on Verification\, Model Checking\, and
+  Abstract Interpretation\nhttps://conf.researchr.org/home/VMCAI-2027\nLoca
+ tion: Mexico City\, Mexico
+URL:https://conf.researchr.org/home/VMCAI-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:eurographics-2027-0-abstract@conference-deadlines
@@ -3932,17 +3635,6 @@ DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
 URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:cvc-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115900Z
-DTSTART:20261002T115900Z
-DTEND:20261002T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:CVC 2027 deadline
-DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
- tion: Amsterdam\, Netherlands
-URL:https://saiconference.com/CVC
-END:VEVENT
-BEGIN:VEVENT
 UID:sai-computing-conference-2027-0-paper@conference-deadlines
 DTSTAMP:20261002T115900Z
 DTSTART:20261002T115900Z
@@ -3976,26 +3668,15 @@ DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
 URL:https://www.isfpga.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ecir-2027-0-abstract@conference-deadlines
-DTSTAMP:20260925T235959Z
-DTSTART:20260925T235959Z
-DTEND:20260926T002959Z
+UID:cvc-2027-0-paper@conference-deadlines
+DTSTAMP:20261002T115959Z
+DTSTART:20261002T115959Z
+DTEND:20261002T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ECIR 2027 abstract deadline
-DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
- co.uk/\nLocation: Southampton\, UK
-URL:https://ecir2027.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:ecir-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T235959Z
-DTSTART:20261002T235959Z
-DTEND:20261003T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:ECIR 2027 deadline
-DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
- co.uk/\nLocation: Southampton\, UK
-URL:https://ecir2027.co.uk/
+SUMMARY:CVC 2027 deadline (Round 2)
+DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
+ tion: Amsterdam\, Netherlands
+URL:https://saiconference.com/CVC
 END:VEVENT
 BEGIN:VEVENT
 UID:icc-2027-0-paper@conference-deadlines
@@ -4032,15 +3713,26 @@ DESCRIPTION:ACM International Conference on the Foundations of Software Eng
 URL:https://conf.researchr.org/home/fse-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:wcnc-2027-0-paper@conference-deadlines
-DTSTAMP:20261006T035959Z
-DTSTART:20261006T035959Z
-DTEND:20261006T042959Z
+UID:ecir-2027-0-abstract@conference-deadlines
+DTSTAMP:20260921T235959Z
+DTSTART:20260921T235959Z
+DTEND:20260922T002959Z
 TRANSP:TRANSPARENT
-SUMMARY:WCNC 2027 deadline
-DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
- /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
-URL:https://wcnc2027.ieee-wcnc.org/
+SUMMARY:ECIR 2027 abstract deadline
+DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
+ co.uk/\nLocation: Southampton\, UK
+URL:https://ecir2027.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecir-2027-0-paper@conference-deadlines
+DTSTAMP:20261005T235959Z
+DTSTART:20261005T235959Z
+DTEND:20261006T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECIR 2027 deadline
+DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
+ co.uk/\nLocation: Southampton\, UK
+URL:https://ecir2027.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:aistats-2027-0-abstract@conference-deadlines
@@ -4078,30 +3770,6 @@ DESCRIPTION:International Conference on Extending Database Technology\nhttp
 URL:https://edbticdt2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:aamas-2027-0-abstract@conference-deadlines
-DTSTAMP:20261002T115900Z
-DTSTART:20261002T115900Z
-DTEND:20261002T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:AAMAS 2027 abstract deadline
-DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
- stems\nhttps://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference\n
- Location: Hanoi\, Vietnam
-URL:https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference
-END:VEVENT
-BEGIN:VEVENT
-UID:aamas-2027-0-paper@conference-deadlines
-DTSTAMP:20261009T115900Z
-DTSTART:20261009T115900Z
-DTEND:20261009T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:AAMAS 2027 deadline
-DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
- stems\nhttps://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference\n
- Location: Hanoi\, Vietnam
-URL:https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference
-END:VEVENT
-BEGIN:VEVENT
 UID:ipdps-2027-0-abstract@conference-deadlines
 DTSTAMP:20261002T115959Z
 DTSTART:20261002T115959Z
@@ -4122,6 +3790,30 @@ SUMMARY:IPDPS 2027 deadline
 DESCRIPTION:IEEE International Parallel and Distributed Processing Symposiu
  m\nhttps://www.ipdps.org/\nLocation: Seattle\, USA
 URL:https://www.ipdps.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-0-abstract@conference-deadlines
+DTSTAMP:20261002T115959Z
+DTSTART:20261002T115959Z
+DTEND:20261002T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AAMAS 2027 abstract deadline
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
+ stems\nhttps://warwick.ac.uk/fac/sci/dcs/aamas2027/\nLocation: Hanoi\, Vie
+ tnam
+URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-0-paper@conference-deadlines
+DTSTAMP:20261009T115959Z
+DTSTART:20261009T115959Z
+DTEND:20261009T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AAMAS 2027 deadline
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
+ stems\nhttps://warwick.ac.uk/fac/sci/dcs/aamas2027/\nLocation: Hanoi\, Vie
+ tnam
+URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmetrics-2027-0-abstract@conference-deadlines
@@ -4168,6 +3860,28 @@ DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
 URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:dfrws-2027-0-abstract@conference-deadlines
+DTSTAMP:20261003T115959Z
+DTSTART:20261003T115959Z
+DTEND:20261003T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2027 abstract deadline (Extended deadlines)
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfceurope2027/\nLocation: Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-2027-0-paper@conference-deadlines
+DTSTAMP:20261010T115959Z
+DTSTART:20261010T115959Z
+DTEND:20261010T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2027 deadline (Extended deadlines)
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfceurope2027/\nLocation: Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
 DTSTAMP:20261011T115959Z
 DTSTART:20261011T115959Z
@@ -4211,17 +3925,6 @@ DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
  ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
  San Francisco\, California\, USA
 URL:https://2027.naacl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:iscas-2027-0-paper@conference-deadlines
-DTSTAMP:20261014T115959Z
-DTSTART:20261014T115959Z
-DTEND:20261014T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISCAS 2027 deadline
-DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
- 027.ieee-iscas.org/\nLocation: Bordeaux\, France
-URL:https://2027.ieee-iscas.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:oopsla-2027-0-paper@conference-deadlines
@@ -4358,6 +4061,18 @@ DESCRIPTION:ACM Conference on Management of Data\nhttps://2027.sigmod.org/\
 URL:https://2027.sigmod.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:pdcat-2026-0-paper@conference-deadlines
+DTSTAMP:20261021T115959Z
+DTSTART:20261021T115959Z
+DTEND:20261021T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PDCAT 2026 deadline (Second Cycle)
+DESCRIPTION:International Conference on Parallel and Distributed Computing\
+ , Applications and Technologies\nhttps://www.pd-cat.org/2026/\nLocation: C
+ hangsha\, China
+URL:https://www.pd-cat.org/2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:ct-rsa-2027-0-paper@conference-deadlines
 DTSTAMP:20261023T115959Z
 DTSTART:20261023T115959Z
@@ -4368,6 +4083,28 @@ DESCRIPTION:Cryptographer's Track at RSA Conference\nhttps://www.esat.kuleu
  ven.be/cosic/events/ct-rsa-2027/\nLocation: San Francisco\, California\, U
  SA
 URL:https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:msr-2027-0-abstract@conference-deadlines
+DTSTAMP:20261021T115959Z
+DTSTART:20261021T115959Z
+DTEND:20261021T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MSR 2027 abstract deadline
+DESCRIPTION:International Conference on Mining Software Repositories\nhttps
+ ://2027.msrconf.org/\nLocation: Dublin\, Ireland
+URL:https://2027.msrconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:msr-2027-0-paper@conference-deadlines
+DTSTAMP:20261024T115959Z
+DTSTART:20261024T115959Z
+DTEND:20261024T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MSR 2027 deadline
+DESCRIPTION:International Conference on Mining Software Repositories\nhttps
+ ://2027.msrconf.org/\nLocation: Dublin\, Ireland
+URL:https://2027.msrconf.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:www-2027-0-abstract@conference-deadlines
@@ -4519,6 +4256,18 @@ DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous
 URL:https://www.ubicomp.org/ubicomp-iswc-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:icst-2027-0-paper@conference-deadlines
+DTSTAMP:20261103T115959Z
+DTSTART:20261103T115959Z
+DTEND:20261103T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICST 2027 deadline
+DESCRIPTION:IEEE International Conference on Software Testing\, Verificatio
+ n and Validation\nhttps://conf.researchr.org/home/icst-2027\nLocation: San
+  Sebastian\, Spain
+URL:https://conf.researchr.org/home/icst-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:stoc-2027-0-paper@conference-deadlines
 DTSTAMP:20261103T115959Z
 DTSTART:20261103T115959Z
@@ -4528,6 +4277,28 @@ SUMMARY:STOC 2027 deadline
 DESCRIPTION:ACM Symposium on the Theory of Computing\nhttps://acm-stoc.org/
  stoc2027/\nLocation: Atlanta\, Georgia\, USA
 URL:https://acm-stoc.org/stoc2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:recomb-2027-0-abstract@conference-deadlines
+DTSTAMP:20261029T115959Z
+DTSTART:20261029T115959Z
+DTEND:20261029T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RECOMB 2027 abstract deadline
+DESCRIPTION:International Conference on Research inComputational Molecular 
+ Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
+URL:https://recomb.org/recomb2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:recomb-2027-0-paper@conference-deadlines
+DTSTAMP:20261105T115959Z
+DTSTART:20261105T115959Z
+DTEND:20261105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RECOMB 2027 deadline
+DESCRIPTION:International Conference on Research inComputational Molecular 
+ Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
+URL:https://recomb.org/recomb2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sensys-2027-0-abstract@conference-deadlines
@@ -4563,10 +4334,76 @@ DESCRIPTION:IEEE Real-Time and Embedded Technology and Applications Symposi
 URL:https://2027.rtas.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:icpc-2027-0-paper@conference-deadlines
+DTSTAMP:20261106T115959Z
+DTSTART:20261106T115959Z
+DTEND:20261106T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICPC 2027 deadline
+DESCRIPTION:IEEE International Conference on Program Comprehension\nhttps:/
+ /conf.researchr.org/home/icpc-2027\nLocation: Dublin\, Ireland
+URL:https://conf.researchr.org/home/icpc-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:hscc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261030T115959Z
+DTSTART:20261030T115959Z
+DTEND:20261030T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HSCC 2027 abstract deadline
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
+ trol\nhttps://hscc.acm.org/2027/\nLocation: Boulder\, Colorado\, USA
+URL:https://hscc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:hscc-2027-0-paper@conference-deadlines
+DTSTAMP:20261106T115959Z
+DTSTART:20261106T115959Z
+DTEND:20261106T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HSCC 2027 deadline
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
+ trol\nhttps://hscc.acm.org/2027/\nLocation: Boulder\, Colorado\, USA
+URL:https://hscc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:noms-2027-0-paper@conference-deadlines
+DTSTAMP:20261110T115959Z
+DTSTART:20261110T115959Z
+DTEND:20261110T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NOMS 2027 deadline
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\nhttps://
+ noms2027.ieee-noms.org/\nLocation: Montreal\, Canada
+URL:https://noms2027.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pacificvis-2027-0-abstract@conference-deadlines
+DTSTAMP:20261103T115959Z
+DTSTART:20261103T115959Z
+DTEND:20261103T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PacificVis 2027 abstract deadline (Conference track)
+DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2027.gi
+ thub.io/\nLocation: Busan\, South Korea
+URL:https://pacificvis2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:pacificvis-2027-0-paper@conference-deadlines
+DTSTAMP:20261110T115959Z
+DTSTART:20261110T115959Z
+DTEND:20261110T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PacificVis 2027 deadline (Conference track)
+DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2027.gi
+ thub.io/\nLocation: Busan\, South Korea
+URL:https://pacificvis2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
 UID:icde-2027-0-paper@conference-deadlines
-DTSTAMP:20261112T000000Z
-DTSTART:20261112T000000Z
-DTEND:20261112T003000Z
+DTSTAMP:20261112T010000Z
+DTSTART:20261112T010000Z
+DTEND:20261112T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDE 2027 deadline (second round)
 DESCRIPTION:IEEE International Conference on Data Engineering\nhttps://icde
@@ -4673,6 +4510,62 @@ SUMMARY:DAC 2027 deadline
 DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
  -for-contributions\nLocation: San Jose\, CA
 URL:https://dac.com/2027/authors/call-for-contributions
+END:VEVENT
+BEGIN:VEVENT
+UID:esann-2027-0-paper@conference-deadlines
+DTSTAMP:20261119T075959Z
+DTSTART:20261119T075959Z
+DTEND:20261119T082959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESANN 2027 deadline
+DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
+ l Intelligence and Machine Learning\nhttps://www.esann.org/\nLocation: Bru
+ ges\, Belgium and Online
+URL:https://www.esann.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:mmsys-2027-0-abstract@conference-deadlines
+DTSTAMP:20261113T115959Z
+DTSTART:20261113T115959Z
+DTEND:20261113T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MMSys 2027 abstract deadline (Research Track - Second Round)
+DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
+ 7.acmmmsys.org\nLocation: Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+UID:mmsys-2027-0-paper@conference-deadlines
+DTSTAMP:20261120T115959Z
+DTSTART:20261120T115959Z
+DTEND:20261120T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MMSys 2027 deadline (Research Track - Second Round)
+DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
+ 7.acmmmsys.org\nLocation: Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ecoop-2027-0-paper@conference-deadlines
+DTSTAMP:20261120T115959Z
+DTSTART:20261120T115959Z
+DTEND:20261120T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECOOP 2027 deadline (Submission R1)
+DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
+ 7.ecoop.org/\nLocation: Turin\, Italy
+URL:https://2027.ecoop.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecoop-2027-1-paper@conference-deadlines
+DTSTAMP:20270212T115959Z
+DTSTART:20270212T115959Z
+DTEND:20270212T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECOOP 2027 deadline (Submission R2)
+DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
+ 7.ecoop.org/\nLocation: Turin\, Italy
+URL:https://2027.ecoop.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:pakdd-2027-0-paper@conference-deadlines
@@ -4798,6 +4691,30 @@ DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
 URL:https://hpcclab.org/ccgrid27/
 END:VEVENT
 BEGIN:VEVENT
+UID:wowmom-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WoWMoM 2027 deadline
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
+ d Multimedia Networks\nhttps://wowmom2027.dii.unipi.it/index.html\nLocatio
+ n: Irvine\, California\, USA
+URL:https://wowmom2027.dii.unipi.it/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fse-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSE 2027 deadline (ToSC\, Volume 2027\, Issue 1 Submission deadline
+ )
+DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2027/\nLocation:
+  Maastricht\, Netherlands
+URL:https://fse.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:dsn-2027-0-abstract@conference-deadlines
 DTSTAMP:20261126T115959Z
 DTSTART:20261126T115959Z
@@ -4840,6 +4757,52 @@ SUMMARY:EuroS&P 2027 deadline
 DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
  2027.ieee-security.org/\nLocation: Madrid\, Spain
 URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobisys-2027-0-abstract@conference-deadlines
+DTSTAMP:20261128T115959Z
+DTSTART:20261128T115959Z
+DTEND:20261128T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobiSys 2027 abstract deadline
+DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
+  and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
+ inh City\, Vietnam
+URL:https://www.sigmobile.org/mobisys/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobisys-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115959Z
+DTSTART:20261205T115959Z
+DTEND:20261205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobiSys 2027 deadline
+DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
+  and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
+ inh City\, Vietnam
+URL:https://www.sigmobile.org/mobisys/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpal-2027-0-abstract@conference-deadlines
+DTSTAMP:20261124T115959Z
+DTSTART:20261124T115959Z
+DTEND:20261124T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CPAL 2027 abstract deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tokyo\, Japan
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpal-2027-0-paper@conference-deadlines
+DTSTAMP:20261206T115959Z
+DTSTART:20261206T115959Z
+DTEND:20261206T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CPAL 2027 deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tokyo\, Japan
+URL:https://cpal.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:osdi-2027-0-abstract@conference-deadlines
@@ -4930,6 +4893,39 @@ DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
 URL:https://icdf2c.eai-conferences.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:gmp-2027-0-abstract@conference-deadlines
+DTSTAMP:20261214T235959Z
+DTSTART:20261214T235959Z
+DTEND:20261215T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:GMP 2027 abstract deadline
+DESCRIPTION:International Conference on Geometric Modeling and Processing\n
+ https://gmp-conference-2027.github.io/gmp2027/\nLocation: Singapore
+URL:https://gmp-conference-2027.github.io/gmp2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:gmp-2027-0-paper@conference-deadlines
+DTSTAMP:20261221T235959Z
+DTSTART:20261221T235959Z
+DTEND:20261222T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:GMP 2027 deadline
+DESCRIPTION:International Conference on Geometric Modeling and Processing\n
+ https://gmp-conference-2027.github.io/gmp2027/\nLocation: Singapore
+URL:https://gmp-conference-2027.github.io/gmp2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isit-2027-0-paper@conference-deadlines
+DTSTAMP:20270111T115959Z
+DTSTART:20270111T115959Z
+DTEND:20270111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISIT 2027 deadline
+DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
+ 7.ieee-isit.org/\nLocation: Sorrento\, Italy
+URL:https://2027.ieee-isit.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:issta-2027-0-abstract@conference-deadlines
 DTSTAMP:20270109T115959Z
 DTSTART:20270109T115959Z
@@ -4952,6 +4948,50 @@ DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and Ana
 URL:https://conf.researchr.org/home/issta-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:bis-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:BIS 2027 deadline
+DESCRIPTION:International Conference on Business Information Systems\nhttps
+ ://bisconf.org/2027/\nLocation: Poznań\, Poland
+URL:https://bisconf.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icwsm-2027-0-paper@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICWSM 2027 deadline (3rd Full-paper Deadline)
+DESCRIPTION:The International AAAI Conference on Web and Social Media\nhttp
+ s://www.icwsm.org/2027/\nLocation: Edinburgh\, Scotland
+URL:https://www.icwsm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dis-2027-0-abstract@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DIS 2027 abstract deadline
+DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
+ m.org/2027/\nLocation: Stockholm\, Sweden
+URL:https://dis.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dis-2027-0-paper@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DIS 2027 deadline
+DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
+ m.org/2027/\nLocation: Stockholm\, Sweden
+URL:https://dis.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:cav-2027-0-paper@conference-deadlines
 DTSTAMP:20270121T115959Z
 DTSTART:20270121T115959Z
@@ -4961,6 +5001,54 @@ SUMMARY:CAV 2027 deadline
 DESCRIPTION:International Conference on Computer-Aided Verification\nhttps:
  //conferences.i-cav.org/2027/\nLocation: KIT\, Amsterdam\, The Netherlands
 URL:https://conferences.i-cav.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigir-2027-0-abstract@conference-deadlines
+DTSTAMP:20270115T115959Z
+DTSTART:20270115T115959Z
+DTEND:20270115T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR 2027 abstract deadline
+DESCRIPTION:International Conference on Research on Development in Informat
+ ion Retrieval\nhttps://sigir2027.org/\nLocation: San Jose\, California\, U
+ SA
+URL:https://sigir2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigir-2027-0-paper@conference-deadlines
+DTSTAMP:20270122T115959Z
+DTSTART:20270122T115959Z
+DTEND:20270122T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR 2027 deadline
+DESCRIPTION:International Conference on Research on Development in Informat
+ ion Retrieval\nhttps://sigir2027.org/\nLocation: San Jose\, California\, U
+ SA
+URL:https://sigir2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ease-2027-0-abstract@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EASE 2027 abstract deadline (Research Papers)
+DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
+ re Engineering\nhttps://conf.researchr.org/home/ease-2027\nLocation: Hanoi
+ \, Vietnam
+URL:https://conf.researchr.org/home/ease-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ease-2027-0-paper@conference-deadlines
+DTSTAMP:20270123T115959Z
+DTSTART:20270123T115959Z
+DTEND:20270123T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EASE 2027 deadline (Research Papers)
+DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
+ re Engineering\nhttps://conf.researchr.org/home/ease-2027\nLocation: Hanoi
+ \, Vietnam
+URL:https://conf.researchr.org/home/ease-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:usenix-security-2027-0-abstract@conference-deadlines
@@ -4985,6 +5073,17 @@ DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
 URL:https://www.usenix.org/conference/usenixsecurity27
 END:VEVENT
 BEGIN:VEVENT
+UID:compsac-2027-0-paper@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COMPSAC 2027 deadline
+DESCRIPTION:International Computer Software and Applications Conference\nht
+ tps://ieeecompsac.computer.org/2027/\nLocation: Tokyo\, Japan
+URL:https://ieeecompsac.computer.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:icmr-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z
@@ -5007,6 +5106,131 @@ DESCRIPTION:International Joint Conference on Neural Networks\nhttps://ijcn
 URL:https://ijcnn.org/2027
 END:VEVENT
 BEGIN:VEVENT
+UID:securecomm-2027-0-paper@conference-deadlines
+DTSTAMP:20270202T115959Z
+DTSTART:20270202T115959Z
+DTEND:20270202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline (Cycle 1))
+DESCRIPTION:International Conference on Security and Privacy in Communicati
+ on Networks\nhttps://securecomm.eai-conferences.org/2027/\nLocation: Hefei
+ \, China
+URL:https://securecomm.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:securecomm-2027-1-paper@conference-deadlines
+DTSTAMP:20270416T115959Z
+DTSTART:20270416T115959Z
+DTEND:20270416T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline (Cycle 2))
+DESCRIPTION:International Conference on Security and Privacy in Communicati
+ on Networks\nhttps://securecomm.eai-conferences.org/2027/\nLocation: Hefei
+ \, China
+URL:https://securecomm.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:eusipco-2027-0-paper@conference-deadlines
+DTSTAMP:20270207T115959Z
+DTSTART:20270207T115959Z
+DTEND:20270207T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EUSIPCO 2027 deadline
+DESCRIPTION:European Signal Processing Conference\nhttps://eusipco2027.de/\
+ nLocation: Darmstadt\, Germany
+URL:https://eusipco2027.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:interspeech-2027-0-paper@conference-deadlines
+DTSTAMP:20270209T235959Z
+DTSTART:20270209T235959Z
+DTEND:20270210T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:InterSpeech 2027 deadline
+DESCRIPTION:Conference of the International Speech Communication Associatio
+ n\nhttps://interspeech2027.org/\nLocation: São Paulo\, Brazil
+URL:https://interspeech2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-0-abstract@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 abstract deadline
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-0-paper@conference-deadlines
+DTSTAMP:20270221T115959Z
+DTSTART:20270221T115959Z
+DTEND:20270221T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 deadline
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cade-2027-0-abstract@conference-deadlines
+DTSTAMP:20270216T115959Z
+DTSTART:20270216T115959Z
+DTEND:20270216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CADE 2027 abstract deadline
+DESCRIPTION:The Conference on Automated Deduction\nhttps://fscd-cade.scienc
+ e.ru.nl/\nLocation: Nijmegen\, Netherlands
+URL:https://fscd-cade.science.ru.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:cade-2027-0-paper@conference-deadlines
+DTSTAMP:20270223T115959Z
+DTSTART:20270223T115959Z
+DTEND:20270223T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CADE 2027 deadline
+DESCRIPTION:The Conference on Automated Deduction\nhttps://fscd-cade.scienc
+ e.ru.nl/\nLocation: Nijmegen\, Netherlands
+URL:https://fscd-cade.science.ru.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:icfp-2027-0-paper@conference-deadlines
+DTSTAMP:20270226T115959Z
+DTSTART:20270226T115959Z
+DTEND:20270226T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICFP 2027 deadline
+DESCRIPTION:International Conference on Function Programming\nhttps://icfp2
+ 7.sigplan.org/\nLocation: Nijmegen\, Netherlands
+URL:https://icfp27.sigplan.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cgi-2027-0-paper@conference-deadlines
+DTSTAMP:20270228T235959Z
+DTSTART:20270228T235959Z
+DTEND:20270301T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CGI 2027 deadline (First Track: Call for papers with final publicat
+ ion in The Visual Computer Journal)
+DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
+ \nLocation: Cairns\, Australia
+URL:https://cgs-network.org/cgi27/
+END:VEVENT
+BEGIN:VEVENT
+UID:cgi-2027-1-paper@conference-deadlines
+DTSTAMP:20270420T235959Z
+DTSTART:20270420T235959Z
+DTEND:20270421T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CGI 2027 deadline (Second Track: Call for papers with final publica
+ tion in LNCS Book published by Springer)
+DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
+ \nLocation: Cairns\, Australia
+URL:https://cgs-network.org/cgi27/
+END:VEVENT
+BEGIN:VEVENT
 UID:ieee-cec-2027-0-paper@conference-deadlines
 DTSTAMP:20270301T115959Z
 DTSTART:20270301T115959Z
@@ -5016,18 +5240,6 @@ SUMMARY:IEEE CEC 2027 deadline
 DESCRIPTION:IEEE Congress on Evolutionary Computation\nhttps://ieeecec.org/
  2027\nLocation: Edinburgh\, Scotland\, UK
 URL:https://ieeecec.org/2027
-END:VEVENT
-BEGIN:VEVENT
-UID:securecomm-2027-0-paper@conference-deadlines
-DTSTAMP:20270302T115959Z
-DTSTART:20270302T115959Z
-DTEND:20270302T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline)
-DESCRIPTION:International Conference on Security and Privacy in Communicati
- on Networks\nhttps://securecomm.eai-conferences.org/2027/\nLocation: Hefei
- \, China
-URL:https://securecomm.eai-conferences.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ieee-cog-2027-0-paper@conference-deadlines
@@ -5050,5 +5262,27 @@ SUMMARY:IEEE CoG 2027 deadline (Auxiliary Paper)
 DESCRIPTION:IEEE Conference on Games\nhttps://cog2027.u-aizu.ac.jp/\nLocati
  on: Aizuwakamatsu\, Japan
 URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+UID:icsme-2027-0-paper@conference-deadlines
+DTSTAMP:20270306T115959Z
+DTSTART:20270306T115959Z
+DTEND:20270306T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSME 2027 deadline (Research Papers Track)
+DESCRIPTION:International Conference on Software Maintenance and Evolution\
+ nhttps://conf.researchr.org/home/icsme-2027\nLocation: Toronto\, Canada
+URL:https://conf.researchr.org/home/icsme-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ecai-2027-0-paper@conference-deadlines
+DTSTAMP:20270415T115959Z
+DTSTART:20270415T115959Z
+DTEND:20270415T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECAI 2027 deadline
+DESCRIPTION:European Conference on Artificial Intelligence\nhttps://ecai202
+ 7.org/\nLocation: Athens\, Greece
+URL:https://ecai2027.org/
 END:VEVENT
 END:VCALENDAR

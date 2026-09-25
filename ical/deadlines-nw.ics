@@ -5,66 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Networking
 BEGIN:VEVENT
-UID:mobisys-2026-0-abstract@conference-deadlines
-DTSTAMP:20251129T115959Z
-DTSTART:20251129T115959Z
-DTEND:20251129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MobiSys 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
-  and Services\nhttps://www.sigmobile.org/mobisys/2026/\nLocation: Cambridg
- e\, UK
-URL:https://www.sigmobile.org/mobisys/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:mobisys-2026-0-paper@conference-deadlines
-DTSTAMP:20251206T115959Z
-DTSTART:20251206T115959Z
-DTEND:20251206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MobiSys 2026 deadline
-DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
-  and Services\nhttps://www.sigmobile.org/mobisys/2026/\nLocation: Cambridg
- e\, UK
-URL:https://www.sigmobile.org/mobisys/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:wowmom-2026-0-abstract@conference-deadlines
-DTSTAMP:20251119T115959Z
-DTSTART:20251119T115959Z
-DTEND:20251119T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WoWMoM 2026 abstract deadline
-DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
- d Multimedia Networks\nhttps://www.cs.unibo.it/wowmom2026/\nLocation: Bolo
- gna\, Italy
-URL:https://www.cs.unibo.it/wowmom2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:wowmom-2026-0-paper@conference-deadlines
-DTSTAMP:20251206T115959Z
-DTSTART:20251206T115959Z
-DTEND:20251206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WoWMoM 2026 deadline
-DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
- d Multimedia Networks\nhttps://www.cs.unibo.it/wowmom2026/\nLocation: Bolo
- gna\, Italy
-URL:https://www.cs.unibo.it/wowmom2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:nossdav-2026-0-paper@conference-deadlines
-DTSTAMP:20260117T115959Z
-DTSTART:20260117T115959Z
-DTEND:20260117T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:NOSSDAV 2026 deadline
-DESCRIPTION:International Workshop on Network and Operating System Support 
- for Digital Audio and Video\nhttps://nossdav.org/2026/\nLocation: Hong Kon
- g\, China
-URL:https://nossdav.org/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:forte-2026-0-abstract@conference-deadlines
 DTSTAMP:20260131T115959Z
 DTSTART:20260131T115959Z
@@ -156,26 +96,15 @@ URL:https://conferences.sigcomm.org/events/apnet2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:wasa-2026-0-paper@conference-deadlines
-DTSTAMP:20260316T115959Z
-DTSTART:20260316T115959Z
-DTEND:20260316T122959Z
+DTSTAMP:20260411T115959Z
+DTSTART:20260411T115959Z
+DTEND:20260411T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:WASA 2026 deadline
 DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, and
   Applications\nhttp://wasa-conference.org/WASA2026/\nLocation: Xi'an\, Chi
  na
 URL:http://wasa-conference.org/WASA2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:lcn-2026-0-paper@conference-deadlines
-DTSTAMP:20260421T115959Z
-DTSTART:20260421T115959Z
-DTEND:20260421T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:LCN 2026 deadline
-DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
- .org/\nLocation: Coimbra\, Portugal
-URL:https://www.ieeelcn.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:mobihoc-2026-0-abstract@conference-deadlines
@@ -200,28 +129,6 @@ DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Computi
 URL:https://www.sigmobile.org/mobihoc/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:imc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260423T115959Z
-DTSTART:20260423T115959Z
-DTEND:20260423T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2026 abstract deadline (Cycle 2 Deadline)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2026/\nLocation: Karlsruhe\, Germany
-URL:https://conferences.sigcomm.org/imc/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2026-0-paper@conference-deadlines
-DTSTAMP:20260430T115959Z
-DTSTART:20260430T115959Z
-DTEND:20260430T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2026 deadline (Cycle 2 Deadline)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2026/\nLocation: Karlsruhe\, Germany
-URL:https://conferences.sigcomm.org/imc/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:globecom-2026-0-paper@conference-deadlines
 DTSTAMP:20260504T035959Z
 DTSTART:20260504T035959Z
@@ -231,6 +138,17 @@ SUMMARY:GLOBECOM 2026 deadline
 DESCRIPTION:IEEE Global Communications Conference\nhttps://globecom2026.iee
  e-globecom.org/\nLocation: Macao\, China
 URL:https://globecom2026.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:lcn-2026-0-paper@conference-deadlines
+DTSTAMP:20260505T115959Z
+DTSTART:20260505T115959Z
+DTEND:20260505T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LCN 2026 deadline
+DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
+ .org/\nLocation: Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icnp-2026-0-abstract@conference-deadlines
@@ -392,28 +310,6 @@ DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
 URL:https://www.usenix.org/conference/nsdi27
 END:VEVENT
 BEGIN:VEVENT
-UID:mmsys-2027-0-abstract@conference-deadlines
-DTSTAMP:20260911T115959Z
-DTSTART:20260911T115959Z
-DTEND:20260911T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMSys 2027 abstract deadline
-DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
- 7.acmmmsys.org\nLocation: Ghent\, Belgium
-URL:https://2027.acmmmsys.org
-END:VEVENT
-BEGIN:VEVENT
-UID:mmsys-2027-0-paper@conference-deadlines
-DTSTAMP:20260918T115959Z
-DTSTART:20260918T115959Z
-DTEND:20260918T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMSys 2027 deadline
-DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
- 7.acmmmsys.org\nLocation: Ghent\, Belgium
-URL:https://2027.acmmmsys.org
-END:VEVENT
-BEGIN:VEVENT
 UID:icc-2027-0-paper@conference-deadlines
 DTSTAMP:20261003T035959Z
 DTSTART:20261003T035959Z
@@ -423,17 +319,6 @@ SUMMARY:ICC 2027 deadline
 DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
  7.ieee-icc.org\nLocation: Washington\, DC\, USA
 URL:https://icc2027.ieee-icc.org
-END:VEVENT
-BEGIN:VEVENT
-UID:wcnc-2027-0-paper@conference-deadlines
-DTSTAMP:20261006T035959Z
-DTSTART:20261006T035959Z
-DTEND:20261006T042959Z
-TRANSP:TRANSPARENT
-SUMMARY:WCNC 2027 deadline
-DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
- /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
-URL:https://wcnc2027.ieee-wcnc.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sensys-2027-0-abstract@conference-deadlines
@@ -458,6 +343,28 @@ DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
 URL:https://sensys.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:mmsys-2027-0-abstract@conference-deadlines
+DTSTAMP:20261113T115959Z
+DTSTART:20261113T115959Z
+DTEND:20261113T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MMSys 2027 abstract deadline (Research Track - Second Round)
+DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
+ 7.acmmmsys.org\nLocation: Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+UID:mmsys-2027-0-paper@conference-deadlines
+DTSTAMP:20261120T115959Z
+DTSTART:20261120T115959Z
+DTEND:20261120T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MMSys 2027 deadline (Research Track - Second Round)
+DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
+ 7.acmmmsys.org\nLocation: Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines
 DTSTAMP:20261201T045959Z
 DTSTART:20261201T045959Z
@@ -467,5 +374,41 @@ SUMMARY:SECON 2027 deadline
 DESCRIPTION:IEEE International Conference on Sensing\, Communication\, and 
  Networking\nhttps://secon2027.ieee-secon.org/\nLocation: Lisbon\, Portugal
 URL:https://secon2027.ieee-secon.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:wowmom-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WoWMoM 2027 deadline
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
+ d Multimedia Networks\nhttps://wowmom2027.dii.unipi.it/index.html\nLocatio
+ n: Irvine\, California\, USA
+URL:https://wowmom2027.dii.unipi.it/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mobisys-2027-0-abstract@conference-deadlines
+DTSTAMP:20261128T115959Z
+DTSTART:20261128T115959Z
+DTEND:20261128T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobiSys 2027 abstract deadline
+DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
+  and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
+ inh City\, Vietnam
+URL:https://www.sigmobile.org/mobisys/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobisys-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115959Z
+DTSTART:20261205T115959Z
+DTEND:20261205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobiSys 2027 deadline
+DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
+  and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
+ inh City\, Vietnam
+URL:https://www.sigmobile.org/mobisys/2027/
 END:VEVENT
 END:VCALENDAR

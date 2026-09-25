@@ -5,50 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - HCI & Ubiquitous Computing
 BEGIN:VEVENT
-UID:percom-2026-0-paper@conference-deadlines
-DTSTAMP:20251004T115900Z
-DTSTART:20251004T115900Z
-DTEND:20251004T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:PerCom 2026 deadline
-DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
- ications\nhttps://percom.org/\nLocation: Pisa\, Italy
-URL:https://percom.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icwsm-2026-0-paper@conference-deadlines
-DTSTAMP:20260116T115959Z
-DTSTART:20260116T115959Z
-DTEND:20260116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICWSM 2026 deadline (3rd Full-paper Deadline)
-DESCRIPTION:The International AAAI Conference on Web and Social Media\nhttp
- s://www.icwsm.org/2026/index.html\nLocation: Los Angeles\, CA\, USA
-URL:https://www.icwsm.org/2026/index.html
-END:VEVENT
-BEGIN:VEVENT
-UID:dis-2026-0-abstract@conference-deadlines
-DTSTAMP:20260110T115959Z
-DTSTART:20260110T115959Z
-DTEND:20260110T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DIS 2026 abstract deadline
-DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
- m.org/2026/\nLocation: Singapore
-URL:https://dis.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:dis-2026-0-paper@conference-deadlines
-DTSTAMP:20260120T115959Z
-DTSTART:20260120T115959Z
-DTEND:20260120T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DIS 2026 deadline
-DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
- m.org/2026/\nLocation: Singapore
-URL:https://dis.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:ecscw-2026-0-paper@conference-deadlines
 DTSTAMP:20260307T115959Z
 DTSTART:20260307T115959Z
@@ -58,6 +14,31 @@ SUMMARY:ECSCW 2026 deadline (Conference Papers)
 DESCRIPTION:European Conference on Computer Supported Cooperative Work\nhtt
  ps://ecscw.eusset.eu/2026\nLocation: Munich\, Germany
 URL:https://ecscw.eusset.eu/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:group-2027-0-abstract@conference-deadlines
+DTSTAMP:20260325T115959Z
+DTSTART:20260325T115959Z
+DTEND:20260325T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GROUP 2027 abstract deadline (Full Paper Second Wave Submissions (e
+ xtended))
+DESCRIPTION:ACM International Conference on Supporting Group Work\nhttps://
+ group.acm.org/conferences/group27/\nLocation: St Simons Island\, Georgia\,
+  USA
+URL:https://group.acm.org/conferences/group27/
+END:VEVENT
+BEGIN:VEVENT
+UID:group-2027-0-paper@conference-deadlines
+DTSTAMP:20260401T115959Z
+DTSTART:20260401T115959Z
+DTEND:20260401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GROUP 2027 deadline (Full Paper Second Wave Submissions (extended))
+DESCRIPTION:ACM International Conference on Supporting Group Work\nhttps://
+ group.acm.org/conferences/group27/\nLocation: St Simons Island\, Georgia\,
+  USA
+URL:https://group.acm.org/conferences/group27/
 END:VEVENT
 BEGIN:VEVENT
 UID:uist-2026-0-abstract@conference-deadlines
@@ -82,23 +63,36 @@ DESCRIPTION:ACM Symposium on User Interface Software and Technology\nhttps:
 URL:https://uist.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icmi-2026-0-abstract@conference-deadlines
-DTSTAMP:20260413T165959Z
-DTSTART:20260413T165959Z
-DTEND:20260413T172959Z
+UID:assets-2026-0-paper@conference-deadlines
+DTSTAMP:20260423T115959Z
+DTSTART:20260423T115959Z
+DTEND:20260423T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICMI 2026 abstract deadline
+SUMMARY:ASSETS 2026 deadline
+DESCRIPTION:ACM SIGACCESS Conference on Computers and Accessibility\nhttps:
+ //assets26.sigaccess.org/\nLocation: Porto\, Portugal
+URL:https://assets26.sigaccess.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icmi-2026-0-abstract@conference-deadlines
+DTSTAMP:20260414T065959Z
+DTSTART:20260414T065959Z
+DTEND:20260414T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICMI 2026 abstract deadline (Paper deadline extended to Apr 23\, 23
+ :59 AoE\; normalized to UTC-7)
 DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
  /icmi.acm.org/2026/\nLocation: Napoli\, Italy
 URL:https://icmi.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icmi-2026-0-paper@conference-deadlines
-DTSTAMP:20260420T165959Z
-DTSTART:20260420T165959Z
-DTEND:20260420T172959Z
+DTSTAMP:20260424T115959Z
+DTSTART:20260424T115959Z
+DTEND:20260424T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICMI 2026 deadline
+SUMMARY:ICMI 2026 deadline (Paper deadline extended to Apr 23\, 23:59 AoE\;
+  normalized to UTC-7)
 DESCRIPTION:ACM International Conference on Multimodal Interaction\nhttps:/
  /icmi.acm.org/2026/\nLocation: Napoli\, Italy
 URL:https://icmi.acm.org/2026/
@@ -114,6 +108,17 @@ DESCRIPTION:International Conference on Collaborative Computing: Networking
  \, Applications and Worksharing\nhttps://collaboratecom.eai-conferences.or
  g/2026/\nLocation: Hong Kong SAR\, China
 URL:https://collaboratecom.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:uic-2026-0-paper@conference-deadlines
+DTSTAMP:20260531T215959Z
+DTSTART:20260531T215959Z
+DTEND:20260531T222959Z
+TRANSP:TRANSPARENT
+SUMMARY:UIC 2026 deadline
+DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and Co
+ mputing\nhttps://swc-ieee-2026.github.io/uic/\nLocation: Rende\, Italy
+URL:https://swc-ieee-2026.github.io/uic/
 END:VEVENT
 BEGIN:VEVENT
 UID:hicss-2027-0-paper@conference-deadlines
@@ -172,6 +177,28 @@ DESCRIPTION:ACM Conference on Human Factors in Computing Systems\nhttps://c
 URL:https://chi2027.acm.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:percom-2027-0-abstract@conference-deadlines
+DTSTAMP:20260912T115959Z
+DTSTART:20260912T115959Z
+DTEND:20260912T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PerCom 2027 abstract deadline (Extended deadlines)
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
+ ications\nhttps://percom.org/\nLocation: Goa\, India
+URL:https://percom.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:percom-2027-0-paper@conference-deadlines
+DTSTAMP:20260919T115959Z
+DTSTART:20260919T115959Z
+DTEND:20260919T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PerCom 2027 deadline (Extended deadlines)
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commun
+ ications\nhttps://percom.org/\nLocation: Goa\, India
+URL:https://percom.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:cscwd-2027-0-paper@conference-deadlines
 DTSTAMP:20261101T115959Z
 DTSTART:20261101T115959Z
@@ -193,5 +220,38 @@ DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous
  Computing\nhttps://www.ubicomp.org/ubicomp-iswc-2026\nLocation: Shanghai\,
   China
 URL:https://www.ubicomp.org/ubicomp-iswc-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:icwsm-2027-0-paper@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICWSM 2027 deadline (3rd Full-paper Deadline)
+DESCRIPTION:The International AAAI Conference on Web and Social Media\nhttp
+ s://www.icwsm.org/2027/\nLocation: Edinburgh\, Scotland
+URL:https://www.icwsm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dis-2027-0-abstract@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DIS 2027 abstract deadline
+DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
+ m.org/2027/\nLocation: Stockholm\, Sweden
+URL:https://dis.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dis-2027-0-paper@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DIS 2027 deadline
+DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
+ m.org/2027/\nLocation: Stockholm\, Sweden
+URL:https://dis.acm.org/2027/
 END:VEVENT
 END:VCALENDAR

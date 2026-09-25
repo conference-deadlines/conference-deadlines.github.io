@@ -5,41 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Databases & Data Mining
 BEGIN:VEVENT
-UID:sigir-2026-0-abstract@conference-deadlines
-DTSTAMP:20260116T115959Z
-DTSTART:20260116T115959Z
-DTEND:20260116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGIR 2026 abstract deadline
-DESCRIPTION:International Conference on Research on Development in Informat
- ion Retrieval\nhttps://sigir2026.org/en-AU\nLocation: Melbourne\, Australi
- a
-URL:https://sigir2026.org/en-AU
-END:VEVENT
-BEGIN:VEVENT
-UID:sigir-2026-0-paper@conference-deadlines
-DTSTAMP:20260123T115959Z
-DTSTART:20260123T115959Z
-DTEND:20260123T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGIR 2026 deadline
-DESCRIPTION:International Conference on Research on Development in Informat
- ion Retrieval\nhttps://sigir2026.org/en-AU\nLocation: Melbourne\, Australi
- a
-URL:https://sigir2026.org/en-AU
-END:VEVENT
-BEGIN:VEVENT
-UID:eusipco-2026-0-paper@conference-deadlines
-DTSTAMP:20260214T115959Z
-DTSTART:20260214T115959Z
-DTEND:20260214T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EUSIPCO 2026 deadline
-DESCRIPTION:European Signal Processing Conference\nhttps://eusipco2026.org/
- \nLocation: Bruges\, Belgium
-URL:https://eusipco2026.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:sdm-2026-0-abstract@conference-deadlines
 DTSTAMP:20260411T115959Z
 DTSTART:20260411T115959Z
@@ -62,28 +27,6 @@ DESCRIPTION:SIAM International Conference on Data Mining\nhttps://www.siam.
  org/conferences-events/siam-conferences/sdm26/\nLocation: Salt Lake City\,
   Utah\, USA
 URL:https://www.siam.org/conferences-events/siam-conferences/sdm26/
-END:VEVENT
-BEGIN:VEVENT
-UID:recsys-2026-0-abstract@conference-deadlines
-DTSTAMP:20260415T115959Z
-DTSTART:20260415T115959Z
-DTEND:20260415T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RecSys 2026 abstract deadline
-DESCRIPTION:ACM Conference on Recommender Systems\nhttps://recsys.acm.org/r
- ecsys26\nLocation: Minneapolis\, Minnesota\, USA
-URL:https://recsys.acm.org/recsys26
-END:VEVENT
-BEGIN:VEVENT
-UID:recsys-2026-0-paper@conference-deadlines
-DTSTAMP:20260422T115959Z
-DTSTART:20260422T115959Z
-DTEND:20260422T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RecSys 2026 deadline
-DESCRIPTION:ACM Conference on Recommender Systems\nhttps://recsys.acm.org/r
- ecsys26\nLocation: Minneapolis\, Minnesota\, USA
-URL:https://recsys.acm.org/recsys26
 END:VEVENT
 BEGIN:VEVENT
 UID:wisa-2026-0-abstract@conference-deadlines
@@ -161,17 +104,6 @@ SUMMARY:CIKM 2026 deadline
 DESCRIPTION:ACM International Conference on Information and Knowledge Manag
  ement\nhttps://cikm2026.diag.uniroma1.it/\nLocation: Rome\, Italy
 URL:https://cikm2026.diag.uniroma1.it/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260531T115959Z
-DTSTART:20260531T115959Z
-DTEND:20260531T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDM 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Data Mining\nhttp://icdm2026.n
- eu.edu.cn/\nLocation: Shenyang\, China
-URL:http://icdm2026.neu.edu.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdm-2026-0-paper@conference-deadlines
@@ -329,9 +261,9 @@ URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecir-2027-0-abstract@conference-deadlines
-DTSTAMP:20260925T235959Z
-DTSTART:20260925T235959Z
-DTEND:20260926T002959Z
+DTSTAMP:20260921T235959Z
+DTSTART:20260921T235959Z
+DTEND:20260922T002959Z
 TRANSP:TRANSPARENT
 SUMMARY:ECIR 2027 abstract deadline
 DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
@@ -340,9 +272,9 @@ URL:https://ecir2027.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecir-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T235959Z
-DTSTART:20261002T235959Z
-DTEND:20261003T002959Z
+DTSTAMP:20261005T235959Z
+DTSTART:20261005T235959Z
+DTEND:20261006T002959Z
 TRANSP:TRANSPARENT
 SUMMARY:ECIR 2027 deadline
 DESCRIPTION:European Conference on Information Retrieval\nhttps://ecir2027.
@@ -384,9 +316,9 @@ URL:https://2027.sigmod.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icde-2027-0-paper@conference-deadlines
-DTSTAMP:20261112T000000Z
-DTSTART:20261112T000000Z
-DTEND:20261112T003000Z
+DTSTAMP:20261112T010000Z
+DTSTART:20261112T010000Z
+DTEND:20261112T013000Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDE 2027 deadline (second round)
 DESCRIPTION:IEEE International Conference on Data Engineering\nhttps://icde
@@ -447,5 +379,29 @@ SUMMARY:PODS 2027 deadline (Second Submission Cycle)
 DESCRIPTION:ACM Symposium on Principles of Database Systems\nhttps://2027.s
  igmod.org/\nLocation: Huntington Beach\, California\, USA
 URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigir-2027-0-abstract@conference-deadlines
+DTSTAMP:20270115T115959Z
+DTSTART:20270115T115959Z
+DTEND:20270115T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR 2027 abstract deadline
+DESCRIPTION:International Conference on Research on Development in Informat
+ ion Retrieval\nhttps://sigir2027.org/\nLocation: San Jose\, California\, U
+ SA
+URL:https://sigir2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigir-2027-0-paper@conference-deadlines
+DTSTAMP:20270122T115959Z
+DTSTART:20270122T115959Z
+DTEND:20270122T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR 2027 deadline
+DESCRIPTION:International Conference on Research on Development in Informat
+ ion Retrieval\nhttps://sigir2027.org/\nLocation: San Jose\, California\, U
+ SA
+URL:https://sigir2027.org/
 END:VEVENT
 END:VCALENDAR

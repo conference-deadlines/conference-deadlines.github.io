@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Security & Privacy
 BEGIN:VEVENT
-UID:noms-2026-0-paper@conference-deadlines
-DTSTAMP:20251013T095959Z
-DTSTART:20251013T095959Z
-DTEND:20251013T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:NOMS 2026 deadline
-DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\nhttps://
- noms2026.ieee-noms.org/\nLocation: Rome\, Italy
-URL:https://noms2026.ieee-noms.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:pam-2026-0-paper@conference-deadlines
 DTSTAMP:20251016T115959Z
 DTSTART:20251016T115959Z
@@ -25,40 +14,6 @@ SUMMARY:PAM 2026 deadline
 DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
  nLocation: Virtual
 URL:https://pam2026.at/
-END:VEVENT
-BEGIN:VEVENT
-UID:fse-2026-0-paper@conference-deadlines
-DTSTAMP:20251124T115959Z
-DTSTART:20251124T115959Z
-DTEND:20251124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FSE 2026 deadline (ToSC\, Volume 2026\, Issue 1 Submission deadline
- )
-DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2026/\nLocation:
-  Singapore\, Singapore
-URL:https://fse.iacr.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:sec-2026-0-paper@conference-deadlines
-DTSTAMP:20251220T115959Z
-DTSTART:20251220T115959Z
-DTEND:20251220T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SEC 2026 deadline (Submission deadline)
-DESCRIPTION:IFIP International Information Security Conference\nhttps://ifi
- psec.org/index.html\nLocation: Perth\, Australia
-URL:https://ifipsec.org/index.html
-END:VEVENT
-BEGIN:VEVENT
-UID:sac-2026-0-paper@conference-deadlines
-DTSTAMP:20260203T115959Z
-DTSTART:20260203T115959Z
-DTEND:20260203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 1))
-DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
- nLocation: Ottawa\, Ontario\, Canada
-URL:https://sacworkshop.org/SAC26/
 END:VEVENT
 BEGIN:VEVENT
 UID:crypto-2026-0-paper@conference-deadlines
@@ -92,17 +47,6 @@ SUMMARY:DIMVA 2026 deadline (Cycle 2 submission deadline)
 DESCRIPTION:Detection of Intrusions and Malware & Vulnerability Assessment\
  nhttps://www.dimva.org/dimva2026/\nLocation: Chania\, Greece
 URL:https://www.dimva.org/dimva2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:soups-2026-0-paper@conference-deadlines
-DTSTAMP:20260220T115959Z
-DTSTART:20260220T115959Z
-DTEND:20260220T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SOUPS 2026 deadline (Paper Submission Deadline)
-DESCRIPTION:Symposium On Usable Privacy and Security\nhttps://soups.page/\n
- Location: Hannover\, Germany
-URL:https://soups.page/
 END:VEVENT
 BEGIN:VEVENT
 UID:wisec-2026-0-paper@conference-deadlines
@@ -151,17 +95,6 @@ DESCRIPTION:European Symposium on Research in Computer Security\nhttps://si
 URL:https://sites.google.com/di.uniroma1.it/esorics2026/home
 END:VEVENT
 BEGIN:VEVENT
-UID:ccs-2026-0-paper@conference-deadlines
-DTSTAMP:20260430T115959Z
-DTSTART:20260430T115959Z
-DTEND:20260430T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCS 2026 deadline (Second Review Cycle)
-DESCRIPTION:ACM Conference on Computer and Communications Security\nhttps:/
- /www.sigsac.org/ccs/CCS2026/\nLocation: World Forum\, Hague\, Netherlands
-URL:https://www.sigsac.org/ccs/CCS2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:nspw-2026-0-paper@conference-deadlines
 DTSTAMP:20260501T115959Z
 DTSTART:20260501T115959Z
@@ -182,6 +115,17 @@ SUMMARY:SRDS 2026 deadline (Full Paper Submission)
 DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
  ttps://srds-conference.org/\nLocation: Rome\, Italy
 URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sac-2026-0-paper@conference-deadlines
+DTSTAMP:20260512T115959Z
+DTSTART:20260512T115959Z
+DTEND:20260512T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 2))
+DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
+ nLocation: Ottawa\, Ontario\, Canada
+URL:https://sacworkshop.org/SAC26/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcc-2026-0-paper@conference-deadlines
@@ -230,15 +174,26 @@ DESCRIPTION:Annual Computer Security Applications Conference\nhttps://www.a
 URL:https://www.acsac.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:isc-2026-0-paper@conference-deadlines
-DTSTAMP:20260623T115959Z
-DTSTART:20260623T115959Z
-DTEND:20260623T122959Z
+UID:dfrws-apac-2026-0-abstract@conference-deadlines
+DTSTAMP:20260530T115959Z
+DTSTART:20260530T115959Z
+DTEND:20260530T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ISC 2026 deadline
-DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
- cation: Rennes\, France
-URL:https://isc2026.github.io/
+SUMMARY:DFRWS APAC 2026 abstract deadline
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
+ org/conferences/dfrws-apac-2026/\nLocation: Singapore
+URL:https://dfrws.org/conferences/dfrws-apac-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-apac-2026-0-paper@conference-deadlines
+DTSTAMP:20260606T115959Z
+DTSTART:20260606T115959Z
+DTEND:20260606T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS APAC 2026 deadline
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
+ org/conferences/dfrws-apac-2026/\nLocation: Singapore
+URL:https://dfrws.org/conferences/dfrws-apac-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:inscrypt-2026-0-paper@conference-deadlines
@@ -250,6 +205,17 @@ SUMMARY:INSCRYPT 2026 deadline (2nd Round)
 DESCRIPTION:International Conference on Information Security and Cryptology
  \nhttps://inscrypt2026.comp.polyu.edu.hk\nLocation: Hong Kong SAR\, China
 URL:https://inscrypt2026.comp.polyu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2026-0-paper@conference-deadlines
+DTSTAMP:20260703T115959Z
+DTSTART:20260703T115959Z
+DTEND:20260703T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISC 2026 deadline
+DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
+ cation: Rennes\, France
+URL:https://isc2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:cscloud-2026-0-paper@conference-deadlines
@@ -284,6 +250,17 @@ SUMMARY:NDSS 2027 deadline (Fall)
 DESCRIPTION:Network and Distributed System Security (NDSS) Symposium\nhttps
  ://www.ndss-symposium.org/ndss2027/\nLocation: Seoul\, Republic of Korea
 URL:https://www.ndss-symposium.org/ndss2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:indocrypt-2026-0-paper@conference-deadlines
+DTSTAMP:20260828T115959Z
+DTSTART:20260828T115959Z
+DTEND:20260828T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INDOCRYPT 2026 deadline (Extended submission deadline)
+DESCRIPTION:International Conference on Cryptology in India\nhttps://indocr
+ ypt2026.cdacb.in/\nLocation: Bengaluru\, India
+URL:https://indocrypt2026.cdacb.in/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurocrypt-2027-0-paper@conference-deadlines
@@ -330,26 +307,15 @@ DESCRIPTION:Financial Cryptography and Data Security\nhttps://fc27.ifca.ai/
 URL:https://fc27.ifca.ai/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfrws-2027-0-abstract@conference-deadlines
-DTSTAMP:20260919T115959Z
-DTSTART:20260919T115959Z
-DTEND:20260919T122959Z
+UID:satml-2027-0-abstract@conference-deadlines
+DTSTAMP:20260923T115959Z
+DTSTART:20260923T115959Z
+DTEND:20260923T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:DFRWS 2027 abstract deadline
-DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
- es/dfceurope2027/\nLocation: Edinburgh\, Scotland
-URL:https://dfrws.org/conferences/dfceurope2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:dfrws-2027-0-paper@conference-deadlines
-DTSTAMP:20260926T115959Z
-DTSTART:20260926T115959Z
-DTEND:20260926T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DFRWS 2027 deadline
-DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
- es/dfceurope2027/\nLocation: Edinburgh\, Scotland
-URL:https://dfrws.org/conferences/dfceurope2027/
+SUMMARY:SATML 2027 abstract deadline
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\nhtt
+ ps://satml.org/\nLocation: Reykjavik\, Iceland
+URL:https://satml.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:satml-2027-0-paper@conference-deadlines
@@ -361,6 +327,28 @@ SUMMARY:SATML 2027 deadline
 DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\nhtt
  ps://satml.org/\nLocation: Reykjavik\, Iceland
 URL:https://satml.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-2027-0-abstract@conference-deadlines
+DTSTAMP:20261003T115959Z
+DTSTART:20261003T115959Z
+DTEND:20261003T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2027 abstract deadline (Extended deadlines)
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfceurope2027/\nLocation: Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfrws-2027-0-paper@conference-deadlines
+DTSTAMP:20261010T115959Z
+DTSTART:20261010T115959Z
+DTEND:20261010T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DFRWS 2027 deadline (Extended deadlines)
+DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
+ es/dfceurope2027/\nLocation: Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
@@ -463,6 +451,17 @@ DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
 URL:https://www.sacmat.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:noms-2027-0-paper@conference-deadlines
+DTSTAMP:20261110T115959Z
+DTSTART:20261110T115959Z
+DTEND:20261110T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NOMS 2027 deadline
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\nhttps://
+ noms2027.ieee-noms.org/\nLocation: Montreal\, Canada
+URL:https://noms2027.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:s-p-2027-0-abstract@conference-deadlines
 DTSTAMP:20261111T115959Z
 DTSTART:20261111T115959Z
@@ -549,6 +548,18 @@ SUMMARY:PETS 2027 deadline (Issue 4 Paper Submission Deadline)
 DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
  org/cfp27.php\nLocation: Delft\, The Netherlands
 URL:https://petsymposium.org/cfp27.php
+END:VEVENT
+BEGIN:VEVENT
+UID:fse-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSE 2027 deadline (ToSC\, Volume 2027\, Issue 1 Submission deadline
+ )
+DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2027/\nLocation:
+  Maastricht\, Netherlands
+URL:https://fse.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:dsn-2027-0-abstract@conference-deadlines
@@ -640,11 +651,23 @@ URL:https://www.usenix.org/conference/usenixsecurity27
 END:VEVENT
 BEGIN:VEVENT
 UID:securecomm-2027-0-paper@conference-deadlines
-DTSTAMP:20270302T115959Z
-DTSTART:20270302T115959Z
-DTEND:20270302T122959Z
+DTSTAMP:20270202T115959Z
+DTSTART:20270202T115959Z
+DTEND:20270202T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline)
+SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline (Cycle 1))
+DESCRIPTION:International Conference on Security and Privacy in Communicati
+ on Networks\nhttps://securecomm.eai-conferences.org/2027/\nLocation: Hefei
+ \, China
+URL:https://securecomm.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:securecomm-2027-1-paper@conference-deadlines
+DTSTAMP:20270416T115959Z
+DTSTART:20270416T115959Z
+DTEND:20270416T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SecureComm 2027 deadline (Full Paper Submission deadline (Cycle 2))
 DESCRIPTION:International Conference on Security and Privacy in Communicati
  on Networks\nhttps://securecomm.eai-conferences.org/2027/\nLocation: Hefei
  \, China
