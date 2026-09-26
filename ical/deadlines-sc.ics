@@ -274,28 +274,6 @@ DESCRIPTION:European Cryptology Conference\nhttps://eurocrypt.iacr.org/2027
 URL:https://eurocrypt.iacr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:acns-2027-0-paper@conference-deadlines
-DTSTAMP:20260925T115959Z
-DTSTART:20260925T115959Z
-DTEND:20260925T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACNS 2027 deadline (Cycle 1 Submission deadline)
-DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
- .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
-URL:https://acns2027.isg.rhul.ac.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:acns-2027-1-paper@conference-deadlines
-DTSTAMP:20270122T115959Z
-DTSTART:20270122T115959Z
-DTEND:20270122T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
-DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
- .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
-URL:https://acns2027.isg.rhul.ac.uk/
-END:VEVENT
-BEGIN:VEVENT
 UID:fc-2027-0-paper@conference-deadlines
 DTSTAMP:20260925T115959Z
 DTSTART:20260925T115959Z
@@ -626,6 +604,17 @@ SUMMARY:ICDF2C 2027 deadline (Full Paper Submission deadline)
 DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
  tps://icdf2c.eai-conferences.org/2027/\nLocation: New York\, USA
 URL:https://icdf2c.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-2027-0-paper@conference-deadlines
+DTSTAMP:20270122T115959Z
+DTSTART:20270122T115959Z
+DTEND:20270122T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
+DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
+ .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
+URL:https://acns2027.isg.rhul.ac.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:usenix-security-2027-0-abstract@conference-deadlines

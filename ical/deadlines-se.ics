@@ -569,6 +569,18 @@ DESCRIPTION:International Conference on Mining Software Repositories\nhttps
 URL:https://2027.msrconf.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:pepm-2027-0-paper@conference-deadlines
+DTSTAMP:20261024T115959Z
+DTSTART:20261024T115959Z
+DTEND:20261024T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PEPM 2027 deadline
+DESCRIPTION:ACM SIGPLAN Workshop on Partial Evaluation and Program Manipula
+ tion\nhttps://popl27.sigplan.org/home/pepm-2027\nLocation: Mexico City\, M
+ exico
+URL:https://popl27.sigplan.org/home/pepm-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:icst-2027-0-paper@conference-deadlines
 DTSTAMP:20261103T115959Z
 DTSTART:20261103T115959Z

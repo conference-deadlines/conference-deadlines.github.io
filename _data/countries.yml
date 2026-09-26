@@ -12,15 +12,19 @@
 - name: Cambodia
   count: 1
 - name: Canada
-  count: 13
+  count: 12
 - name: Chile
   count: 1
 - name: China
   count: 39
+- name: Cyprus
+  count: 1
 - name: Czechia
   count: 3
 - name: Denmark
   count: 2
+- name: Estonia
+  count: 1
 - name: Finland
   count: 2
 - name: France
@@ -50,7 +54,7 @@
 - name: Malaysia
   count: 2
 - name: Mexico
-  count: 3
+  count: 4
 - name: Morocco
   count: 3
 - name: Netherlands
@@ -76,7 +80,7 @@
 - name: Switzerland
   count: 3
 - name: Taiwan
-  count: 2
+  count: 3
 - name: Thailand
   count: 1
 - name: United Arab Emirates
@@ -84,6 +88,6 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 74
+  count: 75
 - name: Vietnam
   count: 5

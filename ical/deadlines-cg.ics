@@ -305,17 +305,6 @@ DESCRIPTION:ACM Multimedia Asia\nhttps://www.mmasia2026.org/\nLocation: Vin
 URL:https://www.mmasia2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icassp-2027-0-paper@conference-deadlines
-DTSTAMP:20260924T115959Z
-DTSTART:20260924T115959Z
-DTEND:20260924T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICASSP 2027 deadline
-DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Signa
- l Processing\nhttps://2027.ieeeicassp.org/\nLocation: Toronto\, Canada
-URL:https://2027.ieeeicassp.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:eurographics-2027-0-abstract@conference-deadlines
 DTSTAMP:20260925T235959Z
 DTSTART:20260925T235959Z

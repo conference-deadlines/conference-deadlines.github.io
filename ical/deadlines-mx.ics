@@ -228,12 +228,12 @@ DESCRIPTION:IEEE International Conference on Big Data\nhttps://bigdataieee.
 URL:https://bigdataieee.org/BigData2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:sai-computing-conference-2027-0-paper@conference-deadlines
+UID:sai-2027-0-paper@conference-deadlines
 DTSTAMP:20261002T115900Z
 DTSTART:20261002T115900Z
 DTEND:20261002T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:SAI Computing Conference 2027 deadline
+SUMMARY:SAI 2027 deadline
 DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
  \nLocation: London\, United Kingdom
 URL:https://saiconference.com/Computing

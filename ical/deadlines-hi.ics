@@ -254,4 +254,59 @@ DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
  m.org/2027/\nLocation: Stockholm\, Sweden
 URL:https://dis.acm.org/2027/
 END:VEVENT
+BEGIN:VEVENT
+UID:whc-2027-0-paper@conference-deadlines
+DTSTAMP:20270130T115959Z
+DTSTART:20270130T115959Z
+DTEND:20270130T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WHC 2027 deadline
+DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
+ Location: Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:interact-2027-0-abstract@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INTERACT 2027 abstract deadline
+DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interactio
+ n\nhttps://interact2027.org/\nLocation: Tallinn\, Estonia
+URL:https://interact2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:interact-2027-0-paper@conference-deadlines
+DTSTAMP:20270202T115959Z
+DTSTART:20270202T115959Z
+DTEND:20270202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INTERACT 2027 deadline
+DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interactio
+ n\nhttps://interact2027.org/\nLocation: Tallinn\, Estonia
+URL:https://interact2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobilehci-2027-0-abstract@conference-deadlines
+DTSTAMP:20270211T115959Z
+DTSTART:20270211T115959Z
+DTEND:20270211T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobileHCI 2027 abstract deadline
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interacti
+ on\nhttps://mobilehci.acm.org/2027/\nLocation: Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobilehci-2027-0-paper@conference-deadlines
+DTSTAMP:20270218T115959Z
+DTSTART:20270218T115959Z
+DTEND:20270218T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobileHCI 2027 deadline
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interacti
+ on\nhttps://mobilehci.acm.org/2027/\nLocation: Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+END:VEVENT
 END:VCALENDAR

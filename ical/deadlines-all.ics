@@ -3344,17 +3344,6 @@ DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
 URL:https://www.date-conference.com/date-2027-call-papers
 END:VEVENT
 BEGIN:VEVENT
-UID:icassp-2027-0-paper@conference-deadlines
-DTSTAMP:20260924T115959Z
-DTSTART:20260924T115959Z
-DTEND:20260924T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICASSP 2027 deadline
-DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Signa
- l Processing\nhttps://2027.ieeeicassp.org/\nLocation: Toronto\, Canada
-URL:https://2027.ieeeicassp.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:eurosys-2027-0-abstract@conference-deadlines
 DTSTAMP:20260918T115959Z
 DTSTART:20260918T115959Z
@@ -3375,28 +3364,6 @@ SUMMARY:EuroSys 2027 deadline (Fall Submission Deadline)
 DESCRIPTION:European Conference on Computer Systems\nhttps://2027.eurosys.o
  rg/\nLocation: Rabat\, Morocco
 URL:https://2027.eurosys.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:acns-2027-0-paper@conference-deadlines
-DTSTAMP:20260925T115959Z
-DTSTART:20260925T115959Z
-DTEND:20260925T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACNS 2027 deadline (Cycle 1 Submission deadline)
-DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
- .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
-URL:https://acns2027.isg.rhul.ac.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:acns-2027-1-paper@conference-deadlines
-DTSTAMP:20270122T115959Z
-DTSTART:20270122T115959Z
-DTEND:20270122T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
-DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
- .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
-URL:https://acns2027.isg.rhul.ac.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:fc-2027-0-paper@conference-deadlines
@@ -3499,6 +3466,28 @@ SUMMARY:ICLR 2027 deadline
 DESCRIPTION:International Conference on Learning Representations\nhttps://i
  clr.cc/Conferences/2027\nLocation: San Francisco\, CA\, USA
 URL:https://iclr.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ispd-2027-0-abstract@conference-deadlines
+DTSTAMP:20260922T115959Z
+DTSTART:20260922T115959Z
+DTEND:20260922T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPD 2027 abstract deadline
+DESCRIPTION:International Symposium on Physical Design\nhttps://ispd.cc/isp
+ d2027/\nLocation: Taipei\, Taiwan
+URL:https://ispd.cc/ispd2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ispd-2027-0-paper@conference-deadlines
+DTSTAMP:20260929T115959Z
+DTSTART:20260929T115959Z
+DTEND:20260929T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPD 2027 deadline
+DESCRIPTION:International Symposium on Physical Design\nhttps://ispd.cc/isp
+ d2027/\nLocation: Taipei\, Taiwan
+URL:https://ispd.cc/ispd2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:satml-2027-0-abstract@conference-deadlines
@@ -3635,12 +3624,12 @@ DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
 URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:sai-computing-conference-2027-0-paper@conference-deadlines
+UID:sai-2027-0-paper@conference-deadlines
 DTSTAMP:20261002T115900Z
 DTSTART:20261002T115900Z
 DTEND:20261002T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:SAI Computing Conference 2027 deadline
+SUMMARY:SAI 2027 deadline
 DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
  \nLocation: London\, United Kingdom
 URL:https://saiconference.com/Computing
@@ -4105,6 +4094,18 @@ SUMMARY:MSR 2027 deadline
 DESCRIPTION:International Conference on Mining Software Repositories\nhttps
  ://2027.msrconf.org/\nLocation: Dublin\, Ireland
 URL:https://2027.msrconf.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:pepm-2027-0-paper@conference-deadlines
+DTSTAMP:20261024T115959Z
+DTSTART:20261024T115959Z
+DTEND:20261024T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PEPM 2027 deadline
+DESCRIPTION:ACM SIGPLAN Workshop on Partial Evaluation and Program Manipula
+ tion\nhttps://popl27.sigplan.org/home/pepm-2027\nLocation: Mexico City\, M
+ exico
+URL:https://popl27.sigplan.org/home/pepm-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:www-2027-0-abstract@conference-deadlines
@@ -5003,6 +5004,17 @@ DESCRIPTION:International Conference on Computer-Aided Verification\nhttps:
 URL:https://conferences.i-cav.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:acns-2027-0-paper@conference-deadlines
+DTSTAMP:20270122T115959Z
+DTSTART:20270122T115959Z
+DTEND:20270122T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACNS 2027 deadline (Cycle 2 Submission deadline)
+DESCRIPTION:Applied Cryptography and Network Security\nhttps://acns2027.isg
+ .rhul.ac.uk/\nLocation: Royal Holloway\, Egham\, UK
+URL:https://acns2027.isg.rhul.ac.uk/
+END:VEVENT
+BEGIN:VEVENT
 UID:sigir-2027-0-abstract@conference-deadlines
 DTSTAMP:20270115T115959Z
 DTSTART:20270115T115959Z
@@ -5073,6 +5085,17 @@ DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
 URL:https://www.usenix.org/conference/usenixsecurity27
 END:VEVENT
 BEGIN:VEVENT
+UID:whc-2027-0-paper@conference-deadlines
+DTSTAMP:20270130T115959Z
+DTSTART:20270130T115959Z
+DTEND:20270130T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WHC 2027 deadline
+DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
+ Location: Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:compsac-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z
@@ -5130,6 +5153,28 @@ DESCRIPTION:International Conference on Security and Privacy in Communicati
 URL:https://securecomm.eai-conferences.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:interact-2027-0-abstract@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INTERACT 2027 abstract deadline
+DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interactio
+ n\nhttps://interact2027.org/\nLocation: Tallinn\, Estonia
+URL:https://interact2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:interact-2027-0-paper@conference-deadlines
+DTSTAMP:20270202T115959Z
+DTSTART:20270202T115959Z
+DTEND:20270202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:INTERACT 2027 deadline
+DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interactio
+ n\nhttps://interact2027.org/\nLocation: Tallinn\, Estonia
+URL:https://interact2027.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:eusipco-2027-0-paper@conference-deadlines
 DTSTAMP:20270207T115959Z
 DTSTART:20270207T115959Z
@@ -5150,6 +5195,28 @@ SUMMARY:InterSpeech 2027 deadline
 DESCRIPTION:Conference of the International Speech Communication Associatio
  n\nhttps://interspeech2027.org/\nLocation: São Paulo\, Brazil
 URL:https://interspeech2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobilehci-2027-0-abstract@conference-deadlines
+DTSTAMP:20270211T115959Z
+DTSTART:20270211T115959Z
+DTEND:20270211T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobileHCI 2027 abstract deadline
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interacti
+ on\nhttps://mobilehci.acm.org/2027/\nLocation: Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:mobilehci-2027-0-paper@conference-deadlines
+DTSTAMP:20270218T115959Z
+DTSTART:20270218T115959Z
+DTEND:20270218T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MobileHCI 2027 deadline
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interacti
+ on\nhttps://mobilehci.acm.org/2027/\nLocation: Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2027-0-abstract@conference-deadlines

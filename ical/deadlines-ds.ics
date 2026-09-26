@@ -796,6 +796,28 @@ DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
 URL:https://spaa.acm.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:ispd-2027-0-abstract@conference-deadlines
+DTSTAMP:20260922T115959Z
+DTSTART:20260922T115959Z
+DTEND:20260922T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPD 2027 abstract deadline
+DESCRIPTION:International Symposium on Physical Design\nhttps://ispd.cc/isp
+ d2027/\nLocation: Taipei\, Taiwan
+URL:https://ispd.cc/ispd2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ispd-2027-0-paper@conference-deadlines
+DTSTAMP:20260929T115959Z
+DTSTART:20260929T115959Z
+DTEND:20260929T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPD 2027 deadline
+DESCRIPTION:International Symposium on Physical Design\nhttps://ispd.cc/isp
+ d2027/\nLocation: Taipei\, Taiwan
+URL:https://ispd.cc/ispd2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:ispa-2026-0-paper@conference-deadlines
 DTSTAMP:20261001T115959Z
 DTSTART:20261001T115959Z

@@ -3278,21 +3278,6 @@
   date: March 22-24, 2027
   place: Dresden, Germany
   country: Germany
-- name: ICASSP
-  description: IEEE International Conference on Acoustics, Speech, and Signal Processing
-  year: 2027
-  link: https://2027.ieeeicassp.org/
-  deadlines:
-  - date: '2026-09-23T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/icassp/index.html
-  date: May 16-21, 2027
-  place: Toronto, Canada
-  country: Canada
 - name: EuroSys
   description: European Conference on Computer Systems
   year: 2027
@@ -3305,27 +3290,11 @@
   - DS
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/eurosys/index.html
   date: April 19-23, 2027
   place: Rabat, Morocco
   country: Morocco
-- name: ACNS
-  description: Applied Cryptography and Network Security
-  year: 2027
-  link: https://acns2027.isg.rhul.ac.uk/
-  deadlines:
-  - date: '2026-09-24T23:59:59-12:00'
-    comment: Cycle 1 Submission deadline
-  - date: '2027-01-21T23:59:59-12:00'
-    comment: Cycle 2 Submission deadline
-  areas:
-  - SC
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/acns/index.html
-  date: June 28 - July 1, 2027
-  place: Royal Holloway, Egham, UK
-  country: United Kingdom
 - name: FC
   description: Financial Cryptography and Data Security
   year: 2027
@@ -3337,6 +3306,7 @@
   - SC
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/fc/index.html
   date: February 8-12, 2027
   place: Barbados
@@ -3391,6 +3361,21 @@
   date: April 26-30, 2027
   place: San Francisco, CA, USA
   country: United States
+- name: ISPD
+  description: International Symposium on Physical Design
+  year: 2027
+  link: https://ispd.cc/ispd2027/
+  deadlines:
+  - date: '2026-09-28T23:59:59-12:00'
+    abstract: '2026-09-21T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/ispd/index.html
+  date: March 30 - April 2, 2027
+  place: Taipei, Taiwan
+  country: Taiwan
 - name: SATML
   description: IEEE Conference on Secure and Trustworthy Machine Learning
   year: 2027
@@ -3469,7 +3454,7 @@
   date: August 23 - August 27, 2027
   place: Athens, Greece
   country: Greece
-- name: SAI Computing Conference
+- name: SAI
   description: Computing Conference (SAI)
   year: 2027
   link: https://saiconference.com/Computing
@@ -3869,6 +3854,20 @@
   date: April 26-27, 2027
   place: Dublin, Ireland
   country: Ireland
+- name: PEPM
+  description: ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation
+  year: 2027
+  link: https://popl27.sigplan.org/home/pepm-2027
+  deadlines:
+  - date: '2026-10-23T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/pepm/index.html
+  date: January 12, 2027
+  place: Mexico City, Mexico
+  country: Mexico
 - name: WWW
   description: International World Wide Web Conferences
   year: 2027
@@ -4676,6 +4675,21 @@
   date: July 19-23, 2027
   place: KIT, Amsterdam, The Netherlands
   country: Netherlands
+- name: ACNS
+  description: Applied Cryptography and Network Security
+  year: 2027
+  link: https://acns2027.isg.rhul.ac.uk/
+  deadlines:
+  - date: '2027-01-21T23:59:59-12:00'
+    comment: Cycle 2 Submission deadline
+  areas:
+  - SC
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/acns/index.html
+  date: June 28 - July 1, 2027
+  place: Royal Holloway, Egham, UK
+  country: United Kingdom
 - name: SIGIR
   description: International Conference on Research on Development in Information Retrieval
   year: 2027
@@ -4722,6 +4736,20 @@
   dblp: https://dblp.org/db/conf/uss/index.html
   date: August 11-13, 2027
   place: Denver, CO, USA
+  country: United States
+- name: WHC
+  description: IEEE World Haptics Conference
+  year: 2027
+  link: https://2027.worldhaptics.org/
+  deadlines:
+  - date: '2027-01-29T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/haptics/index.html
+  date: July 12-15, 2027
+  place: Boston, Massachusetts, USA
   country: United States
 - name: COMPSAC
   description: International Computer Software and Applications Conference
@@ -4782,6 +4810,21 @@
   date: October 15-18, 2027
   place: Hefei, China
   country: China
+- name: INTERACT
+  description: IFIP TC13 International Conference on Human-Computer Interaction
+  year: 2027
+  link: https://interact2027.org/
+  deadlines:
+  - date: '2027-02-01T23:59:59-12:00'
+    abstract: '2027-01-25T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/interact/index.html
+  date: August 23-27, 2027
+  place: Tallinn, Estonia
+  country: Estonia
 - name: EUSIPCO
   description: European Signal Processing Conference
   year: 2027
@@ -4810,6 +4853,21 @@
   date: August 29 - September 2, 2027
   place: São Paulo, Brazil
   country: Brazil
+- name: MobileHCI
+  description: ACM International Conference on Mobile Human-Computer Interaction
+  year: 2027
+  link: https://mobilehci.acm.org/2027/
+  deadlines:
+  - date: '2027-02-17T23:59:59-12:00'
+    abstract: '2027-02-10T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/mhci/index.html
+  date: September 20-23, 2027
+  place: Limassol, Cyprus
+  country: Cyprus
 - name: ICDAR
   description: International Conference on Document Analysis and Recognition
   year: 2027
