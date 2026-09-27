@@ -50,9 +50,9 @@ URL:https://tase2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:cp-2026-0-abstract@conference-deadlines
-DTSTAMP:20260303T115959Z
-DTSTART:20260303T115959Z
-DTEND:20260303T122959Z
+DTSTAMP:20260303T110000Z
+DTSTART:20260303T110000Z
+DTEND:20260303T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:CP 2026 abstract deadline
 DESCRIPTION:International Conference on Principles and Practice of Constrai
@@ -61,9 +61,9 @@ URL:https://cp2026.a4cp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cp-2026-0-paper@conference-deadlines
-DTSTAMP:20260315T115959Z
-DTSTART:20260315T115959Z
-DTEND:20260315T122959Z
+DTSTAMP:20260315T110000Z
+DTSTART:20260315T110000Z
+DTEND:20260315T113000Z
 TRANSP:TRANSPARENT
 SUMMARY:CP 2026 deadline
 DESCRIPTION:International Conference on Principles and Practice of Constrai
@@ -183,7 +183,7 @@ DTSTAMP:20260409T115959Z
 DTSTART:20260409T115959Z
 DTEND:20260409T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:QRS 2026 abstract deadline (Regular and Short Papers (extended))
+SUMMARY:QRS 2026 abstract deadline (Regular papers (extended))
 DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
   and Security\nhttps://qrs26.techconf.org/\nLocation: University of Floren
  ce\, Florence\, Italy
@@ -195,7 +195,7 @@ DTSTAMP:20260423T115959Z
 DTSTART:20260423T115959Z
 DTEND:20260423T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:QRS 2026 deadline (Regular and Short Papers (extended))
+SUMMARY:QRS 2026 deadline (Regular papers (extended))
 DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
   and Security\nhttps://qrs26.techconf.org/\nLocation: University of Floren
  ce\, Florence\, Italy
@@ -306,17 +306,6 @@ DESCRIPTION:International Symposium on Automated Technology for Verificatio
 URL:https://conf.researchr.org/track/aplas-atva-2026/atva-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:rv-2026-0-paper@conference-deadlines
-DTSTAMP:20260601T115959Z
-DTSTART:20260601T115959Z
-DTEND:20260601T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:RV 2026 deadline
-DESCRIPTION:International Conference on Runtime Verification\nhttps://rv202
- 6.smithengineering.queensu.ca/\nLocation: Kingston\, Canada
-URL:https://rv2026.smithengineering.queensu.ca/
-END:VEVENT
-BEGIN:VEVENT
 UID:middleware-2026-0-abstract@conference-deadlines
 DTSTAMP:20260530T115959Z
 DTSTART:20260530T115959Z
@@ -349,6 +338,17 @@ DESCRIPTION:IEEE International Working Conference on Source Code Analysis a
  nd Manipulation\nhttps://conf.researchr.org/home/scam-2026\nLocation: Bene
  vento\, Italy
 URL:https://conf.researchr.org/home/scam-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:rv-2026-0-paper@conference-deadlines
+DTSTAMP:20260617T115959Z
+DTSTART:20260617T115959Z
+DTEND:20260617T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RV 2026 deadline
+DESCRIPTION:International Conference on Runtime Verification\nhttps://rv202
+ 6.smithengineering.queensu.ca/\nLocation: Kingston\, Canada
+URL:https://rv2026.smithengineering.queensu.ca/
 END:VEVENT
 BEGIN:VEVENT
 UID:aplas-2026-0-paper@conference-deadlines
@@ -412,7 +412,7 @@ DTSTAMP:20260713T115959Z
 DTSTART:20260713T115959Z
 DTEND:20260713T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICSOC 2026 abstract deadline (Regular and industrial papers)
+SUMMARY:ICSOC 2026 abstract deadline (Regular papers)
 DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
  /icsoc2026.it.p.lodz.pl/\nLocation: Lodz\, Poland
 URL:https://icsoc2026.it.p.lodz.pl/
@@ -423,7 +423,7 @@ DTSTAMP:20260720T115959Z
 DTSTART:20260720T115959Z
 DTEND:20260720T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICSOC 2026 deadline (Regular and industrial papers)
+SUMMARY:ICSOC 2026 deadline (Regular papers)
 DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
  /icsoc2026.it.p.lodz.pl/\nLocation: Lodz\, Poland
 URL:https://icsoc2026.it.p.lodz.pl/
@@ -591,6 +591,17 @@ DESCRIPTION:IEEE International Conference on Software Testing\, Verificatio
  n and Validation\nhttps://conf.researchr.org/home/icst-2027\nLocation: San
   Sebastian\, Spain
 URL:https://conf.researchr.org/home/icst-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icpc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261030T115959Z
+DTSTART:20261030T115959Z
+DTEND:20261030T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICPC 2027 abstract deadline
+DESCRIPTION:IEEE International Conference on Program Comprehension\nhttps:/
+ /conf.researchr.org/home/icpc-2027\nLocation: Dublin\, Ireland
+URL:https://conf.researchr.org/home/icpc-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:icpc-2027-0-paper@conference-deadlines

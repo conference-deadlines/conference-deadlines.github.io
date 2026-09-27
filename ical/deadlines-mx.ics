@@ -207,9 +207,9 @@ URL:https://ieeebibm.org/BIBM2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icaif-2026-0-paper@conference-deadlines
-DTSTAMP:20260803T115959Z
-DTSTART:20260803T115959Z
-DTEND:20260803T122959Z
+DTSTAMP:20260810T115959Z
+DTSTART:20260810T115959Z
+DTEND:20260810T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICAIF 2026 deadline
 DESCRIPTION:International Conference on AI in Finance\nhttps://icaif2026.or
@@ -233,7 +233,18 @@ DTSTAMP:20261002T115900Z
 DTSTART:20261002T115900Z
 DTEND:20261002T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline
+SUMMARY:SAI 2027 deadline (Round 1)
+DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
+ \nLocation: London\, United Kingdom
+URL:https://saiconference.com/Computing
+END:VEVENT
+BEGIN:VEVENT
+UID:sai-2027-1-paper@conference-deadlines
+DTSTAMP:20261202T115900Z
+DTSTART:20261202T115900Z
+DTEND:20261202T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SAI 2027 deadline (Round 2)
 DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
  \nLocation: London\, United Kingdom
 URL:https://saiconference.com/Computing

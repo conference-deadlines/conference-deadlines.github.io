@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Networking
 BEGIN:VEVENT
 UID:forte-2026-0-abstract@conference-deadlines
-DTSTAMP:20260131T115959Z
-DTSTART:20260131T115959Z
-DTEND:20260131T122959Z
+DTSTAMP:20260214T115959Z
+DTSTART:20260214T115959Z
+DTEND:20260214T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:FORTE 2026 abstract deadline
 DESCRIPTION:International Conference on Formal Techniques for (Networked an
@@ -18,9 +18,9 @@ URL:https://www.discotec.org/2026/forte
 END:VEVENT
 BEGIN:VEVENT
 UID:forte-2026-0-paper@conference-deadlines
-DTSTAMP:20260207T115959Z
-DTSTART:20260207T115959Z
-DTEND:20260207T122959Z
+DTSTAMP:20260221T115959Z
+DTSTART:20260221T115959Z
+DTEND:20260221T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:FORTE 2026 deadline
 DESCRIPTION:International Conference on Formal Techniques for (Networked an
@@ -29,59 +29,37 @@ DESCRIPTION:International Conference on Formal Techniques for (Networked an
 URL:https://www.discotec.org/2026/forte
 END:VEVENT
 BEGIN:VEVENT
+UID:iwqos-2026-0-abstract@conference-deadlines
+DTSTAMP:20260217T115959Z
+DTSTART:20260217T115959Z
+DTEND:20260217T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IWQoS 2026 abstract deadline
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
+ /iwqos2026.ieee-iwqos.org/\nLocation: Istanbul\, Türkiye
+URL:https://iwqos2026.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:iwqos-2026-0-paper@conference-deadlines
+DTSTAMP:20260224T115959Z
+DTSTART:20260224T115959Z
+DTEND:20260224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IWQoS 2026 deadline
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
+ /iwqos2026.ieee-iwqos.org/\nLocation: Istanbul\, Türkiye
+URL:https://iwqos2026.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:networking-2026-0-paper@conference-deadlines
-DTSTAMP:20260209T115959Z
-DTSTART:20260209T115959Z
-DTEND:20260209T122959Z
+DTSTAMP:20260301T115959Z
+DTSTART:20260301T115959Z
+DTEND:20260301T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:Networking 2026 deadline
 DESCRIPTION:IFIP International Conference on Networking\nhttps://networking
  .ifip.org/2026/\nLocation: Lugano\, Switzerland
 URL:https://networking.ifip.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:iwqos-2026-0-abstract@conference-deadlines
-DTSTAMP:20260203T115959Z
-DTSTART:20260203T115959Z
-DTEND:20260203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IWQoS 2026 abstract deadline
-DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
- /iwqos2026.ieee-iwqos.org/\nLocation: Dubai\, United Arab Emirates
-URL:https://iwqos2026.ieee-iwqos.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:iwqos-2026-0-paper@conference-deadlines
-DTSTAMP:20260210T115959Z
-DTSTART:20260210T115959Z
-DTEND:20260210T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IWQoS 2026 deadline
-DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
- /iwqos2026.ieee-iwqos.org/\nLocation: Dubai\, United Arab Emirates
-URL:https://iwqos2026.ieee-iwqos.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icccn-2026-0-paper@conference-deadlines
-DTSTAMP:20260214T095959Z
-DTSTART:20260214T095959Z
-DTEND:20260214T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCCN 2026 deadline
-DESCRIPTION:IEEE International Conference on Computer Communications and Ne
- tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
-URL:http://www.icccn.org/ICCCN26/
-END:VEVENT
-BEGIN:VEVENT
-UID:iscc-2026-0-paper@conference-deadlines
-DTSTAMP:20260215T235959Z
-DTSTART:20260215T235959Z
-DTEND:20260216T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISCC 2026 deadline
-DESCRIPTION:IEEE Symposium on Computers and Communications\nhttps://ieee-is
- cc.computer.org/2026/\nLocation: Vilamoura\, Algarve\, Portugal
-URL:https://ieee-iscc.computer.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:apnet-2026-0-paper@conference-deadlines
@@ -93,6 +71,28 @@ SUMMARY:APNet 2026 deadline
 DESCRIPTION:Asia-Pacific Workshop on Networking\nhttps://conferences.sigcom
  m.org/events/apnet2026/\nLocation: Singapore
 URL:https://conferences.sigcomm.org/events/apnet2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icccn-2026-0-abstract@conference-deadlines
+DTSTAMP:20260308T095959Z
+DTSTART:20260308T095959Z
+DTEND:20260308T102959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCCN 2026 abstract deadline
+DESCRIPTION:IEEE International Conference on Computer Communications and Ne
+ tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
+END:VEVENT
+BEGIN:VEVENT
+UID:icccn-2026-0-paper@conference-deadlines
+DTSTAMP:20260314T095959Z
+DTSTART:20260314T095959Z
+DTEND:20260314T102959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCCN 2026 deadline
+DESCRIPTION:IEEE International Conference on Computer Communications and Ne
+ tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
 END:VEVENT
 BEGIN:VEVENT
 UID:wasa-2026-0-paper@conference-deadlines
@@ -171,17 +171,6 @@ SUMMARY:ICNP 2026 deadline
 DESCRIPTION:IEEE International Conference on Network Protocols\nhttps://icn
  p26.cs.ucr.edu/\nLocation: Tempe\, Arizona\, USA
 URL:https://icnp26.cs.ucr.edu/
-END:VEVENT
-BEGIN:VEVENT
-UID:wicon-2026-0-paper@conference-deadlines
-DTSTAMP:20260601T205959Z
-DTSTART:20260601T205959Z
-DTEND:20260601T212959Z
-TRANSP:TRANSPARENT
-SUMMARY:WiCON 2026 deadline
-DESCRIPTION:International Wireless Internet Conference\nhttps://wicon.eai-c
- onferences.org/2026/\nLocation: Bratislava\, Slovakia
-URL:https://wicon.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:mswim-2026-0-paper@conference-deadlines
@@ -308,6 +297,17 @@ DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
  \nhttps://www.usenix.org/conference/nsdi27\nLocation: Providence\, RI\, US
  A
 URL:https://www.usenix.org/conference/nsdi27
+END:VEVENT
+BEGIN:VEVENT
+UID:wicon-2026-0-paper@conference-deadlines
+DTSTAMP:20260930T235959Z
+DTSTART:20260930T235959Z
+DTEND:20261001T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:WiCON 2026 deadline
+DESCRIPTION:International Wireless Internet Conference\nhttps://wicon.eai-c
+ onferences.org/2026/\nLocation: Bratislava\, Slovakia
+URL:https://wicon.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icc-2027-0-paper@conference-deadlines

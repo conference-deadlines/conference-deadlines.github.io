@@ -17,25 +17,14 @@ URL:https://pam2026.at/
 END:VEVENT
 BEGIN:VEVENT
 UID:crypto-2026-0-paper@conference-deadlines
-DTSTAMP:20260213T115959Z
-DTSTART:20260213T115959Z
-DTEND:20260213T122959Z
+DTSTAMP:20260213T075959Z
+DTSTART:20260213T075959Z
+DTEND:20260213T082959Z
 TRANSP:TRANSPARENT
 SUMMARY:CRYPTO 2026 deadline
 DESCRIPTION:International Cryptology Conference\nhttps://crypto.iacr.org/20
  26/\nLocation: Santa Barbara\, USA
 URL:https://crypto.iacr.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ih-mmsec-2026-0-paper@conference-deadlines
-DTSTAMP:20260217T115959Z
-DTSTART:20260217T115959Z
-DTEND:20260217T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IH&MMSec 2026 deadline (Submission Deadline)
-DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\nhtt
- ps://www.ihmmsec.org/cms/home/home2026.html\nLocation: Florence\, Italy
-URL:https://www.ihmmsec.org/cms/home/home2026.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dimva-2026-0-paper@conference-deadlines
@@ -95,15 +84,26 @@ DESCRIPTION:European Symposium on Research in Computer Security\nhttps://si
 URL:https://sites.google.com/di.uniroma1.it/esorics2026/home
 END:VEVENT
 BEGIN:VEVENT
-UID:nspw-2026-0-paper@conference-deadlines
-DTSTAMP:20260501T115959Z
-DTSTART:20260501T115959Z
-DTEND:20260501T122959Z
+UID:inscrypt-2026-0-paper@conference-deadlines
+DTSTAMP:20260509T115959Z
+DTSTART:20260509T115959Z
+DTEND:20260509T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:NSPW 2026 deadline
-DESCRIPTION:New Security Paradigms Workshop\nhttps://www.nspw.org/2026\nLoc
- ation: Victoria\, BC\, Canada
-URL:https://www.nspw.org/2026
+SUMMARY:INSCRYPT 2026 deadline (1st Round)
+DESCRIPTION:International Conference on Information Security and Cryptology
+ \nhttps://inscrypt2026.comp.polyu.edu.hk\nLocation: Hong Kong SAR\, China
+URL:https://inscrypt2026.comp.polyu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+UID:srds-2026-0-abstract@conference-deadlines
+DTSTAMP:20260502T115959Z
+DTSTART:20260502T115959Z
+DTEND:20260502T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SRDS 2026 abstract deadline
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
+ ttps://srds-conference.org/\nLocation: Rome\, Italy
+URL:https://srds-conference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:srds-2026-0-paper@conference-deadlines
@@ -111,7 +111,7 @@ DTSTAMP:20260509T115959Z
 DTSTART:20260509T115959Z
 DTEND:20260509T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:SRDS 2026 deadline (Full Paper Submission)
+SUMMARY:SRDS 2026 deadline
 DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
  ttps://srds-conference.org/\nLocation: Rome\, Italy
 URL:https://srds-conference.org/
@@ -126,6 +126,17 @@ SUMMARY:SAC 2026 deadline (Paper submission deadline (cycle 2))
 DESCRIPTION:Selected Areas in Cryptography\nhttps://sacworkshop.org/SAC26/\
  nLocation: Ottawa\, Ontario\, Canada
 URL:https://sacworkshop.org/SAC26/
+END:VEVENT
+BEGIN:VEVENT
+UID:nspw-2026-0-paper@conference-deadlines
+DTSTAMP:20260515T115959Z
+DTSTART:20260515T115959Z
+DTEND:20260515T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NSPW 2026 deadline
+DESCRIPTION:New Security Paradigms Workshop\nhttps://www.nspw.org/2026\nLoc
+ ation: Sooke\, BC\, Canada
+URL:https://www.nspw.org/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tcc-2026-0-paper@conference-deadlines
@@ -151,18 +162,6 @@ DESCRIPTION:International Conference on the Theory and Application of Crypt
 URL:https://asiacrypt.iacr.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icics-2026-0-paper@conference-deadlines
-DTSTAMP:20260524T115959Z
-DTSTART:20260524T115959Z
-DTEND:20260524T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICICS 2026 deadline (Second round)
-DESCRIPTION:International Conference on Information and Communications Secu
- rity\nhttps://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html\nLocation: Fukui
- \, Japan
-URL:https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
-END:VEVENT
-BEGIN:VEVENT
 UID:acsac-2026-0-paper@conference-deadlines
 DTSTAMP:20260527T115959Z
 DTSTART:20260527T115959Z
@@ -170,8 +169,20 @@ DTEND:20260527T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ACSAC 2026 deadline
 DESCRIPTION:Annual Computer Security Applications Conference\nhttps://www.a
- csac.org/\nLocation: Los Angeles\, California\, USA
-URL:https://www.acsac.org/
+ csac.org/2026/\nLocation: Los Angeles\, California\, USA
+URL:https://www.acsac.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:icics-2026-0-paper@conference-deadlines
+DTSTAMP:20260602T115959Z
+DTSTART:20260602T115959Z
+DTEND:20260602T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICICS 2026 deadline (Second round)
+DESCRIPTION:International Conference on Information and Communications Secu
+ rity\nhttps://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html\nLocation: Fukui
+ \, Japan
+URL:https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
 END:VEVENT
 BEGIN:VEVENT
 UID:dfrws-apac-2026-0-abstract@conference-deadlines
@@ -194,17 +205,6 @@ SUMMARY:DFRWS APAC 2026 deadline
 DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
  org/conferences/dfrws-apac-2026/\nLocation: Singapore
 URL:https://dfrws.org/conferences/dfrws-apac-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:inscrypt-2026-0-paper@conference-deadlines
-DTSTAMP:20260702T075959Z
-DTSTART:20260702T075959Z
-DTEND:20260702T082959Z
-TRANSP:TRANSPARENT
-SUMMARY:INSCRYPT 2026 deadline (2nd Round)
-DESCRIPTION:International Conference on Information Security and Cryptology
- \nhttps://inscrypt2026.comp.polyu.edu.hk\nLocation: Hong Kong SAR\, China
-URL:https://inscrypt2026.comp.polyu.edu.hk
 END:VEVENT
 BEGIN:VEVENT
 UID:isc-2026-0-paper@conference-deadlines

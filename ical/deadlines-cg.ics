@@ -28,9 +28,9 @@ URL:https://www.eurovis.org.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:icip-2026-0-paper@conference-deadlines
-DTSTAMP:20260204T235959Z
-DTSTART:20260204T235959Z
-DTEND:20260205T002959Z
+DTSTAMP:20260205T115959Z
+DTSTART:20260205T115959Z
+DTEND:20260205T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICIP 2026 deadline
 DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
@@ -116,9 +116,9 @@ URL:https://2026.acmmm.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:egsr-2026-0-abstract@conference-deadlines
-DTSTAMP:20260408T235959Z
-DTSTART:20260408T235959Z
-DTEND:20260409T002959Z
+DTSTAMP:20260409T115959Z
+DTSTART:20260409T115959Z
+DTEND:20260409T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:EGSR 2026 abstract deadline
 DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
@@ -127,9 +127,9 @@ URL:https://egsr2026.inria.fr/
 END:VEVENT
 BEGIN:VEVENT
 UID:egsr-2026-0-paper@conference-deadlines
-DTSTAMP:20260415T235959Z
-DTSTART:20260415T235959Z
-DTEND:20260416T002959Z
+DTSTAMP:20260416T115959Z
+DTSTART:20260416T115959Z
+DTEND:20260416T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:EGSR 2026 deadline
 DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
@@ -137,10 +137,32 @@ DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
 URL:https://egsr2026.inria.fr/
 END:VEVENT
 BEGIN:VEVENT
+UID:sca-2026-0-abstract@conference-deadlines
+DTSTAMP:20260411T115959Z
+DTSTART:20260411T115959Z
+DTEND:20260411T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SCA 2026 abstract deadline (Submission deadline (papers))
+DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
+ s://computeranimation.org/\nLocation: Barcelona\, Spain
+URL:https://computeranimation.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sca-2026-0-paper@conference-deadlines
+DTSTAMP:20260418T115959Z
+DTSTART:20260418T115959Z
+DTEND:20260418T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SCA 2026 deadline (Submission deadline (papers))
+DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
+ s://computeranimation.org/\nLocation: Barcelona\, Spain
+URL:https://computeranimation.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:cccg-2026-0-paper@conference-deadlines
-DTSTAMP:20260509T115959Z
-DTSTART:20260509T115959Z
-DTEND:20260509T122959Z
+DTSTAMP:20260513T115959Z
+DTSTART:20260513T115959Z
+DTEND:20260513T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CCCG 2026 deadline (Submission Deadline)
 DESCRIPTION:Canadian Conference on Computational Geometry\nhttps://sites.go
@@ -157,17 +179,6 @@ SUMMARY:PRCV 2026 deadline
 DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision\n
  https://www.prcv.cn/web/#/home\nLocation: Harbin\, China
 URL:https://www.prcv.cn/web/#/home
-END:VEVENT
-BEGIN:VEVENT
-UID:sca-2026-0-paper@conference-deadlines
-DTSTAMP:20260602T115959Z
-DTSTART:20260602T115959Z
-DTEND:20260602T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SCA 2026 deadline (Submission deadline (posters))
-DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
- s://computeranimation.org/\nLocation: Barcelona\, Spain
-URL:https://computeranimation.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:pg-2026-0-abstract@conference-deadlines
@@ -195,9 +206,9 @@ URL:https://pacificgraphics2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:slt-2026-0-paper@conference-deadlines
-DTSTAMP:20260618T115959Z
-DTSTART:20260618T115959Z
-DTEND:20260618T122959Z
+DTSTAMP:20260625T115959Z
+DTSTART:20260625T115959Z
+DTEND:20260625T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SLT 2026 deadline
 DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\nhttps://attend.
@@ -227,15 +238,15 @@ DESCRIPTION:International Symposium on Visual Information Communication and
 URL:https://vinci-symp.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:mmm-2027-0-paper@conference-deadlines
-DTSTAMP:20260817T115959Z
-DTSTART:20260817T115959Z
-DTEND:20260817T122959Z
+UID:mmasia-2026-0-paper@conference-deadlines
+DTSTAMP:20260815T115959Z
+DTSTART:20260815T115959Z
+DTEND:20260815T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:MMM 2027 deadline
-DESCRIPTION:International Conference on Multimedia Modeling\nhttps://www.mm
- m2027.net/\nLocation: Siem Reap\, Cambodia
-URL:https://www.mmm2027.net/
+SUMMARY:MMAsia 2026 deadline (Regular Paper)
+DESCRIPTION:ACM Multimedia Asia\nhttps://www.mmasia2026.org/\nLocation: Vin
+ University\, Hanoi\, Vietnam
+URL:https://www.mmasia2026.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icvrv-2026-0-abstract@conference-deadlines
@@ -265,11 +276,22 @@ DTSTAMP:20260829T115959Z
 DTSTART:20260829T115959Z
 DTEND:20260829T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:3DV 2027 deadline (Abstract registration and paper submission are b
- oth due Aug 28\; supplementary material is due Sep 2.)
+SUMMARY:3DV 2027 deadline (Regular-paper abstract registration and paper su
+ bmission are both due Aug 28.)
 DESCRIPTION:International Conference on 3D Vision\nhttps://3dvconf.github.i
  o/2027/\nLocation: Thessaloniki\, Greece
 URL:https://3dvconf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:mmm-2027-0-paper@conference-deadlines
+DTSTAMP:20260831T115900Z
+DTSTART:20260831T115900Z
+DTEND:20260831T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:MMM 2027 deadline (Regular papers\; extended deadline)
+DESCRIPTION:International Conference on Multimedia Modeling\nhttps://www.mm
+ m2027.net/\nLocation: Siem Reap\, Cambodia
+URL:https://www.mmm2027.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:ieee-vr-2027-0-abstract@conference-deadlines
@@ -294,21 +316,10 @@ DESCRIPTION:IEEE Virtual Reality\nhttps://ieeevr.org/2027/\nLocation: Melbo
 URL:https://ieeevr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:mmasia-2026-0-paper@conference-deadlines
-DTSTAMP:20260902T115959Z
-DTSTART:20260902T115959Z
-DTEND:20260902T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMAsia 2026 deadline (Demo / Industry Submission)
-DESCRIPTION:ACM Multimedia Asia\nhttps://www.mmasia2026.org/\nLocation: Vin
- University\, Hanoi\, Vietnam
-URL:https://www.mmasia2026.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:eurographics-2027-0-abstract@conference-deadlines
-DTSTAMP:20260925T235959Z
-DTSTART:20260925T235959Z
-DTEND:20260926T002959Z
+DTSTAMP:20260926T095900Z
+DTSTART:20260926T095900Z
+DTEND:20260926T102900Z
 TRANSP:TRANSPARENT
 SUMMARY:Eurographics 2027 abstract deadline
 DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
@@ -317,9 +328,9 @@ URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurographics-2027-0-paper@conference-deadlines
-DTSTAMP:20261001T235959Z
-DTSTART:20261001T235959Z
-DTEND:20261002T002959Z
+DTSTAMP:20261001T235900Z
+DTSTART:20261001T235900Z
+DTEND:20261002T002900Z
 TRANSP:TRANSPARENT
 SUMMARY:Eurographics 2027 deadline
 DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
@@ -439,30 +450,6 @@ DESCRIPTION:Conference of the International Speech Communication Associatio
 URL:https://interspeech2027.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:cgi-2027-0-paper@conference-deadlines
-DTSTAMP:20270228T235959Z
-DTSTART:20270228T235959Z
-DTEND:20270301T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:CGI 2027 deadline (First Track: Call for papers with final publicat
- ion in The Visual Computer Journal)
-DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
- \nLocation: Cairns\, Australia
-URL:https://cgs-network.org/cgi27/
-END:VEVENT
-BEGIN:VEVENT
-UID:cgi-2027-1-paper@conference-deadlines
-DTSTAMP:20270420T235959Z
-DTSTART:20270420T235959Z
-DTEND:20270421T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:CGI 2027 deadline (Second Track: Call for papers with final publica
- tion in LNCS Book published by Springer)
-DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
- \nLocation: Cairns\, Australia
-URL:https://cgs-network.org/cgi27/
-END:VEVENT
-BEGIN:VEVENT
 UID:ieee-cog-2027-0-paper@conference-deadlines
 DTSTAMP:20270302T115959Z
 DTSTART:20270302T115959Z
@@ -483,5 +470,17 @@ SUMMARY:IEEE CoG 2027 deadline (Auxiliary Paper)
 DESCRIPTION:IEEE Conference on Games\nhttps://cog2027.u-aizu.ac.jp/\nLocati
  on: Aizuwakamatsu\, Japan
 URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+UID:cgi-2027-0-paper@conference-deadlines
+DTSTAMP:20270420T235959Z
+DTSTART:20270420T235959Z
+DTEND:20270421T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CGI 2027 deadline (Regular conference papers (LNCS proceedings trac
+ k))
+DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
+ \nLocation: Cairns\, Australia
+URL:https://cgs-network.org/cgi27/
 END:VEVENT
 END:VCALENDAR

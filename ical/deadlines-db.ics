@@ -29,28 +29,6 @@ DESCRIPTION:SIAM International Conference on Data Mining\nhttps://www.siam.
 URL:https://www.siam.org/conferences-events/siam-conferences/sdm26/
 END:VEVENT
 BEGIN:VEVENT
-UID:wisa-2026-0-abstract@conference-deadlines
-DTSTAMP:20260421T155959Z
-DTSTART:20260421T155959Z
-DTEND:20260421T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:WISA 2026 abstract deadline
-DESCRIPTION:Web Information Systems and Applications\nhttps://conf.ccf.org.
- cn/WISA2026\nLocation: Kunming\, China
-URL:https://conf.ccf.org.cn/WISA2026
-END:VEVENT
-BEGIN:VEVENT
-UID:wisa-2026-0-paper@conference-deadlines
-DTSTAMP:20260428T155959Z
-DTSTART:20260428T155959Z
-DTEND:20260428T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:WISA 2026 deadline
-DESCRIPTION:Web Information Systems and Applications\nhttps://conf.ccf.org.
- cn/WISA2026\nLocation: Kunming\, China
-URL:https://conf.ccf.org.cn/WISA2026
-END:VEVENT
-BEGIN:VEVENT
 UID:iswc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260503T115959Z
 DTSTART:20260503T115959Z
@@ -73,15 +51,16 @@ DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
 URL:https://iswc2026.semanticweb.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:apweb-waim-2026-0-paper@conference-deadlines
-DTSTAMP:20260515T115959Z
-DTSTART:20260515T115959Z
-DTEND:20260515T122959Z
+UID:wisa-2026-0-paper@conference-deadlines
+DTSTAMP:20260518T155959Z
+DTSTART:20260518T155959Z
+DTEND:20260518T162959Z
 TRANSP:TRANSPARENT
-SUMMARY:APWeb-WAIM 2026 deadline (second round)
-DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
- https://conferences.sigappfr.org/apweb2026/\nLocation: Danang\, Vietnam
-URL:https://conferences.sigappfr.org/apweb2026/
+SUMMARY:WISA 2026 deadline (Regular papers\; final abstract and paper cutof
+ fs from the official submission-platform API)
+DESCRIPTION:Web Information Systems and Applications\nhttps://conf.ccf.org.
+ cn/WISA2026\nLocation: Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cikm-2026-0-abstract@conference-deadlines
@@ -106,6 +85,17 @@ DESCRIPTION:ACM International Conference on Information and Knowledge Manag
 URL:https://cikm2026.diag.uniroma1.it/
 END:VEVENT
 BEGIN:VEVENT
+UID:apweb-waim-2026-0-paper@conference-deadlines
+DTSTAMP:20260525T115959Z
+DTSTART:20260525T115959Z
+DTEND:20260525T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:APWeb-WAIM 2026 deadline (second round)
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
+ https://conferences.sigappfr.org/apweb2026/\nLocation: Danang\, Vietnam
+URL:https://conferences.sigappfr.org/apweb2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:icdm-2026-0-paper@conference-deadlines
 DTSTAMP:20260607T115959Z
 DTSTART:20260607T115959Z
@@ -126,6 +116,17 @@ SUMMARY:WISE 2026 deadline (Extended submission deadline)
 DESCRIPTION:International Conference on Web Information Systems Engineering
  \nhttps://conferences.sigappfr.org/wise2026/\nLocation: Venice\, Italy
 URL:https://conferences.sigappfr.org/wise2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:adma-2026-0-paper@conference-deadlines
+DTSTAMP:20260718T115959Z
+DTSTART:20260718T115959Z
+DTEND:20260718T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ADMA 2026 deadline (Main Track)
+DESCRIPTION:The International Conference on Advanced Data Mining and Applic
+ ations\nhttps://adma2026.github.io/\nLocation: Hong Kong\, China
+URL:https://adma2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigkdd-2027-0-abstract@conference-deadlines
@@ -161,6 +162,28 @@ DESCRIPTION:International Conference on Innovative Data Systems Research\nh
 URL:https://www.cidrdb.org/cidr2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:wsdm-2027-0-abstract@conference-deadlines
+DTSTAMP:20260818T115959Z
+DTSTART:20260818T115959Z
+DTEND:20260818T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WSDM 2027 abstract deadline (Full Paper)
+DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
+ /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:wsdm-2027-0-paper@conference-deadlines
+DTSTAMP:20260825T115959Z
+DTSTART:20260825T115959Z
+DTEND:20260825T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WSDM 2027 deadline (Full Paper)
+DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
+ /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:icdt-2027-0-abstract@conference-deadlines
 DTSTAMP:20260904T115959Z
 DTSTART:20260904T115959Z
@@ -181,17 +204,6 @@ SUMMARY:ICDT 2027 deadline
 DESCRIPTION:International Conference on Database Theory\nhttps://edbticdt20
  27.github.io/\nLocation: Lille\, France
 URL:https://edbticdt2027.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:adma-2026-0-paper@conference-deadlines
-DTSTAMP:20260912T115959Z
-DTSTART:20260912T115959Z
-DTEND:20260912T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ADMA 2026 deadline (Encore Paper)
-DESCRIPTION:The International Conference on Advanced Data Mining and Applic
- ations\nhttps://adma2026.github.io/\nLocation: Hong Kong\, China
-URL:https://adma2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:vldb-2027-0-abstract@conference-deadlines
@@ -324,17 +336,6 @@ SUMMARY:ICDE 2027 deadline (second round)
 DESCRIPTION:IEEE International Conference on Data Engineering\nhttps://icde
  2027.github.io/\nLocation: Copenhagen\, Denmark
 URL:https://icde2027.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:wsdm-2027-0-paper@conference-deadlines
-DTSTAMP:20261118T115959Z
-DTSTART:20261118T115959Z
-DTEND:20261118T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WSDM 2027 deadline (Short Paper)
-DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
- /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
-URL:https://wsdm-conference.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:pakdd-2027-0-paper@conference-deadlines

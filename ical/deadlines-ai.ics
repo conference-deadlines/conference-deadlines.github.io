@@ -158,9 +158,9 @@ DTSTART:20260327T115959Z
 DTEND:20260327T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:COLM 2026 abstract deadline
-DESCRIPTION:Conference on Language Modeling\nhttps://colmweb.org\nLocation:
-  Hilton Union Square\, San Francisco\, USA
-URL:https://colmweb.org
+DESCRIPTION:Conference on Language Modeling\nhttps://colm.cc/Conferences/20
+ 26/CallForPapers\nLocation: Hilton Union Square\, San Francisco\, USA
+URL:https://colm.cc/Conferences/2026/CallForPapers
 END:VEVENT
 BEGIN:VEVENT
 UID:colm-2026-0-paper@conference-deadlines
@@ -169,9 +169,9 @@ DTSTART:20260401T115959Z
 DTEND:20260401T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:COLM 2026 deadline
-DESCRIPTION:Conference on Language Modeling\nhttps://colmweb.org\nLocation:
-  Hilton Union Square\, San Francisco\, USA
-URL:https://colmweb.org
+DESCRIPTION:Conference on Language Modeling\nhttps://colm.cc/Conferences/20
+ 26/CallForPapers\nLocation: Hilton Union Square\, San Francisco\, USA
+URL:https://colm.cc/Conferences/2026/CallForPapers
 END:VEVENT
 BEGIN:VEVENT
 UID:ijcb-2026-0-paper@conference-deadlines
@@ -192,7 +192,8 @@ DTEND:20260505T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:NeurIPS 2026 abstract deadline
 DESCRIPTION:Conference on Neural Information Processing Systems\nhttps://ne
- urips.cc/Conferences/2026\nLocation: Sydney\, Australia
+ urips.cc/Conferences/2026\nLocation: Sydney\, Australia\; Atlanta\, USA\; 
+ Paris\, France
 URL:https://neurips.cc/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
@@ -203,7 +204,8 @@ DTEND:20260507T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:NeurIPS 2026 deadline
 DESCRIPTION:Conference on Neural Information Processing Systems\nhttps://ne
- urips.cc/Conferences/2026\nLocation: Sydney\, Australia
+ urips.cc/Conferences/2026\nLocation: Sydney\, Australia\; Atlanta\, USA\; 
+ Paris\, France
 URL:https://neurips.cc/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
@@ -227,18 +229,6 @@ SUMMARY:RuleML+RR 2026 deadline
 DESCRIPTION:International Joint Conference on Rules and Reasoning\nhttps://
  2026.declarativeai.net/events/ruleml-rr\nLocation: Vilnius\, Lithuania
 URL:https://2026.declarativeai.net/events/ruleml-rr
-END:VEVENT
-BEGIN:VEVENT
-UID:emnlp-2026-0-paper@conference-deadlines
-DTSTAMP:20260526T115959Z
-DTSTART:20260526T115959Z
-DTEND:20260526T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EMNLP 2026 deadline (ARR Submission\; commitment deadline: 2026-08-
- 02)
-DESCRIPTION:The annual Conference on Empirical Methods in Natural Language 
- Processing\nhttps://2026.emnlp.org/\nLocation: Budapest\, Hungary
-URL:https://2026.emnlp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ijcnlp-2026-0-paper@conference-deadlines
@@ -277,9 +267,9 @@ URL:https://www.corl.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:bmvc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260522T235959Z
-DTSTART:20260522T235959Z
-DTEND:20260523T002959Z
+DTSTAMP:20260523T115959Z
+DTSTART:20260523T115959Z
+DTEND:20260523T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:BMVC 2026 abstract deadline
 DESCRIPTION:British Machine Vision Conference\nhttps://bmvc2026.bmva.org/\n
@@ -288,9 +278,9 @@ URL:https://bmvc2026.bmva.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:bmvc-2026-0-paper@conference-deadlines
-DTSTAMP:20260529T235959Z
-DTSTART:20260529T235959Z
-DTEND:20260530T002959Z
+DTSTAMP:20260530T115959Z
+DTSTART:20260530T115959Z
+DTEND:20260530T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:BMVC 2026 deadline
 DESCRIPTION:British Machine Vision Conference\nhttps://bmvc2026.bmva.org/\n
@@ -309,17 +299,6 @@ DESCRIPTION:International Conference on Neural Information Processing\nhttp
 URL:https://www.iconip2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:euvip-2026-0-paper@conference-deadlines
-DTSTAMP:20260605T215959Z
-DTSTART:20260605T215959Z
-DTEND:20260605T222959Z
-TRANSP:TRANSPARENT
-SUMMARY:EUVIP 2026 deadline
-DESCRIPTION:European Conference on Visual Information Processing\nhttps://e
- uvip2026.github.io/\nLocation: Luxembourg\, Luxembourg
-URL:https://euvip2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
 UID:cicai-2026-0-paper@conference-deadlines
 DTSTAMP:20260608T155959Z
 DTSTART:20260608T155959Z
@@ -329,6 +308,17 @@ SUMMARY:CICAI 2026 deadline
 DESCRIPTION:CAAI International Conference on Artificial Intelligence\nhttps
  ://cicai.caai.cn/index.html\nLocation: Haining\, Zhejiang\, China
 URL:https://cicai.caai.cn/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:euvip-2026-0-paper@conference-deadlines
+DTSTAMP:20260616T115959Z
+DTSTART:20260616T115959Z
+DTEND:20260616T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EUVIP 2026 deadline
+DESCRIPTION:European Conference on Visual Information Processing\nhttps://e
+ uvip2026.github.io/\nLocation: Luxembourg\, Luxembourg
+URL:https://euvip2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:nlpcc-2026-0-paper@conference-deadlines
@@ -420,17 +410,27 @@ DESCRIPTION:AAAI Conference on Artificial Intelligence\nhttps://aaai.org/co
 URL:https://aaai.org/conference/aaai/aaai-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:eacl-2027-0-paper@conference-deadlines
+UID:emnlp-2026-0-paper@conference-deadlines
+DTSTAMP:20260803T115959Z
+DTSTART:20260803T115959Z
+DTEND:20260803T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EMNLP 2026 deadline (Commitment deadline for papers with ARR review
+ s and meta-reviews)
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language 
+ Processing\nhttps://2026.emnlp.org/\nLocation: Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dai-2026-0-paper@conference-deadlines
 DTSTAMP:20260804T115959Z
 DTSTART:20260804T115959Z
 DTEND:20260804T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:EACL 2027 deadline (ARR Submission\; commitment deadline: 2026-10-1
- 1)
-DESCRIPTION:The Annual Conference of the European Chapter of the Associatio
- n for Computational Linguistics\nhttps://2027.eacl.org/\nLocation: Athens\
- , Greece
-URL:https://2027.eacl.org/
+SUMMARY:DAI 2026 deadline (Regular research papers)
+DESCRIPTION:International Conference on Distributed Artificial Intelligence
+ \nhttps://www.adai.ai/dai/2026/index.html\nLocation: Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:log-2026-0-abstract@conference-deadlines
@@ -453,17 +453,6 @@ SUMMARY:LOG 2026 deadline
 DESCRIPTION:Learning on Graphs Conference\nhttps://logconference.org/\nLoca
  tion: Northeastern University\, Boston\, USA
 URL:https://logconference.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:dai-2026-0-paper@conference-deadlines
-DTSTAMP:20260811T115959Z
-DTSTART:20260811T115959Z
-DTEND:20260811T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DAI 2026 deadline (AI Paper Track)
-DESCRIPTION:International Conference on Distributed Artificial Intelligence
- \nhttps://www.adai.ai/dai/2026/index.html\nLocation: Hong Kong\, China
-URL:https://www.adai.ai/dai/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wacv-2027-0-abstract@conference-deadlines
@@ -582,6 +571,19 @@ DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
 URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:eacl-2027-0-paper@conference-deadlines
+DTSTAMP:20261012T115959Z
+DTSTART:20261012T115959Z
+DTEND:20261012T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EACL 2027 deadline (EACL commitment after ARR meta-reviews\; review
+ ed papers only)
+DESCRIPTION:The Annual Conference of the European Chapter of the Associatio
+ n for Computational Linguistics\nhttps://2027.eacl.org/\nLocation: Athens\
+ , Greece
+URL:https://2027.eacl.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:alt-2027-0-paper@conference-deadlines
 DTSTAMP:20261013T115959Z
 DTSTART:20261013T115959Z
@@ -604,12 +606,37 @@ DESCRIPTION:International Conference on Computational Linguistics\nhttps://
 URL:https://2027.coling-iccl.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:coling-2027-1-paper@conference-deadlines
+DTSTAMP:20261224T115959Z
+DTSTART:20261224T115959Z
+DTEND:20261224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
+ viewed papers only)
+DESCRIPTION:International Conference on Computational Linguistics\nhttps://
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:naacl-2027-0-paper@conference-deadlines
 DTSTAMP:20261013T115959Z
 DTSTART:20261013T115959Z
 DTEND:20261013T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:NAACL 2027 deadline (ARR Submission)
+DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
+ ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
+ San Francisco\, California\, USA
+URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-1-paper@conference-deadlines
+DTSTAMP:20261224T115959Z
+DTSTART:20261224T115959Z
+DTEND:20261224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NAACL 2027 deadline (NAACL commitment after ARR meta-reviews\; revi
+ ewed papers only)
 DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
  ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
  San Francisco\, California\, USA
@@ -719,6 +746,18 @@ DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
  l Intelligence and Machine Learning\nhttps://www.esann.org/\nLocation: Bru
  ges\, Belgium and Online
 URL:https://www.esann.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115900Z
+DTSTART:20261205T115900Z
+DTEND:20261205T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:RSS 2027 deadline (Stage 1: initial 6-page extended abstract submis
+ sion)
+DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org/\n
+ Location: Athens\, Greece
+URL:https://roboticsconference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cpal-2027-0-abstract@conference-deadlines
