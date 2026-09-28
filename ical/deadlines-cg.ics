@@ -76,7 +76,8 @@ DTSTAMP:20260322T115959Z
 DTSTART:20260322T115959Z
 DTEND:20260322T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:IEEE VIS 2026 abstract deadline
+SUMMARY:IEEE VIS 2026 abstract deadline (Regular full papers\; mandatory ab
+ stract and initial submission)
 DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
  lcome\nLocation: Boston\, Massachusetts\, USA
 URL:https://ieeevis.org/year/2026/welcome
@@ -87,7 +88,8 @@ DTSTAMP:20260401T115959Z
 DTSTART:20260401T115959Z
 DTEND:20260401T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:IEEE VIS 2026 deadline
+SUMMARY:IEEE VIS 2026 deadline (Regular full papers\; mandatory abstract an
+ d initial submission)
 DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
  lcome\nLocation: Boston\, Massachusetts\, USA
 URL:https://ieeevis.org/year/2026/welcome
@@ -138,9 +140,9 @@ URL:https://egsr2026.inria.fr/
 END:VEVENT
 BEGIN:VEVENT
 UID:sca-2026-0-abstract@conference-deadlines
-DTSTAMP:20260411T115959Z
-DTSTART:20260411T115959Z
-DTEND:20260411T122959Z
+DTSTAMP:20260410T235900Z
+DTSTART:20260410T235900Z
+DTEND:20260411T002900Z
 TRANSP:TRANSPARENT
 SUMMARY:SCA 2026 abstract deadline (Submission deadline (papers))
 DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
@@ -149,9 +151,9 @@ URL:https://computeranimation.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sca-2026-0-paper@conference-deadlines
-DTSTAMP:20260418T115959Z
-DTSTART:20260418T115959Z
-DTEND:20260418T122959Z
+DTSTAMP:20260417T235900Z
+DTSTART:20260417T235900Z
+DTEND:20260418T002900Z
 TRANSP:TRANSPARENT
 SUMMARY:SCA 2026 deadline (Submission deadline (papers))
 DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp

@@ -740,6 +740,7 @@
   link: https://ieeevis.org/year/2026/welcome
   deadlines:
   - date: '2026-03-31T23:59:59-12:00'
+    comment: Regular full papers; mandatory abstract and initial submission
     abstract: '2026-03-21T23:59:59-12:00'
   areas:
   - CG
@@ -1020,6 +1021,23 @@
   date: October 11-14, 2026
   place: Lancaster, UK
   country: United Kingdom
+- name: SCA
+  description: ACM SIGGRAPH/Eurographics Symposium on Computer Animation
+  year: 2026
+  link: https://computeranimation.org/
+  deadlines:
+  - date: '2026-04-17T23:59:00+00:00'
+    comment: Submission deadline (papers)
+    abstract: '2026-04-10T23:59:00+00:00'
+  areas:
+  - CG
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/sca/index.html
+  date: July 8-10, 2026
+  place: Barcelona, Spain
+  country: Spain
 - name: SDM
   description: SIAM International Conference on Data Mining
   year: 2026
@@ -1036,23 +1054,6 @@
   date: November 19-20, 2026
   place: Salt Lake City, Utah, USA
   country: United States
-- name: SCA
-  description: ACM SIGGRAPH/Eurographics Symposium on Computer Animation
-  year: 2026
-  link: https://computeranimation.org/
-  deadlines:
-  - date: '2026-04-17T23:59:59-12:00'
-    comment: Submission deadline (papers)
-    abstract: '2026-04-10T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/sca/index.html
-  date: July 8-10, 2026
-  place: Barcelona, Spain
-  country: Spain
 - name: BlockSys
   description: International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems
   year: 2026
@@ -1452,7 +1453,8 @@
   year: 2026
   link: https://ksiresearch.org/seke/seke26.html
   deadlines:
-  - date: '2026-05-10T23:59:00-05:00'
+  - date: '2026-05-10T23:59:59-05:00'
+    comment: Regular papers; midnight EST
   areas:
   - SE
   tags:
@@ -3429,23 +3431,6 @@
   date: July 8-9, 2027
   place: London, United Kingdom
   country: United Kingdom
-- name: FPGA
-  description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
-  year: 2027
-  link: https://www.isfpga.org/
-  deadlines:
-  - date: '2026-10-01T23:59:59-12:00'
-    comment: Abstracts Due
-  - date: '2026-10-08T23:59:59-12:00'
-    comment: Submissions Due
-  areas:
-  - DS
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/fpga/index.html
-  date: March 14 - March 16, 2027
-  place: Monterey, California, USA
-  country: United States
 - name: CVC
   description: Computer Vision Conference
   year: 2027
@@ -3547,6 +3532,21 @@
   date: April 6-9, 2027
   place: Lille, France
   country: France
+- name: FPGA
+  description: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+  year: 2027
+  link: https://www.isfpga.org/
+  deadlines:
+  - date: '2026-10-08T23:59:59-12:00'
+    abstract: '2026-10-01T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/fpga/index.html
+  date: March 14 - March 16, 2027
+  place: Monterey, California, USA
+  country: United States
 - name: IPDPS
   description: IEEE International Parallel and Distributed Processing Symposium
   year: 2027
@@ -4181,6 +4181,7 @@
   link: https://2027.refsq.org/
   deadlines:
   - date: '2026-11-12T23:59:59-12:00'
+    comment: Regular research papers; abstract submission is optional
     abstract: '2026-11-05T23:59:59-12:00'
   areas:
   - SE

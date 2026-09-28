@@ -797,23 +797,23 @@ DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proces
 URL:https://ieee-ai-for-science.org/2026/ispa/
 END:VEVENT
 BEGIN:VEVENT
-UID:fpga-2027-0-paper@conference-deadlines
+UID:fpga-2027-0-abstract@conference-deadlines
 DTSTAMP:20261002T115959Z
 DTSTART:20261002T115959Z
 DTEND:20261002T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:FPGA 2027 deadline (Abstracts Due)
+SUMMARY:FPGA 2027 abstract deadline
 DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
  rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
 URL:https://www.isfpga.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:fpga-2027-1-paper@conference-deadlines
+UID:fpga-2027-0-paper@conference-deadlines
 DTSTAMP:20261009T115959Z
 DTSTART:20261009T115959Z
 DTEND:20261009T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:FPGA 2027 deadline (Submissions Due)
+SUMMARY:FPGA 2027 deadline
 DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
  rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
 URL:https://www.isfpga.org/

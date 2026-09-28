@@ -247,11 +247,11 @@ URL:https://conf.researchr.org/home/splash-issta-2026/sas-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:seke-2026-0-paper@conference-deadlines
-DTSTAMP:20260511T045900Z
-DTSTART:20260511T045900Z
-DTEND:20260511T052900Z
+DTSTAMP:20260511T045959Z
+DTSTART:20260511T045959Z
+DTEND:20260511T052959Z
 TRANSP:TRANSPARENT
-SUMMARY:SEKE 2026 deadline
+SUMMARY:SEKE 2026 deadline (Regular papers\; midnight EST)
 DESCRIPTION:International Conference on Software Engineering and Knowledge 
  Engineering\nhttps://ksiresearch.org/seke/seke26.html\nLocation: Toronto\,
   Canada & Virtual
@@ -631,7 +631,8 @@ DTSTAMP:20261106T115959Z
 DTSTART:20261106T115959Z
 DTEND:20261106T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:REFSQ 2027 abstract deadline
+SUMMARY:REFSQ 2027 abstract deadline (Regular research papers\; abstract su
+ bmission is optional)
 DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
  s://2027.refsq.org/\nLocation: Basel\, Switzerland
 URL:https://2027.refsq.org/
@@ -642,7 +643,8 @@ DTSTAMP:20261113T115959Z
 DTSTART:20261113T115959Z
 DTEND:20261113T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:REFSQ 2027 deadline
+SUMMARY:REFSQ 2027 deadline (Regular research papers\; abstract submission 
+ is optional)
 DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
  s://2027.refsq.org/\nLocation: Basel\, Switzerland
 URL:https://2027.refsq.org/

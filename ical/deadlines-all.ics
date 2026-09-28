@@ -775,7 +775,8 @@ DTSTAMP:20260322T115959Z
 DTSTART:20260322T115959Z
 DTEND:20260322T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:IEEE VIS 2026 abstract deadline
+SUMMARY:IEEE VIS 2026 abstract deadline (Regular full papers\; mandatory ab
+ stract and initial submission)
 DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
  lcome\nLocation: Boston\, Massachusetts\, USA
 URL:https://ieeevis.org/year/2026/welcome
@@ -786,7 +787,8 @@ DTSTAMP:20260401T115959Z
 DTSTART:20260401T115959Z
 DTEND:20260401T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:IEEE VIS 2026 deadline
+SUMMARY:IEEE VIS 2026 deadline (Regular full papers\; mandatory abstract an
+ d initial submission)
 DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
  lcome\nLocation: Boston\, Massachusetts\, USA
 URL:https://ieeevis.org/year/2026/welcome
@@ -1121,6 +1123,28 @@ DESCRIPTION:International Symposium on Recent Advances in Intrusion Detecti
 URL:https://raid2026.org
 END:VEVENT
 BEGIN:VEVENT
+UID:sca-2026-0-abstract@conference-deadlines
+DTSTAMP:20260410T235900Z
+DTSTART:20260410T235900Z
+DTEND:20260411T002900Z
+TRANSP:TRANSPARENT
+SUMMARY:SCA 2026 abstract deadline (Submission deadline (papers))
+DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
+ s://computeranimation.org/\nLocation: Barcelona\, Spain
+URL:https://computeranimation.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sca-2026-0-paper@conference-deadlines
+DTSTAMP:20260417T235900Z
+DTSTART:20260417T235900Z
+DTEND:20260418T002900Z
+TRANSP:TRANSPARENT
+SUMMARY:SCA 2026 deadline (Submission deadline (papers))
+DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
+ s://computeranimation.org/\nLocation: Barcelona\, Spain
+URL:https://computeranimation.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:sdm-2026-0-abstract@conference-deadlines
 DTSTAMP:20260411T115959Z
 DTSTART:20260411T115959Z
@@ -1143,28 +1167,6 @@ DESCRIPTION:SIAM International Conference on Data Mining\nhttps://www.siam.
  org/conferences-events/siam-conferences/sdm26/\nLocation: Salt Lake City\,
   Utah\, USA
 URL:https://www.siam.org/conferences-events/siam-conferences/sdm26/
-END:VEVENT
-BEGIN:VEVENT
-UID:sca-2026-0-abstract@conference-deadlines
-DTSTAMP:20260411T115959Z
-DTSTART:20260411T115959Z
-DTEND:20260411T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SCA 2026 abstract deadline (Submission deadline (papers))
-DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
- s://computeranimation.org/\nLocation: Barcelona\, Spain
-URL:https://computeranimation.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sca-2026-0-paper@conference-deadlines
-DTSTAMP:20260418T115959Z
-DTSTART:20260418T115959Z
-DTEND:20260418T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SCA 2026 deadline (Submission deadline (papers))
-DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
- s://computeranimation.org/\nLocation: Barcelona\, Spain
-URL:https://computeranimation.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:blocksys-2026-0-paper@conference-deadlines
@@ -1609,11 +1611,11 @@ URL:https://srds-conference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:seke-2026-0-paper@conference-deadlines
-DTSTAMP:20260511T045900Z
-DTSTART:20260511T045900Z
-DTEND:20260511T052900Z
+DTSTAMP:20260511T045959Z
+DTSTART:20260511T045959Z
+DTEND:20260511T052959Z
 TRANSP:TRANSPARENT
-SUMMARY:SEKE 2026 deadline
+SUMMARY:SEKE 2026 deadline (Regular papers\; midnight EST)
 DESCRIPTION:International Conference on Software Engineering and Knowledge 
  Engineering\nhttps://ksiresearch.org/seke/seke26.html\nLocation: Toronto\,
   Canada & Virtual
@@ -3625,28 +3627,6 @@ DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
 URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
-UID:fpga-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115959Z
-DTSTART:20261002T115959Z
-DTEND:20261002T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FPGA 2027 deadline (Abstracts Due)
-DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
- rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
-URL:https://www.isfpga.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:fpga-2027-1-paper@conference-deadlines
-DTSTAMP:20261009T115959Z
-DTSTART:20261009T115959Z
-DTEND:20261009T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FPGA 2027 deadline (Submissions Due)
-DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
- rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
-URL:https://www.isfpga.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:cvc-2027-0-paper@conference-deadlines
 DTSTAMP:20261002T115959Z
 DTSTART:20261002T115959Z
@@ -3747,6 +3727,28 @@ SUMMARY:EDBT 2027 deadline
 DESCRIPTION:International Conference on Extending Database Technology\nhttp
  s://edbticdt2027.github.io/\nLocation: Lille\, France
 URL:https://edbticdt2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:fpga-2027-0-abstract@conference-deadlines
+DTSTAMP:20261002T115959Z
+DTSTART:20261002T115959Z
+DTEND:20261002T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FPGA 2027 abstract deadline
+DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
+ rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
+URL:https://www.isfpga.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fpga-2027-0-paper@conference-deadlines
+DTSTAMP:20261009T115959Z
+DTSTART:20261009T115959Z
+DTEND:20261009T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FPGA 2027 deadline
+DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate Ar
+ rays\nhttps://www.isfpga.org/\nLocation: Monterey\, California\, USA
+URL:https://www.isfpga.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ipdps-2027-0-abstract@conference-deadlines
@@ -4478,7 +4480,8 @@ DTSTAMP:20261106T115959Z
 DTSTART:20261106T115959Z
 DTEND:20261106T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:REFSQ 2027 abstract deadline
+SUMMARY:REFSQ 2027 abstract deadline (Regular research papers\; abstract su
+ bmission is optional)
 DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
  s://2027.refsq.org/\nLocation: Basel\, Switzerland
 URL:https://2027.refsq.org/
@@ -4489,7 +4492,8 @@ DTSTAMP:20261113T115959Z
 DTSTART:20261113T115959Z
 DTEND:20261113T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:REFSQ 2027 deadline
+SUMMARY:REFSQ 2027 deadline (Regular research papers\; abstract submission 
+ is optional)
 DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
  s://2027.refsq.org/\nLocation: Basel\, Switzerland
 URL:https://2027.refsq.org/
