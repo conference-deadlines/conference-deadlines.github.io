@@ -61,21 +61,6 @@
   date: August 17-22, 2026
   place: Lyon, France
   country: France
-- name: KSEM
-  description: International Conference on Knowledge Science, Engineering and Management
-  year: 2026
-  link: https://ksem2026.rosc.org.cn/
-  deadlines:
-  - date: '2026-01-15T23:59:59+00:00'
-  areas:
-  - AI
-  tags:
-  - CORE-C
-  tba: true
-  dblp: https://dblp.org/db/conf/ksem/index.html
-  date: July 17-19, 2026
-  place: Beijing, China
-  country: China
 - name: FCCM
   description: IEEE Symposium on Field-Programmable Custom Computing Machines
   year: 2026
@@ -159,8 +144,9 @@
   year: 2026
   link: https://hpdc.sci.utah.edu/2026/
   deadlines:
-  - date: '2026-02-05T23:59:59-12:00'
-    comment: paper submission deadline
+  - date: '2026-02-05T23:59:00-12:00'
+    comment: Dates and AoE verified; 23:59:00 is the repository default for the unpublished cutoff time.
+    abstract: '2026-01-29T23:59:00-12:00'
   areas:
   - DS
   tags:
@@ -310,6 +296,22 @@
   date: August 17-21, 2026
   place: Amsterdam, Netherlands
   country: Netherlands
+- name: KSEM
+  description: International Conference on Knowledge Science, Engineering and Management
+  year: 2026
+  link: https://ksem2026.rosc.org.cn/
+  deadlines:
+  - date: '2026-02-28T23:59:00-12:00'
+    comment: Regular papers; cutoff clock and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.
+  areas:
+  - AI
+  tags:
+  - CORE-C
+  tba: true
+  dblp: https://dblp.org/db/conf/ksem/index.html
+  date: July 17-19, 2026
+  place: Beijing, China
+  country: China
 - name: Networking
   description: IFIP International Conference on Networking
   year: 2026
@@ -1250,7 +1252,8 @@
   year: 2026
   link: https://collaboratecom.eai-conferences.org/2026/
   deadlines:
-  - date: '2026-05-01T23:59:59-08:00'
+  - date: '2026-05-01T23:59:00-12:00'
+    comment: Regular track; cutoff clock and timezone unpublished. Separate late track excluded. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.
   areas:
   - HI
   tags:
@@ -1543,6 +1546,22 @@
   date: August 07-09, 2026
   place: Kunming, China
   country: China
+- name: CNS
+  description: IEEE Conference on Communications and Network Security
+  year: 2026
+  link: https://cns2026.ieee-cns.org/
+  deadlines:
+  - date: '2026-05-18T23:59:00-12:00'
+    comment: Regular papers; official extended deadline. Clock 23:59:00 and timezone AoE are repository defaults because neither is published.
+  areas:
+  - SC
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/cns/index.html
+  date: September 14-16, 2026
+  place: Newark, Delaware, USA
+  country: United States
 - name: ESEM
   description: International Symposium on Empirical Software Engineering and Measurement
   year: 2026
@@ -1872,21 +1891,6 @@
   date: November 23-27, 2026
   place: Melbourne, Australia
   country: Australia
-- name: MSWiM
-  description: International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
-  year: 2026
-  link: https://mswimconf.com/2026/
-  deadlines:
-  - date: '2026-06-01T23:59:59+01:00'
-  areas:
-  - NW
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/mswim/index.html
-  date: October 26-30, 2026
-  place: Paris, France
-  country: France
 - name: HiPEAC
   description: International Conference on High Performance and Embedded Architectures and Compilers
   year: 2027
@@ -2095,21 +2099,6 @@
   date: September 28-29, 2026
   place: Prague, Czechia
   country: Czechia
-- name: APBC
-  description: Asia Pacific Bioinformatics Conference
-  year: 2026
-  link: https://www.apbc2026.com/home
-  deadlines:
-  - date: '2026-06-15T23:59:59+00:00'
-  areas:
-  - MX
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/apbc/index.html
-  date: October 21-24, 2026
-  place: Hsinchu, Taiwan， China
-  country: China
 - name: HICSS
   description: Hawaii International Conference on System Sciences
   year: 2027
@@ -2126,6 +2115,23 @@
   date: January 5-8, 2027
   place: Big Island, Hawaii, USA
   country: United States
+- name: MSWiM
+  description: International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems
+  year: 2026
+  link: https://mswimconf.com/2026/
+  deadlines:
+  - date: '2026-06-15T23:59:00-12:00'
+    comment: Regular papers; extended abstract registration and full-paper dates. Cutoff clocks and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.
+    abstract: '2026-06-14T23:59:00-12:00'
+  areas:
+  - NW
+  tags:
+  - CORE-A
+  tba: true
+  dblp: https://dblp.org/db/conf/mswim/index.html
+  date: October 26-30, 2026
+  place: Paris, France
+  country: France
 - name: EUVIP
   description: European Conference on Visual Information Processing
   year: 2026
@@ -2262,21 +2268,6 @@
   date: Nov 16-20, 2026
   place: Guangzhou, China
   country: China
-- name: ICPADS
-  description: IEEE International Conference on Parallel and Distributed Systems
-  year: 2026
-  link: https://www.cloud-conf.net/icpads2026
-  deadlines:
-  - date: '2026-06-30T23:59:59-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/icpads/index.html
-  date: November 22-26 2026
-  place: Tokyo, Japan
-  country: Japan
 - name: ICSE
   description: International Conference on Software Engineering
   year: 2027
@@ -2356,21 +2347,6 @@
   date: February 17-20, 2027
   place: Sacramento, California, USA
   country: United States
-- name: NCMMSC
-  description: National Conference on Man-Machine Speech Communication
-  year: 2026
-  link: https://www.ncmmsc.org.cn/
-  deadlines:
-  - date: '2026-07-05T23:59:59+08:00'
-  areas:
-  - CG
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/ncmmsc/index.html
-  date: Nov 5-8, 2026
-  place: Hengqin, China
-  country: China
 - name: BIBM
   description: IEEE International Conference on Bioinformatics and Biomedicine
   year: 2026
@@ -2464,6 +2440,23 @@
   date: January 24-27, 2027
   place: Philadelphia, Pennsylvania, USA
   country: United States
+- name: NCMMSC
+  description: National Conference on Man-Machine Speech Communication
+  year: 2026
+  link: https://www.ncmmsc.org.cn/
+  deadlines:
+  - date: '2026-07-12T23:59:00-12:00'
+    comment: Regular full papers; full-paper extension. Cutoff clocks and timezone unpublished; special sessions excluded. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.
+    abstract: '2026-07-05T23:59:00-12:00'
+  areas:
+  - CG
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/ncmmsc/index.html
+  date: Nov 5-8, 2026
+  place: Hengqin, China
+  country: China
 - name: SoCC
   description: ACM Symposium on Cloud Computing
   year: 2026
@@ -2496,6 +2489,22 @@
   date: November 16-17, 2026
   place: Salt Lake City, Utah, USA
   country: United States
+- name: APBC
+  description: Asia Pacific Bioinformatics Conference
+  year: 2026
+  link: https://www.apbc2026.com/home
+  deadlines:
+  - date: '2026-07-17T23:59:00-12:00'
+    comment: Regular full papers; extended submission deadline in the organizer EasyChair CFP. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.
+  areas:
+  - MX
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/apbc/index.html
+  date: October 21-24, 2026
+  place: Hsinchu, Taiwan， China
+  country: China
 - name: ADMA
   description: The International Conference on Advanced Data Mining and Applications
   year: 2026
@@ -2843,6 +2852,22 @@
   date: December 15-18, 2026
   place: VinUniversity, Hanoi, Vietnam
   country: Vietnam
+- name: ICPADS
+  description: IEEE International Conference on Parallel and Distributed Systems
+  year: 2026
+  link: https://www.cloud-conf.net/icpads2026
+  deadlines:
+  - date: '2026-08-15T23:59:00-12:00'
+    comment: Research papers; extended firm deadline. Cutoff clock and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.
+  areas:
+  - DS
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/icpads/index.html
+  date: November 22-26 2026
+  place: Tokyo, Japan
+  country: Japan
 - name: PKC
   description: International Conference on Practice and Theory of Public-Key Cryptography
   year: 2027
@@ -3145,6 +3170,22 @@
   date: FEBRUARY 23-25, 2027
   place: Renton, WA, USA
   country: United States
+- name: WCNC
+  description: IEEE Wireless Communications and Networking Conference
+  year: 2027
+  link: https://wcnc2027.ieee-wcnc.org/
+  deadlines:
+  - date: '2026-09-15T23:59:00-12:00'
+    comment: Technical papers; official IEEE ComSoc calendar date. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision.
+  areas:
+  - NW
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/wcnc/index.html
+  date: April 5-8, 2027
+  place: Panama City, Panama
+  country: Panama
 - name: ICALP
   description: EATCS International Colloquium on Automata, Languages, and Programming
   year: 2027
@@ -3318,6 +3359,7 @@
   - DS
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/ispd/index.html
   date: March 30 - April 2, 2027
   place: Taipei, Taiwan
@@ -4313,20 +4355,6 @@
   date: June 14-17, 2027
   place: Fort Collins, Colorado, USA
   country: United States
-- name: DASFAA
-  description: Database Systems for Advanced Applications
-  year: 2027
-  link: https://dasfaa2027.github.io/
-  deadlines:
-  - date: '2026-11-25T23:59:59-12:00'
-  areas:
-  - DB
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/dasfaa/index.html
-  date: May 27-30, 2027
-  place: Shenyang, China
-  country: China
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
   year: 2027
@@ -4555,6 +4583,22 @@
   date: June 27 - July 2, 2027
   place: Columbia, SC, USA
   country: United States
+- name: ETS
+  description: IEEE European Test Symposium
+  year: 2027
+  link: https://www.ets2027.co.uk/
+  deadlines:
+  - date: '2026-12-15T23:59:00-12:00'
+    comment: Regular papers; official CFP dates. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision.
+    abstract: '2026-12-08T23:59:00-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/ets/index.html
+  date: May 24-28, 2027
+  place: London, UK
+  country: United Kingdom
 - name: ICDF2C
   description: International Conference on Digital Forensics & Cyber Crime
   year: 2027

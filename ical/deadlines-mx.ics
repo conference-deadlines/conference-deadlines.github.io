@@ -151,17 +151,6 @@ DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
 URL:https://sigspatial2026.sigspatial.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:apbc-2026-0-paper@conference-deadlines
-DTSTAMP:20260615T235959Z
-DTSTART:20260615T235959Z
-DTEND:20260616T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:APBC 2026 deadline
-DESCRIPTION:Asia Pacific Bioinformatics Conference\nhttps://www.apbc2026.co
- m/home\nLocation: Hsinchu\, Taiwan， China
-URL:https://www.apbc2026.com/home
-END:VEVENT
-BEGIN:VEVENT
 UID:wine-2026-0-paper@conference-deadlines
 DTSTAMP:20260703T115959Z
 DTSTART:20260703T115959Z
@@ -204,6 +193,20 @@ SUMMARY:BIBM 2026 deadline
 DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicine
  \nhttps://ieeebibm.org/BIBM2026/\nLocation: Dallas\, USA
 URL:https://ieeebibm.org/BIBM2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:apbc-2026-0-paper@conference-deadlines
+DTSTAMP:20260718T115900Z
+DTSTART:20260718T115900Z
+DTEND:20260718T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:APBC 2026 deadline (Regular full papers\; extended submission deadl
+ ine in the organizer EasyChair CFP. 23:59:00 uses the repository default w
+ here the source gives no clear cutoff clock. AoE uses the repository defau
+ lt because the source gives no timezone.)
+DESCRIPTION:Asia Pacific Bioinformatics Conference\nhttps://www.apbc2026.co
+ m/home\nLocation: Hsinchu\, Taiwan， China
+URL:https://www.apbc2026.com/home
 END:VEVENT
 BEGIN:VEVENT
 UID:icaif-2026-0-paper@conference-deadlines

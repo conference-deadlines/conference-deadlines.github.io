@@ -139,6 +139,19 @@ DESCRIPTION:New Security Paradigms Workshop\nhttps://www.nspw.org/2026\nLoc
 URL:https://www.nspw.org/2026
 END:VEVENT
 BEGIN:VEVENT
+UID:cns-2026-0-paper@conference-deadlines
+DTSTAMP:20260519T115900Z
+DTSTART:20260519T115900Z
+DTEND:20260519T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CNS 2026 deadline (Regular papers\; official extended deadline. Clo
+ ck 23:59:00 and timezone AoE are repository defaults because neither is pu
+ blished.)
+DESCRIPTION:IEEE Conference on Communications and Network Security\nhttps:/
+ /cns2026.ieee-cns.org/\nLocation: Newark\, Delaware\, USA
+URL:https://cns2026.ieee-cns.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:tcc-2026-0-paper@conference-deadlines
 DTSTAMP:20260520T115959Z
 DTSTART:20260520T115959Z

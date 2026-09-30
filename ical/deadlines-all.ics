@@ -71,17 +71,6 @@ DESCRIPTION:International Conference on Pattern Recognition\nhttps://icpr20
 URL:https://icpr2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ksem-2026-0-paper@conference-deadlines
-DTSTAMP:20260115T235959Z
-DTSTART:20260115T235959Z
-DTEND:20260116T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:KSEM 2026 deadline
-DESCRIPTION:International Conference on Knowledge Science\, Engineering and
-  Management\nhttps://ksem2026.rosc.org.cn/\nLocation: Beijing\, China
-URL:https://ksem2026.rosc.org.cn/
-END:VEVENT
-BEGIN:VEVENT
 UID:fccm-2026-0-abstract@conference-deadlines
 DTSTAMP:20260111T115959Z
 DTSTART:20260111T115959Z
@@ -161,12 +150,25 @@ DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
 URL:https://2026.ieeeicip.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:hpdc-2026-0-paper@conference-deadlines
-DTSTAMP:20260206T115959Z
-DTSTART:20260206T115959Z
-DTEND:20260206T122959Z
+UID:hpdc-2026-0-abstract@conference-deadlines
+DTSTAMP:20260130T115900Z
+DTSTART:20260130T115900Z
+DTEND:20260130T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:HPDC 2026 deadline (paper submission deadline)
+SUMMARY:HPDC 2026 abstract deadline (Dates and AoE verified\; 23:59:00 is t
+ he repository default for the unpublished cutoff time.)
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
+ uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:hpdc-2026-0-paper@conference-deadlines
+DTSTAMP:20260206T115900Z
+DTSTART:20260206T115900Z
+DTEND:20260206T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:HPDC 2026 deadline (Dates and AoE verified\; 23:59:00 is the reposi
+ tory default for the unpublished cutoff time.)
 DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
  uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
 URL:https://hpdc.sci.utah.edu/2026/
@@ -315,6 +317,20 @@ SUMMARY:UAI 2026 deadline
 DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\nhttps://w
  ww.auai.org/uai2026/\nLocation: Amsterdam\, Netherlands
 URL:https://www.auai.org/uai2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ksem-2026-0-paper@conference-deadlines
+DTSTAMP:20260301T115900Z
+DTSTART:20260301T115900Z
+DTEND:20260301T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:KSEM 2026 deadline (Regular papers\; cutoff clock and timezone unpu
+ blished. 23:59:00 uses the repository default where the source gives no cl
+ ear cutoff clock. AoE uses the repository default because the source gives
+  no timezone.)
+DESCRIPTION:International Conference on Knowledge Science\, Engineering and
+  Management\nhttps://ksem2026.rosc.org.cn/\nLocation: Beijing\, China
+URL:https://ksem2026.rosc.org.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:networking-2026-0-paper@conference-deadlines
@@ -1399,11 +1415,14 @@ URL:https://ijcb2026.ieee-biometrics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:collaboratecom-2026-0-paper@conference-deadlines
-DTSTAMP:20260502T075959Z
-DTSTART:20260502T075959Z
-DTEND:20260502T082959Z
+DTSTAMP:20260502T115900Z
+DTSTART:20260502T115900Z
+DTEND:20260502T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:CollaborateCom 2026 deadline
+SUMMARY:CollaborateCom 2026 deadline (Regular track\; cutoff clock and time
+ zone unpublished. Separate late track excluded. 23:59:00 uses the reposito
+ ry default where the source gives no clear cutoff clock. AoE uses the repo
+ sitory default because the source gives no timezone.)
 DESCRIPTION:International Conference on Collaborative Computing: Networking
  \, Applications and Worksharing\nhttps://collaboratecom.eai-conferences.or
  g/2026/\nLocation: Hong Kong SAR\, China
@@ -1687,6 +1706,19 @@ SUMMARY:WISA 2026 deadline (Regular papers\; final abstract and paper cutof
 DESCRIPTION:Web Information Systems and Applications\nhttps://conf.ccf.org.
  cn/WISA2026\nLocation: Kunming\, China
 URL:https://conf.ccf.org.cn/WISA2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-2026-0-paper@conference-deadlines
+DTSTAMP:20260519T115900Z
+DTSTART:20260519T115900Z
+DTEND:20260519T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CNS 2026 deadline (Regular papers\; official extended deadline. Clo
+ ck 23:59:00 and timezone AoE are repository defaults because neither is pu
+ blished.)
+DESCRIPTION:IEEE Conference on Communications and Network Security\nhttps:/
+ /cns2026.ieee-cns.org/\nLocation: Newark\, Delaware\, USA
+URL:https://cns2026.ieee-cns.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:esem-2026-0-abstract@conference-deadlines
@@ -2061,18 +2093,6 @@ DESCRIPTION:International Conference on Neural Information Processing\nhttp
 URL:https://www.iconip2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:mswim-2026-0-paper@conference-deadlines
-DTSTAMP:20260601T225959Z
-DTSTART:20260601T225959Z
-DTEND:20260601T232959Z
-TRANSP:TRANSPARENT
-SUMMARY:MSWiM 2026 deadline
-DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
- of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
- is\, France
-URL:https://mswimconf.com/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:hipeac-2027-0-paper@conference-deadlines
 DTSTAMP:20260602T115959Z
 DTSTART:20260602T115959Z
@@ -2293,17 +2313,6 @@ DESCRIPTION:ACM Workshop on Hot Topics in Storage and File Systems\nhttps:/
 URL:https://www.hotstorage.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:apbc-2026-0-paper@conference-deadlines
-DTSTAMP:20260615T235959Z
-DTSTART:20260615T235959Z
-DTEND:20260616T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:APBC 2026 deadline
-DESCRIPTION:Asia Pacific Bioinformatics Conference\nhttps://www.apbc2026.co
- m/home\nLocation: Hsinchu\, Taiwan， China
-URL:https://www.apbc2026.com/home
-END:VEVENT
-BEGIN:VEVENT
 UID:hicss-2027-0-paper@conference-deadlines
 DTSTAMP:20260616T095959Z
 DTSTART:20260616T095959Z
@@ -2313,6 +2322,37 @@ SUMMARY:HICSS 2027 deadline (Paper Submission Deadline)
 DESCRIPTION:Hawaii International Conference on System Sciences\nhttps://hic
  ss.hawaii.edu/\nLocation: Big Island\, Hawaii\, USA
 URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:mswim-2026-0-abstract@conference-deadlines
+DTSTAMP:20260615T115900Z
+DTSTART:20260615T115900Z
+DTEND:20260615T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:MSWiM 2026 abstract deadline (Regular papers\; extended abstract re
+ gistration and full-paper dates. Cutoff clocks and timezone unpublished. 2
+ 3:59:00 uses the repository default where the source gives no clear cutoff
+  clock. AoE uses the repository default because the source gives no timezo
+ ne.)
+DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
+ of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
+ is\, France
+URL:https://mswimconf.com/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:mswim-2026-0-paper@conference-deadlines
+DTSTAMP:20260616T115900Z
+DTSTART:20260616T115900Z
+DTEND:20260616T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:MSWiM 2026 deadline (Regular papers\; extended abstract registratio
+ n and full-paper dates. Cutoff clocks and timezone unpublished. 23:59:00 u
+ ses the repository default where the source gives no clear cutoff clock. A
+ oE uses the repository default because the source gives no timezone.)
+DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
+ of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
+ is\, France
+URL:https://mswimconf.com/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:euvip-2026-0-paper@conference-deadlines
@@ -2416,17 +2456,6 @@ DESCRIPTION:Pacific Rim International Conference on Artificial Intelligence
 URL:https://2026.pricai.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icpads-2026-0-paper@conference-deadlines
-DTSTAMP:20260701T115959Z
-DTSTART:20260701T115959Z
-DTEND:20260701T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICPADS 2026 deadline
-DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
- ms\nhttps://www.cloud-conf.net/icpads2026\nLocation: Tokyo\, Japan
-URL:https://www.cloud-conf.net/icpads2026
-END:VEVENT
-BEGIN:VEVENT
 UID:icse-2027-0-abstract@conference-deadlines
 DTSTAMP:20260624T115959Z
 DTSTART:20260624T115959Z
@@ -2502,17 +2531,6 @@ SUMMARY:SIGCSE 2027 deadline
 DESCRIPTION:Technical Symposium on Computer Science Education Conference\nh
  ttps://2027.sigcse-ts.acm.org/\nLocation: Sacramento\, California\, USA
 URL:https://2027.sigcse-ts.acm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ncmmsc-2026-0-paper@conference-deadlines
-DTSTAMP:20260705T155959Z
-DTSTART:20260705T155959Z
-DTEND:20260705T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:NCMMSC 2026 deadline
-DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
- //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
-URL:https://www.ncmmsc.org.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:bibm-2026-0-paper@conference-deadlines
@@ -2593,6 +2611,35 @@ DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\nhttps://www.siam.org
 URL:https://www.siam.org/conferences-events/siam-conferences/soda27/
 END:VEVENT
 BEGIN:VEVENT
+UID:ncmmsc-2026-0-abstract@conference-deadlines
+DTSTAMP:20260706T115900Z
+DTSTART:20260706T115900Z
+DTEND:20260706T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:NCMMSC 2026 abstract deadline (Regular full papers\; full-paper ext
+ ension. Cutoff clocks and timezone unpublished\; special sessions excluded
+ . 23:59:00 uses the repository default where the source gives no clear cut
+ off clock. AoE uses the repository default because the source gives no tim
+ ezone.)
+DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
+ //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
+URL:https://www.ncmmsc.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ncmmsc-2026-0-paper@conference-deadlines
+DTSTAMP:20260713T115900Z
+DTSTART:20260713T115900Z
+DTEND:20260713T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:NCMMSC 2026 deadline (Regular full papers\; full-paper extension. C
+ utoff clocks and timezone unpublished\; special sessions excluded. 23:59:0
+ 0 uses the repository default where the source gives no clear cutoff clock
+ . AoE uses the repository default because the source gives no timezone.)
+DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
+ //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
+URL:https://www.ncmmsc.org.cn/
+END:VEVENT
+BEGIN:VEVENT
 UID:socc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260708T115959Z
 DTSTART:20260708T115959Z
@@ -2624,6 +2671,20 @@ SUMMARY:HotNets 2026 deadline
 DESCRIPTION:ACM Workshop on Hot Topics in Networks\nhttps://conferences.sig
  comm.org/hotnets/2026/\nLocation: Salt Lake City\, Utah\, USA
 URL:https://conferences.sigcomm.org/hotnets/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:apbc-2026-0-paper@conference-deadlines
+DTSTAMP:20260718T115900Z
+DTSTART:20260718T115900Z
+DTEND:20260718T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:APBC 2026 deadline (Regular full papers\; extended submission deadl
+ ine in the organizer EasyChair CFP. 23:59:00 uses the repository default w
+ here the source gives no clear cutoff clock. AoE uses the repository defau
+ lt because the source gives no timezone.)
+DESCRIPTION:Asia Pacific Bioinformatics Conference\nhttps://www.apbc2026.co
+ m/home\nLocation: Hsinchu\, Taiwan， China
+URL:https://www.apbc2026.com/home
 END:VEVENT
 BEGIN:VEVENT
 UID:adma-2026-0-paper@conference-deadlines
@@ -2964,6 +3025,20 @@ DESCRIPTION:ACM Multimedia Asia\nhttps://www.mmasia2026.org/\nLocation: Vin
 URL:https://www.mmasia2026.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:icpads-2026-0-paper@conference-deadlines
+DTSTAMP:20260816T115900Z
+DTSTART:20260816T115900Z
+DTEND:20260816T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICPADS 2026 deadline (Research papers\; extended firm deadline. Cut
+ off clock and timezone unpublished. 23:59:00 uses the repository default w
+ here the source gives no clear cutoff clock. AoE uses the repository defau
+ lt because the source gives no timezone.)
+DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
+ ms\nhttps://www.cloud-conf.net/icpads2026\nLocation: Tokyo\, Japan
+URL:https://www.cloud-conf.net/icpads2026
+END:VEVENT
+BEGIN:VEVENT
 UID:pkc-2027-0-paper@conference-deadlines
 DTSTAMP:20260817T115959Z
 DTSTART:20260817T115959Z
@@ -3254,6 +3329,19 @@ SUMMARY:FAST 2027 deadline (Fall deadline)
 DESCRIPTION:USENIX Conference on File and Storage Technologies\nhttps://www
  .usenix.org/conference/fast27\nLocation: Renton\, WA\, USA
 URL:https://www.usenix.org/conference/fast27
+END:VEVENT
+BEGIN:VEVENT
+UID:wcnc-2027-0-paper@conference-deadlines
+DTSTAMP:20260916T115900Z
+DTSTART:20260916T115900Z
+DTEND:20260916T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:WCNC 2027 deadline (Technical papers\; official IEEE ComSoc calenda
+ r date. Clock 23:59:00 and timezone AoE are repository defaults\, not publ
+ ished cutoff precision.)
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
+ /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
+URL:https://wcnc2027.ieee-wcnc.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icalp-2027-0-paper@conference-deadlines
@@ -4656,17 +4744,6 @@ DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
 URL:https://www.codaspy.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:dasfaa-2027-0-paper@conference-deadlines
-DTSTAMP:20261126T115959Z
-DTSTART:20261126T115959Z
-DTEND:20261126T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:DASFAA 2027 deadline
-DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
- github.io/\nLocation: Shenyang\, China
-URL:https://dasfaa2027.github.io/
-END:VEVENT
-BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines
 DTSTAMP:20261201T045959Z
 DTSTART:20261201T045959Z
@@ -4947,6 +5024,32 @@ SUMMARY:ICAPS 2027 deadline
 DESCRIPTION:International Conference on Automated Planning and Scheduling\n
  https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
 URL:https://icaps27.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ets-2027-0-abstract@conference-deadlines
+DTSTAMP:20261209T115900Z
+DTSTART:20261209T115900Z
+DTEND:20261209T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ETS 2027 abstract deadline (Regular papers\; official CFP dates. Cl
+ ock 23:59:00 and timezone AoE are repository defaults\, not published cuto
+ ff precision.)
+DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
+ ion: London\, UK
+URL:https://www.ets2027.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:ets-2027-0-paper@conference-deadlines
+DTSTAMP:20261216T115900Z
+DTSTART:20261216T115900Z
+DTEND:20261216T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ETS 2027 deadline (Regular papers\; official CFP dates. Clock 23:59
+ :00 and timezone AoE are repository defaults\, not published cutoff precis
+ ion.)
+DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
+ ion: London\, UK
+URL:https://www.ets2027.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdf2c-2027-0-paper@conference-deadlines

@@ -16,7 +16,7 @@
 - name: Chile
   count: 1
 - name: China
-  count: 39
+  count: 38
 - name: Cyprus
   count: 1
 - name: Czechia
@@ -61,6 +61,8 @@
   count: 11
 - name: New Zealand
   count: 1
+- name: Panama
+  count: 1
 - name: Poland
   count: 3
 - name: Portugal
@@ -86,8 +88,8 @@
 - name: Türkiye
   count: 1
 - name: United Kingdom
-  count: 17
+  count: 18
 - name: United States
-  count: 75
+  count: 76
 - name: Vietnam
   count: 5

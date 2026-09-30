@@ -16,17 +16,6 @@ DESCRIPTION:International Conference on Pattern Recognition\nhttps://icpr20
 URL:https://icpr2026.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ksem-2026-0-paper@conference-deadlines
-DTSTAMP:20260115T235959Z
-DTSTART:20260115T235959Z
-DTEND:20260116T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:KSEM 2026 deadline
-DESCRIPTION:International Conference on Knowledge Science\, Engineering and
-  Management\nhttps://ksem2026.rosc.org.cn/\nLocation: Beijing\, China
-URL:https://ksem2026.rosc.org.cn/
-END:VEVENT
-BEGIN:VEVENT
 UID:icml-2026-0-abstract@conference-deadlines
 DTSTAMP:20260124T115959Z
 DTSTART:20260124T115959Z
@@ -71,6 +60,20 @@ SUMMARY:UAI 2026 deadline
 DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\nhttps://w
  ww.auai.org/uai2026/\nLocation: Amsterdam\, Netherlands
 URL:https://www.auai.org/uai2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ksem-2026-0-paper@conference-deadlines
+DTSTAMP:20260301T115900Z
+DTSTART:20260301T115900Z
+DTEND:20260301T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:KSEM 2026 deadline (Regular papers\; cutoff clock and timezone unpu
+ blished. 23:59:00 uses the repository default where the source gives no cl
+ ear cutoff clock. AoE uses the repository default because the source gives
+  no timezone.)
+DESCRIPTION:International Conference on Knowledge Science\, Engineering and
+  Management\nhttps://ksem2026.rosc.org.cn/\nLocation: Beijing\, China
+URL:https://ksem2026.rosc.org.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:eccv-2026-0-abstract@conference-deadlines

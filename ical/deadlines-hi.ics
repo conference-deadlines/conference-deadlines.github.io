@@ -99,11 +99,14 @@ URL:https://icmi.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:collaboratecom-2026-0-paper@conference-deadlines
-DTSTAMP:20260502T075959Z
-DTSTART:20260502T075959Z
-DTEND:20260502T082959Z
+DTSTAMP:20260502T115900Z
+DTSTART:20260502T115900Z
+DTEND:20260502T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:CollaborateCom 2026 deadline
+SUMMARY:CollaborateCom 2026 deadline (Regular track\; cutoff clock and time
+ zone unpublished. Separate late track excluded. 23:59:00 uses the reposito
+ ry default where the source gives no clear cutoff clock. AoE uses the repo
+ sitory default because the source gives no timezone.)
 DESCRIPTION:International Conference on Collaborative Computing: Networking
  \, Applications and Worksharing\nhttps://collaboratecom.eai-conferences.or
  g/2026/\nLocation: Hong Kong SAR\, China

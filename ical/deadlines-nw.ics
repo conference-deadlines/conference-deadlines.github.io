@@ -173,18 +173,6 @@ DESCRIPTION:IEEE International Conference on Network Protocols\nhttps://icn
 URL:https://icnp26.cs.ucr.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:mswim-2026-0-paper@conference-deadlines
-DTSTAMP:20260601T225959Z
-DTSTART:20260601T225959Z
-DTEND:20260601T232959Z
-TRANSP:TRANSPARENT
-SUMMARY:MSWiM 2026 deadline
-DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
- of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
- is\, France
-URL:https://mswimconf.com/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:conext-2026-0-abstract@conference-deadlines
 DTSTAMP:20260530T115959Z
 DTSTART:20260530T115959Z
@@ -207,6 +195,37 @@ DESCRIPTION:International Conference on Emerging Networking Experiments and
   Technologies\nhttps://conferences.sigcomm.org/co-next/2026/#!/home\nLocat
  ion: Utrecht\, The Netherlands
 URL:https://conferences.sigcomm.org/co-next/2026/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:mswim-2026-0-abstract@conference-deadlines
+DTSTAMP:20260615T115900Z
+DTSTART:20260615T115900Z
+DTEND:20260615T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:MSWiM 2026 abstract deadline (Regular papers\; extended abstract re
+ gistration and full-paper dates. Cutoff clocks and timezone unpublished. 2
+ 3:59:00 uses the repository default where the source gives no clear cutoff
+  clock. AoE uses the repository default because the source gives no timezo
+ ne.)
+DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
+ of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
+ is\, France
+URL:https://mswimconf.com/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:mswim-2026-0-paper@conference-deadlines
+DTSTAMP:20260616T115900Z
+DTSTART:20260616T115900Z
+DTEND:20260616T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:MSWiM 2026 deadline (Regular papers\; extended abstract registratio
+ n and full-paper dates. Cutoff clocks and timezone unpublished. 23:59:00 u
+ ses the repository default where the source gives no clear cutoff clock. A
+ oE uses the repository default because the source gives no timezone.)
+DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
+ of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
+ is\, France
+URL:https://mswimconf.com/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hotnets-2026-0-paper@conference-deadlines
@@ -273,6 +292,19 @@ SUMMARY:MobiCom 2027 deadline (Summer Deadlines)
 DESCRIPTION:ACM Annual International Conference On Mobile Computing And Net
  working\nhttps://www.sigmobile.org/mobicom/2027/\nLocation: TBD
 URL:https://www.sigmobile.org/mobicom/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:wcnc-2027-0-paper@conference-deadlines
+DTSTAMP:20260916T115900Z
+DTSTART:20260916T115900Z
+DTEND:20260916T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:WCNC 2027 deadline (Technical papers\; official IEEE ComSoc calenda
+ r date. Clock 23:59:00 and timezone AoE are repository defaults\, not publ
+ ished cutoff precision.)
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
+ /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
+URL:https://wcnc2027.ieee-wcnc.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:nsdi-2027-0-abstract@conference-deadlines

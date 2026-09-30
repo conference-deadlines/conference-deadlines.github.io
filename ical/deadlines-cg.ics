@@ -218,12 +218,30 @@ DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\nhttps://attend.
 URL:https://attend.ieee.org/slt-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ncmmsc-2026-0-paper@conference-deadlines
-DTSTAMP:20260705T155959Z
-DTSTART:20260705T155959Z
-DTEND:20260705T162959Z
+UID:ncmmsc-2026-0-abstract@conference-deadlines
+DTSTAMP:20260706T115900Z
+DTSTART:20260706T115900Z
+DTEND:20260706T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:NCMMSC 2026 deadline
+SUMMARY:NCMMSC 2026 abstract deadline (Regular full papers\; full-paper ext
+ ension. Cutoff clocks and timezone unpublished\; special sessions excluded
+ . 23:59:00 uses the repository default where the source gives no clear cut
+ off clock. AoE uses the repository default because the source gives no tim
+ ezone.)
+DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
+ //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
+URL:https://www.ncmmsc.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+UID:ncmmsc-2026-0-paper@conference-deadlines
+DTSTAMP:20260713T115900Z
+DTSTART:20260713T115900Z
+DTEND:20260713T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:NCMMSC 2026 deadline (Regular full papers\; full-paper extension. C
+ utoff clocks and timezone unpublished\; special sessions excluded. 23:59:0
+ 0 uses the repository default where the source gives no clear cutoff clock
+ . AoE uses the repository default because the source gives no timezone.)
 DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
  //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
 URL:https://www.ncmmsc.org.cn/

@@ -38,12 +38,25 @@ DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
 URL:https://www.computingfrontiers.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hpdc-2026-0-paper@conference-deadlines
-DTSTAMP:20260206T115959Z
-DTSTART:20260206T115959Z
-DTEND:20260206T122959Z
+UID:hpdc-2026-0-abstract@conference-deadlines
+DTSTAMP:20260130T115900Z
+DTSTART:20260130T115900Z
+DTEND:20260130T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:HPDC 2026 deadline (paper submission deadline)
+SUMMARY:HPDC 2026 abstract deadline (Dates and AoE verified\; 23:59:00 is t
+ he repository default for the unpublished cutoff time.)
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
+ uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:hpdc-2026-0-paper@conference-deadlines
+DTSTAMP:20260206T115900Z
+DTSTART:20260206T115900Z
+DTEND:20260206T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:HPDC 2026 deadline (Dates and AoE verified\; 23:59:00 is the reposi
+ tory default for the unpublished cutoff time.)
 DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
  uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
 URL:https://hpdc.sci.utah.edu/2026/
@@ -558,17 +571,6 @@ DESCRIPTION:International Conference on Field Programmable Technology\nhttp
 URL:https://fpt2026.uark.edu
 END:VEVENT
 BEGIN:VEVENT
-UID:icpads-2026-0-paper@conference-deadlines
-DTSTAMP:20260701T115959Z
-DTSTART:20260701T115959Z
-DTEND:20260701T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICPADS 2026 deadline
-DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
- ms\nhttps://www.cloud-conf.net/icpads2026\nLocation: Tokyo\, Japan
-URL:https://www.cloud-conf.net/icpads2026
-END:VEVENT
-BEGIN:VEVENT
 UID:ats-2026-0-paper@conference-deadlines
 DTSTAMP:20260708T115959Z
 DTSTART:20260708T115959Z
@@ -682,6 +684,20 @@ DESCRIPTION:IEEE International Conference on High Performance Computing and
   Communications\nhttps://ieee-hyper-intelligence.org/2026/hpcc/\nLocation:
   Luoyang\, Henan\, China
 URL:https://ieee-hyper-intelligence.org/2026/hpcc/
+END:VEVENT
+BEGIN:VEVENT
+UID:icpads-2026-0-paper@conference-deadlines
+DTSTAMP:20260816T115900Z
+DTSTART:20260816T115900Z
+DTEND:20260816T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICPADS 2026 deadline (Research papers\; extended firm deadline. Cut
+ off clock and timezone unpublished. 23:59:00 uses the repository default w
+ here the source gives no clear cutoff clock. AoE uses the repository defau
+ lt because the source gives no timezone.)
+DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
+ ms\nhttps://www.cloud-conf.net/icpads2026\nLocation: Tokyo\, Japan
+URL:https://www.cloud-conf.net/icpads2026
 END:VEVENT
 BEGIN:VEVENT
 UID:asplos-2027-0-paper@conference-deadlines
@@ -963,6 +979,32 @@ DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
  mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
  s\, USA
 URL:https://hpcclab.org/ccgrid27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ets-2027-0-abstract@conference-deadlines
+DTSTAMP:20261209T115900Z
+DTSTART:20261209T115900Z
+DTEND:20261209T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ETS 2027 abstract deadline (Regular papers\; official CFP dates. Cl
+ ock 23:59:00 and timezone AoE are repository defaults\, not published cuto
+ ff precision.)
+DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
+ ion: London\, UK
+URL:https://www.ets2027.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:ets-2027-0-paper@conference-deadlines
+DTSTAMP:20261216T115900Z
+DTSTART:20261216T115900Z
+DTEND:20261216T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ETS 2027 deadline (Regular papers\; official CFP dates. Clock 23:59
+ :00 and timezone AoE are repository defaults\, not published cutoff precis
+ ion.)
+DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
+ ion: London\, UK
+URL:https://www.ets2027.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:spaa-2027-0-abstract@conference-deadlines
