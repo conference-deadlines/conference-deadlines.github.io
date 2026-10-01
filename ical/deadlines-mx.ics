@@ -131,8 +131,7 @@ DTSTAMP:20260530T065959Z
 DTSTART:20260530T065959Z
 DTEND:20260530T072959Z
 TRANSP:TRANSPARENT
-SUMMARY:SIGSPATIAL 2026 abstract deadline (Extended Research Track deadline
- s)
+SUMMARY:SIGSPATIAL 2026 abstract deadline
 DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
  ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
  Riverside\, CA\, USA
@@ -144,7 +143,7 @@ DTSTAMP:20260606T065959Z
 DTSTART:20260606T065959Z
 DTEND:20260606T072959Z
 TRANSP:TRANSPARENT
-SUMMARY:SIGSPATIAL 2026 deadline (Extended Research Track deadlines)
+SUMMARY:SIGSPATIAL 2026 deadline
 DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
  ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
  Riverside\, CA\, USA

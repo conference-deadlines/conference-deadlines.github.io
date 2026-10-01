@@ -58,7 +58,7 @@ DTEND:20260226T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:UAI 2026 deadline
 DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\nhttps://w
- ww.auai.org/uai2026/\nLocation: Amsterdam\, Netherlands
+ ww.auai.org/uai2026/\nLocation: Amsterdam\, Netherlands (Hybrid)
 URL:https://www.auai.org/uai2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -67,10 +67,7 @@ DTSTAMP:20260301T115900Z
 DTSTART:20260301T115900Z
 DTEND:20260301T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:KSEM 2026 deadline (Regular papers\; cutoff clock and timezone unpu
- blished. 23:59:00 uses the repository default where the source gives no cl
- ear cutoff clock. AoE uses the repository default because the source gives
-  no timezone.)
+SUMMARY:KSEM 2026 deadline
 DESCRIPTION:International Conference on Knowledge Science\, Engineering and
   Management\nhttps://ksem2026.rosc.org.cn/\nLocation: Beijing\, China
 URL:https://ksem2026.rosc.org.cn/
@@ -219,8 +216,8 @@ DTEND:20260516T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:RuleML+RR 2026 abstract deadline
 DESCRIPTION:International Joint Conference on Rules and Reasoning\nhttps://
- 2026.declarativeai.net/events/ruleml-rr\nLocation: Vilnius\, Lithuania
-URL:https://2026.declarativeai.net/events/ruleml-rr
+ 2026.declarativeai.net/ruleml-rr\nLocation: Vilnius\, Lithuania
+URL:https://2026.declarativeai.net/ruleml-rr
 END:VEVENT
 BEGIN:VEVENT
 UID:ruleml-rr-2026-0-paper@conference-deadlines
@@ -230,8 +227,8 @@ DTEND:20260523T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:RuleML+RR 2026 deadline
 DESCRIPTION:International Joint Conference on Rules and Reasoning\nhttps://
- 2026.declarativeai.net/events/ruleml-rr\nLocation: Vilnius\, Lithuania
-URL:https://2026.declarativeai.net/events/ruleml-rr
+ 2026.declarativeai.net/ruleml-rr\nLocation: Vilnius\, Lithuania
+URL:https://2026.declarativeai.net/ruleml-rr
 END:VEVENT
 BEGIN:VEVENT
 UID:ijcnlp-2026-0-paper@conference-deadlines
@@ -421,7 +418,7 @@ TRANSP:TRANSPARENT
 SUMMARY:EMNLP 2026 deadline (Commitment deadline for papers with ARR review
  s and meta-reviews)
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language 
- Processing\nhttps://2026.emnlp.org/\nLocation: Budapest\, Hungary
+ Processing\nhttps://2026.emnlp.org/\nLocation: Budapest\, Hungary (Hybrid)
 URL:https://2026.emnlp.org/
 END:VEVENT
 BEGIN:VEVENT
@@ -805,6 +802,17 @@ SUMMARY:ICAPS 2027 deadline
 DESCRIPTION:International Conference on Automated Planning and Scheduling\n
  https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
 URL:https://icaps27.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acl-2027-0-paper@conference-deadlines
+DTSTAMP:20270105T115959Z
+DTSTART:20270105T115959Z
+DTEND:20270105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ACL 2027 deadline (ARR Submission)
+DESCRIPTION:Annual Meeting of the Association for Computational Linguistics
+ \nhttps://2027.aclweb.org/\nLocation: Kyoto\, Japan
+URL:https://2027.aclweb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ijcnn-2027-0-paper@conference-deadlines

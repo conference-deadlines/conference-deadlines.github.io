@@ -32,7 +32,7 @@ DTSTAMP:20260302T115959Z
 DTSTART:20260302T115959Z
 DTEND:20260302T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:TASE 2026 abstract deadline (Extended deadlines)
+SUMMARY:TASE 2026 abstract deadline
 DESCRIPTION:Theoretical Aspects of Software Engineering\nhttps://tase2026.g
  ithub.io/\nLocation: Shanghai\, China
 URL:https://tase2026.github.io/
@@ -43,7 +43,7 @@ DTSTAMP:20260308T115959Z
 DTSTART:20260308T115959Z
 DTEND:20260308T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:TASE 2026 deadline (Extended deadlines)
+SUMMARY:TASE 2026 deadline
 DESCRIPTION:Theoretical Aspects of Software Engineering\nhttps://tase2026.g
  ithub.io/\nLocation: Shanghai\, China
 URL:https://tase2026.github.io/
@@ -76,7 +76,7 @@ DTSTAMP:20260314T115959Z
 DTSTART:20260314T115959Z
 DTEND:20260314T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:LCTES 2026 abstract deadline (Extended deadlines)
+SUMMARY:LCTES 2026 abstract deadline
 DESCRIPTION:International Conference on Languages\, Compilers and Tools for
   Embedded Systems\nhttps://pldi26.sigplan.org/home/LCTES-2026\nLocation: B
  oulder\, Colorado\, USA
@@ -88,7 +88,7 @@ DTSTAMP:20260321T115959Z
 DTSTART:20260321T115959Z
 DTEND:20260321T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:LCTES 2026 deadline (Extended deadlines)
+SUMMARY:LCTES 2026 deadline
 DESCRIPTION:International Conference on Languages\, Compilers and Tools for
   Embedded Systems\nhttps://pldi26.sigplan.org/home/LCTES-2026\nLocation: B
  oulder\, Colorado\, USA
@@ -112,7 +112,7 @@ DTSTAMP:20260323T115959Z
 DTSTART:20260323T115959Z
 DTEND:20260323T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:SSE 2026 deadline (Extended and firm paper submission deadline)
+SUMMARY:SSE 2026 deadline
 DESCRIPTION:IEEE International Conference on Software Services Engineering\
  nhttps://services.conferences.computer.org/2026/sse/\nLocation: Sydney\, A
  ustralia
@@ -124,7 +124,7 @@ DTSTAMP:20260327T115959Z
 DTSTART:20260327T115959Z
 DTEND:20260327T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ASE 2026 deadline
+SUMMARY:ASE 2026 deadline (March 30 updates only)
 DESCRIPTION:International Conference on Automated Software Engineering\nhtt
  ps://conf.researchr.org/home/ase-2026\nLocation: Munich\, Germany
 URL:https://conf.researchr.org/home/ase-2026
@@ -155,9 +155,9 @@ URL:https://conf.researchr.org/home/models-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:sosp-2026-0-abstract@conference-deadlines
-DTSTAMP:20260327T115959Z
-DTSTART:20260327T115959Z
-DTEND:20260327T122959Z
+DTSTAMP:20260327T115900Z
+DTSTART:20260327T115900Z
+DTEND:20260327T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:SOSP 2026 abstract deadline
 DESCRIPTION:ACM Symposium on Operating Systems Principles\nhttps://sigops.o
@@ -167,9 +167,9 @@ URL:https://sigops.org/s/conferences/sosp/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sosp-2026-0-paper@conference-deadlines
-DTSTAMP:20260402T115959Z
-DTSTART:20260402T115959Z
-DTEND:20260402T122959Z
+DTSTAMP:20260402T115900Z
+DTSTART:20260402T115900Z
+DTEND:20260402T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:SOSP 2026 deadline
 DESCRIPTION:ACM Symposium on Operating Systems Principles\nhttps://sigops.o
@@ -183,7 +183,7 @@ DTSTAMP:20260409T115959Z
 DTSTART:20260409T115959Z
 DTEND:20260409T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:QRS 2026 abstract deadline (Regular papers (extended))
+SUMMARY:QRS 2026 abstract deadline
 DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
   and Security\nhttps://qrs26.techconf.org/\nLocation: University of Floren
  ce\, Florence\, Italy
@@ -195,7 +195,7 @@ DTSTAMP:20260423T115959Z
 DTSTART:20260423T115959Z
 DTEND:20260423T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:QRS 2026 deadline (Regular papers (extended))
+SUMMARY:QRS 2026 deadline
 DESCRIPTION:IEEE International Conference on Software Quality\, Reliability
   and Security\nhttps://qrs26.techconf.org/\nLocation: University of Floren
  ce\, Florence\, Italy
@@ -251,7 +251,7 @@ DTSTAMP:20260511T045959Z
 DTSTART:20260511T045959Z
 DTEND:20260511T052959Z
 TRANSP:TRANSPARENT
-SUMMARY:SEKE 2026 deadline (Regular papers\; midnight EST)
+SUMMARY:SEKE 2026 deadline (CFP and proceedings event dates conflict)
 DESCRIPTION:International Conference on Software Engineering and Knowledge 
  Engineering\nhttps://ksiresearch.org/seke/seke26.html\nLocation: Toronto\,
   Canada & Virtual
@@ -333,7 +333,7 @@ DTSTAMP:20260612T115959Z
 DTSTART:20260612T115959Z
 DTEND:20260612T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:SCAM 2026 deadline (co-located with ICSME 2026)
+SUMMARY:SCAM 2026 deadline
 DESCRIPTION:IEEE International Working Conference on Source Code Analysis a
  nd Manipulation\nhttps://conf.researchr.org/home/scam-2026\nLocation: Bene
  vento\, Italy
@@ -361,6 +361,17 @@ DESCRIPTION:Asian Symposium on Programming Languages and Systems\nhttps://c
  onf.researchr.org/track/aplas-atva-2026/aplas-2026\nLocation: Hong Kong SA
  R\, China
 URL:https://conf.researchr.org/track/aplas-atva-2026/aplas-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:icfem-2026-0-abstract@conference-deadlines
+DTSTAMP:20260623T115900Z
+DTSTART:20260623T115900Z
+DTEND:20260623T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICFEM 2026 abstract deadline
+DESCRIPTION:International Conference on Formal Engineering Methods\nhttps:/
+ /icfem2026.github.io/\nLocation: Southampton\, UK
+URL:https://icfem2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:icfem-2026-0-paper@conference-deadlines
@@ -412,7 +423,7 @@ DTSTAMP:20260713T115959Z
 DTSTART:20260713T115959Z
 DTEND:20260713T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICSOC 2026 abstract deadline (Regular papers)
+SUMMARY:ICSOC 2026 abstract deadline (Regular round)
 DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
  /icsoc2026.it.p.lodz.pl/\nLocation: Lodz\, Poland
 URL:https://icsoc2026.it.p.lodz.pl/
@@ -423,7 +434,7 @@ DTSTAMP:20260720T115959Z
 DTSTART:20260720T115959Z
 DTEND:20260720T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICSOC 2026 deadline (Regular papers)
+SUMMARY:ICSOC 2026 deadline (Regular round)
 DESCRIPTION:International Conference on Service Oriented Computing\nhttps:/
  /icsoc2026.it.p.lodz.pl/\nLocation: Lodz\, Poland
 URL:https://icsoc2026.it.p.lodz.pl/
@@ -434,7 +445,7 @@ DTSTAMP:20260714T115959Z
 DTSTART:20260714T115959Z
 DTEND:20260714T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:APSEC 2026 abstract deadline
+SUMMARY:APSEC 2026 abstract deadline (Optional abstract)
 DESCRIPTION:Asia-Pacific Software Engineering Conference\nhttps://conf.rese
  archr.org/home/apsec-2026\nLocation: Bali\, Indonesia
 URL:https://conf.researchr.org/home/apsec-2026
@@ -445,10 +456,22 @@ DTSTAMP:20260721T115959Z
 DTSTART:20260721T115959Z
 DTEND:20260721T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:APSEC 2026 deadline
+SUMMARY:APSEC 2026 deadline (Optional abstract)
 DESCRIPTION:Asia-Pacific Software Engineering Conference\nhttps://conf.rese
  archr.org/home/apsec-2026\nLocation: Bali\, Indonesia
 URL:https://conf.researchr.org/home/apsec-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:iceccs-2026-0-abstract@conference-deadlines
+DTSTAMP:20260721T115900Z
+DTSTART:20260721T115900Z
+DTEND:20260721T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICECCS 2026 abstract deadline
+DESCRIPTION:International Conference on Engineering of Complex Computer Sys
+ tems\nhttps://formal-analysis.com/iceccs/2026/\nLocation: Brisbane\, Austr
+ alia
+URL:https://formal-analysis.com/iceccs/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:iceccs-2026-0-paper@conference-deadlines
@@ -456,7 +479,7 @@ DTSTAMP:20260721T115959Z
 DTSTART:20260721T115959Z
 DTEND:20260721T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ICECCS 2026 deadline (Abstract and full paper submission)
+SUMMARY:ICECCS 2026 deadline
 DESCRIPTION:International Conference on Engineering of Complex Computer Sys
  tems\nhttps://formal-analysis.com/iceccs/2026/\nLocation: Brisbane\, Austr
  alia

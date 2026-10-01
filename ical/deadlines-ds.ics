@@ -43,8 +43,7 @@ DTSTAMP:20260130T115900Z
 DTSTART:20260130T115900Z
 DTEND:20260130T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:HPDC 2026 abstract deadline (Dates and AoE verified\; 23:59:00 is t
- he repository default for the unpublished cutoff time.)
+SUMMARY:HPDC 2026 abstract deadline
 DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
  uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
 URL:https://hpdc.sci.utah.edu/2026/
@@ -55,8 +54,7 @@ DTSTAMP:20260206T115900Z
 DTSTART:20260206T115900Z
 DTEND:20260206T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:HPDC 2026 deadline (Dates and AoE verified\; 23:59:00 is the reposi
- tory default for the unpublished cutoff time.)
+SUMMARY:HPDC 2026 deadline
 DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
  uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
 URL:https://hpdc.sci.utah.edu/2026/
@@ -497,7 +495,7 @@ DTSTAMP:20260526T115959Z
 DTSTART:20260526T115959Z
 DTEND:20260526T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:SYSTOR 2026 deadline (Regular full papers)
+SUMMARY:SYSTOR 2026 deadline
 DESCRIPTION:The ACM International Systems and Storage Conference\nhttps://w
  ww.systor.org/2026/\nLocation: Virtual
 URL:https://www.systor.org/2026/
@@ -550,11 +548,11 @@ URL:https://sigops.org/s/conferences/atc/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:hotstorage-2026-0-paper@conference-deadlines
-DTSTAMP:20260613T115959Z
-DTSTART:20260613T115959Z
-DTEND:20260613T122959Z
+DTSTAMP:20260613T115900Z
+DTSTART:20260613T115900Z
+DTEND:20260613T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:HotStorage 2026 deadline (Regular paper submission (extended))
+SUMMARY:HotStorage 2026 deadline
 DESCRIPTION:ACM Workshop on Hot Topics in Storage and File Systems\nhttps:/
  /www.hotstorage.org/2026/\nLocation: Prague\, Czechia
 URL:https://www.hotstorage.org/2026/
@@ -565,7 +563,7 @@ DTSTAMP:20260620T115959Z
 DTSTART:20260620T115959Z
 DTEND:20260620T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:FPT 2026 deadline (Submission Due (Conference Track))
+SUMMARY:FPT 2026 deadline (Conference track)
 DESCRIPTION:International Conference on Field Programmable Technology\nhttp
  s://fpt2026.uark.edu\nLocation: Honolulu\, Hawaii\, USA
 URL:https://fpt2026.uark.edu

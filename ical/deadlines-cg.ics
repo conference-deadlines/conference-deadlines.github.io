@@ -207,12 +207,23 @@ DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
 URL:https://pacificgraphics2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:slt-2026-0-paper@conference-deadlines
-DTSTAMP:20260625T115959Z
-DTSTART:20260625T115959Z
-DTEND:20260625T122959Z
+UID:slt-2026-0-abstract@conference-deadlines
+DTSTAMP:20260625T115900Z
+DTSTART:20260625T115900Z
+DTEND:20260625T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:SLT 2026 deadline
+SUMMARY:SLT 2026 abstract deadline (Abstract registration / full paper)
+DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\nhttps://attend.
+ ieee.org/slt-2026/\nLocation: Palermo\, Sicily\, Italy
+URL:https://attend.ieee.org/slt-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:slt-2026-0-paper@conference-deadlines
+DTSTAMP:20260702T115900Z
+DTSTART:20260702T115900Z
+DTEND:20260702T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SLT 2026 deadline (Abstract registration / full paper)
 DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\nhttps://attend.
  ieee.org/slt-2026/\nLocation: Palermo\, Sicily\, Italy
 URL:https://attend.ieee.org/slt-2026/
@@ -263,7 +274,7 @@ DTSTAMP:20260815T115959Z
 DTSTART:20260815T115959Z
 DTEND:20260815T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:MMAsia 2026 deadline (Regular Paper)
+SUMMARY:MMAsia 2026 deadline
 DESCRIPTION:ACM Multimedia Asia\nhttps://www.mmasia2026.org/\nLocation: Vin
  University\, Hanoi\, Vietnam
 URL:https://www.mmasia2026.org/

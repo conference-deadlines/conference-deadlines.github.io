@@ -10,7 +10,7 @@ DTSTAMP:20260307T115959Z
 DTSTART:20260307T115959Z
 DTEND:20260307T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ECSCW 2026 deadline (Conference Papers)
+SUMMARY:ECSCW 2026 deadline
 DESCRIPTION:European Conference on Computer Supported Cooperative Work\nhtt
  ps://ecscw.eusset.eu/2026\nLocation: Munich\, Germany
 URL:https://ecscw.eusset.eu/2026
@@ -103,14 +103,23 @@ DTSTAMP:20260502T115900Z
 DTSTART:20260502T115900Z
 DTEND:20260502T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:CollaborateCom 2026 deadline (Regular track\; cutoff clock and time
- zone unpublished. Separate late track excluded. 23:59:00 uses the reposito
- ry default where the source gives no clear cutoff clock. AoE uses the repo
- sitory default because the source gives no timezone.)
+SUMMARY:CollaborateCom 2026 deadline
 DESCRIPTION:International Conference on Collaborative Computing: Networking
  \, Applications and Worksharing\nhttps://collaboratecom.eai-conferences.or
  g/2026/\nLocation: Hong Kong SAR\, China
 URL:https://collaboratecom.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ubicomp-iswc-2026-0-paper@conference-deadlines
+DTSTAMP:20260502T115959Z
+DTSTART:20260502T115959Z
+DTEND:20260502T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:UbiComp/ISWC 2026 deadline (second round)
+DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous 
+ Computing\nhttps://www.ubicomp.org/ubicomp-iswc-2026\nLocation: Shanghai\,
+  China
+URL:https://www.ubicomp.org/ubicomp-iswc-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:uic-2026-0-paper@conference-deadlines
@@ -211,18 +220,6 @@ SUMMARY:CSCWD 2027 deadline
 DESCRIPTION:International Conference on Computer Supported Cooperative Work
   in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
 URL:http://2027.cscwd.org
-END:VEVENT
-BEGIN:VEVENT
-UID:ubicomp-iswc-2026-0-paper@conference-deadlines
-DTSTAMP:20261102T115959Z
-DTSTART:20261102T115959Z
-DTEND:20261102T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:UbiComp/ISWC 2026 deadline (fourth round)
-DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous 
- Computing\nhttps://www.ubicomp.org/ubicomp-iswc-2026\nLocation: Shanghai\,
-  China
-URL:https://www.ubicomp.org/ubicomp-iswc-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:icwsm-2027-0-paper@conference-deadlines

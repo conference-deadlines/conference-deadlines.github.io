@@ -32,10 +32,21 @@ DTSTAMP:20260219T115959Z
 DTSTART:20260219T115959Z
 DTEND:20260219T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:DIMVA 2026 deadline (Cycle 2 submission deadline)
+SUMMARY:DIMVA 2026 deadline (Cycle 2)
 DESCRIPTION:Detection of Intrusions and Malware & Vulnerability Assessment\
  nhttps://www.dimva.org/dimva2026/\nLocation: Chania\, Greece
 URL:https://www.dimva.org/dimva2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ih-mmsec-2026-0-paper@conference-deadlines
+DTSTAMP:20260303T115900Z
+DTSTART:20260303T115900Z
+DTEND:20260303T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IH&MMSec 2026 deadline
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\nhtt
+ ps://www.ihmmsec.org/cms/home/home2026.html\nLocation: Florence\, Italy
+URL:https://www.ihmmsec.org/cms/home/home2026.html
 END:VEVENT
 BEGIN:VEVENT
 UID:wisec-2026-0-paper@conference-deadlines
@@ -43,7 +54,7 @@ DTSTAMP:20260304T115959Z
 DTSTART:20260304T115959Z
 DTEND:20260304T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:WiSec 2026 deadline (Second Cycle deadline)
+SUMMARY:WiSec 2026 deadline (Round 2)
 DESCRIPTION:ACM Conference on Security and Privacy in Wireless and Mobile N
  etworks\nhttps://wisec26.events.cispa.de/\nLocation: Saarbrücken\, German
  y
@@ -78,7 +89,7 @@ DTSTAMP:20260422T115959Z
 DTSTART:20260422T115959Z
 DTEND:20260422T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ESORICS 2026 deadline (Second Submission deadline)
+SUMMARY:ESORICS 2026 deadline (Spring)
 DESCRIPTION:European Symposium on Research in Computer Security\nhttps://si
  tes.google.com/di.uniroma1.it/esorics2026/home\nLocation: Rome\, Italy
 URL:https://sites.google.com/di.uniroma1.it/esorics2026/home
@@ -93,28 +104,6 @@ SUMMARY:INSCRYPT 2026 deadline (1st Round)
 DESCRIPTION:International Conference on Information Security and Cryptology
  \nhttps://inscrypt2026.comp.polyu.edu.hk\nLocation: Hong Kong SAR\, China
 URL:https://inscrypt2026.comp.polyu.edu.hk
-END:VEVENT
-BEGIN:VEVENT
-UID:srds-2026-0-abstract@conference-deadlines
-DTSTAMP:20260502T115959Z
-DTSTART:20260502T115959Z
-DTEND:20260502T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SRDS 2026 abstract deadline
-DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
- ttps://srds-conference.org/\nLocation: Rome\, Italy
-URL:https://srds-conference.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:srds-2026-0-paper@conference-deadlines
-DTSTAMP:20260509T115959Z
-DTSTART:20260509T115959Z
-DTEND:20260509T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SRDS 2026 deadline
-DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\nh
- ttps://srds-conference.org/\nLocation: Rome\, Italy
-URL:https://srds-conference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sac-2026-0-paper@conference-deadlines
@@ -144,9 +133,7 @@ DTSTAMP:20260519T115900Z
 DTSTART:20260519T115900Z
 DTEND:20260519T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:CNS 2026 deadline (Regular papers\; official extended deadline. Clo
- ck 23:59:00 and timezone AoE are repository defaults because neither is pu
- blished.)
+SUMMARY:CNS 2026 deadline
 DESCRIPTION:IEEE Conference on Communications and Network Security\nhttps:/
  /cns2026.ieee-cns.org/\nLocation: Newark\, Delaware\, USA
 URL:https://cns2026.ieee-cns.org/
@@ -231,18 +218,6 @@ DESCRIPTION:Information Security Conference\nhttps://isc2026.github.io/\nLo
 URL:https://isc2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:cscloud-2026-0-paper@conference-deadlines
-DTSTAMP:20260802T115959Z
-DTSTART:20260802T115959Z
-DTEND:20260802T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CSCloud 2026 deadline
-DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Compu
- ting\nhttps://www.cloud-conf.net/cscloud/2026/cscloud/\nLocation: Shanghai
- \, China
-URL:https://www.cloud-conf.net/cscloud/2026/cscloud/
-END:VEVENT
-BEGIN:VEVENT
 UID:pkc-2027-0-paper@conference-deadlines
 DTSTAMP:20260817T115959Z
 DTSTART:20260817T115959Z
@@ -274,6 +249,18 @@ SUMMARY:INDOCRYPT 2026 deadline (Extended submission deadline)
 DESCRIPTION:International Conference on Cryptology in India\nhttps://indocr
  ypt2026.cdacb.in/\nLocation: Bengaluru\, India
 URL:https://indocrypt2026.cdacb.in/
+END:VEVENT
+BEGIN:VEVENT
+UID:cscloud-2026-0-paper@conference-deadlines
+DTSTAMP:20260916T115900Z
+DTSTART:20260916T115900Z
+DTEND:20260916T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CSCloud 2026 deadline
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Compu
+ ting\nhttps://www.cloud-conf.net/cscloud/2026/cscloud/\nLocation: Shanghai
+ \, China
+URL:https://www.cloud-conf.net/cscloud/2026/cscloud/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurocrypt-2027-0-paper@conference-deadlines

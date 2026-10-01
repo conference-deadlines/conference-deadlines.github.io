@@ -51,6 +51,17 @@ DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\nhttps:/
 URL:https://iwqos2026.ieee-iwqos.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:iscc-2026-0-paper@conference-deadlines
+DTSTAMP:20260228T115900Z
+DTSTART:20260228T115900Z
+DTEND:20260228T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCC 2026 deadline
+DESCRIPTION:IEEE Symposium on Computers and Communications\nhttps://ieee-is
+ cc.computer.org/2026/\nLocation: Vilamoura\, Algarve\, Portugal
+URL:https://ieee-iscc.computer.org/2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:networking-2026-0-paper@conference-deadlines
 DTSTAMP:20260301T115959Z
 DTSTART:20260301T115959Z
@@ -107,28 +118,6 @@ DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, and
 URL:http://wasa-conference.org/WASA2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:mobihoc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260414T115959Z
-DTSTART:20260414T115959Z
-DTEND:20260414T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MobiHoc 2026 abstract deadline
-DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Computi
- ng\nhttps://www.sigmobile.org/mobihoc/2026/\nLocation: Tokyo\, Japan
-URL:https://www.sigmobile.org/mobihoc/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:mobihoc-2026-0-paper@conference-deadlines
-DTSTAMP:20260421T115959Z
-DTSTART:20260421T115959Z
-DTEND:20260421T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MobiHoc 2026 deadline
-DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Computi
- ng\nhttps://www.sigmobile.org/mobihoc/2026/\nLocation: Tokyo\, Japan
-URL:https://www.sigmobile.org/mobihoc/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:globecom-2026-0-paper@conference-deadlines
 DTSTAMP:20260504T035959Z
 DTSTART:20260504T035959Z
@@ -140,12 +129,23 @@ DESCRIPTION:IEEE Global Communications Conference\nhttps://globecom2026.iee
 URL:https://globecom2026.ieee-globecom.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:lcn-2026-0-abstract@conference-deadlines
+DTSTAMP:20260505T115900Z
+DTSTART:20260505T115900Z
+DTEND:20260505T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:LCN 2026 abstract deadline (Registration / full paper)
+DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
+ .org/\nLocation: Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:lcn-2026-0-paper@conference-deadlines
 DTSTAMP:20260505T115959Z
 DTSTART:20260505T115959Z
 DTEND:20260505T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:LCN 2026 deadline
+SUMMARY:LCN 2026 deadline (Registration / full paper)
 DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
  .org/\nLocation: Coimbra\, Portugal
 URL:https://www.ieeelcn.org/
@@ -202,11 +202,7 @@ DTSTAMP:20260615T115900Z
 DTSTART:20260615T115900Z
 DTEND:20260615T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:MSWiM 2026 abstract deadline (Regular papers\; extended abstract re
- gistration and full-paper dates. Cutoff clocks and timezone unpublished. 2
- 3:59:00 uses the repository default where the source gives no clear cutoff
-  clock. AoE uses the repository default because the source gives no timezo
- ne.)
+SUMMARY:MSWiM 2026 abstract deadline
 DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
  of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
  is\, France
@@ -218,14 +214,22 @@ DTSTAMP:20260616T115900Z
 DTSTART:20260616T115900Z
 DTEND:20260616T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:MSWiM 2026 deadline (Regular papers\; extended abstract registratio
- n and full-paper dates. Cutoff clocks and timezone unpublished. 23:59:00 u
- ses the repository default where the source gives no clear cutoff clock. A
- oE uses the repository default because the source gives no timezone.)
+SUMMARY:MSWiM 2026 deadline
 DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
  of Wireless and Mobile Systems\nhttps://mswimconf.com/2026/\nLocation: Par
  is\, France
 URL:https://mswimconf.com/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:hotnets-2026-0-abstract@conference-deadlines
+DTSTAMP:20260717T115958Z
+DTSTART:20260717T115958Z
+DTEND:20260717T122958Z
+TRANSP:TRANSPARENT
+SUMMARY:HotNets 2026 abstract deadline (Registration / full paper)
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\nhttps://conferences.sig
+ comm.org/hotnets/2026/\nLocation: Salt Lake City\, Utah\, USA
+URL:https://conferences.sigcomm.org/hotnets/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hotnets-2026-0-paper@conference-deadlines
@@ -233,7 +237,7 @@ DTSTAMP:20260717T115959Z
 DTSTART:20260717T115959Z
 DTEND:20260717T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:HotNets 2026 deadline
+SUMMARY:HotNets 2026 deadline (Registration / full paper)
 DESCRIPTION:ACM Workshop on Hot Topics in Networks\nhttps://conferences.sig
  comm.org/hotnets/2026/\nLocation: Salt Lake City\, Utah\, USA
 URL:https://conferences.sigcomm.org/hotnets/2026/
