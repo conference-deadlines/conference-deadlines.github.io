@@ -288,6 +288,17 @@ DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interactio
 URL:https://interact2027.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:gi-2027-0-paper@conference-deadlines
+DTSTAMP:20270206T115900Z
+DTSTART:20270206T115900Z
+DTEND:20270206T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:GI 2027 deadline
+DESCRIPTION:Graphics Interface\nhttps://conferences.graphicsinterface.org/2
+ 027\nLocation: Winnipeg\, Canada
+URL:https://conferences.graphicsinterface.org/2027
+END:VEVENT
+BEGIN:VEVENT
 UID:mobilehci-2027-0-abstract@conference-deadlines
 DTSTAMP:20270211T115959Z
 DTSTART:20270211T115959Z

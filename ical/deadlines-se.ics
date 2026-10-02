@@ -673,6 +673,28 @@ DESCRIPTION:Requirements Engineering: Foundation for Software Quality\nhttp
 URL:https://2027.refsq.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:caise-2027-0-abstract@conference-deadlines
+DTSTAMP:20261105T115900Z
+DTSTART:20261105T115900Z
+DTEND:20261105T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CAiSE 2027 abstract deadline
+DESCRIPTION:International Conference on Advanced Information Systems Engine
+ ering\nhttps://deal.us.es/caise27/\nLocation: Seville\, Spain
+URL:https://deal.us.es/caise27/
+END:VEVENT
+BEGIN:VEVENT
+UID:caise-2027-0-paper@conference-deadlines
+DTSTAMP:20261116T115900Z
+DTSTART:20261116T115900Z
+DTEND:20261116T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:CAiSE 2027 deadline
+DESCRIPTION:International Conference on Advanced Information Systems Engine
+ ering\nhttps://deal.us.es/caise27/\nLocation: Seville\, Spain
+URL:https://deal.us.es/caise27/
+END:VEVENT
+BEGIN:VEVENT
 UID:ecoop-2027-0-paper@conference-deadlines
 DTSTAMP:20261120T115959Z
 DTSTART:20261120T115959Z
@@ -772,6 +794,18 @@ SUMMARY:COMPSAC 2027 deadline
 DESCRIPTION:International Computer Software and Applications Conference\nht
  tps://ieeecompsac.computer.org/2027/\nLocation: Tokyo\, Japan
 URL:https://ieeecompsac.computer.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:hotos-2027-0-paper@conference-deadlines
+DTSTAMP:20270202T115900Z
+DTSTART:20270202T115900Z
+DTEND:20270202T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:HotOS 2027 deadline
+DESCRIPTION:USENIX Workshop on Hot Topics in Operating Systems\nhttps://sig
+ ops.org/s/conferences/hotos/2027/\nLocation: Burghausen\, Bavaria\, German
+ y
+URL:https://sigops.org/s/conferences/hotos/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icfp-2027-0-paper@conference-deadlines

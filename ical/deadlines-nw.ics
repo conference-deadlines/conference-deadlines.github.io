@@ -342,7 +342,7 @@ DTEND:20261001T002959Z
 TRANSP:TRANSPARENT
 SUMMARY:WiCON 2026 deadline
 DESCRIPTION:International Wireless Internet Conference\nhttps://wicon.eai-c
- onferences.org/2026/\nLocation: Bratislava\, Slovakia
+ onferences.org/2026/\nLocation: Bratislava\, Slovakia (Hybrid)
 URL:https://wicon.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -446,5 +446,17 @@ DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
   and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
  inh City\, Vietnam
 URL:https://www.sigmobile.org/mobisys/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:nossdav-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115900Z
+DTSTART:20270112T115900Z
+DTEND:20270112T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:NOSSDAV 2027 deadline
+DESCRIPTION:International Workshop on Network and Operating System Support 
+ for Digital Audio and Video\nhttps://nossdav.org/\nLocation: Ghent\, Belgi
+ um
+URL:https://nossdav.org/
 END:VEVENT
 END:VCALENDAR

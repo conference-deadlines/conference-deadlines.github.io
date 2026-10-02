@@ -45,7 +45,8 @@ DTEND:20260211T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CASA 2026 deadline
 DESCRIPTION:International Conference on Computer Animation and Social Agent
- s\nhttps://cgs-network.org/CASAXR26/\nLocation: Geneva\, Switzerland
+ s\nhttps://cgs-network.org/CASAXR26/\nLocation: Geneva\, Switzerland (Hybr
+ id)
 URL:https://cgs-network.org/CASAXR26/
 END:VEVENT
 BEGIN:VEVENT
@@ -76,8 +77,7 @@ DTSTAMP:20260322T115959Z
 DTSTART:20260322T115959Z
 DTEND:20260322T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:IEEE VIS 2026 abstract deadline (Regular full papers\; mandatory ab
- stract and initial submission)
+SUMMARY:IEEE VIS 2026 abstract deadline
 DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
  lcome\nLocation: Boston\, Massachusetts\, USA
 URL:https://ieeevis.org/year/2026/welcome
@@ -88,8 +88,7 @@ DTSTAMP:20260401T115959Z
 DTSTART:20260401T115959Z
 DTEND:20260401T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:IEEE VIS 2026 deadline (Regular full papers\; mandatory abstract an
- d initial submission)
+SUMMARY:IEEE VIS 2026 deadline
 DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
  lcome\nLocation: Boston\, Massachusetts\, USA
 URL:https://ieeevis.org/year/2026/welcome
@@ -144,7 +143,7 @@ DTSTAMP:20260410T235900Z
 DTSTART:20260410T235900Z
 DTEND:20260411T002900Z
 TRANSP:TRANSPARENT
-SUMMARY:SCA 2026 abstract deadline (Submission deadline (papers))
+SUMMARY:SCA 2026 abstract deadline
 DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
  s://computeranimation.org/\nLocation: Barcelona\, Spain
 URL:https://computeranimation.org/
@@ -155,7 +154,7 @@ DTSTAMP:20260417T235900Z
 DTSTART:20260417T235900Z
 DTEND:20260418T002900Z
 TRANSP:TRANSPARENT
-SUMMARY:SCA 2026 deadline (Submission deadline (papers))
+SUMMARY:SCA 2026 deadline
 DESCRIPTION:ACM SIGGRAPH/Eurographics Symposium on Computer Animation\nhttp
  s://computeranimation.org/\nLocation: Barcelona\, Spain
 URL:https://computeranimation.org/
@@ -166,7 +165,7 @@ DTSTAMP:20260513T115959Z
 DTSTART:20260513T115959Z
 DTEND:20260513T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:CCCG 2026 deadline (Submission Deadline)
+SUMMARY:CCCG 2026 deadline
 DESCRIPTION:Canadian Conference on Computational Geometry\nhttps://sites.go
  ogle.com/view/cccg-2026/home\nLocation: Orillia\, Ontario\, Canada
 URL:https://sites.google.com/view/cccg-2026/home
@@ -234,11 +233,7 @@ DTSTAMP:20260706T115900Z
 DTSTART:20260706T115900Z
 DTEND:20260706T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:NCMMSC 2026 abstract deadline (Regular full papers\; full-paper ext
- ension. Cutoff clocks and timezone unpublished\; special sessions excluded
- . 23:59:00 uses the repository default where the source gives no clear cut
- off clock. AoE uses the repository default because the source gives no tim
- ezone.)
+SUMMARY:NCMMSC 2026 abstract deadline
 DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
  //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
 URL:https://www.ncmmsc.org.cn/
@@ -249,10 +244,7 @@ DTSTAMP:20260713T115900Z
 DTSTART:20260713T115900Z
 DTEND:20260713T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:NCMMSC 2026 deadline (Regular full papers\; full-paper extension. C
- utoff clocks and timezone unpublished\; special sessions excluded. 23:59:0
- 0 uses the repository default where the source gives no clear cutoff clock
- . AoE uses the repository default because the source gives no timezone.)
+SUMMARY:NCMMSC 2026 deadline
 DESCRIPTION:National Conference on Man-Machine Speech Communication\nhttps:
  //www.ncmmsc.org.cn/\nLocation: Hengqin\, China
 URL:https://www.ncmmsc.org.cn/
@@ -348,9 +340,9 @@ URL:https://ieeevr.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurographics-2027-0-abstract@conference-deadlines
-DTSTAMP:20260926T095900Z
-DTSTART:20260926T095900Z
-DTEND:20260926T102900Z
+DTSTAMP:20260926T115900Z
+DTSTART:20260926T115900Z
+DTEND:20260926T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:Eurographics 2027 abstract deadline
 DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
@@ -359,9 +351,9 @@ URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurographics-2027-0-paper@conference-deadlines
-DTSTAMP:20261001T235900Z
-DTSTART:20261001T235900Z
-DTEND:20261002T002900Z
+DTSTAMP:20261002T115900Z
+DTSTART:20261002T115900Z
+DTEND:20261002T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:Eurographics 2027 deadline
 DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
@@ -370,9 +362,9 @@ URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
 UID:dcc-2027-0-paper@conference-deadlines
-DTSTAMP:20261003T065959Z
-DTSTART:20261003T065959Z
-DTEND:20261003T072959Z
+DTSTAMP:20261010T065959Z
+DTSTART:20261010T065959Z
+DTEND:20261010T072959Z
 TRANSP:TRANSPARENT
 SUMMARY:DCC 2027 deadline
 DESCRIPTION:Data Compression Conference\nhttps://datacompressionconference.
@@ -501,6 +493,28 @@ SUMMARY:IEEE CoG 2027 deadline (Auxiliary Paper)
 DESCRIPTION:IEEE Conference on Games\nhttps://cog2027.u-aizu.ac.jp/\nLocati
  on: Aizuwakamatsu\, Japan
 URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+UID:smi-2027-0-abstract@conference-deadlines
+DTSTAMP:20270301T235900Z
+DTSTART:20270301T235900Z
+DTEND:20270302T002900Z
+TRANSP:TRANSPARENT
+SUMMARY:SMI 2027 abstract deadline (Abstract submission is a soft deadline)
+DESCRIPTION:Shape Modeling International\nhttps://smiconf.github.io/2027/\n
+ Location: Singapore
+URL:https://smiconf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:smi-2027-0-paper@conference-deadlines
+DTSTAMP:20270308T235900Z
+DTSTART:20270308T235900Z
+DTEND:20270309T002900Z
+TRANSP:TRANSPARENT
+SUMMARY:SMI 2027 deadline (Abstract submission is a soft deadline)
+DESCRIPTION:Shape Modeling International\nhttps://smiconf.github.io/2027/\n
+ Location: Singapore
+URL:https://smiconf.github.io/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:cgi-2027-0-paper@conference-deadlines

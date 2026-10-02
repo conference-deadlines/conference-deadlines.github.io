@@ -212,7 +212,7 @@ DTSTAMP:20260409T115959Z
 DTSTART:20260409T115959Z
 DTEND:20260409T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:Hot Chips 2026 deadline (Extended submission deadline)
+SUMMARY:Hot Chips 2026 deadline (Technical presentation abstract)
 DESCRIPTION:Hot Chips: A Symposium on High Performance Chips\nhttps://www.h
  otchips.org/\nLocation: Memorial Auditorium\, Stanford\, Palo Alto\, CA
 URL:https://www.hotchips.org/
@@ -293,7 +293,7 @@ DTEND:20260411T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:JCC 2026 abstract deadline
 DESCRIPTION:International Conference on JointCloud Computing\nhttps://joint
- cloud.cloud\nLocation: Tokyo\, Japan
+ cloud.cloud\nLocation: TBD
 URL:https://jointcloud.cloud
 END:VEVENT
 BEGIN:VEVENT
@@ -304,7 +304,7 @@ DTEND:20260416T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:JCC 2026 deadline
 DESCRIPTION:International Conference on JointCloud Computing\nhttps://joint
- cloud.cloud\nLocation: Tokyo\, Japan
+ cloud.cloud\nLocation: TBD
 URL:https://jointcloud.cloud
 END:VEVENT
 BEGIN:VEVENT
@@ -328,30 +328,6 @@ SUMMARY:ITC 2026 deadline
 DESCRIPTION:International Test Conference\nhttps://www.itctestweek.org/\nLo
  cation: Grand Hyatt San Antonio Riverwalk\, TX\, USA
 URL:https://www.itctestweek.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:itc-asia-2026-0-abstract@conference-deadlines
-DTSTAMP:20260418T155959Z
-DTSTART:20260418T155959Z
-DTEND:20260418T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:ITC-Asia 2026 abstract deadline
-DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
- .com.cn/itcasia_2026\nLocation: Ningbo International Conference Center\, N
- ingbo\, China
-URL:https://www.castest.com.cn/itcasia_2026
-END:VEVENT
-BEGIN:VEVENT
-UID:itc-asia-2026-0-paper@conference-deadlines
-DTSTAMP:20260425T155959Z
-DTSTART:20260425T155959Z
-DTEND:20260425T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:ITC-Asia 2026 deadline
-DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
- .com.cn/itcasia_2026\nLocation: Ningbo International Conference Center\, N
- ingbo\, China
-URL:https://www.castest.com.cn/itcasia_2026
 END:VEVENT
 BEGIN:VEVENT
 UID:pact-2026-0-abstract@conference-deadlines
@@ -398,6 +374,28 @@ SUMMARY:ICPP 2026 deadline
 DESCRIPTION:International Conference on Parallel Processing\nhttps://icpp20
  26.github.io/\nLocation: Singapore
 URL:https://icpp2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:itc-asia-2026-0-abstract@conference-deadlines
+DTSTAMP:20260426T115900Z
+DTSTART:20260426T115900Z
+DTEND:20260426T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ITC-Asia 2026 abstract deadline
+DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
+ .com.cn/itcasia_2026\nLocation: Ningbo Qianhu Hotel\, Ningbo\, China
+URL:https://www.castest.com.cn/itcasia_2026
+END:VEVENT
+BEGIN:VEVENT
+UID:itc-asia-2026-0-paper@conference-deadlines
+DTSTAMP:20260503T115900Z
+DTSTART:20260503T115900Z
+DTEND:20260503T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ITC-Asia 2026 deadline
+DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
+ .com.cn/itcasia_2026\nLocation: Ningbo Qianhu Hotel\, Ningbo\, China
+URL:https://www.castest.com.cn/itcasia_2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cluster-2026-0-paper@conference-deadlines
@@ -518,7 +516,7 @@ DTSTAMP:20260604T115900Z
 DTSTART:20260604T115900Z
 DTEND:20260604T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:ICCD 2026 abstract deadline (abstract and full paper deadline)
+SUMMARY:ICCD 2026 abstract deadline
 DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
  onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
 URL:https://www.iccd-conf.com/2026/home.html
@@ -529,7 +527,7 @@ DTSTAMP:20260611T115900Z
 DTSTART:20260611T115900Z
 DTEND:20260611T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:ICCD 2026 deadline (abstract and full paper deadline)
+SUMMARY:ICCD 2026 deadline
 DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
  onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
 URL:https://www.iccd-conf.com/2026/home.html
@@ -629,7 +627,7 @@ DTSTAMP:20260726T115900Z
 DTSTART:20260726T115900Z
 DTEND:20260726T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:ICA3PP 2026 deadline (Paper Submission Due)
+SUMMARY:ICA3PP 2026 deadline
 DESCRIPTION:International Conference on Algorithms and Architectures for Pa
  rallel Processing\nhttps://hpcn.exeter.ac.uk/ica3pp2026/\nLocation: Exeter
  \, UK
@@ -689,10 +687,7 @@ DTSTAMP:20260816T115900Z
 DTSTART:20260816T115900Z
 DTEND:20260816T122900Z
 TRANSP:TRANSPARENT
-SUMMARY:ICPADS 2026 deadline (Research papers\; extended firm deadline. Cut
- off clock and timezone unpublished. 23:59:00 uses the repository default w
- here the source gives no clear cutoff clock. AoE uses the repository defau
- lt because the source gives no timezone.)
+SUMMARY:ICPADS 2026 deadline
 DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
  ms\nhttps://www.cloud-conf.net/icpads2026\nLocation: Tokyo\, Japan
 URL:https://www.cloud-conf.net/icpads2026
@@ -977,6 +972,28 @@ DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
  mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
  s\, USA
 URL:https://hpcclab.org/ccgrid27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-2027-0-abstract@conference-deadlines
+DTSTAMP:20261202T115900Z
+DTSTART:20261202T115900Z
+DTEND:20261202T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICS 2027 abstract deadline
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
+ ference.org/index.html\nLocation: Atlanta\, Georgia\, USA
+URL:https://ics-conference.org/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ics-2027-0-paper@conference-deadlines
+DTSTAMP:20261208T115900Z
+DTSTART:20261208T115900Z
+DTEND:20261208T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICS 2027 deadline
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
+ ference.org/index.html\nLocation: Atlanta\, Georgia\, USA
+URL:https://ics-conference.org/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ets-2027-0-abstract@conference-deadlines

@@ -231,19 +231,6 @@ DESCRIPTION:International Joint Conference on Rules and Reasoning\nhttps://
 URL:https://2026.declarativeai.net/ruleml-rr
 END:VEVENT
 BEGIN:VEVENT
-UID:ijcnlp-2026-0-paper@conference-deadlines
-DTSTAMP:20260526T115959Z
-DTSTART:20260526T115959Z
-DTEND:20260526T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCNLP 2026 deadline (ARR Submission\; commitment deadline: 2026-08
- -07\; second-round commitment: 2026-08-25\; AACL-IJCNLP 2026 (the 5th AACL
-  & 15th IJCNLP))
-DESCRIPTION:International Joint Conference on Natural Language Processing\n
- https://2026.aaclnet.org/\nLocation: Hengqin\, Zhuhai\, China
-URL:https://2026.aaclnet.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:corl-2026-0-abstract@conference-deadlines
 DTSTAMP:20260526T115959Z
 DTSTART:20260526T115959Z
@@ -286,6 +273,18 @@ SUMMARY:BMVC 2026 deadline
 DESCRIPTION:British Machine Vision Conference\nhttps://bmvc2026.bmva.org/\n
  Location: Lancaster\, UK
 URL:https://bmvc2026.bmva.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icmla-2026-0-paper@conference-deadlines
+DTSTAMP:20260601T065900Z
+DTSTART:20260601T065900Z
+DTEND:20260601T072900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICMLA 2026 deadline (Main Conference Papers DDL.)
+DESCRIPTION:International Conference on Machine Learning and Applications\n
+ https://www.icmla-conference.org/icmla26/\nLocation: Oakland Center\, Roch
+ ester\, Michigan\, USA
+URL:https://www.icmla-conference.org/icmla26/
 END:VEVENT
 BEGIN:VEVENT
 UID:iconip-2026-0-paper@conference-deadlines
@@ -427,7 +426,7 @@ DTSTAMP:20260804T115959Z
 DTSTART:20260804T115959Z
 DTEND:20260804T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:DAI 2026 deadline (Regular research papers)
+SUMMARY:DAI 2026 deadline
 DESCRIPTION:International Conference on Distributed Artificial Intelligence
  \nhttps://www.adai.ai/dai/2026/index.html\nLocation: Hong Kong\, China
 URL:https://www.adai.ai/dai/2026/index.html
@@ -453,6 +452,17 @@ SUMMARY:LOG 2026 deadline
 DESCRIPTION:Learning on Graphs Conference\nhttps://logconference.org/\nLoca
  tion: Northeastern University\, Boston\, USA
 URL:https://logconference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcnlp-2026-0-paper@conference-deadlines
+DTSTAMP:20260826T115900Z
+DTSTART:20260826T115900Z
+DTEND:20260826T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCNLP 2026 deadline (Reviewed-paper commitment\, round 2)
+DESCRIPTION:International Joint Conference on Natural Language Processing\n
+ https://2026.aaclnet.org/\nLocation: Hengqin\, Zhuhai\, China (Hybrid)
+URL:https://2026.aaclnet.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:wacv-2027-0-abstract@conference-deadlines
@@ -857,6 +867,19 @@ SUMMARY:IEEE CEC 2027 deadline
 DESCRIPTION:IEEE Congress on Evolutionary Computation\nhttps://ieeecec.org/
  2027\nLocation: Edinburgh\, Scotland\, UK
 URL:https://ieeecec.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:iros-2027-0-paper@conference-deadlines
+DTSTAMP:20270302T115900Z
+DTSTART:20270302T115900Z
+DTEND:20270302T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IROS 2027 deadline (Paper submission deadline: March 1\, 2027\; exa
+ ct cutoff time and timezone not specified on the official IEEE RAS event p
+ age)
+DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sys
+ tems\nhttps://2027.ieee-iros.org/\nLocation: Florence\, Italy
+URL:https://2027.ieee-iros.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecai-2027-0-paper@conference-deadlines

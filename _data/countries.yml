@@ -6,13 +6,13 @@
 - name: Barbados
   count: 1
 - name: Belgium
-  count: 4
+  count: 5
 - name: Brazil
   count: 3
 - name: Cambodia
   count: 1
 - name: Canada
-  count: 12
+  count: 13
 - name: Chile
   count: 1
 - name: China
@@ -30,7 +30,7 @@
 - name: France
   count: 8
 - name: Germany
-  count: 12
+  count: 13
 - name: Greece
   count: 8
 - name: Hungary
@@ -44,9 +44,9 @@
 - name: Ireland
   count: 4
 - name: Italy
-  count: 23
+  count: 24
 - name: Japan
-  count: 11
+  count: 10
 - name: Lithuania
   count: 1
 - name: Luxembourg
@@ -68,7 +68,7 @@
 - name: Portugal
   count: 7
 - name: Singapore
-  count: 11
+  count: 12
 - name: Slovakia
   count: 1
 - name: South Africa
@@ -76,7 +76,7 @@
 - name: South Korea
   count: 6
 - name: Spain
-  count: 7
+  count: 8
 - name: Sweden
   count: 2
 - name: Switzerland
@@ -90,6 +90,8 @@
 - name: United Kingdom
   count: 18
 - name: United States
-  count: 76
+  count: 78
 - name: Vietnam
-  count: 5
+  count: 4
+- name: Vietnam / Online
+  count: 1
