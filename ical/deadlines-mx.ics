@@ -151,6 +151,17 @@ DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
 URL:https://sigspatial2026.sigspatial.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:acm-turc-2026-0-paper@conference-deadlines
+DTSTAMP:20260611T115900Z
+DTSTART:20260611T115900Z
+DTEND:20260611T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ACM TURC 2026 deadline
+DESCRIPTION:ACM Turing Award Celebration Conference - China\nhttps://www.ac
+ mturc.com/2026/en/\nLocation: Hangzhou\, China
+URL:https://www.acmturc.com/2026/en/
+END:VEVENT
+BEGIN:VEVENT
 UID:wine-2026-0-paper@conference-deadlines
 DTSTAMP:20260703T115959Z
 DTSTART:20260703T115959Z
@@ -228,28 +239,6 @@ DESCRIPTION:IEEE International Conference on Big Data\nhttps://bigdataieee.
 URL:https://bigdataieee.org/BigData2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:sai-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115900Z
-DTSTART:20261002T115900Z
-DTEND:20261002T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 1)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
-END:VEVENT
-BEGIN:VEVENT
-UID:sai-2027-1-paper@conference-deadlines
-DTSTAMP:20261202T115900Z
-DTSTART:20261202T115900Z
-DTEND:20261202T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 2)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
-END:VEVENT
-BEGIN:VEVENT
 UID:www-2027-0-abstract@conference-deadlines
 DTSTAMP:20261019T115959Z
 DTSTART:20261019T115959Z
@@ -303,6 +292,17 @@ SUMMARY:RECOMB 2027 deadline
 DESCRIPTION:International Conference on Research inComputational Molecular 
  Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
 URL:https://recomb.org/recomb2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sai-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115900Z
+DTSTART:20261202T115900Z
+DTEND:20261202T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SAI 2027 deadline (Round 2)
+DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
+ \nLocation: London\, United Kingdom
+URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
 UID:bis-2027-0-paper@conference-deadlines

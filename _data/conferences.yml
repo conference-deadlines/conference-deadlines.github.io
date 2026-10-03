@@ -2052,6 +2052,21 @@
   date: November 16-18, 2026
   place: Hong Kong SAR, China
   country: China
+- name: ACM TURC
+  description: ACM Turing Award Celebration Conference - China
+  year: 2026
+  link: https://www.acmturc.com/2026/en/
+  deadlines:
+  - date: '2026-06-10T23:59:00-12:00'
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/acmturc/index.html
+  date: July 11-12, 2026
+  place: Hangzhou, China
+  country: China
 - name: SIGOPS ATC
   description: ACM SIGOPS Annual Technical Conference
   year: 2026
@@ -3449,27 +3464,11 @@
   - CG
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/eurographics/index.html
   date: May 10-14, 2027
   place: Lucca, Italy
   country: Italy
-- name: SAI
-  description: Computing Conference (SAI)
-  year: 2027
-  link: https://saiconference.com/Computing
-  deadlines:
-  - date: '2026-10-01T23:59:00-12:00'
-    comment: Round 1
-  - date: '2026-12-01T23:59:00-12:00'
-    comment: Round 2
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/sai/index.html
-  date: July 8-9, 2027
-  place: London, United Kingdom
-  country: United Kingdom
 - name: CVC
   description: Computer Vision Conference
   year: 2027
@@ -3481,24 +3480,11 @@
   - AI
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/cvc/index.html
   date: April 15-16, 2027
   place: Amsterdam, Netherlands
   country: Netherlands
-- name: ICC
-  description: IEEE International Conference on Communications
-  year: 2027
-  link: https://icc2027.ieee-icc.org
-  deadlines:
-  - date: '2026-10-02T23:59:59-04:00'
-  areas:
-  - NW
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/icc/index.html
-  date: May 30 - June 3, 2027
-  place: Washington, DC, USA
-  country: United States
 - name: FSE
   description: ACM International Conference on the Foundations of Software Engineering
   year: 2027
@@ -3811,6 +3797,20 @@
   date: April 10-15, 2027
   place: Copenhagen, Denmark
   country: Denmark
+- name: ICC
+  description: IEEE International Conference on Communications
+  year: 2027
+  link: https://icc2027.ieee-icc.org
+  deadlines:
+  - date: '2026-10-16T23:59:59-07:00'
+  areas:
+  - NW
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/icc/index.html
+  date: May 30 - June 3, 2027
+  place: Washington, DC, USA
+  country: United States
 - name: FG
   description: International Conference on Automatic Face and Gesture Recognition
   year: 2027
@@ -4419,6 +4419,21 @@
   date: July 19-24, 2027
   place: Delft, The Netherlands
   country: Netherlands
+- name: SAI
+  description: Computing Conference (SAI)
+  year: 2027
+  link: https://saiconference.com/Computing
+  deadlines:
+  - date: '2026-12-01T23:59:00-12:00'
+    comment: Round 2
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/sai/index.html
+  date: July 8-9, 2027
+  place: London, United Kingdom
+  country: United Kingdom
 - name: CCGRID
   description: IEEE International Symposium on Cluster, Cloud and Internet Computing
   year: 2027

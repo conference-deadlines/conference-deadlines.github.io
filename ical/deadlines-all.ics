@@ -2265,6 +2265,17 @@ DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
 URL:https://www.iccd-conf.com/2026/home.html
 END:VEVENT
 BEGIN:VEVENT
+UID:acm-turc-2026-0-paper@conference-deadlines
+DTSTAMP:20260611T115900Z
+DTSTART:20260611T115900Z
+DTEND:20260611T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ACM TURC 2026 deadline
+DESCRIPTION:ACM Turing Award Celebration Conference - China\nhttps://www.ac
+ mturc.com/2026/en/\nLocation: Hangzhou\, China
+URL:https://www.acmturc.com/2026/en/
+END:VEVENT
+BEGIN:VEVENT
 UID:sigops-atc-2026-0-paper@conference-deadlines
 DTSTAMP:20260611T115959Z
 DTSTART:20260611T115959Z
@@ -3650,28 +3661,6 @@ DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
 URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
-UID:sai-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115900Z
-DTSTART:20261002T115900Z
-DTEND:20261002T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 1)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
-END:VEVENT
-BEGIN:VEVENT
-UID:sai-2027-1-paper@conference-deadlines
-DTSTAMP:20261202T115900Z
-DTSTART:20261202T115900Z
-DTEND:20261202T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 2)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
-END:VEVENT
-BEGIN:VEVENT
 UID:cvc-2027-0-paper@conference-deadlines
 DTSTAMP:20261002T115959Z
 DTSTART:20261002T115959Z
@@ -3681,17 +3670,6 @@ SUMMARY:CVC 2027 deadline (Round 2)
 DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
  tion: Amsterdam\, Netherlands
 URL:https://saiconference.com/CVC
-END:VEVENT
-BEGIN:VEVENT
-UID:icc-2027-0-paper@conference-deadlines
-DTSTAMP:20261003T035959Z
-DTSTART:20261003T035959Z
-DTEND:20261003T042959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICC 2027 deadline
-DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
- 7.ieee-icc.org\nLocation: Washington\, DC\, USA
-URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
 UID:fse-2027-0-paper@conference-deadlines
@@ -4090,6 +4068,17 @@ SUMMARY:ETAPS 2027 deadline (ESOP round 2\, FoSSaCS\, TACAS\, iFS)
 DESCRIPTION:European Joint Conferences on Theory and Practice of Software\n
  https://etaps.org/2027\nLocation: Copenhagen\, Denmark
 URL:https://etaps.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icc-2027-0-paper@conference-deadlines
+DTSTAMP:20261017T065959Z
+DTSTART:20261017T065959Z
+DTEND:20261017T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICC 2027 deadline
+DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
+ 7.ieee-icc.org\nLocation: Washington\, DC\, USA
+URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
 UID:fg-2027-0-abstract@conference-deadlines
@@ -4830,6 +4819,17 @@ SUMMARY:PETS 2027 deadline (Issue 4 Paper Submission Deadline)
 DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
  org/cfp27.php\nLocation: Delft\, The Netherlands
 URL:https://petsymposium.org/cfp27.php
+END:VEVENT
+BEGIN:VEVENT
+UID:sai-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115900Z
+DTSTART:20261202T115900Z
+DTEND:20261202T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:SAI 2027 deadline (Round 2)
+DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
+ \nLocation: London\, United Kingdom
+URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
 UID:ccgrid-2027-0-abstract@conference-deadlines
