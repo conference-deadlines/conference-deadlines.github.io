@@ -155,9 +155,9 @@ URL:https://conf.researchr.org/home/models-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:sosp-2026-0-abstract@conference-deadlines
-DTSTAMP:20260327T115900Z
-DTSTART:20260327T115900Z
-DTEND:20260327T122900Z
+DTSTAMP:20260327T115959Z
+DTSTART:20260327T115959Z
+DTEND:20260327T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SOSP 2026 abstract deadline
 DESCRIPTION:ACM Symposium on Operating Systems Principles\nhttps://sigops.o
@@ -167,9 +167,9 @@ URL:https://sigops.org/s/conferences/sosp/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sosp-2026-0-paper@conference-deadlines
-DTSTAMP:20260402T115900Z
-DTSTART:20260402T115900Z
-DTEND:20260402T122900Z
+DTSTAMP:20260402T115959Z
+DTSTART:20260402T115959Z
+DTEND:20260402T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SOSP 2026 deadline
 DESCRIPTION:ACM Symposium on Operating Systems Principles\nhttps://sigops.o
@@ -363,17 +363,6 @@ DESCRIPTION:Asian Symposium on Programming Languages and Systems\nhttps://c
 URL:https://conf.researchr.org/track/aplas-atva-2026/aplas-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:icfem-2026-0-abstract@conference-deadlines
-DTSTAMP:20260623T115900Z
-DTSTART:20260623T115900Z
-DTEND:20260623T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ICFEM 2026 abstract deadline
-DESCRIPTION:International Conference on Formal Engineering Methods\nhttps:/
- /icfem2026.github.io/\nLocation: Southampton\, UK
-URL:https://icfem2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
 UID:icfem-2026-0-paper@conference-deadlines
 DTSTAMP:20260623T115959Z
 DTSTART:20260623T115959Z
@@ -460,18 +449,6 @@ SUMMARY:APSEC 2026 deadline (Optional abstract)
 DESCRIPTION:Asia-Pacific Software Engineering Conference\nhttps://conf.rese
  archr.org/home/apsec-2026\nLocation: Bali\, Indonesia
 URL:https://conf.researchr.org/home/apsec-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:iceccs-2026-0-abstract@conference-deadlines
-DTSTAMP:20260721T115900Z
-DTSTART:20260721T115900Z
-DTEND:20260721T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ICECCS 2026 abstract deadline
-DESCRIPTION:International Conference on Engineering of Complex Computer Sys
- tems\nhttps://formal-analysis.com/iceccs/2026/\nLocation: Brisbane\, Austr
- alia
-URL:https://formal-analysis.com/iceccs/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:iceccs-2026-0-paper@conference-deadlines
@@ -674,9 +651,9 @@ URL:https://2027.refsq.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:caise-2027-0-abstract@conference-deadlines
-DTSTAMP:20261105T115900Z
-DTSTART:20261105T115900Z
-DTEND:20261105T122900Z
+DTSTAMP:20261105T115959Z
+DTSTART:20261105T115959Z
+DTEND:20261105T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CAiSE 2027 abstract deadline
 DESCRIPTION:International Conference on Advanced Information Systems Engine
@@ -685,9 +662,9 @@ URL:https://deal.us.es/caise27/
 END:VEVENT
 BEGIN:VEVENT
 UID:caise-2027-0-paper@conference-deadlines
-DTSTAMP:20261116T115900Z
-DTSTART:20261116T115900Z
-DTEND:20261116T122900Z
+DTSTAMP:20261116T115959Z
+DTSTART:20261116T115959Z
+DTEND:20261116T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CAiSE 2027 deadline
 DESCRIPTION:International Conference on Advanced Information Systems Engine
@@ -797,9 +774,9 @@ URL:https://ieeecompsac.computer.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:hotos-2027-0-paper@conference-deadlines
-DTSTAMP:20270202T115900Z
-DTSTART:20270202T115900Z
-DTEND:20270202T122900Z
+DTSTAMP:20270202T115959Z
+DTSTART:20270202T115959Z
+DTEND:20270202T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:HotOS 2027 deadline
 DESCRIPTION:USENIX Workshop on Hot Topics in Operating Systems\nhttps://sig

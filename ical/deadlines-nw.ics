@@ -52,9 +52,9 @@ URL:https://iwqos2026.ieee-iwqos.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:iscc-2026-0-paper@conference-deadlines
-DTSTAMP:20260228T115900Z
-DTSTART:20260228T115900Z
-DTEND:20260228T122900Z
+DTSTAMP:20260228T115959Z
+DTSTART:20260228T115959Z
+DTEND:20260228T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ISCC 2026 deadline
 DESCRIPTION:IEEE Symposium on Computers and Communications\nhttps://ieee-is
@@ -129,17 +129,6 @@ DESCRIPTION:IEEE Global Communications Conference\nhttps://globecom2026.iee
 URL:https://globecom2026.ieee-globecom.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:lcn-2026-0-abstract@conference-deadlines
-DTSTAMP:20260505T115900Z
-DTSTART:20260505T115900Z
-DTEND:20260505T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:LCN 2026 abstract deadline (Registration / full paper)
-DESCRIPTION:IEEE Conference on Local Computer Networks\nhttps://www.ieeelcn
- .org/\nLocation: Coimbra\, Portugal
-URL:https://www.ieeelcn.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:lcn-2026-0-paper@conference-deadlines
 DTSTAMP:20260505T115959Z
 DTSTART:20260505T115959Z
@@ -198,9 +187,9 @@ URL:https://conferences.sigcomm.org/co-next/2026/#!/home
 END:VEVENT
 BEGIN:VEVENT
 UID:mswim-2026-0-abstract@conference-deadlines
-DTSTAMP:20260615T115900Z
-DTSTART:20260615T115900Z
-DTEND:20260615T122900Z
+DTSTAMP:20260615T115959Z
+DTSTART:20260615T115959Z
+DTEND:20260615T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:MSWiM 2026 abstract deadline
 DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
@@ -210,9 +199,9 @@ URL:https://mswimconf.com/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:mswim-2026-0-paper@conference-deadlines
-DTSTAMP:20260616T115900Z
-DTSTART:20260616T115900Z
-DTEND:20260616T122900Z
+DTSTAMP:20260616T115959Z
+DTSTART:20260616T115959Z
+DTEND:20260616T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:MSWiM 2026 deadline
 DESCRIPTION:International Conference on Modeling\, Analysis and Simulation 
@@ -299,12 +288,12 @@ URL:https://www.sigmobile.org/mobicom/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:wcnc-2027-0-paper@conference-deadlines
-DTSTAMP:20260916T115900Z
-DTSTART:20260916T115900Z
-DTEND:20260916T122900Z
+DTSTAMP:20260916T115959Z
+DTSTART:20260916T115959Z
+DTEND:20260916T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:WCNC 2027 deadline (Technical papers\; official IEEE ComSoc calenda
- r date. Clock 23:59:00 and timezone AoE are repository defaults\, not publ
+ r date. Clock 23:59:59 and timezone AoE are repository defaults\, not publ
  ished cutoff precision.)
 DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
  /wcnc2027.ieee-wcnc.org/\nLocation: Panama City\, Panama
@@ -358,9 +347,9 @@ URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
 UID:sensys-2027-0-abstract@conference-deadlines
-DTSTAMP:20261030T115900Z
-DTSTART:20261030T115900Z
-DTEND:20261030T122900Z
+DTSTAMP:20261030T115959Z
+DTSTART:20261030T115959Z
+DTEND:20261030T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SenSys 2027 abstract deadline (2nd deadline)
 DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
@@ -369,9 +358,9 @@ URL:https://sensys.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sensys-2027-0-paper@conference-deadlines
-DTSTAMP:20261106T115900Z
-DTSTART:20261106T115900Z
-DTEND:20261106T122900Z
+DTSTAMP:20261106T115959Z
+DTSTART:20261106T115959Z
+DTEND:20261106T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SenSys 2027 deadline (2nd deadline)
 DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
@@ -449,9 +438,9 @@ URL:https://www.sigmobile.org/mobisys/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:nossdav-2027-0-paper@conference-deadlines
-DTSTAMP:20270112T115900Z
-DTSTART:20270112T115900Z
-DTEND:20270112T122900Z
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:NOSSDAV 2027 deadline
 DESCRIPTION:International Workshop on Network and Operating System Support 

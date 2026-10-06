@@ -144,8 +144,8 @@
   year: 2026
   link: https://hpdc.sci.utah.edu/2026/
   deadlines:
-  - date: '2026-02-05T23:59:00-12:00'
-    abstract: '2026-01-29T23:59:00-12:00'
+  - date: '2026-02-05T23:59:59-12:00'
+    abstract: '2026-01-29T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -300,7 +300,7 @@
   year: 2026
   link: https://ieee-iscc.computer.org/2026/
   deadlines:
-  - date: '2026-02-27T23:59:00-12:00'
+  - date: '2026-02-27T23:59:59-12:00'
   areas:
   - NW
   tags:
@@ -310,21 +310,6 @@
   date: June 24-26, 2026
   place: Vilamoura, Algarve, Portugal
   country: Portugal
-- name: KSEM
-  description: International Conference on Knowledge Science, Engineering and Management
-  year: 2026
-  link: https://ksem2026.rosc.org.cn/
-  deadlines:
-  - date: '2026-02-28T23:59:00-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-C
-  tba: true
-  dblp: https://dblp.org/db/conf/ksem/index.html
-  date: July 17-18, 2026
-  place: Beijing, China
-  country: China
 - name: Networking
   description: IFIP International Conference on Networking
   year: 2026
@@ -340,12 +325,27 @@
   date: May 25-27, 2026
   place: Lugano, Switzerland
   country: Switzerland
+- name: KSEM
+  description: International Conference on Knowledge Science, Engineering and Management
+  year: 2026
+  link: https://ksem2026.rosc.org.cn/
+  deadlines:
+  - date: '2026-02-28T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-C
+  tba: true
+  dblp: https://dblp.org/db/conf/ksem/index.html
+  date: July 17-18, 2026
+  place: Beijing, China
+  country: China
 - name: IH&MMSec
   description: ACM Workshop on Information Hiding and Multimedia Security
   year: 2026
   link: https://www.ihmmsec.org/cms/home/home2026.html
   deadlines:
-  - date: '2026-03-02T23:59:00-12:00'
+  - date: '2026-03-02T23:59:59-12:00'
   areas:
   - SC
   tags:
@@ -544,21 +544,6 @@
   date: June 10-12, 2026
   place: Agadir, Morocco
   country: Morocco
-- name: ProbML
-  description: Symposium on Probabilistic Machine Learning
-  year: 2026
-  link: https://probml.cc
-  deadlines:
-  - date: '2026-03-20T23:59:00-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/probml/index.html
-  date: July 5, 2026
-  place: Seoul, South Korea
-  country: South Korea
 - name: LCTES
   description: International Conference on Languages, Compilers and Tools for Embedded Systems
   year: 2026
@@ -575,6 +560,21 @@
   date: June 15-16, 2026
   place: Boulder, Colorado, USA
   country: United States
+- name: ProbML
+  description: Symposium on Probabilistic Machine Learning
+  year: 2026
+  link: https://probml.cc
+  deadlines:
+  - date: '2026-03-20T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/probml/index.html
+  date: July 5, 2026
+  place: Seoul, South Korea
+  country: South Korea
 - name: Cloud
   description: IEEE International Conference on Cloud Computing
   year: 2026
@@ -640,7 +640,7 @@
   year: 2026
   link: https://www.glsvlsi.org/
   deadlines:
-  - date: '2026-03-23T23:59:00-05:00'
+  - date: '2026-03-23T23:59:59-05:00'
   areas:
   - DS
   tags:
@@ -845,8 +845,8 @@
   year: 2026
   link: https://sigops.org/s/conferences/sosp/2026/index.html
   deadlines:
-  - date: '2026-04-01T23:59:00-12:00'
-    abstract: '2026-03-26T23:59:00-12:00'
+  - date: '2026-04-01T23:59:59-12:00'
+    abstract: '2026-03-26T23:59:59-12:00'
   areas:
   - SE
   tags:
@@ -903,22 +903,6 @@
   date: November 2-4, 2026
   place: Athens, Greece
   country: Greece
-- name: SC
-  description: International Conference for High Performance Computing, Networking, Storage, and Analysis
-  year: 2026
-  link: https://sc26.supercomputing.org/
-  deadlines:
-  - date: '2026-04-08T23:59:00-12:00'
-    abstract: '2026-04-01T23:59:59-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/sc/index.html
-  date: November 16-20, 2026
-  place: McCormick Place, Chicago, Illinois, USA
-  country: United States
 - name: Hot Chips
   description: 'Hot Chips: A Symposium on High Performance Chips'
   year: 2026
@@ -934,6 +918,22 @@
   dblp: https://dblp.org/db/conf/hotchips/index.html
   date: August 24-25, 2026
   place: Memorial Auditorium, Stanford, Palo Alto, CA
+  country: United States
+- name: SC
+  description: International Conference for High Performance Computing, Networking, Storage, and Analysis
+  year: 2026
+  link: https://sc26.supercomputing.org/
+  deadlines:
+  - date: '2026-04-08T23:59:59-12:00'
+    abstract: '2026-04-01T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-A
+  tba: true
+  dblp: https://dblp.org/db/conf/sc/index.html
+  date: November 16-20, 2026
+  place: McCormick Place, Chicago, Illinois, USA
   country: United States
 - name: APPT
   description: International Symposium on Advanced Parallel Programming Technologies
@@ -1050,8 +1050,8 @@
   year: 2026
   link: https://computeranimation.org/
   deadlines:
-  - date: '2026-04-17T23:59:00+00:00'
-    abstract: '2026-04-10T23:59:00+00:00'
+  - date: '2026-04-17T23:59:59+00:00'
+    abstract: '2026-04-10T23:59:59+00:00'
   areas:
   - CG
   tags:
@@ -1235,21 +1235,6 @@
   date: September 1-4, 2026
   place: Rome, Italy
   country: Italy
-- name: CollaborateCom
-  description: 'International Conference on Collaborative Computing: Networking, Applications and Worksharing'
-  year: 2026
-  link: https://collaboratecom.eai-conferences.org/2026/
-  deadlines:
-  - date: '2026-05-01T23:59:00-12:00'
-  areas:
-  - HI
-  tags:
-  - CORE-C
-  tba: true
-  dblp: https://dblp.org/db/conf/colcom/index.html
-  date: November 14-15, 2026
-  place: Hong Kong SAR, China
-  country: China
 - name: ICPP
   description: International Conference on Parallel Processing
   year: 2026
@@ -1266,6 +1251,21 @@
   date: September 29-October 1, 2026
   place: Singapore
   country: Singapore
+- name: CollaborateCom
+  description: 'International Conference on Collaborative Computing: Networking, Applications and Worksharing'
+  year: 2026
+  link: https://collaboratecom.eai-conferences.org/2026/
+  deadlines:
+  - date: '2026-05-01T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-C
+  tba: true
+  dblp: https://dblp.org/db/conf/colcom/index.html
+  date: November 14-15, 2026
+  place: Hong Kong SAR, China
+  country: China
 - name: UbiComp/ISWC
   description: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   year: 2026
@@ -1287,8 +1287,8 @@
   year: 2026
   link: https://www.castest.com.cn/itcasia_2026
   deadlines:
-  - date: '2026-05-02T23:59:00-12:00'
-    abstract: '2026-04-25T23:59:00-12:00'
+  - date: '2026-05-02T23:59:59-12:00'
+    abstract: '2026-04-25T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -1335,7 +1335,6 @@
   deadlines:
   - date: '2026-05-04T23:59:59-12:00'
     comment: Registration / full paper
-    abstract: '2026-05-04T23:59:00-12:00'
   areas:
   - NW
   tags:
@@ -1555,7 +1554,7 @@
   year: 2026
   link: https://cns2026.ieee-cns.org/
   deadlines:
-  - date: '2026-05-18T23:59:00-12:00'
+  - date: '2026-05-18T23:59:59-12:00'
   areas:
   - SC
   tags:
@@ -1601,8 +1600,8 @@
   year: 2026
   link: https://apsys26.github.io/
   deadlines:
-  - date: '2026-05-20T23:59:00-12:00'
-    abstract: '2026-05-13T23:59:00-12:00'
+  - date: '2026-05-20T23:59:59-12:00'
+    abstract: '2026-05-13T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -1867,7 +1866,7 @@
   year: 2026
   link: https://www.icmla-conference.org/icmla26/
   deadlines:
-  - date: '2026-05-31T23:59:00-07:00'
+  - date: '2026-05-31T23:59:59-07:00'
     comment: Main Conference Papers DDL.
   areas:
   - AI
@@ -2036,37 +2035,6 @@
   date: October 6-9, 2026
   place: Singapore Management University, Singapore
   country: Singapore
-- name: ICCD
-  description: International Conference on Computer Design
-  year: 2026
-  link: https://www.iccd-conf.com/2026/home.html
-  deadlines:
-  - date: '2026-06-10T23:59:00-12:00'
-    abstract: '2026-06-03T23:59:00-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-C
-  tba: true
-  dblp: https://dblp.org/db/conf/iccd/index.html
-  date: November 16-18, 2026
-  place: Hong Kong SAR, China
-  country: China
-- name: ACM TURC
-  description: ACM Turing Award Celebration Conference - China
-  year: 2026
-  link: https://www.acmturc.com/2026/en/
-  deadlines:
-  - date: '2026-06-10T23:59:00-12:00'
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/acmturc/index.html
-  date: July 11-12, 2026
-  place: Hangzhou, China
-  country: China
 - name: SIGOPS ATC
   description: ACM SIGOPS Annual Technical Conference
   year: 2026
@@ -2081,6 +2049,37 @@
   dblp: https://dblp.org/db/conf/usenix/index.html
   date: November 16-18, 2026
   place: Hyatt Hotel, Shatin, Hong Kong, China
+  country: China
+- name: ICCD
+  description: International Conference on Computer Design
+  year: 2026
+  link: https://www.iccd-conf.com/2026/home.html
+  deadlines:
+  - date: '2026-06-10T23:59:59-12:00'
+    abstract: '2026-06-03T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-C
+  tba: true
+  dblp: https://dblp.org/db/conf/iccd/index.html
+  date: November 16-18, 2026
+  place: Hong Kong SAR, China
+  country: China
+- name: ACM TURC
+  description: ACM Turing Award Celebration Conference - China
+  year: 2026
+  link: https://www.acmturc.com/2026/en/
+  deadlines:
+  - date: '2026-06-10T23:59:59-12:00'
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/acmturc/index.html
+  date: July 11-12, 2026
+  place: Hangzhou, China
   country: China
 - name: SCAM
   description: IEEE International Working Conference on Source Code Analysis and Manipulation
@@ -2102,7 +2101,7 @@
   year: 2026
   link: https://www.hotstorage.org/2026/
   deadlines:
-  - date: '2026-06-12T23:59:00-12:00'
+  - date: '2026-06-12T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -2133,8 +2132,8 @@
   year: 2026
   link: https://mswimconf.com/2026/
   deadlines:
-  - date: '2026-06-15T23:59:00-12:00'
-    abstract: '2026-06-14T23:59:00-12:00'
+  - date: '2026-06-15T23:59:59-12:00'
+    abstract: '2026-06-14T23:59:59-12:00'
   areas:
   - NW
   tags:
@@ -2226,7 +2225,6 @@
   link: https://icfem2026.github.io/
   deadlines:
   - date: '2026-06-22T23:59:59-12:00'
-    abstract: '2026-06-22T23:59:00-12:00'
   areas:
   - SE
   tags:
@@ -2256,7 +2254,7 @@
   year: 2026
   link: https://www.algo-door.com/isaac2026/index.html
   deadlines:
-  - date: '2026-06-29T23:59:00-12:00'
+  - date: '2026-06-29T23:59:59-12:00'
   areas:
   - CT
   tags:
@@ -2304,9 +2302,9 @@
   year: 2026
   link: https://attend.ieee.org/slt-2026/
   deadlines:
-  - date: '2026-07-01T23:59:00-12:00'
+  - date: '2026-07-01T23:59:59-12:00'
     comment: Abstract registration / full paper
-    abstract: '2026-06-24T23:59:00-12:00'
+    abstract: '2026-06-24T23:59:59-12:00'
   areas:
   - CG
   tags:
@@ -2378,21 +2376,6 @@
   date: December 16-18, 2026
   place: Osaka, Japan
   country: Japan
-- name: BIBM
-  description: IEEE International Conference on Bioinformatics and Biomedicine
-  year: 2026
-  link: https://ieeebibm.org/BIBM2026/
-  deadlines:
-  - date: '2026-07-05T23:59:00-12:00'
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/bibm/index.html
-  date: Dec 1-4, 2026
-  place: Dallas, USA
-  country: United States
 - name: ACML
   description: Asian Conference on Machine Learning
   year: 2026
@@ -2409,6 +2392,21 @@
   date: TBD
   place: Melbourne, Australia
   country: Australia
+- name: BIBM
+  description: IEEE International Conference on Bioinformatics and Biomedicine
+  year: 2026
+  link: https://ieeebibm.org/BIBM2026/
+  deadlines:
+  - date: '2026-07-05T23:59:59-12:00'
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/bibm/index.html
+  date: Dec 1-4, 2026
+  place: Dallas, USA
+  country: United States
 - name: ATS
   description: IEEE Asian Test Symposium
   year: 2026
@@ -2460,8 +2458,8 @@
   year: 2026
   link: https://www.ncmmsc.org.cn/
   deadlines:
-  - date: '2026-07-12T23:59:00-12:00'
-    abstract: '2026-07-05T23:59:00-12:00'
+  - date: '2026-07-12T23:59:59-12:00'
+    abstract: '2026-07-05T23:59:59-12:00'
   areas:
   - CG
   tags:
@@ -2505,21 +2503,6 @@
   date: November 16-17, 2026
   place: Salt Lake City, Utah, USA
   country: United States
-- name: APBC
-  description: Asia Pacific Bioinformatics Conference
-  year: 2026
-  link: https://www.apbc2026.com/home
-  deadlines:
-  - date: '2026-07-17T23:59:00-12:00'
-  areas:
-  - MX
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/apbc/index.html
-  date: October 22-24, 2026
-  place: Hsinchu, Taiwan， China
-  country: China
 - name: ADMA
   description: The International Conference on Advanced Data Mining and Applications
   year: 2026
@@ -2534,6 +2517,21 @@
   dblp: https://dblp.org/db/conf/adma/index.html
   date: November 13 - 15, 2026
   place: Hong Kong, China
+  country: China
+- name: APBC
+  description: Asia Pacific Bioinformatics Conference
+  year: 2026
+  link: https://www.apbc2026.com/home
+  deadlines:
+  - date: '2026-07-17T23:59:59-12:00'
+  areas:
+  - MX
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/apbc/index.html
+  date: October 22-24, 2026
+  place: Hsinchu, Taiwan， China
   country: China
 - name: ASP-DAC
   description: Asia and South Pacific Design Automation Conference
@@ -2591,7 +2589,6 @@
   link: https://formal-analysis.com/iceccs/2026/
   deadlines:
   - date: '2026-07-20T23:59:59-12:00'
-    abstract: '2026-07-20T23:59:00-12:00'
   areas:
   - SE
   tags:
@@ -2606,7 +2603,7 @@
   year: 2026
   link: https://ictai.computer.org/2026/
   deadlines:
-  - date: '2026-07-21T23:59:00-12:00'
+  - date: '2026-07-21T23:59:59-12:00'
   areas:
   - AI
   tags:
@@ -2637,7 +2634,7 @@
   year: 2026
   link: https://hpcn.exeter.ac.uk/ica3pp2026/
   deadlines:
-  - date: '2026-07-25T23:59:00-12:00'
+  - date: '2026-07-25T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -2854,7 +2851,7 @@
   year: 2026
   link: https://www.cloud-conf.net/icpads2026
   deadlines:
-  - date: '2026-08-15T23:59:00-12:00'
+  - date: '2026-08-15T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -2980,7 +2977,7 @@
   year: 2026
   link: https://2026.aaclnet.org/
   deadlines:
-  - date: '2026-08-25T23:59:00-12:00'
+  - date: '2026-08-25T23:59:59-12:00'
     comment: Reviewed-paper commitment, round 2
   areas:
   - AI
@@ -3030,7 +3027,7 @@
   deadlines:
   - date: '2026-08-28T23:59:59-12:00'
     comment: Second round
-    abstract: '2026-08-21T23:59:00-12:00'
+    abstract: '2026-08-21T23:59:59-12:00'
   areas:
   - AI
   tags:
@@ -3040,22 +3037,6 @@
   date: Jan 4 - 8, 2027
   place: Disney Springs, Buena Vista, FL, USA
   country: United States
-- name: MMM
-  description: International Conference on Multimedia Modeling
-  year: 2027
-  link: https://www.mmm2027.net/
-  deadlines:
-  - date: '2026-08-30T23:59:00-12:00'
-    comment: Regular papers; extended deadline
-  areas:
-  - CG
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/mmm/index.html
-  date: January 5-8, 2027
-  place: Siem Reap, Cambodia
-  country: Cambodia
 - name: MSN
   description: International Conference on Mobility, Sensing and Networking
   year: 2026
@@ -3071,6 +3052,22 @@
   date: December 18-20, 2026
   place: Ningbo, China
   country: China
+- name: MMM
+  description: International Conference on Multimedia Modeling
+  year: 2027
+  link: https://www.mmm2027.net/
+  deadlines:
+  - date: '2026-08-30T23:59:59-12:00'
+    comment: Regular papers; extended deadline
+  areas:
+  - CG
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/mmm/index.html
+  date: January 5-8, 2027
+  place: Siem Reap, Cambodia
+  country: Cambodia
 - name: IEEE VR
   description: IEEE Virtual Reality
   year: 2027
@@ -3171,7 +3168,7 @@
   year: 2027
   link: https://www.usenix.org/conference/fast27
   deadlines:
-  - date: '2026-09-15T23:59:00-12:00'
+  - date: '2026-09-15T23:59:59-12:00'
     comment: Fall deadline
   areas:
   - DS
@@ -3187,8 +3184,8 @@
   year: 2027
   link: https://wcnc2027.ieee-wcnc.org/
   deadlines:
-  - date: '2026-09-15T23:59:00-12:00'
-    comment: Technical papers; official IEEE ComSoc calendar date. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision.
+  - date: '2026-09-15T23:59:59-12:00'
+    comment: Technical papers; official IEEE ComSoc calendar date. Clock 23:59:59 and timezone AoE are repository defaults, not published cutoff precision.
   areas:
   - NW
   tags:
@@ -3203,7 +3200,7 @@
   year: 2026
   link: https://www.cloud-conf.net/cscloud/2026/cscloud/
   deadlines:
-  - date: '2026-09-15T23:59:00-12:00'
+  - date: '2026-09-15T23:59:59-12:00'
   areas:
   - SC
   tags:
@@ -3608,12 +3605,12 @@
   year: 2027
   link: https://www.sigmetrics.org/sigmetrics2027/
   deadlines:
-  - date: '2026-10-09T23:59:00-12:00'
+  - date: '2026-10-09T23:59:59-12:00'
     comment: fall round
-    abstract: '2026-10-02T23:59:00-12:00'
-  - date: '2027-01-11T23:59:00-12:00'
+    abstract: '2026-10-02T23:59:59-12:00'
+  - date: '2027-01-11T23:59:59-12:00'
     comment: winter round
-    abstract: '2027-01-04T23:59:00-12:00'
+    abstract: '2027-01-04T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -3832,9 +3829,9 @@
   year: 2027
   link: https://2027.sigmod.org/
   deadlines:
-  - date: '2026-10-17T23:59:00-12:00'
+  - date: '2026-10-17T23:59:59-12:00'
     comment: round 4
-    abstract: '2026-10-10T23:59:00-12:00'
+    abstract: '2026-10-10T23:59:59-12:00'
   areas:
   - DB
   tags:
@@ -4001,7 +3998,7 @@
   year: 2027
   link: https://www.evostar.org/2027/eurogp/
   deadlines:
-  - date: '2026-11-01T23:59:00-12:00'
+  - date: '2026-11-01T23:59:59-12:00'
     comment: Full papers
   areas:
   - AI
@@ -4016,7 +4013,7 @@
   year: 2027
   link: https://www.evostar.org/2027/evoapps/
   deadlines:
-  - date: '2026-11-01T23:59:00-12:00'
+  - date: '2026-11-01T23:59:59-12:00'
     comment: Full papers
   areas:
   - AI
@@ -4031,7 +4028,7 @@
   year: 2027
   link: https://www.evostar.org/2027/evocop/
   deadlines:
-  - date: '2026-11-01T23:59:00-12:00'
+  - date: '2026-11-01T23:59:59-12:00'
     comment: Full papers
   areas:
   - AI
@@ -4046,7 +4043,7 @@
   year: 2027
   link: https://www.evostar.org/2027/evomusart/
   deadlines:
-  - date: '2026-11-01T23:59:00-12:00'
+  - date: '2026-11-01T23:59:59-12:00'
     comment: Full papers
   areas:
   - AI
@@ -4099,22 +4096,6 @@
   date: May 17-20, 2027
   place: Toronto, Canada
   country: Canada
-- name: SenSys
-  description: ACM Conference on Embedded Networked Sensor Systems
-  year: 2027
-  link: https://sensys.acm.org/2027/
-  deadlines:
-  - date: '2026-11-05T23:59:00-12:00'
-    comment: 2nd deadline
-    abstract: '2026-10-29T23:59:00-12:00'
-  areas:
-  - NW
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/sensys/index.html
-  date: May 17-20, 2027
-  place: Boulder, CO, USA
-  country: United States
 - name: RTAS
   description: IEEE Real-Time and Embedded Technology and Applications Symposium
   year: 2027
@@ -4129,6 +4110,22 @@
   dblp: https://dblp.org/db/conf/rtas/index.html
   date: May 17-20, 2027
   place: Boulder, Colorado
+  country: United States
+- name: SenSys
+  description: ACM Conference on Embedded Networked Sensor Systems
+  year: 2027
+  link: https://sensys.acm.org/2027/
+  deadlines:
+  - date: '2026-11-05T23:59:59-12:00'
+    comment: 2nd deadline
+    abstract: '2026-10-29T23:59:59-12:00'
+  areas:
+  - NW
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/sensys/index.html
+  date: May 17-20, 2027
+  place: Boulder, CO, USA
   country: United States
 - name: ICPC
   description: IEEE International Conference on Program Comprehension
@@ -4240,8 +4237,8 @@
   year: 2027
   link: https://deal.us.es/caise27/
   deadlines:
-  - date: '2026-11-15T23:59:00-12:00'
-    abstract: '2026-11-04T23:59:00-12:00'
+  - date: '2026-11-15T23:59:59-12:00'
+    abstract: '2026-11-04T23:59:59-12:00'
   areas:
   - SE
   tags:
@@ -4255,8 +4252,8 @@
   year: 2027
   link: https://cvpr.thecvf.com/Conferences/2027
   deadlines:
-  - date: '2026-11-16T23:59:00-12:00'
-    abstract: '2026-11-10T23:59:00-12:00'
+  - date: '2026-11-16T23:59:59-12:00'
+    abstract: '2026-11-10T23:59:59-12:00'
   areas:
   - AI
   tags:
@@ -4420,21 +4417,6 @@
   date: July 19-24, 2027
   place: Delft, The Netherlands
   country: Netherlands
-- name: SAI
-  description: Computing Conference (SAI)
-  year: 2027
-  link: https://saiconference.com/Computing
-  deadlines:
-  - date: '2026-12-01T23:59:00-12:00'
-    comment: Round 2
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/sai/index.html
-  date: July 8-9, 2027
-  place: London, United Kingdom
-  country: United Kingdom
 - name: CCGRID
   description: IEEE International Symposium on Cluster, Cloud and Internet Computing
   year: 2027
@@ -4479,6 +4461,21 @@
   date: May 24-28, 2027
   place: Maastricht, Netherlands
   country: Netherlands
+- name: SAI
+  description: Computing Conference (SAI)
+  year: 2027
+  link: https://saiconference.com/Computing
+  deadlines:
+  - date: '2026-12-01T23:59:59-12:00'
+    comment: Round 2
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/sai/index.html
+  date: July 8-9, 2027
+  place: London, United Kingdom
+  country: United Kingdom
 - name: DSN
   description: International Conference on Dependable Systems and Networks
   year: 2027
@@ -4509,21 +4506,6 @@
   date: July 5 - 9, 2027
   place: Madrid, Spain
   country: Spain
-- name: RSS
-  description: Robotics Science and Systems
-  year: 2027
-  link: https://roboticsconference.org/
-  deadlines:
-  - date: '2026-12-04T23:59:00-12:00'
-    comment: 'Stage 1: initial 6-page extended abstract submission'
-  areas:
-  - AI
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/rss/index.html
-  date: July 6-11, 2027
-  place: Athens, Greece
-  country: Greece
 - name: MobiSys
   description: ACM International Conference on Mobile Systems, Applications, and Services
   year: 2027
@@ -4539,6 +4521,21 @@
   date: June 21-25, 2027
   place: Ho Chi Minh City, Vietnam
   country: Vietnam
+- name: RSS
+  description: Robotics Science and Systems
+  year: 2027
+  link: https://roboticsconference.org/
+  deadlines:
+  - date: '2026-12-04T23:59:59-12:00'
+    comment: 'Stage 1: initial 6-page extended abstract submission'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/rss/index.html
+  date: July 6-11, 2027
+  place: Athens, Greece
+  country: Greece
 - name: CPAL
   description: The Conference on Parsimony and Learning
   year: 2027
@@ -4559,8 +4556,8 @@
   year: 2027
   link: https://ics-conference.org/index.html
   deadlines:
-  - date: '2026-12-07T23:59:00-12:00'
-    abstract: '2026-12-01T23:59:00-12:00'
+  - date: '2026-12-07T23:59:59-12:00'
+    abstract: '2026-12-01T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -4635,9 +4632,9 @@
   year: 2027
   link: https://www.ets2027.co.uk/
   deadlines:
-  - date: '2026-12-15T23:59:00-12:00'
-    comment: Regular papers; official CFP dates. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision.
-    abstract: '2026-12-08T23:59:00-12:00'
+  - date: '2026-12-15T23:59:59-12:00'
+    comment: Regular papers; official CFP dates. Clock 23:59:59 and timezone AoE are repository defaults, not published cutoff precision.
+    abstract: '2026-12-08T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -4710,7 +4707,7 @@
   year: 2027
   link: https://nossdav.org/
   deadlines:
-  - date: '2027-01-11T23:59:00-12:00'
+  - date: '2027-01-11T23:59:59-12:00'
   areas:
   - NW
   tags:
@@ -4926,20 +4923,6 @@
   date: June 14 - 18, 2027
   place: Cape Town, South Africa
   country: South Africa
-- name: HotOS
-  description: USENIX Workshop on Hot Topics in Operating Systems
-  year: 2027
-  link: https://sigops.org/s/conferences/hotos/2027/
-  deadlines:
-  - date: '2027-02-01T23:59:00-12:00'
-  areas:
-  - SE
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/hotos/index.html
-  date: May 24-26, 2027
-  place: Burghausen, Bavaria, Germany
-  country: Germany
 - name: SecureComm
   description: International Conference on Security and Privacy in Communication Networks
   year: 2027
@@ -4957,6 +4940,20 @@
   date: October 15-18, 2027
   place: Hefei, China
   country: China
+- name: HotOS
+  description: USENIX Workshop on Hot Topics in Operating Systems
+  year: 2027
+  link: https://sigops.org/s/conferences/hotos/2027/
+  deadlines:
+  - date: '2027-02-01T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/hotos/index.html
+  date: May 24-26, 2027
+  place: Burghausen, Bavaria, Germany
+  country: Germany
 - name: INTERACT
   description: IFIP TC13 International Conference on Human-Computer Interaction
   year: 2027
@@ -4977,7 +4974,7 @@
   year: 2027
   link: https://conferences.graphicsinterface.org/2027
   deadlines:
-  - date: '2027-02-05T23:59:00-12:00'
+  - date: '2027-02-05T23:59:59-12:00'
   areas:
   - HI
   tags:
@@ -5087,21 +5084,6 @@
   date: July 25-28, 2027
   place: Edinburgh, Scotland, UK
   country: United Kingdom
-- name: IROS
-  description: IEEE/RSJ International Conference on Intelligent Robots and Systems
-  year: 2027
-  link: https://2027.ieee-iros.org/
-  deadlines:
-  - date: '2027-03-01T23:59:00-12:00'
-    comment: 'Paper submission deadline: March 1, 2027; exact cutoff time and timezone not specified on the official IEEE RAS event page'
-  areas:
-  - AI
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/iros/index.html
-  date: September 26 - October 1, 2027
-  place: Florence, Italy
-  country: Italy
 - name: IEEE CoG
   description: IEEE Conference on Games
   year: 2027
@@ -5119,6 +5101,21 @@
   date: August 2-5, 2027
   place: Aizuwakamatsu, Japan
   country: Japan
+- name: IROS
+  description: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  year: 2027
+  link: https://2027.ieee-iros.org/
+  deadlines:
+  - date: '2027-03-01T23:59:59-12:00'
+    comment: 'Paper submission deadline: March 1, 2027; exact cutoff time and timezone not specified on the official IEEE RAS event page'
+  areas:
+  - AI
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/iros/index.html
+  date: September 26 - October 1, 2027
+  place: Florence, Italy
+  country: Italy
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution
   year: 2027
@@ -5139,9 +5136,9 @@
   year: 2027
   link: https://smiconf.github.io/2027/
   deadlines:
-  - date: '2027-03-08T23:59:00+00:00'
+  - date: '2027-03-08T23:59:59+00:00'
     comment: Abstract submission is a soft deadline
-    abstract: '2027-03-01T23:59:00+00:00'
+    abstract: '2027-03-01T23:59:59+00:00'
   areas:
   - CG
   tags:

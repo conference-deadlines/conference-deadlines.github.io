@@ -39,9 +39,9 @@ URL:https://www.computingfrontiers.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hpdc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260130T115900Z
-DTSTART:20260130T115900Z
-DTEND:20260130T122900Z
+DTSTAMP:20260130T115959Z
+DTSTART:20260130T115959Z
+DTEND:20260130T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:HPDC 2026 abstract deadline
 DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
@@ -50,9 +50,9 @@ URL:https://hpdc.sci.utah.edu/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:hpdc-2026-0-paper@conference-deadlines
-DTSTAMP:20260206T115900Z
-DTSTART:20260206T115900Z
-DTEND:20260206T122900Z
+DTSTAMP:20260206T115959Z
+DTSTART:20260206T115959Z
+DTEND:20260206T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:HPDC 2026 deadline
 DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
@@ -127,9 +127,9 @@ URL:https://netys.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:glsvlsi-2026-0-paper@conference-deadlines
-DTSTAMP:20260324T045900Z
-DTSTART:20260324T045900Z
-DTEND:20260324T052900Z
+DTSTAMP:20260324T045959Z
+DTSTART:20260324T045959Z
+DTEND:20260324T052959Z
 TRANSP:TRANSPARENT
 SUMMARY:GLSVLSI 2026 deadline
 DESCRIPTION:Great Lakes Symposium on VLSI\nhttps://www.glsvlsi.org/\nLocati
@@ -183,6 +183,17 @@ DESCRIPTION:IEEE/ACM International Symposium on Microarchitecture\nhttps://
 URL:https://microarch.org/micro59/
 END:VEVENT
 BEGIN:VEVENT
+UID:hot-chips-2026-0-paper@conference-deadlines
+DTSTAMP:20260409T115959Z
+DTSTART:20260409T115959Z
+DTEND:20260409T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Hot Chips 2026 deadline (Technical presentation abstract)
+DESCRIPTION:Hot Chips: A Symposium on High Performance Chips\nhttps://www.h
+ otchips.org/\nLocation: Memorial Auditorium\, Stanford\, Palo Alto\, CA
+URL:https://www.hotchips.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:sc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260402T115959Z
 DTSTART:20260402T115959Z
@@ -196,26 +207,15 @@ URL:https://sc26.supercomputing.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sc-2026-0-paper@conference-deadlines
-DTSTAMP:20260409T115900Z
-DTSTART:20260409T115900Z
-DTEND:20260409T122900Z
+DTSTAMP:20260409T115959Z
+DTSTART:20260409T115959Z
+DTEND:20260409T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SC 2026 deadline
 DESCRIPTION:International Conference for High Performance Computing\, Netwo
  rking\, Storage\, and Analysis\nhttps://sc26.supercomputing.org/\nLocation
  : McCormick Place\, Chicago\, Illinois\, USA
 URL:https://sc26.supercomputing.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:hot-chips-2026-0-paper@conference-deadlines
-DTSTAMP:20260409T115959Z
-DTSTART:20260409T115959Z
-DTEND:20260409T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Hot Chips 2026 deadline (Technical presentation abstract)
-DESCRIPTION:Hot Chips: A Symposium on High Performance Chips\nhttps://www.h
- otchips.org/\nLocation: Memorial Auditorium\, Stanford\, Palo Alto\, CA
-URL:https://www.hotchips.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:appt-2026-0-abstract@conference-deadlines
@@ -377,9 +377,9 @@ URL:https://icpp2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:itc-asia-2026-0-abstract@conference-deadlines
-DTSTAMP:20260426T115900Z
-DTSTART:20260426T115900Z
-DTEND:20260426T122900Z
+DTSTAMP:20260426T115959Z
+DTSTART:20260426T115959Z
+DTEND:20260426T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ITC-Asia 2026 abstract deadline
 DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
@@ -388,9 +388,9 @@ URL:https://www.castest.com.cn/itcasia_2026
 END:VEVENT
 BEGIN:VEVENT
 UID:itc-asia-2026-0-paper@conference-deadlines
-DTSTAMP:20260503T115900Z
-DTSTART:20260503T115900Z
-DTEND:20260503T122900Z
+DTSTAMP:20260503T115959Z
+DTSTART:20260503T115959Z
+DTEND:20260503T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ITC-Asia 2026 deadline
 DESCRIPTION:IEEE International Test Conference in Asia\nhttps://www.castest
@@ -421,9 +421,9 @@ URL:https://acm-ieee-sec.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:apsys-2026-0-abstract@conference-deadlines
-DTSTAMP:20260514T115900Z
-DTSTART:20260514T115900Z
-DTEND:20260514T122900Z
+DTSTAMP:20260514T115959Z
+DTSTART:20260514T115959Z
+DTEND:20260514T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:APSys 2026 abstract deadline
 DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\nhttps://apsys26.gi
@@ -432,9 +432,9 @@ URL:https://apsys26.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:apsys-2026-0-paper@conference-deadlines
-DTSTAMP:20260521T115900Z
-DTSTART:20260521T115900Z
-DTEND:20260521T122900Z
+DTSTAMP:20260521T115959Z
+DTSTART:20260521T115959Z
+DTEND:20260521T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:APSys 2026 deadline
 DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\nhttps://apsys26.gi
@@ -511,28 +511,6 @@ DESCRIPTION:International Conference on High Performance and Embedded Archi
 URL:https://www.hipeac.net/2027/glasgow/#/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
-UID:iccd-2026-0-abstract@conference-deadlines
-DTSTAMP:20260604T115900Z
-DTSTART:20260604T115900Z
-DTEND:20260604T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCD 2026 abstract deadline
-DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
- onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
-URL:https://www.iccd-conf.com/2026/home.html
-END:VEVENT
-BEGIN:VEVENT
-UID:iccd-2026-0-paper@conference-deadlines
-DTSTAMP:20260611T115900Z
-DTSTART:20260611T115900Z
-DTEND:20260611T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCD 2026 deadline
-DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
- onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
-URL:https://www.iccd-conf.com/2026/home.html
-END:VEVENT
-BEGIN:VEVENT
 UID:sigops-atc-2026-0-paper@conference-deadlines
 DTSTAMP:20260611T115959Z
 DTSTART:20260611T115959Z
@@ -545,10 +523,32 @@ DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://sigops.org/s/co
 URL:https://sigops.org/s/conferences/atc/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
+UID:iccd-2026-0-abstract@conference-deadlines
+DTSTAMP:20260604T115959Z
+DTSTART:20260604T115959Z
+DTEND:20260604T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCD 2026 abstract deadline
+DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
+ onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
+URL:https://www.iccd-conf.com/2026/home.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iccd-2026-0-paper@conference-deadlines
+DTSTAMP:20260611T115959Z
+DTSTART:20260611T115959Z
+DTEND:20260611T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCD 2026 deadline
+DESCRIPTION:International Conference on Computer Design\nhttps://www.iccd-c
+ onf.com/2026/home.html\nLocation: Hong Kong SAR\, China
+URL:https://www.iccd-conf.com/2026/home.html
+END:VEVENT
+BEGIN:VEVENT
 UID:hotstorage-2026-0-paper@conference-deadlines
-DTSTAMP:20260613T115900Z
-DTSTART:20260613T115900Z
-DTEND:20260613T122900Z
+DTSTAMP:20260613T115959Z
+DTSTART:20260613T115959Z
+DTEND:20260613T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:HotStorage 2026 deadline
 DESCRIPTION:ACM Workshop on Hot Topics in Storage and File Systems\nhttps:/
@@ -623,9 +623,9 @@ URL:https://www.aspdac.com/aspdac2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ica3pp-2026-0-paper@conference-deadlines
-DTSTAMP:20260726T115900Z
-DTSTART:20260726T115900Z
-DTEND:20260726T122900Z
+DTSTAMP:20260726T115959Z
+DTSTART:20260726T115959Z
+DTEND:20260726T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICA3PP 2026 deadline
 DESCRIPTION:International Conference on Algorithms and Architectures for Pa
@@ -683,9 +683,9 @@ URL:https://ieee-hyper-intelligence.org/2026/hpcc/
 END:VEVENT
 BEGIN:VEVENT
 UID:icpads-2026-0-paper@conference-deadlines
-DTSTAMP:20260816T115900Z
-DTSTART:20260816T115900Z
-DTEND:20260816T122900Z
+DTSTAMP:20260816T115959Z
+DTSTART:20260816T115959Z
+DTEND:20260816T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICPADS 2026 deadline
 DESCRIPTION:IEEE International Conference on Parallel and Distributed Syste
@@ -718,9 +718,9 @@ URL:https://conf.researchr.org/home/cgo-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:fast-2027-0-paper@conference-deadlines
-DTSTAMP:20260916T115900Z
-DTSTART:20260916T115900Z
-DTEND:20260916T122900Z
+DTSTAMP:20260916T115959Z
+DTSTART:20260916T115959Z
+DTEND:20260916T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:FAST 2027 deadline (Fall deadline)
 DESCRIPTION:USENIX Conference on File and Storage Technologies\nhttps://www
@@ -851,9 +851,9 @@ URL:https://www.ipdps.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmetrics-2027-0-abstract@conference-deadlines
-DTSTAMP:20261003T115900Z
-DTSTART:20261003T115900Z
-DTEND:20261003T122900Z
+DTSTAMP:20261003T115959Z
+DTSTART:20261003T115959Z
+DTEND:20261003T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SIGMETRICS 2027 abstract deadline (fall round)
 DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
@@ -862,9 +862,9 @@ URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmetrics-2027-0-paper@conference-deadlines
-DTSTAMP:20261010T115900Z
-DTSTART:20261010T115900Z
-DTEND:20261010T122900Z
+DTSTAMP:20261010T115959Z
+DTSTART:20261010T115959Z
+DTEND:20261010T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SIGMETRICS 2027 deadline (fall round)
 DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
@@ -873,9 +873,9 @@ URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmetrics-2027-1-abstract@conference-deadlines
-DTSTAMP:20270105T115900Z
-DTSTART:20270105T115900Z
-DTEND:20270105T122900Z
+DTSTAMP:20270105T115959Z
+DTSTART:20270105T115959Z
+DTEND:20270105T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SIGMETRICS 2027 abstract deadline (winter round)
 DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
@@ -884,9 +884,9 @@ URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmetrics-2027-1-paper@conference-deadlines
-DTSTAMP:20270112T115900Z
-DTSTART:20270112T115900Z
-DTEND:20270112T122900Z
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SIGMETRICS 2027 deadline (winter round)
 DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
@@ -975,9 +975,9 @@ URL:https://hpcclab.org/ccgrid27/
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-2027-0-abstract@conference-deadlines
-DTSTAMP:20261202T115900Z
-DTSTART:20261202T115900Z
-DTEND:20261202T122900Z
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICS 2027 abstract deadline
 DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
@@ -986,9 +986,9 @@ URL:https://ics-conference.org/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-2027-0-paper@conference-deadlines
-DTSTAMP:20261208T115900Z
-DTSTART:20261208T115900Z
-DTEND:20261208T122900Z
+DTSTAMP:20261208T115959Z
+DTSTART:20261208T115959Z
+DTEND:20261208T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICS 2027 deadline
 DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
@@ -997,12 +997,12 @@ URL:https://ics-conference.org/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ets-2027-0-abstract@conference-deadlines
-DTSTAMP:20261209T115900Z
-DTSTART:20261209T115900Z
-DTEND:20261209T122900Z
+DTSTAMP:20261209T115959Z
+DTSTART:20261209T115959Z
+DTEND:20261209T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ETS 2027 abstract deadline (Regular papers\; official CFP dates. Cl
- ock 23:59:00 and timezone AoE are repository defaults\, not published cuto
+ ock 23:59:59 and timezone AoE are repository defaults\, not published cuto
  ff precision.)
 DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
  ion: London\, UK
@@ -1010,12 +1010,12 @@ URL:https://www.ets2027.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:ets-2027-0-paper@conference-deadlines
-DTSTAMP:20261216T115900Z
-DTSTART:20261216T115900Z
-DTEND:20261216T122900Z
+DTSTAMP:20261216T115959Z
+DTSTART:20261216T115959Z
+DTEND:20261216T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ETS 2027 deadline (Regular papers\; official CFP dates. Clock 23:59
- :00 and timezone AoE are repository defaults\, not published cutoff precis
+ :59 and timezone AoE are repository defaults\, not published cutoff precis
  ion.)
 DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
  ion: London\, UK
