@@ -3508,6 +3508,7 @@
   - DB
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/ecir/index.html
   date: March 21-25, 2027
   place: Southampton, UK
