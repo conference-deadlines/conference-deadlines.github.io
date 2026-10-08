@@ -3524,6 +3524,7 @@
   - AI
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/aistats/index.html
   date: May 3-6, 2027
   place: Montréal, Canada
@@ -3533,11 +3534,12 @@
   year: 2027
   link: https://edbticdt2027.github.io/
   deadlines:
-  - date: '2026-10-07T23:59:59-12:00'
+  - date: '2026-10-07T12:00:00-12:00'
   areas:
   - DB
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/edbt/index.html
   date: April 6-9, 2027
   place: Lille, France
