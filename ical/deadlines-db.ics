@@ -349,6 +349,17 @@ DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
 URL:https://www.pakdd2027.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:dasfaa-2027-0-paper@conference-deadlines
+DTSTAMP:20261126T115900Z
+DTSTART:20261126T115900Z
+DTEND:20261126T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:DASFAA 2027 deadline (Research papers)
+DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
+ github.io/\nLocation: Shenyang\, China
+URL:https://dasfaa2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
 UID:pods-2027-0-abstract@conference-deadlines
 DTSTAMP:20261204T115959Z
 DTSTART:20261204T115959Z

@@ -46,21 +46,6 @@
   date: April 27-28, 2026
   place: Seoul, South Korea
   country: South Korea
-- name: ICPR
-  description: International Conference on Pattern Recognition
-  year: 2026
-  link: https://icpr2026.org/
-  deadlines:
-  - date: '2026-01-10T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/icpr/index.html
-  date: August 17-20, 2026
-  place: Lyon, France
-  country: France
 - name: FCCM
   description: IEEE Symposium on Field-Programmable Custom Computing Machines
   year: 2026
@@ -4372,6 +4357,21 @@
   date: June 14-17, 2027
   place: Fort Collins, Colorado, USA
   country: United States
+- name: DASFAA
+  description: Database Systems for Advanced Applications
+  year: 2027
+  link: https://dasfaa2027.github.io/
+  deadlines:
+  - date: '2026-11-25T23:59:00-12:00'
+    comment: Research papers
+  areas:
+  - DB
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/dasfaa/index.html
+  date: May 27-30, 2027
+  place: Shenyang, China
+  country: China
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
   year: 2027
@@ -5150,6 +5150,21 @@
   date: June 21-25, 2027
   place: Singapore
   country: Singapore
+- name: ICPR
+  description: International Conference on Pattern Recognition
+  year: 2027
+  link: https://www.icpr2027.com/
+  deadlines:
+  - date: '2027-03-08T23:59:59-12:00'
+    comment: All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)
+    abstract: '2027-03-01T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/icpr/index.html
+  date: October 4-6 and 14-15, 2027
+  place: Online
 - name: ECAI
   description: European Conference on Artificial Intelligence
   year: 2027

@@ -16,7 +16,7 @@
 - name: Chile
   count: 1
 - name: China
-  count: 39
+  count: 40
 - name: Cyprus
   count: 1
 - name: Czechia
@@ -28,7 +28,7 @@
 - name: Finland
   count: 2
 - name: France
-  count: 8
+  count: 7
 - name: Germany
   count: 13
 - name: Greece

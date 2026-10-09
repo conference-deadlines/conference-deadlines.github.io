@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Artificial Intelligence
 BEGIN:VEVENT
-UID:icpr-2026-0-paper@conference-deadlines
-DTSTAMP:20260111T115959Z
-DTSTART:20260111T115959Z
-DTEND:20260111T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICPR 2026 deadline
-DESCRIPTION:International Conference on Pattern Recognition\nhttps://icpr20
- 26.org/\nLocation: Lyon\, France
-URL:https://icpr2026.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:icml-2026-0-abstract@conference-deadlines
 DTSTAMP:20260124T115959Z
 DTSTART:20260124T115959Z
@@ -880,6 +869,31 @@ SUMMARY:IROS 2027 deadline (Paper submission deadline: March 1\, 2027\; exa
 DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sys
  tems\nhttps://2027.ieee-iros.org/\nLocation: Florence\, Italy
 URL:https://2027.ieee-iros.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icpr-2027-0-abstract@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICPR 2027 abstract deadline (All dates tentative\; March 1 is paper
+  registration\; author rebuttal April 23 (provisional\, cutoff unspecified
+ ))
+DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
+ pr2027.com/\nLocation: Online
+URL:https://www.icpr2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:icpr-2027-0-paper@conference-deadlines
+DTSTAMP:20270309T115959Z
+DTSTART:20270309T115959Z
+DTEND:20270309T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICPR 2027 deadline (All dates tentative\; March 1 is paper registra
+ tion\; author rebuttal April 23 (provisional\, cutoff unspecified))
+DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
+ pr2027.com/\nLocation: Online
+URL:https://www.icpr2027.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecai-2027-0-paper@conference-deadlines
