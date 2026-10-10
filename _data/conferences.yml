@@ -14,22 +14,6 @@
   dblp: https://dblp.org/db/conf/pam/index.html
   date: March 23-25, 2026
   place: Virtual
-- name: EuroVis
-  description: Eurographics Conference on Visualization
-  year: 2026
-  link: https://www.eurovis.org.uk/
-  deadlines:
-  - date: '2025-12-03T23:59:59-12:00'
-    abstract: '2025-11-26T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/vissym/index.html
-  date: June 8-12, 2026
-  place: Nottingham, United Kingdom
-  country: United Kingdom
 - name: ISPASS
   description: International Symposium on Performance Analysis of Systems and Software
   year: 2026
@@ -109,21 +93,6 @@
   date: July 23-25, 2026
   place: Rio de Janeiro, Brazil (Hybrid)
   country: Brazil
-- name: ICIP
-  description: The IEEE International Conference on Image Processing
-  year: 2026
-  link: https://2026.ieeeicip.org/
-  deadlines:
-  - date: '2026-02-04T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/icip/index.html
-  date: September 14-16, 2026
-  place: Tampere, Finland
-  country: Finland
 - name: HPDC
   description: ACM Symposium on High-Performance Parallel and Distributed Computing
   year: 2026
@@ -857,21 +826,6 @@
   date: November 11-14, 2026
   place: Rio de Janeiro, Brazil
   country: Brazil
-- name: ICIC
-  description: International Conference on Intelligent Computing
-  year: 2026
-  link: http://www.ic-icc.cn/2026/
-  deadlines:
-  - date: '2026-04-04T12:00:00+08:00'
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/icic/index.html
-  date: July 22-26, 2026
-  place: Toronto, Canada (Hybrid)
-  country: Canada
 - name: MICRO
   description: IEEE/ACM International Symposium on Microarchitecture
   year: 2026
@@ -1974,21 +1928,6 @@
   date: December 14-18, 2026
   place: Universitat Rovira i Virgili, Tarragona, Spain
   country: Spain
-- name: ICDM
-  description: IEEE International Conference on Data Mining
-  year: 2026
-  link: http://icdm2026.neu.edu.cn/
-  deadlines:
-  - date: '2026-06-06T23:59:59-12:00'
-  areas:
-  - DB
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/icdm/index.html
-  date: November 12-15, 2026
-  place: Shenyang, China
-  country: China
 - name: CICAI
   description: CAAI International Conference on Artificial Intelligence
   year: 2026
@@ -3540,6 +3479,7 @@
   - DS
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/fpga/index.html
   date: March 14 - March 16, 2027
   place: Monterey, California, USA
@@ -3555,6 +3495,7 @@
   - DS
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/ipps/index.html
   date: June 1-5, 2027
   place: Seattle, USA
@@ -3570,6 +3511,7 @@
   - AI
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/ifaamas/index.html
   date: May 3-7, 2027
   place: Hanoi, Vietnam
@@ -3584,6 +3526,7 @@
   - CG
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/dcc/index.html
   date: March 23-26, 2027
   place: Snowbird, Utah, United States
@@ -4705,6 +4648,22 @@
   date: June 27 - July 2, 2027
   place: Sorrento, Italy
   country: Italy
+- name: IJCAI
+  description: International Joint Conference on Artificial Intelligence
+  year: 2027
+  link: https://2027.ijcai.org/
+  deadlines:
+  - date: '2027-01-11T23:59:00-12:00'
+    comment: 'Separate satellite event: August 15-17, 2027, Hengqin, China'
+    abstract: '2027-01-04T23:59:00-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/ijcai/index.html
+  date: August 7-13, 2027
+  place: Kyoto, Japan
+  country: Japan
 - name: NOSSDAV
   description: International Workshop on Network and Operating System Support for Digital Audio and Video
   year: 2027
@@ -5165,6 +5124,20 @@
   dblp: https://dblp.org/db/conf/icpr/index.html
   date: October 4-6 and 14-15, 2027
   place: Online
+- name: ICIP
+  description: The IEEE International Conference on Image Processing
+  year: 2027
+  link: https://2027.ieeeicip.org/
+  deadlines:
+  - date: '2027-03-31T23:59:59-12:00'
+  areas:
+  - CG
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/icip/index.html
+  date: November 29-December 3, 2027
+  place: Singapore
+  country: Singapore
 - name: ECAI
   description: European Conference on Artificial Intelligence
   year: 2027
@@ -5193,4 +5166,19 @@
   dblp: https://dblp.org/db/conf/cgi/index.html
   date: July 5-9, 2027
   place: Cairns, Australia
+  country: Australia
+- name: ICDM
+  description: IEEE International Conference on Data Mining
+  year: 2027
+  link: https://icdm2027-website.onrender.com/
+  deadlines:
+  - date: '2027-06-06T23:59:00-12:00'
+    comment: Full papers; dates are tentative and subject to change
+  areas:
+  - DB
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/icdm/index.html
+  date: November 15-18, 2027
+  place: Brisbane, Australia
   country: Australia

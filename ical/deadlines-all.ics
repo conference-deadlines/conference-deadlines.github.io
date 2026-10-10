@@ -16,28 +16,6 @@ DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
 URL:https://pam2026.at/
 END:VEVENT
 BEGIN:VEVENT
-UID:eurovis-2026-0-abstract@conference-deadlines
-DTSTAMP:20251127T115959Z
-DTSTART:20251127T115959Z
-DTEND:20251127T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EuroVis 2026 abstract deadline
-DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
- rg.uk/\nLocation: Nottingham\, United Kingdom
-URL:https://www.eurovis.org.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:eurovis-2026-0-paper@conference-deadlines
-DTSTAMP:20251204T115959Z
-DTSTART:20251204T115959Z
-DTEND:20251204T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EuroVis 2026 deadline
-DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
- rg.uk/\nLocation: Nottingham\, United Kingdom
-URL:https://www.eurovis.org.uk/
-END:VEVENT
-BEGIN:VEVENT
 UID:ispass-2026-0-abstract@conference-deadlines
 DTSTAMP:20251208T220000Z
 DTSTART:20251208T220000Z
@@ -127,17 +105,6 @@ DESCRIPTION:Annual Meeting of the Cognitive Science Society\nhttps://cognit
  ivesciencesociety.org/cogsci-2026/\nLocation: Rio de Janeiro\, Brazil (Hyb
  rid)
 URL:https://cognitivesciencesociety.org/cogsci-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icip-2026-0-paper@conference-deadlines
-DTSTAMP:20260205T115959Z
-DTSTART:20260205T115959Z
-DTEND:20260205T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICIP 2026 deadline
-DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
- 2026.ieeeicip.org/\nLocation: Tampere\, Finland
-URL:https://2026.ieeeicip.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:hpdc-2026-0-abstract@conference-deadlines
@@ -940,17 +907,6 @@ SUMMARY:ACM MM 2026 deadline
 DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
  org/\nLocation: Rio de Janeiro\, Brazil
 URL:https://2026.acmmm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icic-2026-0-paper@conference-deadlines
-DTSTAMP:20260404T040000Z
-DTSTART:20260404T040000Z
-DTEND:20260404T043000Z
-TRANSP:TRANSPARENT
-SUMMARY:ICIC 2026 deadline
-DESCRIPTION:International Conference on Intelligent Computing\nhttp://www.i
- c-icc.cn/2026/\nLocation: Toronto\, Canada (Hybrid)
-URL:http://www.ic-icc.cn/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:micro-2026-0-abstract@conference-deadlines
@@ -2173,17 +2129,6 @@ SUMMARY:Middleware 2026 deadline (Round 2)
 DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
  thub.io/2026/\nLocation: Universitat Rovira i Virgili\, Tarragona\, Spain
 URL:https://middleware-conf.github.io/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdm-2026-0-paper@conference-deadlines
-DTSTAMP:20260607T115959Z
-DTSTART:20260607T115959Z
-DTEND:20260607T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDM 2026 deadline
-DESCRIPTION:IEEE International Conference on Data Mining\nhttp://icdm2026.n
- eu.edu.cn/\nLocation: Shenyang\, China
-URL:http://icdm2026.neu.edu.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:cicai-2026-0-paper@conference-deadlines
@@ -5128,6 +5073,30 @@ DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
 URL:https://2027.ieee-isit.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:ijcai-2027-0-abstract@conference-deadlines
+DTSTAMP:20270105T115900Z
+DTSTART:20270105T115900Z
+DTEND:20270105T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAI 2027 abstract deadline (Separate satellite event: August 15-1
+ 7\, 2027\, Hengqin\, China)
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2027.ijcai.org/\nLocation: Kyoto\, Japan
+URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115900Z
+DTSTART:20270112T115900Z
+DTEND:20270112T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
+ , Hengqin\, China)
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2027.ijcai.org/\nLocation: Kyoto\, Japan
+URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:nossdav-2027-0-paper@conference-deadlines
 DTSTAMP:20270112T115959Z
 DTSTART:20270112T115959Z
@@ -5636,6 +5605,17 @@ DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
 URL:https://www.icpr2027.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:icip-2027-0-paper@conference-deadlines
+DTSTAMP:20270401T115959Z
+DTSTART:20270401T115959Z
+DTEND:20270401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICIP 2027 deadline
+DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
+ 2027.ieeeicip.org/\nLocation: Singapore
+URL:https://2027.ieeeicip.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:ecai-2027-0-paper@conference-deadlines
 DTSTAMP:20270415T115959Z
 DTSTART:20270415T115959Z
@@ -5657,5 +5637,17 @@ SUMMARY:CGI 2027 deadline (Regular conference papers (LNCS proceedings trac
 DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
  \nLocation: Cairns\, Australia
 URL:https://cgs-network.org/cgi27/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdm-2027-0-paper@conference-deadlines
+DTSTAMP:20270607T115900Z
+DTSTART:20270607T115900Z
+DTEND:20270607T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDM 2027 deadline (Full papers\; dates are tentative and subject t
+ o change)
+DESCRIPTION:IEEE International Conference on Data Mining\nhttps://icdm2027-
+ website.onrender.com/\nLocation: Brisbane\, Australia
+URL:https://icdm2027-website.onrender.com/
 END:VEVENT
 END:VCALENDAR

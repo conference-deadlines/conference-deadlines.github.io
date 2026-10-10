@@ -814,6 +814,30 @@ DESCRIPTION:Annual Meeting of the Association for Computational Linguistics
 URL:https://2027.aclweb.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:ijcai-2027-0-abstract@conference-deadlines
+DTSTAMP:20270105T115900Z
+DTSTART:20270105T115900Z
+DTEND:20270105T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAI 2027 abstract deadline (Separate satellite event: August 15-1
+ 7\, 2027\, Hengqin\, China)
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2027.ijcai.org/\nLocation: Kyoto\, Japan
+URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115900Z
+DTSTART:20270112T115900Z
+DTEND:20270112T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
+ , Hengqin\, China)
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2027.ijcai.org/\nLocation: Kyoto\, Japan
+URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:ijcnn-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z

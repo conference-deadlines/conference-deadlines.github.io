@@ -61,17 +61,6 @@ DESCRIPTION:International Conference on Embedded Software\nhttps://esweek.o
 URL:https://esweek.org/emsoft/
 END:VEVENT
 BEGIN:VEVENT
-UID:icic-2026-0-paper@conference-deadlines
-DTSTAMP:20260404T040000Z
-DTSTART:20260404T040000Z
-DTEND:20260404T043000Z
-TRANSP:TRANSPARENT
-SUMMARY:ICIC 2026 deadline
-DESCRIPTION:International Conference on Intelligent Computing\nhttp://www.i
- c-icc.cn/2026/\nLocation: Toronto\, Canada (Hybrid)
-URL:http://www.ic-icc.cn/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:smc-2026-0-paper@conference-deadlines
 DTSTAMP:20260504T065959Z
 DTSTART:20260504T065959Z

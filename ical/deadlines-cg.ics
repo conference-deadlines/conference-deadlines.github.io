@@ -5,39 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Graphics & Multimedia
 BEGIN:VEVENT
-UID:eurovis-2026-0-abstract@conference-deadlines
-DTSTAMP:20251127T115959Z
-DTSTART:20251127T115959Z
-DTEND:20251127T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EuroVis 2026 abstract deadline
-DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
- rg.uk/\nLocation: Nottingham\, United Kingdom
-URL:https://www.eurovis.org.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:eurovis-2026-0-paper@conference-deadlines
-DTSTAMP:20251204T115959Z
-DTSTART:20251204T115959Z
-DTEND:20251204T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EuroVis 2026 deadline
-DESCRIPTION:Eurographics Conference on Visualization\nhttps://www.eurovis.o
- rg.uk/\nLocation: Nottingham\, United Kingdom
-URL:https://www.eurovis.org.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:icip-2026-0-paper@conference-deadlines
-DTSTAMP:20260205T115959Z
-DTSTART:20260205T115959Z
-DTEND:20260205T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICIP 2026 deadline
-DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
- 2026.ieeeicip.org/\nLocation: Tampere\, Finland
-URL:https://2026.ieeeicip.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:casa-2026-0-paper@conference-deadlines
 DTSTAMP:20260211T115959Z
 DTSTART:20260211T115959Z
@@ -515,6 +482,17 @@ SUMMARY:SMI 2027 deadline (Abstract submission is a soft deadline)
 DESCRIPTION:Shape Modeling International\nhttps://smiconf.github.io/2027/\n
  Location: Singapore
 URL:https://smiconf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icip-2027-0-paper@conference-deadlines
+DTSTAMP:20270401T115959Z
+DTSTART:20270401T115959Z
+DTEND:20270401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICIP 2027 deadline
+DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
+ 2027.ieeeicip.org/\nLocation: Singapore
+URL:https://2027.ieeeicip.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cgi-2027-0-paper@conference-deadlines

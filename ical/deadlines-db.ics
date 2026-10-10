@@ -96,17 +96,6 @@ DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
 URL:https://conferences.sigappfr.org/apweb2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icdm-2026-0-paper@conference-deadlines
-DTSTAMP:20260607T115959Z
-DTSTART:20260607T115959Z
-DTEND:20260607T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDM 2026 deadline
-DESCRIPTION:IEEE International Conference on Data Mining\nhttp://icdm2026.n
- eu.edu.cn/\nLocation: Shenyang\, China
-URL:http://icdm2026.neu.edu.cn/
-END:VEVENT
-BEGIN:VEVENT
 UID:wise-2026-0-paper@conference-deadlines
 DTSTAMP:20260701T115959Z
 DTSTART:20260701T115959Z
@@ -404,5 +393,17 @@ DESCRIPTION:International Conference on Research on Development in Informat
  ion Retrieval\nhttps://sigir2027.org/\nLocation: San Jose\, California\, U
  SA
 URL:https://sigir2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdm-2027-0-paper@conference-deadlines
+DTSTAMP:20270607T115900Z
+DTSTART:20270607T115900Z
+DTEND:20270607T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDM 2027 deadline (Full papers\; dates are tentative and subject t
+ o change)
+DESCRIPTION:IEEE International Conference on Data Mining\nhttps://icdm2027-
+ website.onrender.com/\nLocation: Brisbane\, Australia
+URL:https://icdm2027-website.onrender.com/
 END:VEVENT
 END:VCALENDAR
