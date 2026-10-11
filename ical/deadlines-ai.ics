@@ -930,4 +930,30 @@ DESCRIPTION:European Conference on Artificial Intelligence\nhttps://ecai202
  7.org/\nLocation: Athens\, Greece
 URL:https://ecai2027.org/
 END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-0-abstract@conference-deadlines
+DTSTAMP:20270424T115959Z
+DTSTART:20270424T115959Z
+DTEND:20270424T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:KR 2027 abstract deadline (Main track\; author response period: Jun
+ e 15-18\, 2027)
+DESCRIPTION:International Conference on Principles of Knowledge Representat
+ ion and Reasoning\nhttps://kr.org/KR2027/\nLocation: Buenos Aires\, Argent
+ ina
+URL:https://kr.org/KR2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-0-paper@conference-deadlines
+DTSTAMP:20270429T115959Z
+DTSTART:20270429T115959Z
+DTEND:20270429T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:KR 2027 deadline (Main track\; author response period: June 15-18\,
+  2027)
+DESCRIPTION:International Conference on Principles of Knowledge Representat
+ ion and Reasoning\nhttps://kr.org/KR2027/\nLocation: Buenos Aires\, Argent
+ ina
+URL:https://kr.org/KR2027/
+END:VEVENT
 END:VCALENDAR

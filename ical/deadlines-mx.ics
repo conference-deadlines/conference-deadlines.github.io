@@ -304,4 +304,17 @@ DESCRIPTION:International Conference on Business Information Systems\nhttps
  ://bisconf.org/2027/\nLocation: Poznań\, Poland
 URL:https://bisconf.org/2027/
 END:VEVENT
+BEGIN:VEVENT
+UID:ismb-2027-0-paper@conference-deadlines
+DTSTAMP:20270115T115900Z
+DTSTART:20270115T115900Z
+DTEND:20270115T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ISMB 2027 deadline (Proceedings\; conditional acceptance: March 2\,
+  2027\; revised papers due: March 18\, 2027\, 23:59 AoE\; no extensions to
+  submission or revision deadlines)
+DESCRIPTION:International Conference on Intelligent Systems for Molecular B
+ iology\nhttps://www.iscb.org/ismbeccb2027/\nLocation: Copenhagen\, Denmark
+URL:https://www.iscb.org/ismbeccb2027/
+END:VEVENT
 END:VCALENDAR

@@ -850,50 +850,6 @@ DESCRIPTION:IEEE International Parallel and Distributed Processing Symposiu
 URL:https://www.ipdps.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigmetrics-2027-0-abstract@conference-deadlines
-DTSTAMP:20261003T115959Z
-DTSTART:20261003T115959Z
-DTEND:20261003T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 abstract deadline (fall round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigmetrics-2027-0-paper@conference-deadlines
-DTSTAMP:20261010T115959Z
-DTSTART:20261010T115959Z
-DTEND:20261010T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 deadline (fall round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigmetrics-2027-1-abstract@conference-deadlines
-DTSTAMP:20270105T115959Z
-DTSTART:20270105T115959Z
-DTEND:20270105T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 abstract deadline (winter round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigmetrics-2027-1-paper@conference-deadlines
-DTSTAMP:20270112T115959Z
-DTSTART:20270112T115959Z
-DTEND:20270112T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 deadline (winter round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:iscas-2027-0-paper@conference-deadlines
 DTSTAMP:20261014T045959Z
 DTSTART:20261014T045959Z
@@ -1020,6 +976,28 @@ SUMMARY:ETS 2027 deadline (Regular papers\; official CFP dates. Clock 23:59
 DESCRIPTION:IEEE European Test Symposium\nhttps://www.ets2027.co.uk/\nLocat
  ion: London\, UK
 URL:https://www.ets2027.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigmetrics-2027-0-abstract@conference-deadlines
+DTSTAMP:20270105T115959Z
+DTSTART:20270105T115959Z
+DTEND:20270105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGMETRICS 2027 abstract deadline (winter round)
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
+ ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigmetrics-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGMETRICS 2027 deadline (winter round)
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
+ ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:spaa-2027-0-abstract@conference-deadlines

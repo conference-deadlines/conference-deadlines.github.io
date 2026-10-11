@@ -3720,50 +3720,6 @@ DESCRIPTION:Data Compression Conference\nhttps://datacompressionconference.
 URL:https://datacompressionconference.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigmetrics-2027-0-abstract@conference-deadlines
-DTSTAMP:20261003T115959Z
-DTSTART:20261003T115959Z
-DTEND:20261003T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 abstract deadline (fall round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigmetrics-2027-0-paper@conference-deadlines
-DTSTAMP:20261010T115959Z
-DTSTART:20261010T115959Z
-DTEND:20261010T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 deadline (fall round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigmetrics-2027-1-abstract@conference-deadlines
-DTSTAMP:20270105T115959Z
-DTSTART:20270105T115959Z
-DTEND:20270105T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 abstract deadline (winter round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigmetrics-2027-1-paper@conference-deadlines
-DTSTAMP:20270112T115959Z
-DTSTART:20270112T115959Z
-DTEND:20270112T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGMETRICS 2027 deadline (winter round)
-DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
- ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.sigmetrics.org/sigmetrics2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:dfrws-2027-0-abstract@conference-deadlines
 DTSTAMP:20261003T115959Z
 DTSTART:20261003T115959Z
@@ -5097,6 +5053,28 @@ DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
 URL:https://2027.ijcai.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:sigmetrics-2027-0-abstract@conference-deadlines
+DTSTAMP:20270105T115959Z
+DTSTART:20270105T115959Z
+DTEND:20270105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGMETRICS 2027 abstract deadline (winter round)
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
+ ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigmetrics-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGMETRICS 2027 deadline (winter round)
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
+ ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:nossdav-2027-0-paper@conference-deadlines
 DTSTAMP:20270112T115959Z
 DTSTART:20270112T115959Z
@@ -5140,6 +5118,19 @@ SUMMARY:BIS 2027 deadline
 DESCRIPTION:International Conference on Business Information Systems\nhttps
  ://bisconf.org/2027/\nLocation: Poznań\, Poland
 URL:https://bisconf.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ismb-2027-0-paper@conference-deadlines
+DTSTAMP:20270115T115900Z
+DTSTART:20270115T115900Z
+DTEND:20270115T122900Z
+TRANSP:TRANSPARENT
+SUMMARY:ISMB 2027 deadline (Proceedings\; conditional acceptance: March 2\,
+  2027\; revised papers due: March 18\, 2027\, 23:59 AoE\; no extensions to
+  submission or revision deadlines)
+DESCRIPTION:International Conference on Intelligent Systems for Molecular B
+ iology\nhttps://www.iscb.org/ismbeccb2027/\nLocation: Copenhagen\, Denmark
+URL:https://www.iscb.org/ismbeccb2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icwsm-2027-0-paper@conference-deadlines
@@ -5637,6 +5628,32 @@ SUMMARY:CGI 2027 deadline (Regular conference papers (LNCS proceedings trac
 DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
  \nLocation: Cairns\, Australia
 URL:https://cgs-network.org/cgi27/
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-0-abstract@conference-deadlines
+DTSTAMP:20270424T115959Z
+DTSTART:20270424T115959Z
+DTEND:20270424T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:KR 2027 abstract deadline (Main track\; author response period: Jun
+ e 15-18\, 2027)
+DESCRIPTION:International Conference on Principles of Knowledge Representat
+ ion and Reasoning\nhttps://kr.org/KR2027/\nLocation: Buenos Aires\, Argent
+ ina
+URL:https://kr.org/KR2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-2027-0-paper@conference-deadlines
+DTSTAMP:20270429T115959Z
+DTSTART:20270429T115959Z
+DTEND:20270429T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:KR 2027 deadline (Main track\; author response period: June 15-18\,
+  2027)
+DESCRIPTION:International Conference on Principles of Knowledge Representat
+ ion and Reasoning\nhttps://kr.org/KR2027/\nLocation: Buenos Aires\, Argent
+ ina
+URL:https://kr.org/KR2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdm-2027-0-paper@conference-deadlines

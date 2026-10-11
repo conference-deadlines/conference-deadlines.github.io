@@ -3531,25 +3531,6 @@
   date: March 23-26, 2027
   place: Snowbird, Utah, United States
   country: United States
-- name: SIGMETRICS
-  description: ACM Special Interest Group on Measurement and Evaluation
-  year: 2027
-  link: https://www.sigmetrics.org/sigmetrics2027/
-  deadlines:
-  - date: '2026-10-09T23:59:59-12:00'
-    comment: fall round
-    abstract: '2026-10-02T23:59:59-12:00'
-  - date: '2027-01-11T23:59:59-12:00'
-    comment: winter round
-    abstract: '2027-01-04T23:59:59-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/sigmetrics/index.html
-  date: June 7-11, 2027
-  place: Atlanta, Georgia, USA
-  country: United States
 - name: DFRWS
   description: Digital Forensic Research Workshop
   year: 2027
@@ -3562,6 +3543,7 @@
   - SC
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/dfrws/index.html
   date: March 30 - April 2, 2027
   place: Edinburgh, Scotland
@@ -4664,6 +4646,22 @@
   date: August 7-13, 2027
   place: Kyoto, Japan
   country: Japan
+- name: SIGMETRICS
+  description: ACM Special Interest Group on Measurement and Evaluation
+  year: 2027
+  link: https://www.sigmetrics.org/sigmetrics2027/
+  deadlines:
+  - date: '2027-01-11T23:59:59-12:00'
+    comment: winter round
+    abstract: '2027-01-04T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/sigmetrics/index.html
+  date: June 7-11, 2027
+  place: Atlanta, Georgia, USA
+  country: United States
 - name: NOSSDAV
   description: International Workshop on Network and Operating System Support for Digital Audio and Video
   year: 2027
@@ -4707,6 +4705,21 @@
   date: June 23-25, 2027
   place: Poznań, Poland
   country: Poland
+- name: ISMB
+  description: International Conference on Intelligent Systems for Molecular Biology
+  year: 2027
+  link: https://www.iscb.org/ismbeccb2027/
+  deadlines:
+  - date: '2027-01-14T23:59:00-12:00'
+    comment: 'Proceedings; conditional acceptance: March 2, 2027; revised papers due: March 18, 2027, 23:59 AoE; no extensions to submission or revision deadlines'
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/ismb/index.html
+  date: July 18-22, 2027
+  place: Copenhagen, Denmark
+  country: Denmark
 - name: ICWSM
   description: The International AAAI Conference on Web and Social Media
   year: 2027
@@ -5167,6 +5180,22 @@
   date: July 5-9, 2027
   place: Cairns, Australia
   country: Australia
+- name: KR
+  description: International Conference on Principles of Knowledge Representation and Reasoning
+  year: 2027
+  link: https://kr.org/KR2027/
+  deadlines:
+  - date: '2027-04-28T23:59:59-12:00'
+    comment: 'Main track; author response period: June 15-18, 2027'
+    abstract: '2027-04-23T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/kr/index.html
+  date: September 21-24, 2027
+  place: Buenos Aires, Argentina
+  country: Argentina
 - name: ICDM
   description: IEEE International Conference on Data Mining
   year: 2027
