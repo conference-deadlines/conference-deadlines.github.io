@@ -1515,7 +1515,8 @@ DTSTAMP:20260503T115959Z
 DTSTART:20260503T115959Z
 DTEND:20260503T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ISWC 2026 abstract deadline (Regular route)
+SUMMARY:ISWC 2026 abstract deadline (ESWC resubmissions must be committed b
+ y April 11\, 2026)
 DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
  cweb.org/\nLocation: Bari\, Italy
 URL:https://iswc2026.semanticweb.org/
@@ -1526,7 +1527,8 @@ DTSTAMP:20260508T115959Z
 DTSTART:20260508T115959Z
 DTEND:20260508T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:ISWC 2026 deadline (Regular route)
+SUMMARY:ISWC 2026 deadline (ESWC resubmissions must be committed by April 1
+ 1\, 2026)
 DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
  cweb.org/\nLocation: Bari\, Italy
 URL:https://iswc2026.semanticweb.org/
@@ -2061,30 +2063,6 @@ DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograph
  ic Information Systems\nhttps://sigspatial2026.sigspatial.org/\nLocation: 
  Riverside\, CA\, USA
 URL:https://sigspatial2026.sigspatial.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:conext-2026-0-abstract@conference-deadlines
-DTSTAMP:20260530T115959Z
-DTSTART:20260530T115959Z
-DTEND:20260530T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CoNEXT 2026 abstract deadline (June Cycle)
-DESCRIPTION:International Conference on Emerging Networking Experiments and
-  Technologies\nhttps://conferences.sigcomm.org/co-next/2026/#!/home\nLocat
- ion: Utrecht\, The Netherlands
-URL:https://conferences.sigcomm.org/co-next/2026/#!/home
-END:VEVENT
-BEGIN:VEVENT
-UID:conext-2026-0-paper@conference-deadlines
-DTSTAMP:20260606T115959Z
-DTSTART:20260606T115959Z
-DTEND:20260606T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CoNEXT 2026 deadline (June Cycle)
-DESCRIPTION:International Conference on Emerging Networking Experiments and
-  Technologies\nhttps://conferences.sigcomm.org/co-next/2026/#!/home\nLocat
- ion: Utrecht\, The Netherlands
-URL:https://conferences.sigcomm.org/co-next/2026/#!/home
 END:VEVENT
 BEGIN:VEVENT
 UID:dfrws-apac-2026-0-abstract@conference-deadlines
@@ -4789,6 +4767,54 @@ SUMMARY:EuroS&P 2027 deadline
 DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
  2027.ieee-security.org/\nLocation: Madrid\, Spain
 URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-0-abstract@conference-deadlines
+DTSTAMP:20261128T115959Z
+DTSTART:20261128T115959Z
+DTEND:20261128T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 abstract deadline (December Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115959Z
+DTSTART:20261205T115959Z
+DTEND:20261205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 deadline (December Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-1-abstract@conference-deadlines
+DTSTAMP:20270529T115959Z
+DTSTART:20270529T115959Z
+DTEND:20270529T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 abstract deadline (June Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-1-paper@conference-deadlines
+DTSTAMP:20270605T115959Z
+DTSTART:20270605T115959Z
+DTEND:20270605T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 deadline (June Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
 END:VEVENT
 BEGIN:VEVENT
 UID:mobisys-2027-0-abstract@conference-deadlines

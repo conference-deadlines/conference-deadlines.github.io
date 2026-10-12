@@ -10,7 +10,7 @@
 - name: Belgium
   count: 5
 - name: Brazil
-  count: 3
+  count: 4
 - name: Cambodia
   count: 1
 - name: Canada
@@ -60,7 +60,7 @@
 - name: Morocco
   count: 3
 - name: Netherlands
-  count: 11
+  count: 10
 - name: New Zealand
   count: 1
 - name: Panama

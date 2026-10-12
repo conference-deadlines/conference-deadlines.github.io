@@ -162,30 +162,6 @@ DESCRIPTION:IEEE International Conference on Network Protocols\nhttps://icn
 URL:https://icnp26.cs.ucr.edu/
 END:VEVENT
 BEGIN:VEVENT
-UID:conext-2026-0-abstract@conference-deadlines
-DTSTAMP:20260530T115959Z
-DTSTART:20260530T115959Z
-DTEND:20260530T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CoNEXT 2026 abstract deadline (June Cycle)
-DESCRIPTION:International Conference on Emerging Networking Experiments and
-  Technologies\nhttps://conferences.sigcomm.org/co-next/2026/#!/home\nLocat
- ion: Utrecht\, The Netherlands
-URL:https://conferences.sigcomm.org/co-next/2026/#!/home
-END:VEVENT
-BEGIN:VEVENT
-UID:conext-2026-0-paper@conference-deadlines
-DTSTAMP:20260606T115959Z
-DTSTART:20260606T115959Z
-DTEND:20260606T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CoNEXT 2026 deadline (June Cycle)
-DESCRIPTION:International Conference on Emerging Networking Experiments and
-  Technologies\nhttps://conferences.sigcomm.org/co-next/2026/#!/home\nLocat
- ion: Utrecht\, The Netherlands
-URL:https://conferences.sigcomm.org/co-next/2026/#!/home
-END:VEVENT
-BEGIN:VEVENT
 UID:mswim-2026-0-abstract@conference-deadlines
 DTSTAMP:20260615T115959Z
 DTSTART:20260615T115959Z
@@ -411,6 +387,54 @@ DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile an
  d Multimedia Networks\nhttps://wowmom2027.dii.unipi.it/index.html\nLocatio
  n: Irvine\, California\, USA
 URL:https://wowmom2027.dii.unipi.it/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-0-abstract@conference-deadlines
+DTSTAMP:20261128T115959Z
+DTSTART:20261128T115959Z
+DTEND:20261128T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 abstract deadline (December Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115959Z
+DTSTART:20261205T115959Z
+DTEND:20261205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 deadline (December Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-1-abstract@conference-deadlines
+DTSTAMP:20270529T115959Z
+DTSTART:20270529T115959Z
+DTEND:20270529T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 abstract deadline (June Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
+END:VEVENT
+BEGIN:VEVENT
+UID:conext-2027-1-paper@conference-deadlines
+DTSTAMP:20270605T115959Z
+DTSTART:20270605T115959Z
+DTEND:20270605T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CoNEXT 2027 deadline (June Cycle)
+DESCRIPTION:International Conference on Emerging Networking Experiments and
+  Technologies\nhttps://conferences.sigcomm.org/co-next/2027/#!/home\nLocat
+ ion: Rio de Janeiro\, Brazil
+URL:https://conferences.sigcomm.org/co-next/2027/#!/home
 END:VEVENT
 BEGIN:VEVENT
 UID:mobisys-2027-0-abstract@conference-deadlines
