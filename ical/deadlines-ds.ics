@@ -884,6 +884,30 @@ DESCRIPTION:IEEE Real-Time and Embedded Technology and Applications Symposi
 URL:https://2027.rtas.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:isca-2027-0-abstract@conference-deadlines
+DTSTAMP:20261110T115959Z
+DTSTART:20261110T115959Z
+DTEND:20261110T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 abstract deadline (Main Track\; rebuttal/revision period:
+  February 16-March 8\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isca-2027-0-paper@conference-deadlines
+DTSTAMP:20261117T115959Z
+DTSTART:20261117T115959Z
+DTEND:20261117T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 deadline (Main Track\; rebuttal/revision period: February
+  16-March 8\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:dac-2027-0-abstract@conference-deadlines
 DTSTAMP:20261112T010000Z
 DTSTART:20261112T010000Z

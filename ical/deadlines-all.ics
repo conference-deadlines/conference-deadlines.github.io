@@ -1024,6 +1024,17 @@ DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, and
 URL:http://wasa-conference.org/WASA2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:dexa-2026-0-paper@conference-deadlines
+DTSTAMP:20260411T115959Z
+DTSTART:20260411T115959Z
+DTEND:20260411T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DEXA 2026 deadline (Final and firm main conference deadline)
+DESCRIPTION:International Conference on Database and Expert Systems Applica
+ tions\nhttps://www.dexa.org/2026/dexa2026.html\nLocation: Graz\, Austria
+URL:https://www.dexa.org/2026/dexa2026.html
+END:VEVENT
+BEGIN:VEVENT
 UID:iccad-2026-0-abstract@conference-deadlines
 DTSTAMP:20260408T115959Z
 DTSTART:20260408T115959Z
@@ -3755,54 +3766,6 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:coling-2027-0-paper@conference-deadlines
-DTSTAMP:20261013T115959Z
-DTSTART:20261013T115959Z
-DTEND:20261013T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (ARR Submission)
-DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China
-URL:https://2027.coling-iccl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:coling-2027-1-paper@conference-deadlines
-DTSTAMP:20261224T115959Z
-DTSTART:20261224T115959Z
-DTEND:20261224T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
- viewed papers only)
-DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China
-URL:https://2027.coling-iccl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:naacl-2027-0-paper@conference-deadlines
-DTSTAMP:20261013T115959Z
-DTSTART:20261013T115959Z
-DTEND:20261013T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:NAACL 2027 deadline (ARR Submission)
-DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
- ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
- San Francisco\, California\, USA
-URL:https://2027.naacl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:naacl-2027-1-paper@conference-deadlines
-DTSTAMP:20261224T115959Z
-DTSTART:20261224T115959Z
-DTEND:20261224T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:NAACL 2027 deadline (NAACL commitment after ARR meta-reviews\; revi
- ewed papers only)
-DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
- ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
- San Francisco\, California\, USA
-URL:https://2027.naacl.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:iscas-2027-0-paper@conference-deadlines
 DTSTAMP:20261014T045959Z
 DTSTART:20261014T045959Z
@@ -4443,6 +4406,30 @@ DESCRIPTION:International Conference on Advanced Information Systems Engine
 URL:https://deal.us.es/caise27/
 END:VEVENT
 BEGIN:VEVENT
+UID:isca-2027-0-abstract@conference-deadlines
+DTSTAMP:20261110T115959Z
+DTSTART:20261110T115959Z
+DTEND:20261110T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 abstract deadline (Main Track\; rebuttal/revision period:
+  February 16-March 8\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isca-2027-0-paper@conference-deadlines
+DTSTAMP:20261117T115959Z
+DTSTART:20261117T115959Z
+DTEND:20261117T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 deadline (Main Track\; rebuttal/revision period: February
+  16-March 8\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:cvpr-2027-0-abstract@conference-deadlines
 DTSTAMP:20261111T115959Z
 DTSTART:20261111T115959Z
@@ -5033,6 +5020,31 @@ DESCRIPTION:International Conference on Geometric Modeling and Processing\n
 URL:https://gmp-conference-2027.github.io/gmp2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:coling-2027-0-paper@conference-deadlines
+DTSTAMP:20261224T115959Z
+DTSTART:20261224T115959Z
+DTEND:20261224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
+ viewed papers only)
+DESCRIPTION:International Conference on Computational Linguistics\nhttps://
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-0-paper@conference-deadlines
+DTSTAMP:20261224T115959Z
+DTSTART:20261224T115959Z
+DTEND:20261224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NAACL 2027 deadline (NAACL commitment after ARR meta-reviews\; revi
+ ewed papers only)
+DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
+ ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
+ San Francisco\, California\, USA
+URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:acl-2027-0-paper@conference-deadlines
 DTSTAMP:20270105T115959Z
 DTSTART:20270105T115959Z
@@ -5260,6 +5272,30 @@ DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
  re Engineering\nhttps://conf.researchr.org/home/ease-2027\nLocation: Hanoi
  \, Vietnam
 URL:https://conf.researchr.org/home/ease-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:idc-2027-0-abstract@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IDC 2027 abstract deadline (Full and Short Papers\; abstract deadli
+ ne includes author information)
+DESCRIPTION:ACM Interaction Design and Children Conference\nhttps://idc.acm
+ .org/2027/\nLocation: Seattle\, Washington\, USA
+URL:https://idc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:idc-2027-0-paper@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IDC 2027 deadline (Full and Short Papers\; abstract deadline includ
+ es author information)
+DESCRIPTION:ACM Interaction Design and Children Conference\nhttps://idc.acm
+ .org/2027/\nLocation: Seattle\, Washington\, USA
+URL:https://idc.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:usenix-security-2027-0-abstract@conference-deadlines
@@ -5527,6 +5563,28 @@ SUMMARY:IEEE CEC 2027 deadline
 DESCRIPTION:IEEE Congress on Evolutionary Computation\nhttps://ieeecec.org/
  2027\nLocation: Edinburgh\, Scotland\, UK
 URL:https://ieeecec.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:re-2027-0-abstract@conference-deadlines
+DTSTAMP:20270223T115959Z
+DTSTART:20270223T115959Z
+DTEND:20270223T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RE 2027 abstract deadline (Research Papers)
+DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
+ /conf.researchr.org/home/RE-2027\nLocation: Milan\, Italy
+URL:https://conf.researchr.org/home/RE-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:re-2027-0-paper@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RE 2027 deadline (Research Papers)
+DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
+ /conf.researchr.org/home/RE-2027\nLocation: Milan\, Italy
+URL:https://conf.researchr.org/home/RE-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:ieee-cog-2027-0-paper@conference-deadlines

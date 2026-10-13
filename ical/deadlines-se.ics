@@ -796,6 +796,28 @@ DESCRIPTION:International Conference on Function Programming\nhttps://icfp2
 URL:https://icfp27.sigplan.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:re-2027-0-abstract@conference-deadlines
+DTSTAMP:20270223T115959Z
+DTSTART:20270223T115959Z
+DTEND:20270223T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RE 2027 abstract deadline (Research Papers)
+DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
+ /conf.researchr.org/home/RE-2027\nLocation: Milan\, Italy
+URL:https://conf.researchr.org/home/RE-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:re-2027-0-paper@conference-deadlines
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:RE 2027 deadline (Research Papers)
+DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
+ /conf.researchr.org/home/RE-2027\nLocation: Milan\, Italy
+URL:https://conf.researchr.org/home/RE-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:icsme-2027-0-paper@conference-deadlines
 DTSTAMP:20270306T115959Z
 DTSTART:20270306T115959Z

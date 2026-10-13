@@ -255,6 +255,30 @@ DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
 URL:https://dis.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:idc-2027-0-abstract@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IDC 2027 abstract deadline (Full and Short Papers\; abstract deadli
+ ne includes author information)
+DESCRIPTION:ACM Interaction Design and Children Conference\nhttps://idc.acm
+ .org/2027/\nLocation: Seattle\, Washington\, USA
+URL:https://idc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:idc-2027-0-paper@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IDC 2027 deadline (Full and Short Papers\; abstract deadline includ
+ es author information)
+DESCRIPTION:ACM Interaction Design and Children Conference\nhttps://idc.acm
+ .org/2027/\nLocation: Seattle\, Washington\, USA
+URL:https://idc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:whc-2027-0-paper@conference-deadlines
 DTSTAMP:20270130T115959Z
 DTSTART:20270130T115959Z

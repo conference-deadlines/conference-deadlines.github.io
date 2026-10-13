@@ -922,6 +922,22 @@
   date: June 27-28, 2026
   place: Xi'an, China
   country: China
+- name: DEXA
+  description: International Conference on Database and Expert Systems Applications
+  year: 2026
+  link: https://www.dexa.org/2026/dexa2026.html
+  deadlines:
+  - date: '2026-04-10T23:59:59-12:00'
+    comment: Final and firm main conference deadline
+  areas:
+  - DB
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/dexa/index.html
+  date: August 11-13, 2026
+  place: Graz, Austria
+  country: Austria
 - name: ICCAD
   description: IEEE/ACM International Conference on Computer-Aided Design
   year: 2026
@@ -3573,44 +3589,11 @@
   - AI
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/alt/index.html
   date: March 9-12, 2027
   place: Leiden, Netherlands
   country: Netherlands
-- name: COLING
-  description: International Conference on Computational Linguistics
-  year: 2027
-  link: https://2027.coling-iccl.org/
-  deadlines:
-  - date: '2026-10-12T23:59:59-12:00'
-    comment: ARR Submission
-  - date: '2026-12-23T23:59:59-12:00'
-    comment: COLING commitment after ARR meta-reviews; reviewed papers only
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/coling/index.html
-  date: May 9-14, 2027
-  place: Macau SAR, China
-  country: China
-- name: NAACL
-  description: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
-  year: 2027
-  link: https://2027.naacl.org/
-  deadlines:
-  - date: '2026-10-12T23:59:59-12:00'
-    comment: ARR Submission
-  - date: '2026-12-23T23:59:59-12:00'
-    comment: NAACL commitment after ARR meta-reviews; reviewed papers only
-  areas:
-  - AI
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/naacl/index.html
-  date: June 1-5, 2027
-  place: San Francisco, California, USA
-  country: United States
 - name: ISCAS
   description: IEEE International Symposium on Circuits and Systems
   year: 2027
@@ -4145,6 +4128,22 @@
   date: June 7-11, 2027
   place: Seville, Spain
   country: Spain
+- name: ISCA
+  description: International Symposium on Computer Architecture
+  year: 2027
+  link: https://iscaconf.org/isca2027/
+  deadlines:
+  - date: '2026-11-16T23:59:59-12:00'
+    comment: 'Main Track; rebuttal/revision period: February 16-March 8, 2027'
+    abstract: '2026-11-09T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/isca/index.html
+  date: June 5-9, 2027
+  place: Atlanta, Georgia, USA
+  country: United States
 - name: CVPR
   description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   year: 2027
@@ -4605,6 +4604,36 @@
   date: June 21-25, 2027
   place: Singapore
   country: Singapore
+- name: COLING
+  description: International Conference on Computational Linguistics
+  year: 2027
+  link: https://2027.coling-iccl.org/
+  deadlines:
+  - date: '2026-12-23T23:59:59-12:00'
+    comment: COLING commitment after ARR meta-reviews; reviewed papers only
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/coling/index.html
+  date: May 9-14, 2027
+  place: Macau SAR, China
+  country: China
+- name: NAACL
+  description: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
+  year: 2027
+  link: https://2027.naacl.org/
+  deadlines:
+  - date: '2026-12-23T23:59:59-12:00'
+    comment: NAACL commitment after ARR meta-reviews; reviewed papers only
+  areas:
+  - AI
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/naacl/index.html
+  date: June 1-5, 2027
+  place: San Francisco, California, USA
+  country: United States
 - name: ACL
   description: Annual Meeting of the Association for Computational Linguistics
   year: 2027
@@ -4814,6 +4843,22 @@
   date: June 15 - 18, 2027
   place: Hanoi, Vietnam
   country: Vietnam
+- name: IDC
+  description: ACM Interaction Design and Children Conference
+  year: 2027
+  link: https://idc.acm.org/2027/
+  deadlines:
+  - date: '2027-01-25T23:59:59-12:00'
+    comment: Full and Short Papers; abstract deadline includes author information
+    abstract: '2027-01-18T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/acmidc/index.html
+  date: June 21-24, 2027
+  place: Seattle, Washington, USA
+  country: United States
 - name: USENIX Security
   description: USENIX Security Symposium
   year: 2027
@@ -5063,6 +5108,22 @@
   date: July 25-28, 2027
   place: Edinburgh, Scotland, UK
   country: United Kingdom
+- name: RE
+  description: IEEE International Requirements Engineering Conference
+  year: 2027
+  link: https://conf.researchr.org/home/RE-2027
+  deadlines:
+  - date: '2027-03-01T23:59:59-12:00'
+    comment: Research Papers
+    abstract: '2027-02-22T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/re/index.html
+  date: August 23-27, 2027
+  place: Milan, Italy
+  country: Italy
 - name: IEEE CoG
   description: IEEE Conference on Games
   year: 2027

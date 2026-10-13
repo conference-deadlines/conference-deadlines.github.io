@@ -4,7 +4,7 @@
 - name: Australia
   count: 12
 - name: Austria
-  count: 1
+  count: 2
 - name: Barbados
   count: 1
 - name: Belgium
@@ -46,7 +46,7 @@
 - name: Ireland
   count: 4
 - name: Italy
-  count: 24
+  count: 25
 - name: Japan
   count: 11
 - name: Lithuania
@@ -92,7 +92,7 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 78
+  count: 80
 - name: Vietnam
   count: 4
 - name: Vietnam / Online

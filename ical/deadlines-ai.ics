@@ -594,54 +594,6 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:coling-2027-0-paper@conference-deadlines
-DTSTAMP:20261013T115959Z
-DTSTART:20261013T115959Z
-DTEND:20261013T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (ARR Submission)
-DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China
-URL:https://2027.coling-iccl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:coling-2027-1-paper@conference-deadlines
-DTSTAMP:20261224T115959Z
-DTSTART:20261224T115959Z
-DTEND:20261224T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
- viewed papers only)
-DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China
-URL:https://2027.coling-iccl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:naacl-2027-0-paper@conference-deadlines
-DTSTAMP:20261013T115959Z
-DTSTART:20261013T115959Z
-DTEND:20261013T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:NAACL 2027 deadline (ARR Submission)
-DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
- ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
- San Francisco\, California\, USA
-URL:https://2027.naacl.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:naacl-2027-1-paper@conference-deadlines
-DTSTAMP:20261224T115959Z
-DTSTART:20261224T115959Z
-DTEND:20261224T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:NAACL 2027 deadline (NAACL commitment after ARR meta-reviews\; revi
- ewed papers only)
-DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
- ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
- San Francisco\, California\, USA
-URL:https://2027.naacl.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:fg-2027-0-abstract@conference-deadlines
 DTSTAMP:20261010T115959Z
 DTSTART:20261010T115959Z
@@ -801,6 +753,31 @@ SUMMARY:ICAPS 2027 deadline
 DESCRIPTION:International Conference on Automated Planning and Scheduling\n
  https://icaps27.icaps-conference.org/\nLocation: Columbia\, SC\, USA
 URL:https://icaps27.icaps-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:coling-2027-0-paper@conference-deadlines
+DTSTAMP:20261224T115959Z
+DTSTART:20261224T115959Z
+DTEND:20261224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
+ viewed papers only)
+DESCRIPTION:International Conference on Computational Linguistics\nhttps://
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:naacl-2027-0-paper@conference-deadlines
+DTSTAMP:20261224T115959Z
+DTSTART:20261224T115959Z
+DTEND:20261224T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:NAACL 2027 deadline (NAACL commitment after ARR meta-reviews\; revi
+ ewed papers only)
+DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
+ ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
+ San Francisco\, California\, USA
+URL:https://2027.naacl.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:acl-2027-0-paper@conference-deadlines

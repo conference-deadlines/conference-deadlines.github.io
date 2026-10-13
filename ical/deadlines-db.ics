@@ -5,6 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Databases & Data Mining
 BEGIN:VEVENT
+UID:dexa-2026-0-paper@conference-deadlines
+DTSTAMP:20260411T115959Z
+DTSTART:20260411T115959Z
+DTEND:20260411T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:DEXA 2026 deadline (Final and firm main conference deadline)
+DESCRIPTION:International Conference on Database and Expert Systems Applica
+ tions\nhttps://www.dexa.org/2026/dexa2026.html\nLocation: Graz\, Austria
+URL:https://www.dexa.org/2026/dexa2026.html
+END:VEVENT
+BEGIN:VEVENT
 UID:sdm-2026-0-abstract@conference-deadlines
 DTSTAMP:20260411T115959Z
 DTSTART:20260411T115959Z
