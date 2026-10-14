@@ -1158,18 +1158,6 @@ DESCRIPTION:SIAM International Conference on Data Mining\nhttps://www.siam.
 URL:https://www.siam.org/conferences-events/siam-conferences/sdm26/
 END:VEVENT
 BEGIN:VEVENT
-UID:blocksys-2026-0-paper@conference-deadlines
-DTSTAMP:20260420T155959Z
-DTSTART:20260420T155959Z
-DTEND:20260420T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:BlockSys 2026 deadline
-DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
- e\, and Trustworthy Systems\nhttps://blocksys.info/2026/\nLocation: Chengd
- u\, China
-URL:https://blocksys.info/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:esorics-2026-0-paper@conference-deadlines
 DTSTAMP:20260422T115959Z
 DTSTART:20260422T115959Z
@@ -3766,17 +3754,6 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:iscas-2027-0-paper@conference-deadlines
-DTSTAMP:20261014T045959Z
-DTSTART:20261014T045959Z
-DTEND:20261014T052959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISCAS 2027 deadline
-DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
- 027.ieee-iscas.org/\nLocation: Bordeaux\, France
-URL:https://2027.ieee-iscas.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:oopsla-2027-0-paper@conference-deadlines
 DTSTAMP:20261015T115959Z
 DTSTART:20261015T115959Z
@@ -3932,6 +3909,17 @@ DESCRIPTION:International Conference on Parallel and Distributed Computing\
  , Applications and Technologies\nhttps://www.pd-cat.org/2026/\nLocation: C
  hangsha\, China
 URL:https://www.pd-cat.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:iscas-2027-0-paper@conference-deadlines
+DTSTAMP:20261023T045959Z
+DTSTART:20261023T045959Z
+DTEND:20261023T052959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCAS 2027 deadline
+DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
+ 027.ieee-iscas.org/\nLocation: Bordeaux\, France
+URL:https://2027.ieee-iscas.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ct-rsa-2027-0-paper@conference-deadlines
@@ -4631,6 +4619,30 @@ DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
 URL:https://acisp.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:blocksys-2027-0-paper@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:BlockSys 2027 deadline (Round 1 Submission Deadline)
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
+ e\, and Trustworthy Systems\nhttps://blocksys.info/2027/\nLocation: Foshan
+ \, China
+URL:https://blocksys.info/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:blocksys-2027-1-paper@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:BlockSys 2027 deadline (Round 2 Submission Deadline)
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
+ e\, and Trustworthy Systems\nhttps://blocksys.info/2027/\nLocation: Foshan
+ \, China
+URL:https://blocksys.info/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:pets-2027-0-paper@conference-deadlines
 DTSTAMP:20261201T115959Z
 DTSTART:20261201T115959Z
@@ -4996,6 +5008,30 @@ SUMMARY:ICDF2C 2027 deadline (Full Paper Submission deadline)
 DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
  tps://icdf2c.eai-conferences.org/2027/\nLocation: New York\, USA
 URL:https://icdf2c.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:eswc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261211T115959Z
+DTSTART:20261211T115959Z
+DTEND:20261211T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESWC 2027 abstract deadline (Research track\; rebuttal period Janua
+ ry 26-29\, 2027)
+DESCRIPTION:European Semantic Web Conference\nhttps://2027.eswc-conferences
+ .org/\nLocation: Limassol\, Cyprus
+URL:https://2027.eswc-conferences.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eswc-2027-0-paper@conference-deadlines
+DTSTAMP:20261218T115959Z
+DTSTART:20261218T115959Z
+DTEND:20261218T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESWC 2027 deadline (Research track\; rebuttal period January 26-29\
+ , 2027)
+DESCRIPTION:European Semantic Web Conference\nhttps://2027.eswc-conferences
+ .org/\nLocation: Limassol\, Cyprus
+URL:https://2027.eswc-conferences.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:gmp-2027-0-abstract@conference-deadlines

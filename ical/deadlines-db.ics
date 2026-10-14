@@ -384,6 +384,30 @@ DESCRIPTION:ACM Symposium on Principles of Database Systems\nhttps://2027.s
 URL:https://2027.sigmod.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:eswc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261211T115959Z
+DTSTART:20261211T115959Z
+DTEND:20261211T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESWC 2027 abstract deadline (Research track\; rebuttal period Janua
+ ry 26-29\, 2027)
+DESCRIPTION:European Semantic Web Conference\nhttps://2027.eswc-conferences
+ .org/\nLocation: Limassol\, Cyprus
+URL:https://2027.eswc-conferences.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:eswc-2027-0-paper@conference-deadlines
+DTSTAMP:20261218T115959Z
+DTSTART:20261218T115959Z
+DTEND:20261218T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESWC 2027 deadline (Research track\; rebuttal period January 26-29\
+ , 2027)
+DESCRIPTION:European Semantic Web Conference\nhttps://2027.eswc-conferences
+ .org/\nLocation: Limassol\, Cyprus
+URL:https://2027.eswc-conferences.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:sigir-2027-0-abstract@conference-deadlines
 DTSTAMP:20270115T115959Z
 DTSTART:20270115T115959Z

@@ -72,18 +72,6 @@ DESCRIPTION:International Symposium on Recent Advances in Intrusion Detecti
 URL:https://raid2026.org
 END:VEVENT
 BEGIN:VEVENT
-UID:blocksys-2026-0-paper@conference-deadlines
-DTSTAMP:20260420T155959Z
-DTSTART:20260420T155959Z
-DTEND:20260420T162959Z
-TRANSP:TRANSPARENT
-SUMMARY:BlockSys 2026 deadline
-DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
- e\, and Trustworthy Systems\nhttps://blocksys.info/2026/\nLocation: Chengd
- u\, China
-URL:https://blocksys.info/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:esorics-2026-0-paper@conference-deadlines
 DTSTAMP:20260422T115959Z
 DTSTART:20260422T115959Z
@@ -504,6 +492,30 @@ SUMMARY:ACISP 2027 deadline (2nd round Deadline)
 DESCRIPTION:Australasia Conference on Information Security and Privacy\nhtt
  ps://acisp.org/\nLocation: Melbourne\, Australia
 URL:https://acisp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:blocksys-2027-0-paper@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:BlockSys 2027 deadline (Round 1 Submission Deadline)
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
+ e\, and Trustworthy Systems\nhttps://blocksys.info/2027/\nLocation: Foshan
+ \, China
+URL:https://blocksys.info/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:blocksys-2027-1-paper@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:BlockSys 2027 deadline (Round 2 Submission Deadline)
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligenc
+ e\, and Trustworthy Systems\nhttps://blocksys.info/2027/\nLocation: Foshan
+ \, China
+URL:https://blocksys.info/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:pets-2027-0-paper@conference-deadlines

@@ -1032,21 +1032,6 @@
   date: November 19-20, 2026
   place: Salt Lake City, Utah, USA
   country: United States
-- name: BlockSys
-  description: International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems
-  year: 2026
-  link: https://blocksys.info/2026/
-  deadlines:
-  - date: '2026-04-20T23:59:59+08:00'
-  areas:
-  - SC
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/blocksys/index.html
-  date: July 29-31, 2026
-  place: Chengdu, China
-  country: China
 - name: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2026
@@ -3594,20 +3579,6 @@
   date: March 9-12, 2027
   place: Leiden, Netherlands
   country: Netherlands
-- name: ISCAS
-  description: IEEE International Symposium on Circuits and Systems
-  year: 2027
-  link: https://2027.ieee-iscas.org/
-  deadlines:
-  - date: '2026-10-13T23:59:59-05:00'
-  areas:
-  - DS
-  tags:
-  - CORE-C
-  dblp: https://dblp.org/db/conf/iscas/index.html
-  date: June 6-9, 2027
-  place: Bordeaux, France
-  country: France
 - name: OOPSLA
   description: Conference on Object-Oriented Programming Systems, Languages, and Applications
   year: 2027
@@ -3736,6 +3707,20 @@
   date: December 4-6, 2026
   place: Changsha, China
   country: China
+- name: ISCAS
+  description: IEEE International Symposium on Circuits and Systems
+  year: 2027
+  link: https://2027.ieee-iscas.org/
+  deadlines:
+  - date: '2026-10-22T23:59:59-05:00'
+  areas:
+  - DS
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/iscas/index.html
+  date: June 6-9, 2027
+  place: Bordeaux, France
+  country: France
 - name: CT-RSA
   description: Cryptographer's Track at RSA Conference
   year: 2027
@@ -4312,6 +4297,23 @@
   date: July 7-10, 2027
   place: Melbourne, Australia
   country: Australia
+- name: BlockSys
+  description: International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems
+  year: 2027
+  link: https://blocksys.info/2027/
+  deadlines:
+  - date: '2026-11-30T23:59:59-12:00'
+    comment: Round 1 Submission Deadline
+  - date: '2027-01-31T23:59:59-12:00'
+    comment: Round 2 Submission Deadline
+  areas:
+  - SC
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/blocksys/index.html
+  date: April 9-11, 2027
+  place: Foshan, China
+  country: China
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2027
@@ -4589,6 +4591,22 @@
   date: June 25-27, 2027
   place: New York, USA
   country: United States
+- name: ESWC
+  description: European Semantic Web Conference
+  year: 2027
+  link: https://2027.eswc-conferences.org/
+  deadlines:
+  - date: '2026-12-17T23:59:59-12:00'
+    comment: Research track; rebuttal period January 26-29, 2027
+    abstract: '2026-12-10T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/esws/index.html
+  date: May 23-27, 2027
+  place: Limassol, Cyprus
+  country: Cyprus
 - name: GMP
   description: International Conference on Geometric Modeling and Processing
   year: 2027

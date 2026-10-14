@@ -850,17 +850,6 @@ DESCRIPTION:IEEE International Parallel and Distributed Processing Symposiu
 URL:https://www.ipdps.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:iscas-2027-0-paper@conference-deadlines
-DTSTAMP:20261014T045959Z
-DTSTART:20261014T045959Z
-DTEND:20261014T052959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISCAS 2027 deadline
-DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
- 027.ieee-iscas.org/\nLocation: Bordeaux\, France
-URL:https://2027.ieee-iscas.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:pdcat-2026-0-paper@conference-deadlines
 DTSTAMP:20261021T115959Z
 DTSTART:20261021T115959Z
@@ -871,6 +860,17 @@ DESCRIPTION:International Conference on Parallel and Distributed Computing\
  , Applications and Technologies\nhttps://www.pd-cat.org/2026/\nLocation: C
  hangsha\, China
 URL:https://www.pd-cat.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:iscas-2027-0-paper@conference-deadlines
+DTSTAMP:20261023T045959Z
+DTSTART:20261023T045959Z
+DTEND:20261023T052959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCAS 2027 deadline
+DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
+ 027.ieee-iscas.org/\nLocation: Bordeaux\, France
+URL:https://2027.ieee-iscas.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:rtas-2027-0-paper@conference-deadlines
