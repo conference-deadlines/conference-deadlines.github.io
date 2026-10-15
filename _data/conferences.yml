@@ -1206,22 +1206,6 @@
   date: November 14-15, 2026
   place: Hong Kong SAR, China
   country: China
-- name: UbiComp/ISWC
-  description: ACM International Joint Conference on Pervasive and Ubiquitous Computing
-  year: 2026
-  link: https://www.ubicomp.org/ubicomp-iswc-2026
-  deadlines:
-  - date: '2026-05-01T23:59:59-12:00'
-    comment: second round
-  areas:
-  - HI
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/huc/index.html
-  date: October 11-15, 2026
-  place: Shanghai, China
-  country: China
 - name: ITC-Asia
   description: IEEE International Test Conference in Asia
   year: 2026
@@ -1535,6 +1519,23 @@
   date: November 10-13, 2026
   place: New York City, USA
   country: United States
+- name: ER
+  description: International Conference on Conceptual Modeling
+  year: 2026
+  link: https://www.er2026.org/
+  deadlines:
+  - date: '2026-05-19T23:59:59-12:00'
+    comment: Main conference full and short papers; extended deadlines; abstract mandatory
+    abstract: '2026-05-12T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/er/index.html
+  date: October 6-8, 2026
+  place: St. John's, NL, Canada
+  country: Canada
 - name: APSys
   description: ACM SIGOPS Asia-Pacific Workshop on Systems
   year: 2026
@@ -5220,6 +5221,21 @@
   dblp: https://dblp.org/db/conf/icpr/index.html
   date: October 4-6 and 14-15, 2027
   place: Online
+- name: ICIC
+  description: International Conference on Intelligent Computing
+  year: 2027
+  link: http://ic-icc.cn/2027/index.php
+  deadlines:
+  - date: '2027-03-15T23:59:59-12:00'
+    comment: Regular papers; rebuttal notification April 15, 2027
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/icic/index.html
+  date: July 22-26, 2027
+  place: Jinan, China
+  country: China
 - name: ICIP
   description: The IEEE International Conference on Image Processing
   year: 2027

@@ -317,4 +317,16 @@ DESCRIPTION:International Conference on Intelligent Systems for Molecular B
  iology\nhttps://www.iscb.org/ismbeccb2027/\nLocation: Copenhagen\, Denmark
 URL:https://www.iscb.org/ismbeccb2027/
 END:VEVENT
+BEGIN:VEVENT
+UID:icic-2027-0-paper@conference-deadlines
+DTSTAMP:20270316T115959Z
+DTSTART:20270316T115959Z
+DTEND:20270316T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICIC 2027 deadline (Regular papers\; rebuttal notification April 15
+ \, 2027)
+DESCRIPTION:International Conference on Intelligent Computing\nhttp://ic-ic
+ c.cn/2027/index.php\nLocation: Jinan\, China
+URL:http://ic-icc.cn/2027/index.php
+END:VEVENT
 END:VCALENDAR

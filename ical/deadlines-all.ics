@@ -1363,18 +1363,6 @@ DESCRIPTION:International Conference on Collaborative Computing: Networking
 URL:https://collaboratecom.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ubicomp-iswc-2026-0-paper@conference-deadlines
-DTSTAMP:20260502T115959Z
-DTSTART:20260502T115959Z
-DTEND:20260502T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:UbiComp/ISWC 2026 deadline (second round)
-DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous 
- Computing\nhttps://www.ubicomp.org/ubicomp-iswc-2026\nLocation: Shanghai\,
-  China
-URL:https://www.ubicomp.org/ubicomp-iswc-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:itc-asia-2026-0-abstract@conference-deadlines
 DTSTAMP:20260426T115959Z
 DTSTART:20260426T115959Z
@@ -1677,6 +1665,30 @@ SUMMARY:TCC 2026 deadline
 DESCRIPTION:Theory of Cryptography Conference\nhttps://tcc.iacr.org/2026/\n
  Location: New York City\, USA
 URL:https://tcc.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:er-2026-0-abstract@conference-deadlines
+DTSTAMP:20260513T115959Z
+DTSTART:20260513T115959Z
+DTEND:20260513T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ER 2026 abstract deadline (Main conference full and short papers\; 
+ extended deadlines\; abstract mandatory)
+DESCRIPTION:International Conference on Conceptual Modeling\nhttps://www.er
+ 2026.org/\nLocation: St. John's\, NL\, Canada
+URL:https://www.er2026.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:er-2026-0-paper@conference-deadlines
+DTSTAMP:20260520T115959Z
+DTSTART:20260520T115959Z
+DTEND:20260520T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ER 2026 deadline (Main conference full and short papers\; extended 
+ deadlines\; abstract mandatory)
+DESCRIPTION:International Conference on Conceptual Modeling\nhttps://www.er
+ 2026.org/\nLocation: St. John's\, NL\, Canada
+URL:https://www.er2026.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:apsys-2026-0-abstract@conference-deadlines
@@ -5714,6 +5726,18 @@ SUMMARY:ICPR 2027 deadline (All dates tentative\; March 1 is paper registra
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
  pr2027.com/\nLocation: Online
 URL:https://www.icpr2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:icic-2027-0-paper@conference-deadlines
+DTSTAMP:20270316T115959Z
+DTSTART:20270316T115959Z
+DTEND:20270316T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICIC 2027 deadline (Regular papers\; rebuttal notification April 15
+ \, 2027)
+DESCRIPTION:International Conference on Intelligent Computing\nhttp://ic-ic
+ c.cn/2027/index.php\nLocation: Jinan\, China
+URL:http://ic-icc.cn/2027/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:icip-2027-0-paper@conference-deadlines

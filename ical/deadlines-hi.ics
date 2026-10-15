@@ -110,18 +110,6 @@ DESCRIPTION:International Conference on Collaborative Computing: Networking
 URL:https://collaboratecom.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:ubicomp-iswc-2026-0-paper@conference-deadlines
-DTSTAMP:20260502T115959Z
-DTSTART:20260502T115959Z
-DTEND:20260502T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:UbiComp/ISWC 2026 deadline (second round)
-DESCRIPTION:ACM International Joint Conference on Pervasive and Ubiquitous 
- Computing\nhttps://www.ubicomp.org/ubicomp-iswc-2026\nLocation: Shanghai\,
-  China
-URL:https://www.ubicomp.org/ubicomp-iswc-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:uic-2026-0-paper@conference-deadlines
 DTSTAMP:20260531T215959Z
 DTSTART:20260531T215959Z
