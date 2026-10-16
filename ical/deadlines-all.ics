@@ -3766,30 +3766,6 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:oopsla-2027-0-paper@conference-deadlines
-DTSTAMP:20261015T115959Z
-DTSTART:20261015T115959Z
-DTEND:20261015T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:OOPSLA 2027 deadline (Submission Deadline Round 1)
-DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
-  and Applications\nhttps://2027.splashcon.org/track/splashoopsla2027\nLoca
- tion: Prague\, Czechia
-URL:https://2027.splashcon.org/track/splashoopsla2027
-END:VEVENT
-BEGIN:VEVENT
-UID:oopsla-2027-1-paper@conference-deadlines
-DTSTAMP:20270408T115959Z
-DTSTART:20270408T115959Z
-DTEND:20270408T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:OOPSLA 2027 deadline (Submission Deadline Round 2)
-DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
-  and Applications\nhttps://2027.splashcon.org/track/splashoopsla2027\nLoca
- tion: Prague\, Czechia
-URL:https://2027.splashcon.org/track/splashoopsla2027
-END:VEVENT
-BEGIN:VEVENT
 UID:ches-2027-0-paper@conference-deadlines
 DTSTAMP:20261016T115959Z
 DTSTART:20261016T115959Z
@@ -5749,6 +5725,18 @@ SUMMARY:ICIP 2027 deadline
 DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
  2027.ieeeicip.org/\nLocation: Singapore
 URL:https://2027.ieeeicip.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:oopsla-2027-0-paper@conference-deadlines
+DTSTAMP:20270408T115959Z
+DTSTART:20270408T115959Z
+DTEND:20270408T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:OOPSLA 2027 deadline (Submission Deadline Round 2)
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
+  and Applications\nhttps://2027.splashcon.org/track/splashoopsla2027\nLoca
+ tion: Prague\, Czechia
+URL:https://2027.splashcon.org/track/splashoopsla2027
 END:VEVENT
 BEGIN:VEVENT
 UID:ecai-2027-0-paper@conference-deadlines
