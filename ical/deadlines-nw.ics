@@ -84,28 +84,6 @@ DESCRIPTION:Asia-Pacific Workshop on Networking\nhttps://conferences.sigcom
 URL:https://conferences.sigcomm.org/events/apnet2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icccn-2026-0-abstract@conference-deadlines
-DTSTAMP:20260308T095959Z
-DTSTART:20260308T095959Z
-DTEND:20260308T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCCN 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Computer Communications and Ne
- tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
-URL:http://www.icccn.org/ICCCN26/
-END:VEVENT
-BEGIN:VEVENT
-UID:icccn-2026-0-paper@conference-deadlines
-DTSTAMP:20260314T095959Z
-DTSTART:20260314T095959Z
-DTEND:20260314T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCCN 2026 deadline
-DESCRIPTION:IEEE International Conference on Computer Communications and Ne
- tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
-URL:http://www.icccn.org/ICCCN26/
-END:VEVENT
-BEGIN:VEVENT
 UID:wasa-2026-0-paper@conference-deadlines
 DTSTAMP:20260411T115959Z
 DTSTART:20260411T115959Z
@@ -471,5 +449,27 @@ DESCRIPTION:International Workshop on Network and Operating System Support
  for Digital Audio and Video\nhttps://nossdav.org/\nLocation: Ghent\, Belgi
  um
 URL:https://nossdav.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icccn-2027-0-abstract@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCCN 2027 abstract deadline
+DESCRIPTION:IEEE International Conference on Computer Communications and Ne
+ tworks\nhttp://www.icccn.org/ICCCN27/\nLocation: Rome\, Italy
+URL:http://www.icccn.org/ICCCN27/
+END:VEVENT
+BEGIN:VEVENT
+UID:icccn-2027-0-paper@conference-deadlines
+DTSTAMP:20270220T115959Z
+DTSTART:20270220T115959Z
+DTEND:20270220T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCCN 2027 deadline
+DESCRIPTION:IEEE International Conference on Computer Communications and Ne
+ tworks\nhttp://www.icccn.org/ICCCN27/\nLocation: Rome\, Italy
+URL:http://www.icccn.org/ICCCN27/
 END:VEVENT
 END:VCALENDAR

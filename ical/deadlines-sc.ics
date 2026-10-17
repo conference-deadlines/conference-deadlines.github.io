@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Security & Privacy
 BEGIN:VEVENT
-UID:pam-2026-0-paper@conference-deadlines
-DTSTAMP:20251016T115959Z
-DTSTART:20251016T115959Z
-DTEND:20251016T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:PAM 2026 deadline
-DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
- nLocation: Virtual
-URL:https://pam2026.at/
-END:VEVENT
-BEGIN:VEVENT
 UID:crypto-2026-0-paper@conference-deadlines
 DTSTAMP:20260213T075959Z
 DTSTART:20260213T075959Z
@@ -328,61 +317,6 @@ DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
 URL:https://www.ifip119.org/Conferences/
 END:VEVENT
 BEGIN:VEVENT
-UID:ches-2027-0-paper@conference-deadlines
-DTSTAMP:20261016T115959Z
-DTSTART:20261016T115959Z
-DTEND:20261016T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/2)
-DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
-  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
-URL:https://ches.iacr.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:ches-2027-1-paper@conference-deadlines
-DTSTAMP:20270116T115959Z
-DTSTART:20270116T115959Z
-DTEND:20270116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/3)
-DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
-  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
-URL:https://ches.iacr.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:ches-2027-2-paper@conference-deadlines
-DTSTAMP:20270416T115959Z
-DTSTART:20270416T115959Z
-DTEND:20270416T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/4)
-DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
-  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
-URL:https://ches.iacr.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:csfw-2027-0-paper@conference-deadlines
-DTSTAMP:20261016T115959Z
-DTSTART:20261016T115959Z
-DTEND:20261016T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CSFW 2027 deadline (Fall)
-DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
- security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
-URL:https://www.ieee-security.org/TC/CSF2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:csfw-2027-1-paper@conference-deadlines
-DTSTAMP:20270129T115959Z
-DTSTART:20270129T115959Z
-DTEND:20270129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CSFW 2027 deadline (Winter)
-DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
- security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
-URL:https://www.ieee-security.org/TC/CSF2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:ct-rsa-2027-0-paper@conference-deadlines
 DTSTAMP:20261023T115959Z
 DTSTART:20261023T115959Z
@@ -618,6 +552,28 @@ DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
 URL:https://icdf2c.eai-conferences.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:ches-2027-0-paper@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/3)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ches-2027-1-paper@conference-deadlines
+DTSTAMP:20270416T115959Z
+DTSTART:20270416T115959Z
+DTEND:20270416T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/4)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:acns-2027-0-paper@conference-deadlines
 DTSTAMP:20270122T115959Z
 DTSTART:20270122T115959Z
@@ -649,6 +605,17 @@ SUMMARY:USENIX Security 2027 deadline (Cycle 2 Deadline)
 DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
  enixsecurity27\nLocation: Denver\, CO\, USA
 URL:https://www.usenix.org/conference/usenixsecurity27
+END:VEVENT
+BEGIN:VEVENT
+UID:csfw-2027-0-paper@conference-deadlines
+DTSTAMP:20270129T115959Z
+DTSTART:20270129T115959Z
+DTEND:20270129T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSFW 2027 deadline (Winter)
+DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
+ security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
+URL:https://www.ieee-security.org/TC/CSF2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:securecomm-2027-0-paper@conference-deadlines

@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - All areas
 BEGIN:VEVENT
-UID:pam-2026-0-paper@conference-deadlines
-DTSTAMP:20251016T115959Z
-DTSTART:20251016T115959Z
-DTEND:20251016T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:PAM 2026 deadline
-DESCRIPTION:Passive and Active Measurement Conference\nhttps://pam2026.at/\
- nLocation: Virtual
-URL:https://pam2026.at/
-END:VEVENT
-BEGIN:VEVENT
 UID:ispass-2026-0-abstract@conference-deadlines
 DTSTAMP:20251208T220000Z
 DTSTART:20251208T220000Z
@@ -364,6 +353,18 @@ DESCRIPTION:European Conference on Computer Vision\nhttps://eccv.ecva.net/\
 URL:https://eccv.ecva.net/
 END:VEVENT
 BEGIN:VEVENT
+UID:mdm-2026-0-paper@conference-deadlines
+DTSTAMP:20260307T115959Z
+DTSTART:20260307T115959Z
+DTEND:20260307T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MDM 2026 deadline (Research track regular and short papers\; extend
+ ed deadline)
+DESCRIPTION:IEEE International Conference on Mobile Data Management\nhttps:
+ //mdm-2026.github.io/index.html\nLocation: Athens\, Greece
+URL:https://mdm-2026.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
 UID:ecscw-2026-0-paper@conference-deadlines
 DTSTAMP:20260307T115959Z
 DTSTART:20260307T115959Z
@@ -430,28 +431,6 @@ SUMMARY:APNet 2026 deadline
 DESCRIPTION:Asia-Pacific Workshop on Networking\nhttps://conferences.sigcom
  m.org/events/apnet2026/\nLocation: Singapore
 URL:https://conferences.sigcomm.org/events/apnet2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:icccn-2026-0-abstract@conference-deadlines
-DTSTAMP:20260308T095959Z
-DTSTART:20260308T095959Z
-DTEND:20260308T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCCN 2026 abstract deadline
-DESCRIPTION:IEEE International Conference on Computer Communications and Ne
- tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
-URL:http://www.icccn.org/ICCCN26/
-END:VEVENT
-BEGIN:VEVENT
-UID:icccn-2026-0-paper@conference-deadlines
-DTSTAMP:20260314T095959Z
-DTSTART:20260314T095959Z
-DTEND:20260314T102959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICCCN 2026 deadline
-DESCRIPTION:IEEE International Conference on Computer Communications and Ne
- tworks\nhttp://www.icccn.org/ICCCN26/\nLocation: Honolulu\, Hawaii\, USA
-URL:http://www.icccn.org/ICCCN26/
 END:VEVENT
 BEGIN:VEVENT
 UID:euro-par-2026-0-abstract@conference-deadlines
@@ -3766,61 +3745,6 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ches-2027-0-paper@conference-deadlines
-DTSTAMP:20261016T115959Z
-DTSTART:20261016T115959Z
-DTEND:20261016T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/2)
-DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
-  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
-URL:https://ches.iacr.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:ches-2027-1-paper@conference-deadlines
-DTSTAMP:20270116T115959Z
-DTSTART:20270116T115959Z
-DTEND:20270116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/3)
-DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
-  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
-URL:https://ches.iacr.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:ches-2027-2-paper@conference-deadlines
-DTSTAMP:20270416T115959Z
-DTSTART:20270416T115959Z
-DTEND:20270416T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/4)
-DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
-  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
-URL:https://ches.iacr.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:csfw-2027-0-paper@conference-deadlines
-DTSTAMP:20261016T115959Z
-DTSTART:20261016T115959Z
-DTEND:20261016T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CSFW 2027 deadline (Fall)
-DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
- security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
-URL:https://www.ieee-security.org/TC/CSF2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:csfw-2027-1-paper@conference-deadlines
-DTSTAMP:20270129T115959Z
-DTSTART:20270129T115959Z
-DTEND:20270129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CSFW 2027 deadline (Winter)
-DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
- security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
-URL:https://www.ieee-security.org/TC/CSF2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:etaps-2027-0-paper@conference-deadlines
 DTSTAMP:20261016T115959Z
 DTSTART:20261016T115959Z
@@ -5195,6 +5119,28 @@ DESCRIPTION:International Conference on Intelligent Systems for Molecular B
 URL:https://www.iscb.org/ismbeccb2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:ches-2027-0-paper@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/3)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ches-2027-1-paper@conference-deadlines
+DTSTAMP:20270416T115959Z
+DTSTART:20270416T115959Z
+DTEND:20270416T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHES 2027 deadline (Schedule for TCHES Volume 2027/4)
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedded
+  Systems\nhttps://ches.iacr.org/2027/\nLocation: Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:icwsm-2027-0-paper@conference-deadlines
 DTSTAMP:20270116T115959Z
 DTSTART:20270116T115959Z
@@ -5342,6 +5288,17 @@ SUMMARY:USENIX Security 2027 deadline (Cycle 2 Deadline)
 DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
  enixsecurity27\nLocation: Denver\, CO\, USA
 URL:https://www.usenix.org/conference/usenixsecurity27
+END:VEVENT
+BEGIN:VEVENT
+UID:csfw-2027-0-paper@conference-deadlines
+DTSTAMP:20270129T115959Z
+DTSTART:20270129T115959Z
+DTEND:20270129T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSFW 2027 deadline (Winter)
+DESCRIPTION:IEEE Computer Security Foundations Symposium\nhttps://www.ieee-
+ security.org/TC/CSF2027/\nLocation: Tokyo\, Japan
+URL:https://www.ieee-security.org/TC/CSF2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:spaa-2027-0-abstract@conference-deadlines
@@ -5521,6 +5478,28 @@ SUMMARY:MobileHCI 2027 deadline
 DESCRIPTION:ACM International Conference on Mobile Human-Computer Interacti
  on\nhttps://mobilehci.acm.org/2027/\nLocation: Limassol\, Cyprus
 URL:https://mobilehci.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icccn-2027-0-abstract@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCCN 2027 abstract deadline
+DESCRIPTION:IEEE International Conference on Computer Communications and Ne
+ tworks\nhttp://www.icccn.org/ICCCN27/\nLocation: Rome\, Italy
+URL:http://www.icccn.org/ICCCN27/
+END:VEVENT
+BEGIN:VEVENT
+UID:icccn-2027-0-paper@conference-deadlines
+DTSTAMP:20270220T115959Z
+DTSTART:20270220T115959Z
+DTEND:20270220T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICCCN 2027 deadline
+DESCRIPTION:IEEE International Conference on Computer Communications and Ne
+ tworks\nhttp://www.icccn.org/ICCCN27/\nLocation: Rome\, Italy
+URL:http://www.icccn.org/ICCCN27/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2027-0-abstract@conference-deadlines

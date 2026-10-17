@@ -34,7 +34,7 @@
 - name: Germany
   count: 13
 - name: Greece
-  count: 8
+  count: 9
 - name: Hungary
   count: 1
 - name: Iceland
@@ -46,7 +46,7 @@
 - name: Ireland
   count: 4
 - name: Italy
-  count: 25
+  count: 26
 - name: Japan
   count: 11
 - name: Lithuania
@@ -92,7 +92,7 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 80
+  count: 79
 - name: Vietnam
   count: 4
 - name: Vietnam / Online
