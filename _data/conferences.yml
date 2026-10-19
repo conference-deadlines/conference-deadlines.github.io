@@ -3625,6 +3625,7 @@
   - DB
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/sigmod/index.html
   date: June 13-19, 2027
   place: Huntington Beach, CA, USA
