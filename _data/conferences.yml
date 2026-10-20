@@ -3582,21 +3582,6 @@
   date: April 10-15, 2027
   place: Copenhagen, Denmark
   country: Denmark
-- name: ICC
-  description: IEEE International Conference on Communications
-  year: 2027
-  link: https://icc2027.ieee-icc.org
-  deadlines:
-  - date: '2026-10-16T23:59:59-07:00'
-  areas:
-  - NW
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/icc/index.html
-  date: May 30 - June 3, 2027
-  place: Washington, DC, USA
-  country: United States
 - name: FG
   description: International Conference on Automatic Face and Gesture Recognition
   year: 2027
@@ -3746,6 +3731,20 @@
   dblp: https://dblp.org/db/conf/mlsys/index.html
   date: June 21-25, 2027
   place: Bellevue, Washington, USA
+  country: United States
+- name: ICC
+  description: IEEE International Conference on Communications
+  year: 2027
+  link: https://icc2027.ieee-icc.org
+  deadlines:
+  - date: '2026-10-30T23:59:59-07:00'
+  areas:
+  - NW
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/icc/index.html
+  date: May 30 - June 3, 2027
+  place: Washington, DC, USA
   country: United States
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
@@ -4081,6 +4080,25 @@
   dblp: https://dblp.org/db/conf/cvpr/index.html
   date: June 20-25, 2027
   place: Seattle, WA, United States
+  country: United States
+- name: IMC
+  description: ACM Internet Measurement Conference
+  year: 2027
+  link: https://conferences.sigcomm.org/imc/2027/
+  deadlines:
+  - date: '2026-11-17T23:59:59-12:00'
+    comment: Cycle 1; rebuttal period January 26-February 2, 2027
+    abstract: '2026-11-10T23:59:59-12:00'
+  - date: '2027-04-07T23:59:59-12:00'
+    comment: Cycle 2
+    abstract: '2027-03-31T23:59:59-12:00'
+  areas:
+  - NW
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/imc/index.html
+  date: Oct 25-29, 2027
+  place: Atlanta, GA, USA
   country: United States
 - name: S&P
   description: IEEE Symposium on Security and Privacy
@@ -4590,6 +4608,20 @@
   date: June 1-5, 2027
   place: San Francisco, California, USA
   country: United States
+- name: ICME
+  description: The IEEE International Conference on Multimedia & Expo
+  year: 2027
+  link: https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
+  deadlines:
+  - date: '2026-12-30T23:59:59-12:00'
+  areas:
+  - CG
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/icme/index.html
+  date: July 13-17, 2027
+  place: Xiamen, China
+  country: China
 - name: ACL
   description: Annual Meeting of the Association for Computational Linguistics
   year: 2027

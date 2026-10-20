@@ -407,6 +407,19 @@ DESCRIPTION:International Conference on Geometric Modeling and Processing\n
 URL:https://gmp-conference-2027.github.io/gmp2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:icme-2027-0-paper@conference-deadlines
+DTSTAMP:20261231T115959Z
+DTSTART:20261231T115959Z
+DTEND:20261231T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICME 2027 deadline
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
+ /ieee-cas.org/event/conference/2027-ieee-international-conference-multimed
+ ia-expo-icme\nLocation: Xiamen\, China
+URL:https://ieee-cas.org/event/conference/2027-ieee-international-conferenc
+ e-multimedia-expo-icme
+END:VEVENT
+BEGIN:VEVENT
 UID:icmr-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z

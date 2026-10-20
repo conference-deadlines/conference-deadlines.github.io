@@ -3756,17 +3756,6 @@ DESCRIPTION:European Joint Conferences on Theory and Practice of Software\n
 URL:https://etaps.org/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:icc-2027-0-paper@conference-deadlines
-DTSTAMP:20261017T065959Z
-DTSTART:20261017T065959Z
-DTEND:20261017T072959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICC 2027 deadline
-DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
- 7.ieee-icc.org\nLocation: Washington\, DC\, USA
-URL:https://icc2027.ieee-icc.org
-END:VEVENT
-BEGIN:VEVENT
 UID:fg-2027-0-abstract@conference-deadlines
 DTSTAMP:20261010T115959Z
 DTSTART:20261010T115959Z
@@ -3935,6 +3924,17 @@ SUMMARY:MLSys 2027 deadline
 DESCRIPTION:Conference on Machine Learning and Systems\nhttps://mlsys.org/\
  nLocation: Bellevue\, Washington\, USA
 URL:https://mlsys.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icc-2027-0-paper@conference-deadlines
+DTSTAMP:20261031T065959Z
+DTSTART:20261031T065959Z
+DTEND:20261031T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICC 2027 deadline
+DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
+ 7.ieee-icc.org\nLocation: Washington\, DC\, USA
+URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
 UID:sacmat-2027-0-paper@conference-deadlines
@@ -4352,6 +4352,52 @@ DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition\
  nhttps://cvpr.thecvf.com/Conferences/2027\nLocation: Seattle\, WA\, United
   States
 URL:https://cvpr.thecvf.com/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261111T115959Z
+DTSTART:20261111T115959Z
+DTEND:20261111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 abstract deadline (Cycle 1\; rebuttal period January 26-Fe
+ bruary 2\, 2027)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-0-paper@conference-deadlines
+DTSTAMP:20261118T115959Z
+DTSTART:20261118T115959Z
+DTEND:20261118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 deadline (Cycle 1\; rebuttal period January 26-February 2\
+ , 2027)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-1-abstract@conference-deadlines
+DTSTAMP:20270401T115959Z
+DTSTART:20270401T115959Z
+DTEND:20270401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 abstract deadline (Cycle 2)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-1-paper@conference-deadlines
+DTSTAMP:20270408T115959Z
+DTSTART:20270408T115959Z
+DTEND:20270408T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 deadline (Cycle 2)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:s-p-2027-0-abstract@conference-deadlines
@@ -4991,6 +5037,19 @@ DESCRIPTION:The Annual Conference of the North American Chapter of the Asso
  ciation for Computational Linguistics\nhttps://2027.naacl.org/\nLocation: 
  San Francisco\, California\, USA
 URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icme-2027-0-paper@conference-deadlines
+DTSTAMP:20261231T115959Z
+DTSTART:20261231T115959Z
+DTEND:20261231T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICME 2027 deadline
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
+ /ieee-cas.org/event/conference/2027-ieee-international-conference-multimed
+ ia-expo-icme\nLocation: Xiamen\, China
+URL:https://ieee-cas.org/event/conference/2027-ieee-international-conferenc
+ e-multimedia-expo-icme
 END:VEVENT
 BEGIN:VEVENT
 UID:acl-2027-0-paper@conference-deadlines

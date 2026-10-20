@@ -18,7 +18,7 @@
 - name: Chile
   count: 1
 - name: China
-  count: 39
+  count: 40
 - name: Cyprus
   count: 2
 - name: Czechia
@@ -92,7 +92,7 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 79
+  count: 80
 - name: Vietnam
   count: 4
 - name: Vietnam / Online

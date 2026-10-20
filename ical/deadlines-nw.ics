@@ -290,9 +290,9 @@ URL:https://wicon.eai-conferences.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:icc-2027-0-paper@conference-deadlines
-DTSTAMP:20261017T065959Z
-DTSTART:20261017T065959Z
-DTEND:20261017T072959Z
+DTSTAMP:20261031T065959Z
+DTSTART:20261031T065959Z
+DTEND:20261031T072959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICC 2027 deadline
 DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
@@ -320,6 +320,52 @@ SUMMARY:SenSys 2027 deadline (2nd deadline)
 DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
  nsys.acm.org/2027/\nLocation: Boulder\, CO\, USA
 URL:https://sensys.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-0-abstract@conference-deadlines
+DTSTAMP:20261111T115959Z
+DTSTART:20261111T115959Z
+DTEND:20261111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 abstract deadline (Cycle 1\; rebuttal period January 26-Fe
+ bruary 2\, 2027)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-0-paper@conference-deadlines
+DTSTAMP:20261118T115959Z
+DTSTART:20261118T115959Z
+DTEND:20261118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 deadline (Cycle 1\; rebuttal period January 26-February 2\
+ , 2027)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-1-abstract@conference-deadlines
+DTSTAMP:20270401T115959Z
+DTSTART:20270401T115959Z
+DTEND:20270401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 abstract deadline (Cycle 2)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-1-paper@conference-deadlines
+DTSTAMP:20270408T115959Z
+DTSTART:20270408T115959Z
+DTEND:20270408T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 deadline (Cycle 2)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:mmsys-2027-0-abstract@conference-deadlines
