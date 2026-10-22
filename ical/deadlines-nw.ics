@@ -497,6 +497,18 @@ DESCRIPTION:International Workshop on Network and Operating System Support
 URL:https://nossdav.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:sigcomm-2027-0-paper@conference-deadlines
+DTSTAMP:20270203T115959Z
+DTSTART:20270203T115959Z
+DTEND:20270203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGCOMM 2027 deadline
+DESCRIPTION:ACM International Conference on Applications\, Technologies\, A
+ rchitectures\, and Protocols for Computer Communication\nhttps://conferenc
+ es.sigcomm.org/sigcomm/2027/\nLocation: Bangkok\, Thailand
+URL:https://conferences.sigcomm.org/sigcomm/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:icccn-2027-0-abstract@conference-deadlines
 DTSTAMP:20270213T115959Z
 DTSTART:20270213T115959Z
