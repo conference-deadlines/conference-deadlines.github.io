@@ -641,4 +641,15 @@ DESCRIPTION:International Conference on Security and Privacy in Communicati
  \, China
 URL:https://securecomm.eai-conferences.org/2027/
 END:VEVENT
+BEGIN:VEVENT
+UID:sais-2027-0-paper@conference-deadlines
+DTSTAMP:20270205T115959Z
+DTSTART:20270205T115959Z
+DTEND:20270205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAIS 2027 deadline (Paper submission deadline)
+DESCRIPTION:USENIX Conference on Secure Agentic-AI Systems\nhttps://www.use
+ nix.org/conference/sais27\nLocation: Santa Clara\, CA\, USA
+URL:https://www.usenix.org/conference/sais27
+END:VEVENT
 END:VCALENDAR

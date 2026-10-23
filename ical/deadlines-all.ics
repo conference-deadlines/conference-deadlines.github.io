@@ -1091,6 +1091,18 @@ DESCRIPTION:International Symposium on Recent Advances in Intrusion Detecti
 URL:https://raid2026.org
 END:VEVENT
 BEGIN:VEVENT
+UID:ictir-2026-0-paper@conference-deadlines
+DTSTAMP:20260417T115959Z
+DTSTART:20260417T115959Z
+DTEND:20260417T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICTIR 2026 deadline
+DESCRIPTION:International ACM SIGIR Conference on Innovative Concepts and T
+ heories in Information Retrieval\nhttps://sigir-ictir.github.io/ictir2026/
+ \nLocation: Melbourne\, Australia
+URL:https://sigir-ictir.github.io/ictir2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:sca-2026-0-abstract@conference-deadlines
 DTSTAMP:20260410T235959Z
 DTSTART:20260410T235959Z
@@ -2748,6 +2760,30 @@ DESCRIPTION:AAAI Conference on Artificial Intelligence\nhttps://aaai.org/co
 URL:https://aaai.org/conference/aaai/aaai-27/
 END:VEVENT
 BEGIN:VEVENT
+UID:sigir-ap-2026-0-abstract@conference-deadlines
+DTSTAMP:20260723T115959Z
+DTSTART:20260723T115959Z
+DTEND:20260723T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR-AP 2026 abstract deadline (Extended deadlines)
+DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in 
+ the Asia Pacific\nhttps://www.sigir-ap.org/sigir-ap-2026/\nLocation: Singa
+ pore
+URL:https://www.sigir-ap.org/sigir-ap-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigir-ap-2026-0-paper@conference-deadlines
+DTSTAMP:20260730T115959Z
+DTSTART:20260730T115959Z
+DTEND:20260730T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR-AP 2026 deadline (Extended deadlines)
+DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in 
+ the Asia Pacific\nhttps://www.sigir-ap.org/sigir-ap-2026/\nLocation: Singa
+ pore
+URL:https://www.sigir-ap.org/sigir-ap-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:vinci-2026-0-paper@conference-deadlines
 DTSTAMP:20260730T115959Z
 DTSTART:20260730T115959Z
@@ -3756,6 +3792,28 @@ DESCRIPTION:European Joint Conferences on Theory and Practice of Software\n
 URL:https://etaps.org/2027
 END:VEVENT
 BEGIN:VEVENT
+UID:chiir-2027-0-abstract@conference-deadlines
+DTSTAMP:20261009T115959Z
+DTSTART:20261009T115959Z
+DTEND:20261009T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHIIR 2027 abstract deadline
+DESCRIPTION:ACM SIGIR Conference on Human Information Interaction and Retri
+ eval\nhttps://chiir2027.github.io/\nLocation: Berlin\, Germany
+URL:https://chiir2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:chiir-2027-0-paper@conference-deadlines
+DTSTAMP:20261016T115959Z
+DTSTART:20261016T115959Z
+DTEND:20261016T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHIIR 2027 deadline
+DESCRIPTION:ACM SIGIR Conference on Human Information Interaction and Retri
+ eval\nhttps://chiir2027.github.io/\nLocation: Berlin\, Germany
+URL:https://chiir2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
 UID:fg-2027-0-abstract@conference-deadlines
 DTSTAMP:20261010T115959Z
 DTSTART:20261010T115959Z
@@ -3810,17 +3868,6 @@ DESCRIPTION:International Conference on Parallel and Distributed Computing\
  , Applications and Technologies\nhttps://www.pd-cat.org/2026/\nLocation: C
  hangsha\, China
 URL:https://www.pd-cat.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:iscas-2027-0-paper@conference-deadlines
-DTSTAMP:20261023T045959Z
-DTSTART:20261023T045959Z
-DTEND:20261023T052959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISCAS 2027 deadline
-DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
- 027.ieee-iscas.org/\nLocation: Bordeaux\, France
-URL:https://2027.ieee-iscas.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ct-rsa-2027-0-paper@conference-deadlines
@@ -3913,6 +3960,17 @@ DESCRIPTION:The international conference on Computational Visual Media\nhtt
  p://iccvm.org/2027/\nLocation: Nanyang Technological University\, Singapor
  e
 URL:http://iccvm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:iscas-2027-0-paper@conference-deadlines
+DTSTAMP:20261027T045959Z
+DTSTART:20261027T045959Z
+DTEND:20261027T052959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCAS 2027 deadline
+DESCRIPTION:IEEE International Symposium on Circuits and Systems\nhttps://2
+ 027.ieee-iscas.org/\nLocation: Bordeaux\, France
+URL:https://2027.ieee-iscas.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:mlsys-2027-0-paper@conference-deadlines
@@ -5046,10 +5104,8 @@ DTEND:20261231T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICME 2027 deadline
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
- /ieee-cas.org/event/conference/2027-ieee-international-conference-multimed
- ia-expo-icme\nLocation: Xiamen\, China
-URL:https://ieee-cas.org/event/conference/2027-ieee-international-conferenc
- e-multimedia-expo-icme
+ /2027.ieeeicme.org/\nLocation: Xiamen\, China
+URL:https://2027.ieeeicme.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:acl-2027-0-paper@conference-deadlines
@@ -5494,6 +5550,17 @@ DESCRIPTION:ACM International Conference on Applications\, Technologies\, A
  rchitectures\, and Protocols for Computer Communication\nhttps://conferenc
  es.sigcomm.org/sigcomm/2027/\nLocation: Bangkok\, Thailand
 URL:https://conferences.sigcomm.org/sigcomm/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sais-2027-0-paper@conference-deadlines
+DTSTAMP:20270205T115959Z
+DTSTART:20270205T115959Z
+DTEND:20270205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAIS 2027 deadline (Paper submission deadline)
+DESCRIPTION:USENIX Conference on Secure Agentic-AI Systems\nhttps://www.use
+ nix.org/conference/sais27\nLocation: Santa Clara\, CA\, USA
+URL:https://www.usenix.org/conference/sais27
 END:VEVENT
 BEGIN:VEVENT
 UID:gi-2027-0-paper@conference-deadlines

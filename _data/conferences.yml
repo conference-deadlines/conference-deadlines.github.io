@@ -986,6 +986,21 @@
   date: October 12-14, 2026
   place: Lancaster, UK
   country: United Kingdom
+- name: ICTIR
+  description: International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval
+  year: 2026
+  link: https://sigir-ictir.github.io/ictir2026/
+  deadlines:
+  - date: '2026-04-16T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/ictir/index.html
+  date: July 25, 2026
+  place: Melbourne, Australia
+  country: Australia
 - name: SCA
   description: ACM SIGGRAPH/Eurographics Symposium on Computer Animation
   year: 2026
@@ -2572,6 +2587,23 @@
   date: February 16-23, 2027
   place: Montréal, Québec, Canada
   country: Canada
+- name: SIGIR-AP
+  description: International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
+  year: 2026
+  link: https://www.sigir-ap.org/sigir-ap-2026/
+  deadlines:
+  - date: '2026-07-29T23:59:59-12:00'
+    comment: Extended deadlines
+    abstract: '2026-07-22T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/sigir-ap/index.html
+  date: December 13-15, 2026
+  place: Singapore
+  country: Singapore
 - name: VINCI
   description: International Symposium on Visual Information Communication and Interaction
   year: 2026
@@ -3582,6 +3614,22 @@
   date: April 10-15, 2027
   place: Copenhagen, Denmark
   country: Denmark
+- name: CHIIR
+  description: ACM SIGIR Conference on Human Information Interaction and Retrieval
+  year: 2027
+  link: https://chiir2027.github.io/
+  deadlines:
+  - date: '2026-10-15T23:59:59-12:00'
+    abstract: '2026-10-08T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/chiir/index.html
+  date: March 7-11, 2027
+  place: Berlin, Germany
+  country: Germany
 - name: FG
   description: International Conference on Automatic Face and Gesture Recognition
   year: 2027
@@ -3631,20 +3679,6 @@
   date: December 4-6, 2026
   place: Changsha, China
   country: China
-- name: ISCAS
-  description: IEEE International Symposium on Circuits and Systems
-  year: 2027
-  link: https://2027.ieee-iscas.org/
-  deadlines:
-  - date: '2026-10-22T23:59:59-05:00'
-  areas:
-  - DS
-  tags:
-  - CORE-C
-  dblp: https://dblp.org/db/conf/iscas/index.html
-  date: June 6-9, 2027
-  place: Bordeaux, France
-  country: France
 - name: CT-RSA
   description: Cryptographer's Track at RSA Conference
   year: 2027
@@ -3719,6 +3753,20 @@
   date: April 9-11, 2027
   place: Nanyang Technological University, Singapore
   country: Singapore
+- name: ISCAS
+  description: IEEE International Symposium on Circuits and Systems
+  year: 2027
+  link: https://2027.ieee-iscas.org/
+  deadlines:
+  - date: '2026-10-26T23:59:59-05:00'
+  areas:
+  - DS
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/iscas/index.html
+  date: June 6-9, 2027
+  place: Bordeaux, France
+  country: France
 - name: MLSys
   description: Conference on Machine Learning and Systems
   year: 2027
@@ -4612,7 +4660,7 @@
 - name: ICME
   description: The IEEE International Conference on Multimedia & Expo
   year: 2027
-  link: https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
+  link: https://2027.ieeeicme.org/
   deadlines:
   - date: '2026-12-30T23:59:59-12:00'
   areas:
@@ -5028,6 +5076,20 @@
   date: August 8 - 12, 2027
   place: Bangkok, Thailand
   country: Thailand
+- name: SAIS
+  description: USENIX Conference on Secure Agentic-AI Systems
+  year: 2027
+  link: https://www.usenix.org/conference/sais27
+  deadlines:
+  - date: '2027-02-04T23:59:59-12:00'
+    comment: Paper submission deadline
+  areas:
+  - SC
+  tags:
+  - CORE-N
+  date: June 7-8, 2027
+  place: Santa Clara, CA, USA
+  country: United States
 - name: GI
   description: Graphics Interface
   year: 2027

@@ -2,7 +2,7 @@
 - name: Argentina
   count: 1
 - name: Australia
-  count: 12
+  count: 13
 - name: Austria
   count: 2
 - name: Barbados
@@ -32,7 +32,7 @@
 - name: France
   count: 7
 - name: Germany
-  count: 13
+  count: 14
 - name: Greece
   count: 9
 - name: Hungary
@@ -70,7 +70,7 @@
 - name: Portugal
   count: 7
 - name: Singapore
-  count: 13
+  count: 14
 - name: Slovakia
   count: 1
 - name: South Africa
@@ -92,7 +92,7 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 80
+  count: 81
 - name: Vietnam
   count: 4
 - name: Vietnam / Online

@@ -414,10 +414,8 @@ DTEND:20261231T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICME 2027 deadline
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
- /ieee-cas.org/event/conference/2027-ieee-international-conference-multimed
- ia-expo-icme\nLocation: Xiamen\, China
-URL:https://ieee-cas.org/event/conference/2027-ieee-international-conferenc
- e-multimedia-expo-icme
+ /2027.ieeeicme.org/\nLocation: Xiamen\, China
+URL:https://2027.ieeeicme.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icmr-2027-0-paper@conference-deadlines

@@ -28,6 +28,18 @@ DESCRIPTION:International Conference on Database and Expert Systems Applica
 URL:https://www.dexa.org/2026/dexa2026.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ictir-2026-0-paper@conference-deadlines
+DTSTAMP:20260417T115959Z
+DTSTART:20260417T115959Z
+DTEND:20260417T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICTIR 2026 deadline
+DESCRIPTION:International ACM SIGIR Conference on Innovative Concepts and T
+ heories in Information Retrieval\nhttps://sigir-ictir.github.io/ictir2026/
+ \nLocation: Melbourne\, Australia
+URL:https://sigir-ictir.github.io/ictir2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:sdm-2026-0-abstract@conference-deadlines
 DTSTAMP:20260411T115959Z
 DTSTART:20260411T115959Z
@@ -189,6 +201,30 @@ DESCRIPTION:ACM Knowledge Discovery and Data Mining\nhttps://kdd2027.kdd.or
 URL:https://kdd2027.kdd.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:sigir-ap-2026-0-abstract@conference-deadlines
+DTSTAMP:20260723T115959Z
+DTSTART:20260723T115959Z
+DTEND:20260723T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR-AP 2026 abstract deadline (Extended deadlines)
+DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in 
+ the Asia Pacific\nhttps://www.sigir-ap.org/sigir-ap-2026/\nLocation: Singa
+ pore
+URL:https://www.sigir-ap.org/sigir-ap-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigir-ap-2026-0-paper@conference-deadlines
+DTSTAMP:20260730T115959Z
+DTSTART:20260730T115959Z
+DTEND:20260730T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGIR-AP 2026 deadline (Extended deadlines)
+DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in 
+ the Asia Pacific\nhttps://www.sigir-ap.org/sigir-ap-2026/\nLocation: Singa
+ pore
+URL:https://www.sigir-ap.org/sigir-ap-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:cidr-2027-0-paper@conference-deadlines
 DTSTAMP:20260805T065959Z
 DTSTART:20260805T065959Z
@@ -275,6 +311,28 @@ SUMMARY:EDBT 2027 deadline
 DESCRIPTION:International Conference on Extending Database Technology\nhttp
  s://edbticdt2027.github.io/\nLocation: Lille\, France
 URL:https://edbticdt2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:chiir-2027-0-abstract@conference-deadlines
+DTSTAMP:20261009T115959Z
+DTSTART:20261009T115959Z
+DTEND:20261009T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHIIR 2027 abstract deadline
+DESCRIPTION:ACM SIGIR Conference on Human Information Interaction and Retri
+ eval\nhttps://chiir2027.github.io/\nLocation: Berlin\, Germany
+URL:https://chiir2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:chiir-2027-0-paper@conference-deadlines
+DTSTAMP:20261016T115959Z
+DTSTART:20261016T115959Z
+DTEND:20261016T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CHIIR 2027 deadline
+DESCRIPTION:ACM SIGIR Conference on Human Information Interaction and Retri
+ eval\nhttps://chiir2027.github.io/\nLocation: Berlin\, Germany
+URL:https://chiir2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmod-2027-0-abstract@conference-deadlines
