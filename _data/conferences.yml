@@ -2299,7 +2299,7 @@
   - CORE-C
   tba: true
   dblp: https://dblp.org/db/conf/acml/index.html
-  date: TBD
+  date: December 1-4, 2026
   place: Melbourne, Australia
   country: Australia
 - name: BIBM
@@ -3393,22 +3393,6 @@
   date: May 10-14, 2027
   place: Lucca, Italy
   country: Italy
-- name: CVC
-  description: Computer Vision Conference
-  year: 2027
-  link: https://saiconference.com/CVC
-  deadlines:
-  - date: '2026-10-01T23:59:59-12:00'
-    comment: Round 2
-  areas:
-  - AI
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/cvc/index.html
-  date: April 15-16, 2027
-  place: Amsterdam, Netherlands
-  country: Netherlands
 - name: FSE
   description: ACM International Conference on the Foundations of Software Engineering
   year: 2027
@@ -3706,6 +3690,7 @@
   - SE
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/msr/index.html
   date: April 26-27, 2027
   place: Dublin, Ireland
@@ -3720,6 +3705,7 @@
   - SE
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/pepm/index.html
   date: January 12, 2027
   place: Mexico City, Mexico
@@ -3846,6 +3832,21 @@
   date: August 23 - August 27, 2027
   place: Athens, Greece
   country: Greece
+- name: CVC
+  description: Computer Vision Conference
+  year: 2027
+  link: https://saiconference.com/CVC
+  deadlines:
+  - date: '2026-11-01T23:59:59-12:00'
+    comment: Round 2
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/cvc/index.html
+  date: April 15-16, 2027
+  place: Amsterdam, Netherlands
+  country: Netherlands
 - name: EuroGP
   description: European Conference on Genetic Programming
   year: 2027

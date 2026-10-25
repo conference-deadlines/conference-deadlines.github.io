@@ -3565,17 +3565,6 @@ DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
 URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
-UID:cvc-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115959Z
-DTSTART:20261002T115959Z
-DTEND:20261002T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CVC 2027 deadline (Round 2)
-DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
- tion: Amsterdam\, Netherlands
-URL:https://saiconference.com/CVC
-END:VEVENT
-BEGIN:VEVENT
 UID:fse-2027-0-paper@conference-deadlines
 DTSTAMP:20261003T115959Z
 DTSTART:20261003T115959Z
@@ -4092,6 +4081,17 @@ SUMMARY:VLDB 2027 deadline
 DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
  vldb.org/2027/\nLocation: Athens\, Greece
 URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cvc-2027-0-paper@conference-deadlines
+DTSTAMP:20261102T115959Z
+DTSTART:20261102T115959Z
+DTEND:20261102T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CVC 2027 deadline (Round 2)
+DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
+ tion: Amsterdam\, Netherlands
+URL:https://saiconference.com/CVC
 END:VEVENT
 BEGIN:VEVENT
 UID:eurogp-2027-0-paper@conference-deadlines

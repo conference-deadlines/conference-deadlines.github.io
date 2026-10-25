@@ -511,17 +511,6 @@ DESCRIPTION:International Conference on Learning Representations\nhttps://i
 URL:https://iclr.cc/Conferences/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:cvc-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115959Z
-DTSTART:20261002T115959Z
-DTEND:20261002T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CVC 2027 deadline (Round 2)
-DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
- tion: Amsterdam\, Netherlands
-URL:https://saiconference.com/CVC
-END:VEVENT
-BEGIN:VEVENT
 UID:aistats-2027-0-abstract@conference-deadlines
 DTSTAMP:20260930T115959Z
 DTSTART:20260930T115959Z
@@ -614,6 +603,17 @@ SUMMARY:FG 2027 deadline
 DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
  ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
 URL:https://fg2027.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cvc-2027-0-paper@conference-deadlines
+DTSTAMP:20261102T115959Z
+DTSTART:20261102T115959Z
+DTEND:20261102T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CVC 2027 deadline (Round 2)
+DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
+ tion: Amsterdam\, Netherlands
+URL:https://saiconference.com/CVC
 END:VEVENT
 BEGIN:VEVENT
 UID:eurogp-2027-0-paper@conference-deadlines
