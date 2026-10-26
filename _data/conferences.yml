@@ -3731,7 +3731,6 @@
   link: http://iccvm.org/2027/
   deadlines:
   - date: '2026-10-26T23:59:59+00:00'
-    abstract: '2026-10-23T23:59:59+00:00'
   areas:
   - CG
   tags:
@@ -4641,9 +4640,9 @@
   tags:
   - CORE-B
   dblp: https://dblp.org/db/conf/coling/index.html
-  date: May 9-14, 2027
-  place: Macau SAR, China
-  country: China
+  date: May 9-14 (in-person) and 6-7 (virtual), 2027
+  place: Macau SAR, China / Online
+  country: Macau
 - name: NAACL
   description: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
   year: 2027

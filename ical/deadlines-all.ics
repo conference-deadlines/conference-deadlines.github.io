@@ -3927,18 +3927,6 @@ DESCRIPTION:International World Wide Web Conferences\nhttps://www2027.thewe
 URL:https://www2027.thewebconf.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:cvm-2027-0-abstract@conference-deadlines
-DTSTAMP:20261023T235959Z
-DTSTART:20261023T235959Z
-DTEND:20261024T002959Z
-TRANSP:TRANSPARENT
-SUMMARY:CVM 2027 abstract deadline
-DESCRIPTION:The international conference on Computational Visual Media\nhtt
- p://iccvm.org/2027/\nLocation: Nanyang Technological University\, Singapor
- e
-URL:http://iccvm.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:cvm-2027-0-paper@conference-deadlines
 DTSTAMP:20261026T235959Z
 DTSTART:20261026T235959Z
@@ -5080,7 +5068,7 @@ TRANSP:TRANSPARENT
 SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
  viewed papers only)
 DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China / Online
 URL:https://2027.coling-iccl.org/
 END:VEVENT
 BEGIN:VEVENT
