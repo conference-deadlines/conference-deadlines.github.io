@@ -3305,30 +3305,6 @@ DESCRIPTION:IEEE International Conference on Robotics and Automation\nhttps
 URL:https://2027.ieee-icra.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:nsdi-2027-0-abstract@conference-deadlines
-DTSTAMP:20260911T035959Z
-DTSTART:20260911T035959Z
-DTEND:20260911T042959Z
-TRANSP:TRANSPARENT
-SUMMARY:NSDI 2027 abstract deadline
-DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
- \nhttps://www.usenix.org/conference/nsdi27\nLocation: Providence\, RI\, US
- A
-URL:https://www.usenix.org/conference/nsdi27
-END:VEVENT
-BEGIN:VEVENT
-UID:nsdi-2027-0-paper@conference-deadlines
-DTSTAMP:20260918T035959Z
-DTSTART:20260918T035959Z
-DTEND:20260918T042959Z
-TRANSP:TRANSPARENT
-SUMMARY:NSDI 2027 deadline
-DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
- \nhttps://www.usenix.org/conference/nsdi27\nLocation: Providence\, RI\, US
- A
-URL:https://www.usenix.org/conference/nsdi27
-END:VEVENT
-BEGIN:VEVENT
 UID:eurocrypt-2027-0-paper@conference-deadlines
 DTSTAMP:20260918T115959Z
 DTSTART:20260918T115959Z
@@ -4590,6 +4566,28 @@ DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
 URL:https://dasfaa2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
+UID:cpal-2027-0-abstract@conference-deadlines
+DTSTAMP:20261114T115959Z
+DTSTART:20261114T115959Z
+DTEND:20261114T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CPAL 2027 abstract deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tokyo\, Japan
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpal-2027-0-paper@conference-deadlines
+DTSTAMP:20261126T115959Z
+DTSTART:20261126T115959Z
+DTEND:20261126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CPAL 2027 deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tokyo\, Japan
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines
 DTSTAMP:20261201T045959Z
 DTSTART:20261201T045959Z
@@ -4854,28 +4852,6 @@ SUMMARY:RSS 2027 deadline (Stage 1: initial 6-page extended abstract submis
 DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org/\n
  Location: Athens\, Greece
 URL:https://roboticsconference.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:cpal-2027-0-abstract@conference-deadlines
-DTSTAMP:20261124T115959Z
-DTSTART:20261124T115959Z
-DTEND:20261124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2027 abstract deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tokyo\, Japan
-URL:https://cpal.cc/
-END:VEVENT
-BEGIN:VEVENT
-UID:cpal-2027-0-paper@conference-deadlines
-DTSTAMP:20261206T115959Z
-DTSTART:20261206T115959Z
-DTEND:20261206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2027 deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tokyo\, Japan
-URL:https://cpal.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-2027-0-abstract@conference-deadlines
@@ -5424,6 +5400,18 @@ SUMMARY:SPAA 2027 deadline (Cycle 2)
 DESCRIPTION:ACM Symposium on Parallelism in Algorithms and Architectures\nh
  ttps://spaa.acm.org/\nLocation: Atlanta\, GA\, USA
 URL:https://spaa.acm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:colt-2027-0-paper@conference-deadlines
+DTSTAMP:20270130T115959Z
+DTSTART:20270130T115959Z
+DTEND:20270130T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COLT 2027 deadline (Expected rebuttal March 29 - April 2\; author n
+ otification on or before May 3.)
+DESCRIPTION:Annual Conference on Learning Theory\nhttps://learningtheory.or
+ g/colt2027/\nLocation: Tokyo\, Japan
+URL:https://learningtheory.org/colt2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:whc-2027-0-paper@conference-deadlines

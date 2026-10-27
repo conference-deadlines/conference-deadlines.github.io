@@ -254,30 +254,6 @@ DESCRIPTION:IEEE Wireless Communications and Networking Conference\nhttps:/
 URL:https://wcnc2027.ieee-wcnc.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:nsdi-2027-0-abstract@conference-deadlines
-DTSTAMP:20260911T035959Z
-DTSTART:20260911T035959Z
-DTEND:20260911T042959Z
-TRANSP:TRANSPARENT
-SUMMARY:NSDI 2027 abstract deadline
-DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
- \nhttps://www.usenix.org/conference/nsdi27\nLocation: Providence\, RI\, US
- A
-URL:https://www.usenix.org/conference/nsdi27
-END:VEVENT
-BEGIN:VEVENT
-UID:nsdi-2027-0-paper@conference-deadlines
-DTSTAMP:20260918T035959Z
-DTSTART:20260918T035959Z
-DTEND:20260918T042959Z
-TRANSP:TRANSPARENT
-SUMMARY:NSDI 2027 deadline
-DESCRIPTION:USENIX Symposium on Networked Systems Design and Implementation
- \nhttps://www.usenix.org/conference/nsdi27\nLocation: Providence\, RI\, US
- A
-URL:https://www.usenix.org/conference/nsdi27
-END:VEVENT
-BEGIN:VEVENT
 UID:wicon-2026-0-paper@conference-deadlines
 DTSTAMP:20260930T235959Z
 DTSTART:20260930T235959Z

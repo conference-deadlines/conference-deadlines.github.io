@@ -3169,22 +3169,6 @@
   date: May 24-28, 2027
   place: Seoul, Republic of Korea
   country: South Korea
-- name: NSDI
-  description: USENIX Symposium on Networked Systems Design and Implementation
-  year: 2027
-  link: https://www.usenix.org/conference/nsdi27
-  deadlines:
-  - date: '2026-09-17T23:59:59-04:00'
-    abstract: '2026-09-10T23:59:59-04:00'
-  areas:
-  - NW
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/nsdi/index.html
-  date: May 11-13, 2027
-  place: Providence, RI, USA
-  country: United States
 - name: EUROCRYPT
   description: European Cryptology Conference
   year: 2027
@@ -3721,6 +3705,7 @@
   - MX
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/www/index.html
   date: May 10 - 14, 2027
   place: Dublin, Ireland
@@ -3735,6 +3720,7 @@
   - CG
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/cvm/index.html
   date: April 9-11, 2027
   place: Nanyang Technological University, Singapore
@@ -3749,6 +3735,7 @@
   - DS
   tags:
   - CORE-C
+  tba: true
   dblp: https://dblp.org/db/conf/iscas/index.html
   date: June 6-9, 2027
   place: Bordeaux, France
@@ -4272,6 +4259,21 @@
   date: May 27-30, 2027
   place: Shenyang, China
   country: China
+- name: CPAL
+  description: The Conference on Parsimony and Learning
+  year: 2027
+  link: https://cpal.cc/
+  deadlines:
+  - date: '2026-11-25T23:59:59-12:00'
+    abstract: '2026-11-13T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/cpal/index.html
+  date: March 23-26, 2027
+  place: Tokyo, Japan
+  country: Japan
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
   year: 2027
@@ -4475,21 +4477,6 @@
   date: July 6-11, 2027
   place: Athens, Greece
   country: Greece
-- name: CPAL
-  description: The Conference on Parsimony and Learning
-  year: 2027
-  link: https://cpal.cc/
-  deadlines:
-  - date: '2026-12-05T23:59:59-12:00'
-    abstract: '2026-11-23T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/cpal/index.html
-  date: March 23-26, 2027
-  place: Tokyo, Japan
-  country: Japan
 - name: ICS
   description: ACM International Conference on Supercomputing
   year: 2027
@@ -4961,6 +4948,21 @@
   date: June 5 - June 11, 2027
   place: Atlanta, GA, USA
   country: United States
+- name: COLT
+  description: Annual Conference on Learning Theory
+  year: 2027
+  link: https://learningtheory.org/colt2027/
+  deadlines:
+  - date: '2027-01-29T23:59:59-12:00'
+    comment: Expected rebuttal March 29 - April 2; author notification on or before May 3.
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/colt/index.html
+  date: June 28 - July 2, 2027
+  place: Tokyo, Japan
+  country: Japan
 - name: WHC
   description: IEEE World Haptics Conference
   year: 2027
