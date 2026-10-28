@@ -908,6 +908,30 @@ DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
 URL:https://iscaconf.org/isca2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:isca-2027-1-abstract@conference-deadlines
+DTSTAMP:20261207T115959Z
+DTSTART:20261207T115959Z
+DTEND:20261207T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 abstract deadline (Industry Track\; rebuttal period: Febr
+ uary 15-26\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isca-2027-1-paper@conference-deadlines
+DTSTAMP:20261214T115959Z
+DTSTART:20261214T115959Z
+DTEND:20261214T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 deadline (Industry Track\; rebuttal period: February 15-2
+ 6\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:dac-2027-0-abstract@conference-deadlines
 DTSTAMP:20261112T010000Z
 DTSTART:20261112T010000Z

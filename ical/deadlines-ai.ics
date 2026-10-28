@@ -163,17 +163,6 @@ DESCRIPTION:Conference on Language Modeling\nhttps://colm.cc/Conferences/20
 URL:https://colm.cc/Conferences/2026/CallForPapers
 END:VEVENT
 BEGIN:VEVENT
-UID:ijcb-2026-0-paper@conference-deadlines
-DTSTAMP:20260501T115959Z
-DTSTART:20260501T115959Z
-DTEND:20260501T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCB 2026 deadline
-DESCRIPTION:International Joint Conference on Biometrics\nhttps://ijcb2026.
- ieee-biometrics.org/\nLocation: Rome\, Italy
-URL:https://ijcb2026.ieee-biometrics.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:neurips-2026-0-abstract@conference-deadlines
 DTSTAMP:20260505T115900Z
 DTSTART:20260505T115900Z
@@ -583,6 +572,17 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:coling-2027-0-paper@conference-deadlines
+DTSTAMP:20261013T115959Z
+DTSTART:20261013T115959Z
+DTEND:20261013T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COLING 2027 deadline
+DESCRIPTION:International Conference on Computational Linguistics\nhttps://
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China / Online
+URL:https://2027.coling-iccl.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:fg-2027-0-abstract@conference-deadlines
 DTSTAMP:20261010T115959Z
 DTSTART:20261010T115959Z
@@ -755,18 +755,6 @@ DESCRIPTION:International Conference on Automated Planning and Scheduling\n
 URL:https://icaps27.icaps-conference.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:coling-2027-0-paper@conference-deadlines
-DTSTAMP:20261224T115959Z
-DTSTART:20261224T115959Z
-DTEND:20261224T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
- viewed papers only)
-DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China / Online
-URL:https://2027.coling-iccl.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:naacl-2027-0-paper@conference-deadlines
 DTSTAMP:20261224T115959Z
 DTSTART:20261224T115959Z
@@ -813,6 +801,28 @@ SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
 DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
  s://2027.ijcai.org/\nLocation: Kyoto\, Japan
 URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:gecco-2027-0-abstract@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GECCO 2027 abstract deadline
+DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
+ 2027.sigevo.org/HomePage\nLocation: Kraków\, Poland
+URL:https://gecco-2027.sigevo.org/HomePage
+END:VEVENT
+BEGIN:VEVENT
+UID:gecco-2027-0-paper@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GECCO 2027 deadline
+DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
+ 2027.sigevo.org/HomePage\nLocation: Kraków\, Poland
+URL:https://gecco-2027.sigevo.org/HomePage
 END:VEVENT
 BEGIN:VEVENT
 UID:colt-2027-0-paper@conference-deadlines
@@ -907,6 +917,17 @@ SUMMARY:ICPR 2027 deadline (All dates tentative\; March 1 is paper registra
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
  pr2027.com/\nLocation: Online
 URL:https://www.icpr2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcb-2027-0-paper@conference-deadlines
+DTSTAMP:20270411T115959Z
+DTSTART:20270411T115959Z
+DTEND:20270411T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCB 2027 deadline
+DESCRIPTION:International Joint Conference on Biometrics\nhttps://ijcb2027.
+ ieee-biometrics.org/\nLocation: Foz do Iguaçu\, Brazil
+URL:https://ijcb2027.ieee-biometrics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecai-2027-0-paper@conference-deadlines

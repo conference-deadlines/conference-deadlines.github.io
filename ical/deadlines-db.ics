@@ -236,28 +236,6 @@ DESCRIPTION:International Conference on Innovative Data Systems Research\nh
 URL:https://www.cidrdb.org/cidr2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:wsdm-2027-0-abstract@conference-deadlines
-DTSTAMP:20260818T115959Z
-DTSTART:20260818T115959Z
-DTEND:20260818T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WSDM 2027 abstract deadline (Full Paper)
-DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
- /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
-URL:https://wsdm-conference.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:wsdm-2027-0-paper@conference-deadlines
-DTSTAMP:20260825T115959Z
-DTSTART:20260825T115959Z
-DTEND:20260825T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WSDM 2027 deadline (Full Paper)
-DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
- /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
-URL:https://wsdm-conference.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:icdt-2027-0-abstract@conference-deadlines
 DTSTAMP:20260904T115959Z
 DTSTART:20260904T115959Z
@@ -428,10 +406,22 @@ DTSTAMP:20261112T010000Z
 DTSTART:20261112T010000Z
 DTEND:20261112T013000Z
 TRANSP:TRANSPARENT
-SUMMARY:ICDE 2027 deadline (second round)
+SUMMARY:ICDE 2027 deadline (second round\; notification date is approximate
+ )
 DESCRIPTION:IEEE International Conference on Data Engineering\nhttps://icde
  2027.github.io/\nLocation: Copenhagen\, Denmark
 URL:https://icde2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:wsdm-2027-0-paper@conference-deadlines
+DTSTAMP:20261118T115959Z
+DTSTART:20261118T115959Z
+DTEND:20261118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WSDM 2027 deadline (Short Paper)
+DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
+ /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:pakdd-2027-0-paper@conference-deadlines

@@ -1309,17 +1309,6 @@ DESCRIPTION:International Conference on Parallel Architectures and Compilat
 URL:https://pact2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
-UID:ijcb-2026-0-paper@conference-deadlines
-DTSTAMP:20260501T115959Z
-DTSTART:20260501T115959Z
-DTEND:20260501T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCB 2026 deadline
-DESCRIPTION:International Joint Conference on Biometrics\nhttps://ijcb2026.
- ieee-biometrics.org/\nLocation: Rome\, Italy
-URL:https://ijcb2026.ieee-biometrics.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:icpp-2026-0-abstract@conference-deadlines
 DTSTAMP:20260425T115959Z
 DTSTART:20260425T115959Z
@@ -3031,28 +3020,6 @@ DESCRIPTION:International Conference on Virtual Reality and Visualization\n
 URL:https://icvrv2026.aconf.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:wsdm-2027-0-abstract@conference-deadlines
-DTSTAMP:20260818T115959Z
-DTSTART:20260818T115959Z
-DTEND:20260818T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WSDM 2027 abstract deadline (Full Paper)
-DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
- /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
-URL:https://wsdm-conference.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:wsdm-2027-0-paper@conference-deadlines
-DTSTAMP:20260825T115959Z
-DTSTART:20260825T115959Z
-DTEND:20260825T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WSDM 2027 deadline (Full Paper)
-DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
- /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
-URL:https://wsdm-conference.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:setta-2026-0-paper@conference-deadlines
 DTSTAMP:20260825T115959Z
 DTSTART:20260825T115959Z
@@ -3746,6 +3713,17 @@ DESCRIPTION:International Conference on Algorithmic Learning Theory\nhttps:
 URL:https://algorithmiclearningtheory.org/alt2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:coling-2027-0-paper@conference-deadlines
+DTSTAMP:20261013T115959Z
+DTSTART:20261013T115959Z
+DTEND:20261013T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:COLING 2027 deadline
+DESCRIPTION:International Conference on Computational Linguistics\nhttps://
+ 2027.coling-iccl.org/\nLocation: Macau SAR\, China / Online
+URL:https://2027.coling-iccl.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:etaps-2027-0-paper@conference-deadlines
 DTSTAMP:20261016T115959Z
 DTSTART:20261016T115959Z
@@ -4265,7 +4243,8 @@ DTSTAMP:20261112T010000Z
 DTSTART:20261112T010000Z
 DTEND:20261112T013000Z
 TRANSP:TRANSPARENT
-SUMMARY:ICDE 2027 deadline (second round)
+SUMMARY:ICDE 2027 deadline (second round\; notification date is approximate
+ )
 DESCRIPTION:IEEE International Conference on Data Engineering\nhttps://icde
  2027.github.io/\nLocation: Copenhagen\, Denmark
 URL:https://icde2027.github.io/
@@ -4347,6 +4326,30 @@ DTEND:20261117T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ISCA 2027 deadline (Main Track\; rebuttal/revision period: February
   16-March 8\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isca-2027-1-abstract@conference-deadlines
+DTSTAMP:20261207T115959Z
+DTSTART:20261207T115959Z
+DTEND:20261207T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 abstract deadline (Industry Track\; rebuttal period: Febr
+ uary 15-26\, 2027)
+DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
+ onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://iscaconf.org/isca2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:isca-2027-1-paper@conference-deadlines
+DTSTAMP:20261214T115959Z
+DTSTART:20261214T115959Z
+DTEND:20261214T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISCA 2027 deadline (Industry Track\; rebuttal period: February 15-2
+ 6\, 2027)
 DESCRIPTION:International Symposium on Computer Architecture\nhttps://iscac
  onf.org/isca2027/\nLocation: Atlanta\, Georgia\, USA
 URL:https://iscaconf.org/isca2027/
@@ -4442,6 +4445,17 @@ SUMMARY:S&P 2027 deadline (Second Paper submission deadline)
 DESCRIPTION:IEEE Symposium on Security and Privacy\nhttps://sp2027.ieee-sec
  urity.org/index.html\nLocation: MONTREAL\, CANADA
 URL:https://sp2027.ieee-security.org/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:wsdm-2027-0-paper@conference-deadlines
+DTSTAMP:20261118T115959Z
+DTSTART:20261118T115959Z
+DTEND:20261118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WSDM 2027 deadline (Short Paper)
+DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
+ /wsdm-conference.org/2027/\nLocation: Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:dac-2027-0-abstract@conference-deadlines
@@ -5036,18 +5050,6 @@ DESCRIPTION:International Conference on Geometric Modeling and Processing\n
 URL:https://gmp-conference-2027.github.io/gmp2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:coling-2027-0-paper@conference-deadlines
-DTSTAMP:20261224T115959Z
-DTSTART:20261224T115959Z
-DTEND:20261224T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (COLING commitment after ARR meta-reviews\; re
- viewed papers only)
-DESCRIPTION:International Conference on Computational Linguistics\nhttps://
- 2027.coling-iccl.org/\nLocation: Macau SAR\, China / Online
-URL:https://2027.coling-iccl.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:naacl-2027-0-paper@conference-deadlines
 DTSTAMP:20261224T115959Z
 DTSTART:20261224T115959Z
@@ -5321,6 +5323,28 @@ DESCRIPTION:International Conference on Evaluation and Assessment in Softwa
  re Engineering\nhttps://conf.researchr.org/home/ease-2027\nLocation: Hanoi
  \, Vietnam
 URL:https://conf.researchr.org/home/ease-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:gecco-2027-0-abstract@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GECCO 2027 abstract deadline
+DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
+ 2027.sigevo.org/HomePage\nLocation: Kraków\, Poland
+URL:https://gecco-2027.sigevo.org/HomePage
+END:VEVENT
+BEGIN:VEVENT
+UID:gecco-2027-0-paper@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:GECCO 2027 deadline
+DESCRIPTION:Genetic and Evolutionary Computation Conference\nhttps://gecco-
+ 2027.sigevo.org/HomePage\nLocation: Kraków\, Poland
+URL:https://gecco-2027.sigevo.org/HomePage
 END:VEVENT
 BEGIN:VEVENT
 UID:idc-2027-0-abstract@conference-deadlines
@@ -5830,6 +5854,17 @@ DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages\,
   and Applications\nhttps://2027.splashcon.org/track/splashoopsla2027\nLoca
  tion: Prague\, Czechia
 URL:https://2027.splashcon.org/track/splashoopsla2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcb-2027-0-paper@conference-deadlines
+DTSTAMP:20270411T115959Z
+DTSTART:20270411T115959Z
+DTEND:20270411T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCB 2027 deadline
+DESCRIPTION:International Joint Conference on Biometrics\nhttps://ijcb2027.
+ ieee-biometrics.org/\nLocation: Foz do Iguaçu\, Brazil
+URL:https://ijcb2027.ieee-biometrics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecai-2027-0-paper@conference-deadlines

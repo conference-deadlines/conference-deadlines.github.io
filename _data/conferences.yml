@@ -1161,21 +1161,6 @@
   date: October 20-22, 2026
   place: Chicago, Illinois, USA
   country: United States
-- name: IJCB
-  description: International Joint Conference on Biometrics
-  year: 2026
-  link: https://ijcb2026.ieee-biometrics.org/
-  deadlines:
-  - date: '2026-04-30T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/icb/index.html
-  date: September 1-4, 2026
-  place: Rome, Italy
-  country: Italy
 - name: ICPP
   description: International Conference on Parallel Processing
   year: 2026
@@ -2866,23 +2851,6 @@
   date: December 18-20, 2026
   place: Valparaíso, Chile
   country: Chile
-- name: WSDM
-  description: International Conference on Web Search and Data Mining
-  year: 2027
-  link: https://wsdm-conference.org/2027/
-  deadlines:
-  - date: '2026-08-24T23:59:59-12:00'
-    comment: Full Paper
-    abstract: '2026-08-17T23:59:59-12:00'
-  areas:
-  - DB
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/wsdm/index.html
-  date: February 15 - 19, 2027
-  place: Cordis, Hong Kong SAR, China
-  country: China
 - name: SETTA
   description: 'Symposium on Dependable Software Engineering: Theories, Tools and Applications'
   year: 2026
@@ -3566,6 +3534,21 @@
   date: March 9-12, 2027
   place: Leiden, Netherlands
   country: Netherlands
+- name: COLING
+  description: International Conference on Computational Linguistics
+  year: 2027
+  link: https://2027.coling-iccl.org/
+  deadlines:
+  - date: '2026-10-12T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/coling/index.html
+  date: May 9-14 (in-person) and 6-7 (virtual), 2027
+  place: Macau SAR, China / Online
+  country: Macau
 - name: ETAPS
   description: European Joint Conferences on Theory and Practice of Software
   year: 2027
@@ -4033,7 +4016,7 @@
   link: https://icde2027.github.io/
   deadlines:
   - date: '2026-11-11T17:00:00-08:00'
-    comment: second round
+    comment: second round; notification date is approximate
   areas:
   - DB
   tags:
@@ -4095,6 +4078,9 @@
   - date: '2026-11-16T23:59:59-12:00'
     comment: 'Main Track; rebuttal/revision period: February 16-March 8, 2027'
     abstract: '2026-11-09T23:59:59-12:00'
+  - date: '2026-12-13T23:59:59-12:00'
+    comment: 'Industry Track; rebuttal period: February 15-26, 2027'
+    abstract: '2026-12-06T23:59:59-12:00'
   areas:
   - DS
   tags:
@@ -4153,6 +4139,21 @@
   date: May 17-19, 2027
   place: MONTREAL, CANADA
   country: Canada
+- name: WSDM
+  description: International Conference on Web Search and Data Mining
+  year: 2027
+  link: https://wsdm-conference.org/2027/
+  deadlines:
+  - date: '2026-11-17T23:59:59-12:00'
+    comment: Short Paper
+  areas:
+  - DB
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/wsdm/index.html
+  date: February 15 - 19, 2027
+  place: Cordis, Hong Kong SAR, China
+  country: China
 - name: DAC
   description: Design Automation Conference
   year: 2027
@@ -4615,21 +4616,6 @@
   date: June 21-25, 2027
   place: Singapore
   country: Singapore
-- name: COLING
-  description: International Conference on Computational Linguistics
-  year: 2027
-  link: https://2027.coling-iccl.org/
-  deadlines:
-  - date: '2026-12-23T23:59:59-12:00'
-    comment: COLING commitment after ARR meta-reviews; reviewed papers only
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/coling/index.html
-  date: May 9-14 (in-person) and 6-7 (virtual), 2027
-  place: Macau SAR, China / Online
-  country: Macau
 - name: NAACL
   description: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
   year: 2027
@@ -4885,6 +4871,21 @@
   date: June 15 - 18, 2027
   place: Hanoi, Vietnam
   country: Vietnam
+- name: GECCO
+  description: Genetic and Evolutionary Computation Conference
+  year: 2027
+  link: https://gecco-2027.sigevo.org/HomePage
+  deadlines:
+  - date: '2027-01-25T23:59:59-12:00'
+    abstract: '2027-01-18T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/gecco/index.html
+  date: July 12-16, 2027
+  place: Kraków, Poland
+  country: Poland
 - name: IDC
   description: ACM Interaction Design and Children Conference
   year: 2027
@@ -5361,6 +5362,20 @@
   date: October 10-15, 2027
   place: Prague, Czechia
   country: Czechia
+- name: IJCB
+  description: International Joint Conference on Biometrics
+  year: 2027
+  link: https://ijcb2027.ieee-biometrics.org/
+  deadlines:
+  - date: '2027-04-10T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/icb/index.html
+  date: September 13-17, 2027
+  place: Foz do Iguaçu, Brazil
+  country: Brazil
 - name: ECAI
   description: European Conference on Artificial Intelligence
   year: 2027
