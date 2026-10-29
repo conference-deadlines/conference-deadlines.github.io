@@ -3948,17 +3948,6 @@ DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
 URL:https://www.sacmat.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:cscwd-2027-0-paper@conference-deadlines
-DTSTAMP:20261101T115959Z
-DTSTART:20261101T115959Z
-DTEND:20261101T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CSCWD 2027 deadline
-DESCRIPTION:International Conference on Computer Supported Cooperative Work
-  in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
-URL:http://2027.cscwd.org
-END:VEVENT
-BEGIN:VEVENT
 UID:vldb-2027-0-abstract@conference-deadlines
 DTSTAMP:20261026T000000Z
 DTSTART:20261026T000000Z
@@ -4481,9 +4470,9 @@ URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
 UID:esann-2027-0-paper@conference-deadlines
-DTSTAMP:20261119T075959Z
-DTSTART:20261119T075959Z
-DTEND:20261119T082959Z
+DTSTAMP:20261119T115959Z
+DTSTART:20261119T115959Z
+DTEND:20261119T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ESANN 2027 deadline
 DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
@@ -4679,6 +4668,17 @@ SUMMARY:PETS 2027 deadline (Issue 4 Paper Submission Deadline)
 DESCRIPTION:Privacy Enhancing Technologies Symposium\nhttps://petsymposium.
  org/cfp27.php\nLocation: Delft\, The Netherlands
 URL:https://petsymposium.org/cfp27.php
+END:VEVENT
+BEGIN:VEVENT
+UID:cscwd-2027-0-paper@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CSCWD 2027 deadline (Paper submission due (extended))
+DESCRIPTION:International Conference on Computer Supported Cooperative Work
+  in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
+URL:http://2027.cscwd.org
 END:VEVENT
 BEGIN:VEVENT
 UID:ccgrid-2027-0-abstract@conference-deadlines

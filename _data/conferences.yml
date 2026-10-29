@@ -3768,20 +3768,6 @@
   date: July 19-21, 2027
   place: Durham, England, United Kingdom
   country: United Kingdom
-- name: CSCWD
-  description: International Conference on Computer Supported Cooperative Work in Design
-  year: 2027
-  link: http://2027.cscwd.org
-  deadlines:
-  - date: '2026-10-31T23:59:59-12:00'
-  areas:
-  - HI
-  tags:
-  - CORE-C
-  dblp: https://dblp.org/db/conf/cscwd/index.html
-  date: May 26-28, 2027
-  place: Brisbane, Australia
-  country: Australia
 - name: VLDB
   description: International Conference on Very Large Data Bases
   year: 2027
@@ -4174,7 +4160,7 @@
   year: 2027
   link: https://www.esann.org/
   deadlines:
-  - date: '2026-11-18T23:59:59-08:00'
+  - date: '2026-11-19T03:59:59-08:00'
   areas:
   - AI
   tags:
@@ -4340,6 +4326,21 @@
   date: July 19-24, 2027
   place: Delft, The Netherlands
   country: Netherlands
+- name: CSCWD
+  description: International Conference on Computer Supported Cooperative Work in Design
+  year: 2027
+  link: http://2027.cscwd.org
+  deadlines:
+  - date: '2026-11-30T23:59:59-12:00'
+    comment: Paper submission due (extended)
+  areas:
+  - HI
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/cscwd/index.html
+  date: May 26-28, 2027
+  place: Brisbane, Australia
+  country: Australia
 - name: CCGRID
   description: IEEE International Symposium on Cluster, Cloud and Internet Computing
   year: 2027
