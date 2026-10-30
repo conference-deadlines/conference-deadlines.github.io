@@ -3802,66 +3802,23 @@
   date: April 15-16, 2027
   place: Amsterdam, Netherlands
   country: Netherlands
-- name: EuroGP
-  description: European Conference on Genetic Programming
+- name: SAI
+  description: Computing Conference (SAI)
   year: 2027
-  link: https://www.evostar.org/2027/eurogp/
+  link: https://saiconference.com/Computing
   deadlines:
   - date: '2026-11-01T23:59:59-12:00'
-    comment: Full papers
+    comment: Round 1
+  - date: '2026-12-01T23:59:59-12:00'
+    comment: Round 2
   areas:
-  - AI
+  - MX
   tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/eurogp/index.html
-  date: March 31-April 2, 2027
-  place: Mainz, Germany (hybrid)
-  country: Germany
-- name: EvoApplications
-  description: International Conference on the Applications of Evolutionary Computation
-  year: 2027
-  link: https://www.evostar.org/2027/evoapps/
-  deadlines:
-  - date: '2026-11-01T23:59:59-12:00'
-    comment: Full papers
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/evoapps/index.html
-  date: March 31-April 2, 2027
-  place: Mainz, Germany (hybrid)
-  country: Germany
-- name: EvoCOP
-  description: European Conference on Evolutionary Computation in Combinatorial Optimisation
-  year: 2027
-  link: https://www.evostar.org/2027/evocop/
-  deadlines:
-  - date: '2026-11-01T23:59:59-12:00'
-    comment: Full papers
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/evocop/index.html
-  date: March 31-April 2, 2027
-  place: Mainz, Germany (hybrid)
-  country: Germany
-- name: EvoMUSART
-  description: International Conference on Artificial Intelligence in Music, Sound, Art and Design
-  year: 2027
-  link: https://www.evostar.org/2027/evomusart/
-  deadlines:
-  - date: '2026-11-01T23:59:59-12:00'
-    comment: Full papers
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/evomusart/index.html
-  date: March 31-April 2, 2027
-  place: Mainz, Germany (hybrid)
-  country: Germany
+  - CORE-N
+  dblp: https://dblp.org/db/conf/sai/index.html
+  date: July 8-9, 2027
+  place: London, United Kingdom
+  country: United Kingdom
 - name: ICST
   description: IEEE International Conference on Software Testing, Verification and Validation
   year: 2027
@@ -3911,7 +3868,7 @@
   link: https://2027.rtas.org/
   deadlines:
   - date: '2026-11-05T23:59:59-12:00'
-    comment: Submission Deadline (Firm)
+    comment: Submission Deadline (Firm); Author notification date is tentative.
   areas:
   - DS
   tags:
@@ -4090,6 +4047,66 @@
   date: June 20-25, 2027
   place: Seattle, WA, United States
   country: United States
+- name: EuroGP
+  description: European Conference on Genetic Programming
+  year: 2027
+  link: https://www.evostar.org/2027/eurogp/
+  deadlines:
+  - date: '2026-11-16T23:59:59-12:00'
+    comment: Full papers
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/eurogp/index.html
+  date: March 31-April 2, 2027
+  place: Mainz, Germany (hybrid)
+  country: Germany
+- name: EvoApplications
+  description: International Conference on the Applications of Evolutionary Computation
+  year: 2027
+  link: https://www.evostar.org/2027/evoapps/
+  deadlines:
+  - date: '2026-11-16T23:59:59-12:00'
+    comment: Full papers
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/evoapps/index.html
+  date: March 31-April 2, 2027
+  place: Mainz, Germany (hybrid)
+  country: Germany
+- name: EvoCOP
+  description: European Conference on Evolutionary Computation in Combinatorial Optimisation
+  year: 2027
+  link: https://www.evostar.org/2027/evocop/
+  deadlines:
+  - date: '2026-11-16T23:59:59-12:00'
+    comment: Full papers
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/evocop/index.html
+  date: March 31-April 2, 2027
+  place: Mainz, Germany (hybrid)
+  country: Germany
+- name: EvoMUSART
+  description: International Conference on Artificial Intelligence in Music, Sound, Art and Design
+  year: 2027
+  link: https://www.evostar.org/2027/evomusart/
+  deadlines:
+  - date: '2026-11-16T23:59:59-12:00'
+    comment: Full papers
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/evomusart/index.html
+  date: March 31-April 2, 2027
+  place: Mainz, Germany (hybrid)
+  country: Germany
 - name: IMC
   description: ACM Internet Measurement Conference
   year: 2027
@@ -4385,21 +4402,6 @@
   date: May 24-28, 2027
   place: Maastricht, Netherlands
   country: Netherlands
-- name: SAI
-  description: Computing Conference (SAI)
-  year: 2027
-  link: https://saiconference.com/Computing
-  deadlines:
-  - date: '2026-12-01T23:59:59-12:00'
-    comment: Round 2
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/sai/index.html
-  date: July 8-9, 2027
-  place: London, United Kingdom
-  country: United Kingdom
 - name: DSN
   description: International Conference on Dependable Systems and Networks
   year: 2027
