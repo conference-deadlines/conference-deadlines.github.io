@@ -3926,28 +3926,6 @@ DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
 URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
-UID:sacmat-2027-0-paper@conference-deadlines
-DTSTAMP:20261031T115959Z
-DTSTART:20261031T115959Z
-DTEND:20261031T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2027 deadline (First Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
-URL:https://www.sacmat.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sacmat-2027-1-paper@conference-deadlines
-DTSTAMP:20270213T115959Z
-DTSTART:20270213T115959Z
-DTEND:20270213T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2027 deadline (Second Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
-URL:https://www.sacmat.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:vldb-2027-0-abstract@conference-deadlines
 DTSTAMP:20261026T000000Z
 DTSTART:20261026T000000Z
@@ -5606,6 +5584,17 @@ SUMMARY:InterSpeech 2027 deadline
 DESCRIPTION:Conference of the International Speech Communication Associatio
  n\nhttps://interspeech2027.org/\nLocation: São Paulo\, Brazil
 URL:https://interspeech2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-0-paper@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (Second Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:mobilehci-2027-0-abstract@conference-deadlines

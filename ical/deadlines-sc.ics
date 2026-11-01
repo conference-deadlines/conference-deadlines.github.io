@@ -329,28 +329,6 @@ DESCRIPTION:Cryptographer's Track at RSA Conference\nhttps://www.esat.kuleu
 URL:https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:sacmat-2027-0-paper@conference-deadlines
-DTSTAMP:20261031T115959Z
-DTSTART:20261031T115959Z
-DTEND:20261031T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2027 deadline (First Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
-URL:https://www.sacmat.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:sacmat-2027-1-paper@conference-deadlines
-DTSTAMP:20270213T115959Z
-DTSTART:20270213T115959Z
-DTEND:20270213T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2027 deadline (Second Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
-URL:https://www.sacmat.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:noms-2027-0-paper@conference-deadlines
 DTSTAMP:20261110T115959Z
 DTSTART:20261110T115959Z
@@ -651,5 +629,16 @@ SUMMARY:SAIS 2027 deadline (Paper submission deadline)
 DESCRIPTION:USENIX Conference on Secure Agentic-AI Systems\nhttps://www.use
  nix.org/conference/sais27\nLocation: Santa Clara\, CA\, USA
 URL:https://www.usenix.org/conference/sais27
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-0-paper@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (Second Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
 END:VEVENT
 END:VCALENDAR

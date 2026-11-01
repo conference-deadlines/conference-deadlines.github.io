@@ -3753,23 +3753,6 @@
   date: May 30 - June 3, 2027
   place: Washington, DC, USA
   country: United States
-- name: SACMAT
-  description: ACM Symposium on Access Control Models and Technologies
-  year: 2027
-  link: https://www.sacmat.org/2027/
-  deadlines:
-  - date: '2026-10-30T23:59:59-12:00'
-    comment: First Cycle
-  - date: '2027-02-12T23:59:59-12:00'
-    comment: Second Cycle
-  areas:
-  - SC
-  tags:
-  - CORE-C
-  dblp: https://dblp.org/db/conf/sacmat/index.html
-  date: July 19-21, 2027
-  place: Durham, England, United Kingdom
-  country: United Kingdom
 - name: VLDB
   description: International Conference on Very Large Data Bases
   year: 2027
@@ -5141,6 +5124,21 @@
   date: August 29 - September 2, 2027
   place: São Paulo, Brazil
   country: Brazil
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2027
+  link: https://www.sacmat.org/2027/
+  deadlines:
+  - date: '2027-02-12T23:59:59-12:00'
+    comment: Second Cycle
+  areas:
+  - SC
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/sacmat/index.html
+  date: July 19-21, 2027
+  place: Durham, England, United Kingdom
+  country: United Kingdom
 - name: MobileHCI
   description: ACM International Conference on Mobile Human-Computer Interaction
   year: 2027
