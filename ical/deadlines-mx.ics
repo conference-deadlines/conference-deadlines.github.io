@@ -251,36 +251,14 @@ URL:https://www2027.thewebconf.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:mlsys-2027-0-paper@conference-deadlines
-DTSTAMP:20261030T200000Z
-DTSTART:20261030T200000Z
-DTEND:20261030T203000Z
+DTSTAMP:20261030T210000Z
+DTSTART:20261030T210000Z
+DTEND:20261030T213000Z
 TRANSP:TRANSPARENT
 SUMMARY:MLSys 2027 deadline
 DESCRIPTION:Conference on Machine Learning and Systems\nhttps://mlsys.org/\
  nLocation: Bellevue\, Washington\, USA
 URL:https://mlsys.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:sai-2027-0-paper@conference-deadlines
-DTSTAMP:20261102T115959Z
-DTSTART:20261102T115959Z
-DTEND:20261102T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 1)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
-END:VEVENT
-BEGIN:VEVENT
-UID:sai-2027-1-paper@conference-deadlines
-DTSTAMP:20261202T115959Z
-DTSTART:20261202T115959Z
-DTEND:20261202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 2)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
 UID:recomb-2027-0-abstract@conference-deadlines
@@ -303,6 +281,17 @@ SUMMARY:RECOMB 2027 deadline
 DESCRIPTION:International Conference on Research inComputational Molecular 
  Biology\nhttps://recomb.org/recomb2027/\nLocation: Toronto\, Canada
 URL:https://recomb.org/recomb2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sai-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAI 2027 deadline (Round 2)
+DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
+ \nLocation: London\, United Kingdom
+URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
 UID:bis-2027-0-paper@conference-deadlines

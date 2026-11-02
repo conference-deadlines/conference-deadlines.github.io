@@ -211,7 +211,8 @@ DTSTAMP:20260820T115959Z
 DTSTART:20260820T115959Z
 DTEND:20260820T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:NDSS 2027 deadline (Fall)
+SUMMARY:NDSS 2027 deadline (Fall\; decision is final major-revision notific
+ ation)
 DESCRIPTION:Network and Distributed System Security (NDSS) Symposium\nhttps
  ://www.ndss-symposium.org/ndss2027/\nLocation: Seoul\, Republic of Korea
 URL:https://www.ndss-symposium.org/ndss2027/
@@ -306,17 +307,6 @@ DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
 URL:https://dfrws.org/conferences/dfceurope2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
-DTSTAMP:20261011T115959Z
-DTSTART:20261011T115959Z
-DTEND:20261011T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IFIP WG 11.9 2027 deadline (Submission Deadline)
-DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
- ps://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
-URL:https://www.ifip119.org/Conferences/
-END:VEVENT
-BEGIN:VEVENT
 UID:ct-rsa-2027-0-paper@conference-deadlines
 DTSTAMP:20261023T115959Z
 DTSTART:20261023T115959Z
@@ -327,6 +317,39 @@ DESCRIPTION:Cryptographer's Track at RSA Conference\nhttps://www.esat.kuleu
  ven.be/cosic/events/ct-rsa-2027/\nLocation: San Francisco\, California\, U
  SA
 URL:https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
+DTSTAMP:20261026T115959Z
+DTSTART:20261026T115959Z
+DTEND:20261026T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IFIP WG 11.9 2027 deadline (Submission Deadline)
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
+ ps://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-0-paper@conference-deadlines
+DTSTAMP:20261105T115959Z
+DTSTART:20261105T115959Z
+DTEND:20261105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (First Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-1-paper@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (Second Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:noms-2027-0-paper@conference-deadlines
@@ -629,16 +652,5 @@ SUMMARY:SAIS 2027 deadline (Paper submission deadline)
 DESCRIPTION:USENIX Conference on Secure Agentic-AI Systems\nhttps://www.use
  nix.org/conference/sais27\nLocation: Santa Clara\, CA\, USA
 URL:https://www.usenix.org/conference/sais27
-END:VEVENT
-BEGIN:VEVENT
-UID:sacmat-2027-0-paper@conference-deadlines
-DTSTAMP:20270213T115959Z
-DTSTART:20270213T115959Z
-DTEND:20270213T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2027 deadline (Second Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
-URL:https://www.sacmat.org/2027/
 END:VEVENT
 END:VCALENDAR

@@ -1421,9 +1421,9 @@ URL:https://conf.researchr.org/home/internetware-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026-0-abstract@conference-deadlines
-DTSTAMP:20260505T115900Z
-DTSTART:20260505T115900Z
-DTEND:20260505T122900Z
+DTSTAMP:20260505T115959Z
+DTSTART:20260505T115959Z
+DTEND:20260505T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:NeurIPS 2026 abstract deadline
 DESCRIPTION:Conference on Neural Information Processing Systems\nhttps://ne
@@ -1433,9 +1433,9 @@ URL:https://neurips.cc/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026-0-paper@conference-deadlines
-DTSTAMP:20260507T115900Z
-DTSTART:20260507T115900Z
-DTEND:20260507T122900Z
+DTSTAMP:20260507T115959Z
+DTSTART:20260507T115959Z
+DTEND:20260507T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:NeurIPS 2026 deadline
 DESCRIPTION:Conference on Neural Information Processing Systems\nhttps://ne
@@ -2276,7 +2276,7 @@ DTSTAMP:20260620T155959Z
 DTSTART:20260620T155959Z
 DTEND:20260620T162959Z
 TRANSP:TRANSPARENT
-SUMMARY:NLPCC 2026 deadline
+SUMMARY:NLPCC 2026 deadline (Notification expected to be unchanged)
 DESCRIPTION:CCF International Conference on Natural Language Processing and
   Chinese Computing\nhttp://tcci.ccf.org.cn/conference/2026/\nLocation: Mac
  au\, China
@@ -2959,7 +2959,8 @@ DTSTAMP:20260820T115959Z
 DTSTART:20260820T115959Z
 DTEND:20260820T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:NDSS 2027 deadline (Fall)
+SUMMARY:NDSS 2027 deadline (Fall\; decision is final major-revision notific
+ ation)
 DESCRIPTION:Network and Distributed System Security (NDSS) Symposium\nhttps
  ://www.ndss-symposium.org/ndss2027/\nLocation: Seoul\, Republic of Korea
 URL:https://www.ndss-symposium.org/ndss2027/
@@ -3678,17 +3679,6 @@ DESCRIPTION:Digital Forensic Research Workshop\nhttps://dfrws.org/conferenc
 URL:https://dfrws.org/conferences/dfceurope2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
-DTSTAMP:20261011T115959Z
-DTSTART:20261011T115959Z
-DTEND:20261011T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IFIP WG 11.9 2027 deadline (Submission Deadline)
-DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
- ps://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
-URL:https://www.ifip119.org/Conferences/
-END:VEVENT
-BEGIN:VEVENT
 UID:eacl-2027-0-paper@conference-deadlines
 DTSTAMP:20261012T115959Z
 DTSTART:20261012T115959Z
@@ -3859,6 +3849,17 @@ DESCRIPTION:ACM SIGPLAN Workshop on Partial Evaluation and Program Manipula
 URL:https://popl27.sigplan.org/home/pepm-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:ifip-wg-11-9-2027-0-paper@conference-deadlines
+DTSTAMP:20261026T115959Z
+DTSTART:20261026T115959Z
+DTEND:20261026T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IFIP WG 11.9 2027 deadline (Submission Deadline)
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\nhtt
+ ps://www.ifip119.org/Conferences/\nLocation: New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+END:VEVENT
+BEGIN:VEVENT
 UID:www-2027-0-abstract@conference-deadlines
 DTSTAMP:20261019T115959Z
 DTSTART:20261019T115959Z
@@ -3905,9 +3906,9 @@ URL:https://2027.ieee-iscas.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:mlsys-2027-0-paper@conference-deadlines
-DTSTAMP:20261030T200000Z
-DTSTART:20261030T200000Z
-DTEND:20261030T203000Z
+DTSTAMP:20261030T210000Z
+DTSTART:20261030T210000Z
+DTEND:20261030T213000Z
 TRANSP:TRANSPARENT
 SUMMARY:MLSys 2027 deadline
 DESCRIPTION:Conference on Machine Learning and Systems\nhttps://mlsys.org/\
@@ -3926,72 +3927,6 @@ DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
 URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
-UID:vldb-2027-0-abstract@conference-deadlines
-DTSTAMP:20261026T000000Z
-DTSTART:20261026T000000Z
-DTEND:20261026T003000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 abstract deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-0-paper@conference-deadlines
-DTSTAMP:20261102T010000Z
-DTSTART:20261102T010000Z
-DTEND:20261102T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-1-abstract@conference-deadlines
-DTSTAMP:20261126T010000Z
-DTSTART:20261126T010000Z
-DTEND:20261126T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 abstract deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-1-paper@conference-deadlines
-DTSTAMP:20261202T010000Z
-DTSTART:20261202T010000Z
-DTEND:20261202T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-2-abstract@conference-deadlines
-DTSTAMP:20261226T010000Z
-DTSTART:20261226T010000Z
-DTEND:20261226T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 abstract deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:vldb-2027-2-paper@conference-deadlines
-DTSTAMP:20270102T010000Z
-DTSTART:20270102T010000Z
-DTEND:20270102T013000Z
-TRANSP:TRANSPARENT
-SUMMARY:VLDB 2027 deadline
-DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
- vldb.org/2027/\nLocation: Athens\, Greece
-URL:https://www.vldb.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:cvc-2027-0-paper@conference-deadlines
 DTSTAMP:20261102T115959Z
 DTSTART:20261102T115959Z
@@ -4001,28 +3936,6 @@ SUMMARY:CVC 2027 deadline (Round 2)
 DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
  tion: Amsterdam\, Netherlands
 URL:https://saiconference.com/CVC
-END:VEVENT
-BEGIN:VEVENT
-UID:sai-2027-0-paper@conference-deadlines
-DTSTAMP:20261102T115959Z
-DTSTART:20261102T115959Z
-DTEND:20261102T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 1)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
-END:VEVENT
-BEGIN:VEVENT
-UID:sai-2027-1-paper@conference-deadlines
-DTSTAMP:20261202T115959Z
-DTSTART:20261202T115959Z
-DTEND:20261202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SAI 2027 deadline (Round 2)
-DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
- \nLocation: London\, United Kingdom
-URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
 UID:icst-2027-0-paper@conference-deadlines
@@ -4046,6 +3959,28 @@ SUMMARY:STOC 2027 deadline
 DESCRIPTION:ACM Symposium on the Theory of Computing\nhttps://acm-stoc.org/
  stoc2027/\nLocation: Atlanta\, Georgia\, USA
 URL:https://acm-stoc.org/stoc2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-0-paper@conference-deadlines
+DTSTAMP:20261105T115959Z
+DTSTART:20261105T115959Z
+DTEND:20261105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (First Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sacmat-2027-1-paper@conference-deadlines
+DTSTAMP:20270213T115959Z
+DTSTART:20270213T115959Z
+DTEND:20270213T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SACMAT 2027 deadline (Second Cycle)
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
+ //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:recomb-2027-0-abstract@conference-deadlines
@@ -4682,6 +4617,72 @@ DESCRIPTION:International Conference on Computer Supported Cooperative Work
 URL:http://2027.cscwd.org
 END:VEVENT
 BEGIN:VEVENT
+UID:vldb-2027-0-abstract@conference-deadlines
+DTSTAMP:20261126T010000Z
+DTSTART:20261126T010000Z
+DTEND:20261126T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 abstract deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T010000Z
+DTSTART:20261202T010000Z
+DTEND:20261202T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-1-abstract@conference-deadlines
+DTSTAMP:20261226T010000Z
+DTSTART:20261226T010000Z
+DTEND:20261226T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 abstract deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-1-paper@conference-deadlines
+DTSTAMP:20270102T010000Z
+DTSTART:20270102T010000Z
+DTEND:20270102T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-2-abstract@conference-deadlines
+DTSTAMP:20270126T010000Z
+DTSTART:20270126T010000Z
+DTEND:20270126T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 abstract deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:vldb-2027-2-paper@conference-deadlines
+DTSTAMP:20270202T010000Z
+DTSTART:20270202T010000Z
+DTEND:20270202T013000Z
+TRANSP:TRANSPARENT
+SUMMARY:VLDB 2027 deadline
+DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
+ vldb.org/2027/\nLocation: Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:ccgrid-2027-0-abstract@conference-deadlines
 DTSTAMP:20261125T115959Z
 DTSTART:20261125T115959Z
@@ -4728,6 +4729,17 @@ SUMMARY:FSE 2027 deadline (ToSC\, Volume 2027\, Issue 1 Submission deadline
 DESCRIPTION:Fast Software Encryption\nhttps://fse.iacr.org/2027/\nLocation:
   Maastricht\, Netherlands
 URL:https://fse.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sai-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SAI 2027 deadline (Round 2)
+DESCRIPTION:Computing Conference (SAI)\nhttps://saiconference.com/Computing
+ \nLocation: London\, United Kingdom
+URL:https://saiconference.com/Computing
 END:VEVENT
 BEGIN:VEVENT
 UID:dsn-2027-0-abstract@conference-deadlines
@@ -5086,30 +5098,6 @@ DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
 URL:https://2027.ieee-isit.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ijcai-2027-0-abstract@conference-deadlines
-DTSTAMP:20270105T115900Z
-DTSTART:20270105T115900Z
-DTEND:20270105T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCAI 2027 abstract deadline (Separate satellite event: August 15-1
- 7\, 2027\, Hengqin\, China)
-DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
- s://2027.ijcai.org/\nLocation: Kyoto\, Japan
-URL:https://2027.ijcai.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ijcai-2027-0-paper@conference-deadlines
-DTSTAMP:20270112T115900Z
-DTSTART:20270112T115900Z
-DTEND:20270112T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
- , Hengqin\, China)
-DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
- s://2027.ijcai.org/\nLocation: Kyoto\, Japan
-URL:https://2027.ijcai.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:sigmetrics-2027-0-abstract@conference-deadlines
 DTSTAMP:20270105T115959Z
 DTSTART:20270105T115959Z
@@ -5164,6 +5152,30 @@ SUMMARY:ISSTA 2027 deadline
 DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and Ana
  lysis\nhttps://conf.researchr.org/home/issta-2027\nLocation: Singapore
 URL:https://conf.researchr.org/home/issta-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-0-abstract@conference-deadlines
+DTSTAMP:20270105T115959Z
+DTSTART:20270105T115959Z
+DTEND:20270105T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAI 2027 abstract deadline (Separate satellite event: August 15-1
+ 7\, 2027\, Hengqin\, China)
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2027.ijcai.org/\nLocation: Kyoto\, Japan
+URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ijcai-2027-0-paper@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
+ , Hengqin\, China)
+DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
+ s://2027.ijcai.org/\nLocation: Kyoto\, Japan
+URL:https://2027.ijcai.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:bis-2027-0-paper@conference-deadlines
@@ -5586,17 +5598,6 @@ DESCRIPTION:Conference of the International Speech Communication Associatio
 URL:https://interspeech2027.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:sacmat-2027-0-paper@conference-deadlines
-DTSTAMP:20270213T115959Z
-DTSTART:20270213T115959Z
-DTEND:20270213T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SACMAT 2027 deadline (Second Cycle)
-DESCRIPTION:ACM Symposium on Access Control Models and Technologies\nhttps:
- //www.sacmat.org/2027/\nLocation: Durham\, England\, United Kingdom
-URL:https://www.sacmat.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:mobilehci-2027-0-abstract@conference-deadlines
 DTSTAMP:20270211T115959Z
 DTSTART:20270211T115959Z
@@ -5880,9 +5881,9 @@ URL:https://ecai2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cgi-2027-0-paper@conference-deadlines
-DTSTAMP:20270420T235959Z
-DTSTART:20270420T235959Z
-DTEND:20270421T002959Z
+DTSTAMP:20270421T115959Z
+DTSTART:20270421T115959Z
+DTEND:20270421T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CGI 2027 deadline (Regular conference papers (LNCS proceedings trac
  k))

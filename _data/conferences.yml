@@ -1276,8 +1276,8 @@
   year: 2026
   link: https://neurips.cc/Conferences/2026
   deadlines:
-  - date: '2026-05-07T11:59:00+00:00'
-    abstract: '2026-05-05T11:59:00+00:00'
+  - date: '2026-05-07T11:59:59+00:00'
+    abstract: '2026-05-05T11:59:59+00:00'
   areas:
   - AI
   tags:
@@ -2090,6 +2090,7 @@
   link: http://tcci.ccf.org.cn/conference/2026/
   deadlines:
   - date: '2026-06-20T23:59:59+08:00'
+    comment: Notification expected to be unchanged
   areas:
   - AI
   tags:
@@ -2794,7 +2795,7 @@
   link: https://www.ndss-symposium.org/ndss2027/
   deadlines:
   - date: '2026-08-19T23:59:59-12:00'
-    comment: Fall
+    comment: Fall; decision is final major-revision notification
   areas:
   - SC
   tags:
@@ -3487,22 +3488,6 @@
   date: March 30 - April 2, 2027
   place: Edinburgh, Scotland
   country: United Kingdom
-- name: IFIP WG 11.9
-  description: IFIP WG 11.9 International Conference on Digital Forensics
-  year: 2027
-  link: https://www.ifip119.org/Conferences/
-  deadlines:
-  - date: '2026-10-10T23:59:59-12:00'
-    comment: Submission Deadline
-  areas:
-  - SC
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/NO DBLP/index.html
-  date: January 7 - 8, 2027
-  place: New Delhi, India
-  country: India
 - name: EACL
   description: The Annual Conference of the European Chapter of the Association for Computational Linguistics
   year: 2027
@@ -3677,6 +3662,22 @@
   date: January 12, 2027
   place: Mexico City, Mexico
   country: Mexico
+- name: IFIP WG 11.9
+  description: IFIP WG 11.9 International Conference on Digital Forensics
+  year: 2027
+  link: https://www.ifip119.org/Conferences/
+  deadlines:
+  - date: '2026-10-25T23:59:59-12:00'
+    comment: Submission Deadline
+  areas:
+  - SC
+  tags:
+  - CORE-N
+  tba: true
+  dblp: https://dblp.org/db/conf/NO DBLP/index.html
+  date: January 7 - 8, 2027
+  place: New Delhi, India
+  country: India
 - name: WWW
   description: International World Wide Web Conferences
   year: 2027
@@ -3728,7 +3729,7 @@
   year: 2027
   link: https://mlsys.org/
   deadlines:
-  - date: '2026-10-30T20:00:00+00:00'
+  - date: '2026-10-30T21:00:00+00:00'
   areas:
   - MX
   tags:
@@ -3753,25 +3754,6 @@
   date: May 30 - June 3, 2027
   place: Washington, DC, USA
   country: United States
-- name: VLDB
-  description: International Conference on Very Large Data Bases
-  year: 2027
-  link: https://www.vldb.org/2027/
-  deadlines:
-  - date: '2026-11-01T17:00:00-08:00'
-    abstract: '2026-10-25T17:00:00-07:00'
-  - date: '2026-12-01T17:00:00-08:00'
-    abstract: '2026-11-25T17:00:00-08:00'
-  - date: '2027-01-01T17:00:00-08:00'
-    abstract: '2026-12-25T17:00:00-08:00'
-  areas:
-  - DB
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/vldb/index.html
-  date: August 23 - August 27, 2027
-  place: Athens, Greece
-  country: Greece
 - name: CVC
   description: Computer Vision Conference
   year: 2027
@@ -3783,27 +3765,11 @@
   - AI
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/cvc/index.html
   date: April 15-16, 2027
   place: Amsterdam, Netherlands
   country: Netherlands
-- name: SAI
-  description: Computing Conference (SAI)
-  year: 2027
-  link: https://saiconference.com/Computing
-  deadlines:
-  - date: '2026-11-01T23:59:59-12:00'
-    comment: Round 1
-  - date: '2026-12-01T23:59:59-12:00'
-    comment: Round 2
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/sai/index.html
-  date: July 8-9, 2027
-  place: London, United Kingdom
-  country: United Kingdom
 - name: ICST
   description: IEEE International Conference on Software Testing, Verification and Validation
   year: 2027
@@ -3832,6 +3798,23 @@
   date: June 6-11, 2027
   place: Atlanta, Georgia, USA
   country: United States
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2027
+  link: https://www.sacmat.org/2027/
+  deadlines:
+  - date: '2026-11-04T23:59:59-12:00'
+    comment: First Cycle
+  - date: '2027-02-12T23:59:59-12:00'
+    comment: Second Cycle
+  areas:
+  - SC
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/sacmat/index.html
+  date: July 19-21, 2027
+  place: Durham, England, United Kingdom
+  country: United Kingdom
 - name: RECOMB
   description: International Conference on Research inComputational Molecular Biology
   year: 2027
@@ -4343,6 +4326,25 @@
   date: May 26-28, 2027
   place: Brisbane, Australia
   country: Australia
+- name: VLDB
+  description: International Conference on Very Large Data Bases
+  year: 2027
+  link: https://www.vldb.org/2027/
+  deadlines:
+  - date: '2026-12-01T17:00:00-08:00'
+    abstract: '2026-11-25T17:00:00-08:00'
+  - date: '2027-01-01T17:00:00-08:00'
+    abstract: '2026-12-25T17:00:00-08:00'
+  - date: '2027-02-01T17:00:00-08:00'
+    abstract: '2027-01-25T17:00:00-08:00'
+  areas:
+  - DB
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/vldb/index.html
+  date: August 23 - August 27, 2027
+  place: Athens, Greece
+  country: Greece
 - name: CCGRID
   description: IEEE International Symposium on Cluster, Cloud and Internet Computing
   year: 2027
@@ -4387,6 +4389,21 @@
   date: May 24-28, 2027
   place: Maastricht, Netherlands
   country: Netherlands
+- name: SAI
+  description: Computing Conference (SAI)
+  year: 2027
+  link: https://saiconference.com/Computing
+  deadlines:
+  - date: '2026-12-01T23:59:59-12:00'
+    comment: Round 2
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/sai/index.html
+  date: July 8-9, 2027
+  place: London, United Kingdom
+  country: United Kingdom
 - name: DSN
   description: International Conference on Dependable Systems and Networks
   year: 2027
@@ -4662,22 +4679,6 @@
   date: June 27 - July 2, 2027
   place: Sorrento, Italy
   country: Italy
-- name: IJCAI
-  description: International Joint Conference on Artificial Intelligence
-  year: 2027
-  link: https://2027.ijcai.org/
-  deadlines:
-  - date: '2027-01-11T23:59:00-12:00'
-    comment: 'Separate satellite event: August 15-17, 2027, Hengqin, China'
-    abstract: '2027-01-04T23:59:00-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/ijcai/index.html
-  date: August 7-13, 2027
-  place: Kyoto, Japan
-  country: Japan
 - name: SIGMETRICS
   description: ACM Special Interest Group on Measurement and Evaluation
   year: 2027
@@ -4723,6 +4724,22 @@
   date: September 7-10, 2027
   place: Singapore
   country: Singapore
+- name: IJCAI
+  description: International Joint Conference on Artificial Intelligence
+  year: 2027
+  link: https://2027.ijcai.org/
+  deadlines:
+  - date: '2027-01-11T23:59:59-12:00'
+    comment: 'Separate satellite event: August 15-17, 2027, Hengqin, China'
+    abstract: '2027-01-04T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/ijcai/index.html
+  date: August 7-13, 2027
+  place: Kyoto, Japan
+  country: Japan
 - name: BIS
   description: International Conference on Business Information Systems
   year: 2027
@@ -5124,21 +5141,6 @@
   date: August 29 - September 2, 2027
   place: São Paulo, Brazil
   country: Brazil
-- name: SACMAT
-  description: ACM Symposium on Access Control Models and Technologies
-  year: 2027
-  link: https://www.sacmat.org/2027/
-  deadlines:
-  - date: '2027-02-12T23:59:59-12:00'
-    comment: Second Cycle
-  areas:
-  - SC
-  tags:
-  - CORE-C
-  dblp: https://dblp.org/db/conf/sacmat/index.html
-  date: July 19-21, 2027
-  place: Durham, England, United Kingdom
-  country: United Kingdom
 - name: MobileHCI
   description: ACM International Conference on Mobile Human-Computer Interaction
   year: 2027
@@ -5272,7 +5274,7 @@
   tags:
   - CORE-A
   dblp: https://dblp.org/db/conf/iros/index.html
-  date: September 26 - October 1, 2027
+  date: September 27 - October 1, 2027
   place: Florence, Italy
   country: Italy
 - name: ICSME
@@ -5398,7 +5400,7 @@
   year: 2027
   link: https://cgs-network.org/cgi27/
   deadlines:
-  - date: '2027-04-20T23:59:59+00:00'
+  - date: '2027-04-21T11:59:59+00:00'
     comment: Regular conference papers (LNCS proceedings track)
   areas:
   - CG
