@@ -318,9 +318,9 @@ URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurographics-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115900Z
-DTSTART:20261002T115900Z
-DTEND:20261002T122900Z
+DTSTAMP:20261002T125900Z
+DTSTART:20261002T125900Z
+DTEND:20261002T132900Z
 TRANSP:TRANSPARENT
 SUMMARY:Eurographics 2027 deadline
 DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
@@ -373,6 +373,28 @@ DESCRIPTION:IEEE Pacific Visualization Symposium\nhttps://pacificvis2027.gi
 URL:https://pacificvis2027.github.io/
 END:VEVENT
 BEGIN:VEVENT
+UID:eurovis-2027-0-abstract@conference-deadlines
+DTSTAMP:20261124T115959Z
+DTSTART:20261124T115959Z
+DTEND:20261124T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroVis 2027 abstract deadline (Full papers)
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://eurovis27.git
+ hub.io/web/\nLocation: Stuttgart\, Germany
+URL:https://eurovis27.github.io/web/
+END:VEVENT
+BEGIN:VEVENT
+UID:eurovis-2027-0-paper@conference-deadlines
+DTSTAMP:20261203T115959Z
+DTSTART:20261203T115959Z
+DTEND:20261203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroVis 2027 deadline (Full papers)
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://eurovis27.git
+ hub.io/web/\nLocation: Stuttgart\, Germany
+URL:https://eurovis27.github.io/web/
+END:VEVENT
+BEGIN:VEVENT
 UID:gmp-2027-0-abstract@conference-deadlines
 DTSTAMP:20261214T235959Z
 DTSTART:20261214T235959Z
@@ -404,6 +426,30 @@ SUMMARY:ICME 2027 deadline
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\nhttps:/
  /2027.ieeeicme.org/\nLocation: Xiamen\, China
 URL:https://2027.ieeeicme.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-siggraph-2027-0-abstract@conference-deadlines
+DTSTAMP:20270121T220000Z
+DTSTART:20270121T220000Z
+DTEND:20270121T223000Z
+TRANSP:TRANSPARENT
+SUMMARY:ACM SIGGRAPH 2027 abstract deadline (Submissions form & conflicts /
+  paper deadline (upload deadline Jan 29))
+DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2027.siggraph.org/\nLo
+ cation: Anaheim\, California
+URL:https://s2027.siggraph.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-siggraph-2027-0-paper@conference-deadlines
+DTSTAMP:20270128T220000Z
+DTSTART:20270128T220000Z
+DTEND:20270128T223000Z
+TRANSP:TRANSPARENT
+SUMMARY:ACM SIGGRAPH 2027 deadline (Submissions form & conflicts / paper de
+ adline (upload deadline Jan 29))
+DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2027.siggraph.org/\nLo
+ cation: Anaheim\, California
+URL:https://s2027.siggraph.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icmr-2027-0-paper@conference-deadlines

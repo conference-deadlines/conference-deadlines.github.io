@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Artificial Intelligence
 BEGIN:VEVENT
-UID:icml-2026-0-abstract@conference-deadlines
-DTSTAMP:20260124T115959Z
-DTSTART:20260124T115959Z
-DTEND:20260124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICML 2026 abstract deadline (Paper Submissions Open on OpenReview J
- an 08 2026 12:00AM UTC-0)
-DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
- onferences/2026\nLocation: Seoul\, Korea
-URL:https://icml.cc/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:icml-2026-0-paper@conference-deadlines
-DTSTAMP:20260129T115959Z
-DTSTART:20260129T115959Z
-DTEND:20260129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICML 2026 deadline (Paper Submissions Open on OpenReview Jan 08 202
- 6 12:00AM UTC-0)
-DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
- onferences/2026\nLocation: Seoul\, Korea
-URL:https://icml.cc/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:conll-2026-0-paper@conference-deadlines
 DTSTAMP:20260220T115959Z
 DTSTART:20260220T115959Z
@@ -616,6 +592,40 @@ DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
 URL:https://saiconference.com/CVC
 END:VEVENT
 BEGIN:VEVENT
+UID:icdar-2027-0-paper@conference-deadlines
+DTSTAMP:20261116T115959Z
+DTSTART:20261116T115959Z
+DTEND:20261116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 deadline (Journal track\; initial decision Jan 15\, revi
+ sed submission Apr 1)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-1-abstract@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 abstract deadline (Conference track)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-1-paper@conference-deadlines
+DTSTAMP:20270221T115959Z
+DTSTART:20270221T115959Z
+DTEND:20270221T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 deadline (Conference track)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:cvpr-2027-0-abstract@conference-deadlines
 DTSTAMP:20261111T115959Z
 DTSTART:20261111T115959Z
@@ -846,28 +856,6 @@ SUMMARY:IJCNN 2027 deadline
 DESCRIPTION:International Joint Conference on Neural Networks\nhttps://ijcn
  n.org/2027\nLocation: Cape Town\, South Africa
 URL:https://ijcnn.org/2027
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2027-0-abstract@conference-deadlines
-DTSTAMP:20270201T115959Z
-DTSTART:20270201T115959Z
-DTEND:20270201T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 abstract deadline
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2027-0-paper@conference-deadlines
-DTSTAMP:20270221T115959Z
-DTSTART:20270221T115959Z
-DTEND:20270221T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 deadline
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ieee-cec-2027-0-paper@conference-deadlines

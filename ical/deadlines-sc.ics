@@ -553,6 +553,17 @@ DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
 URL:https://icdf2c.eai-conferences.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:sec-2027-0-paper@conference-deadlines
+DTSTAMP:20261216T115959Z
+DTSTART:20261216T115959Z
+DTEND:20261216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SEC 2027 deadline (Full papers)
+DESCRIPTION:IFIP International Information Security Conference\nhttps://ifi
+ psec.org/\nLocation: Linköping University\, Linköping\, Sweden
+URL:https://ifipsec.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:ches-2027-0-paper@conference-deadlines
 DTSTAMP:20270116T115959Z
 DTSTART:20270116T115959Z

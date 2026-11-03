@@ -32,7 +32,7 @@
 - name: France
   count: 7
 - name: Germany
-  count: 14
+  count: 15
 - name: Greece
   count: 9
 - name: Hungary
@@ -78,11 +78,11 @@
 - name: South Africa
   count: 1
 - name: South Korea
-  count: 6
+  count: 5
 - name: Spain
   count: 8
 - name: Sweden
-  count: 2
+  count: 3
 - name: Switzerland
   count: 3
 - name: Taiwan
@@ -94,7 +94,7 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 80
+  count: 81
 - name: Vietnam
   count: 4
 - name: Vietnam / Online

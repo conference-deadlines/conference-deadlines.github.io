@@ -49,30 +49,6 @@ DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
 URL:https://www.fccm.org/past/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:icml-2026-0-abstract@conference-deadlines
-DTSTAMP:20260124T115959Z
-DTSTART:20260124T115959Z
-DTEND:20260124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICML 2026 abstract deadline (Paper Submissions Open on OpenReview J
- an 08 2026 12:00AM UTC-0)
-DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
- onferences/2026\nLocation: Seoul\, Korea
-URL:https://icml.cc/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
-UID:icml-2026-0-paper@conference-deadlines
-DTSTAMP:20260129T115959Z
-DTSTART:20260129T115959Z
-DTEND:20260129T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICML 2026 deadline (Paper Submissions Open on OpenReview Jan 08 202
- 6 12:00AM UTC-0)
-DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
- onferences/2026\nLocation: Seoul\, Korea
-URL:https://icml.cc/Conferences/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cf-2026-0-paper@conference-deadlines
 DTSTAMP:20260202T115959Z
 DTSTART:20260202T115959Z
@@ -3499,9 +3475,9 @@ URL:https://eg2027.isti.cnr.it/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurographics-2027-0-paper@conference-deadlines
-DTSTAMP:20261002T115900Z
-DTSTART:20261002T115900Z
-DTEND:20261002T122900Z
+DTSTAMP:20261002T125900Z
+DTSTART:20261002T125900Z
+DTEND:20261002T132900Z
 TRANSP:TRANSPARENT
 SUMMARY:Eurographics 2027 deadline
 DESCRIPTION:Eurographics\nhttps://eg2027.isti.cnr.it/\nLocation: Lucca\, It
@@ -4185,6 +4161,40 @@ DESCRIPTION:International Conference on Advanced Information Systems Engine
 URL:https://deal.us.es/caise27/
 END:VEVENT
 BEGIN:VEVENT
+UID:icdar-2027-0-paper@conference-deadlines
+DTSTAMP:20261116T115959Z
+DTSTART:20261116T115959Z
+DTEND:20261116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 deadline (Journal track\; initial decision Jan 15\, revi
+ sed submission Apr 1)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-1-abstract@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 abstract deadline (Conference track)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-1-paper@conference-deadlines
+DTSTAMP:20270221T115959Z
+DTSTART:20270221T115959Z
+DTEND:20270221T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 deadline (Conference track)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:isca-2027-0-abstract@conference-deadlines
 DTSTAMP:20261110T115959Z
 DTSTART:20261110T115959Z
@@ -4786,6 +4796,28 @@ DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
 URL:https://eurosp2027.ieee-security.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:eurovis-2027-0-abstract@conference-deadlines
+DTSTAMP:20261124T115959Z
+DTSTART:20261124T115959Z
+DTEND:20261124T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroVis 2027 abstract deadline (Full papers)
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://eurovis27.git
+ hub.io/web/\nLocation: Stuttgart\, Germany
+URL:https://eurovis27.github.io/web/
+END:VEVENT
+BEGIN:VEVENT
+UID:eurovis-2027-0-paper@conference-deadlines
+DTSTAMP:20261203T115959Z
+DTSTART:20261203T115959Z
+DTEND:20261203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:EuroVis 2027 deadline (Full papers)
+DESCRIPTION:Eurographics Conference on Visualization\nhttps://eurovis27.git
+ hub.io/web/\nLocation: Stuttgart\, Germany
+URL:https://eurovis27.github.io/web/
+END:VEVENT
+BEGIN:VEVENT
 UID:conext-2027-0-abstract@conference-deadlines
 DTSTAMP:20261128T115959Z
 DTSTART:20261128T115959Z
@@ -5004,6 +5036,17 @@ SUMMARY:ICDF2C 2027 deadline (Full Paper Submission deadline)
 DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\nht
  tps://icdf2c.eai-conferences.org/2027/\nLocation: New York\, USA
 URL:https://icdf2c.eai-conferences.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:sec-2027-0-paper@conference-deadlines
+DTSTAMP:20261216T115959Z
+DTSTART:20261216T115959Z
+DTEND:20261216T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SEC 2027 deadline (Full papers)
+DESCRIPTION:IFIP International Information Security Conference\nhttps://ifi
+ psec.org/\nLocation: Linköping University\, Linköping\, Sweden
+URL:https://ifipsec.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:eswc-2027-0-abstract@conference-deadlines
@@ -5395,6 +5438,30 @@ DESCRIPTION:USENIX Security Symposium\nhttps://www.usenix.org/conference/us
 URL:https://www.usenix.org/conference/usenixsecurity27
 END:VEVENT
 BEGIN:VEVENT
+UID:acm-siggraph-2027-0-abstract@conference-deadlines
+DTSTAMP:20270121T220000Z
+DTSTART:20270121T220000Z
+DTEND:20270121T223000Z
+TRANSP:TRANSPARENT
+SUMMARY:ACM SIGGRAPH 2027 abstract deadline (Submissions form & conflicts /
+  paper deadline (upload deadline Jan 29))
+DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2027.siggraph.org/\nLo
+ cation: Anaheim\, California
+URL:https://s2027.siggraph.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-siggraph-2027-0-paper@conference-deadlines
+DTSTAMP:20270128T220000Z
+DTSTART:20270128T220000Z
+DTEND:20270128T223000Z
+TRANSP:TRANSPARENT
+SUMMARY:ACM SIGGRAPH 2027 deadline (Submissions form & conflicts / paper de
+ adline (upload deadline Jan 29))
+DESCRIPTION:ACM SIGGRAPH Annual Conference\nhttps://s2027.siggraph.org/\nLo
+ cation: Anaheim\, California
+URL:https://s2027.siggraph.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:csfw-2027-0-paper@conference-deadlines
 DTSTAMP:20270129T115959Z
 DTSTART:20270129T115959Z
@@ -5640,28 +5707,6 @@ SUMMARY:ICCCN 2027 deadline
 DESCRIPTION:IEEE International Conference on Computer Communications and Ne
  tworks\nhttp://www.icccn.org/ICCCN27/\nLocation: Rome\, Italy
 URL:http://www.icccn.org/ICCCN27/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2027-0-abstract@conference-deadlines
-DTSTAMP:20270201T115959Z
-DTSTART:20270201T115959Z
-DTEND:20270201T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 abstract deadline
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2027-0-paper@conference-deadlines
-DTSTAMP:20270221T115959Z
-DTSTART:20270221T115959Z
-DTEND:20270221T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 deadline
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cade-2027-0-abstract@conference-deadlines
