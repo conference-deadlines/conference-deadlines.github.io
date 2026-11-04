@@ -843,9 +843,9 @@ URL:https://sigops.org/s/conferences/sosp/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:acm-mm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260326T115959Z
-DTSTART:20260326T115959Z
-DTEND:20260326T122959Z
+DTSTAMP:20260326T115900Z
+DTSTART:20260326T115900Z
+DTEND:20260326T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:ACM MM 2026 abstract deadline
 DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
@@ -4174,9 +4174,9 @@ URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2027-1-abstract@conference-deadlines
-DTSTAMP:20270201T115959Z
-DTSTART:20270201T115959Z
-DTEND:20270201T122959Z
+DTSTAMP:20270224T115959Z
+DTSTART:20270224T115959Z
+DTEND:20270224T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDAR 2027 abstract deadline (Conference track)
 DESCRIPTION:International Conference on Document Analysis and Recognition\n
@@ -4185,9 +4185,9 @@ URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2027-1-paper@conference-deadlines
-DTSTAMP:20270221T115959Z
-DTSTART:20270221T115959Z
-DTEND:20270221T122959Z
+DTSTAMP:20270303T115959Z
+DTSTART:20270303T115959Z
+DTEND:20270303T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDAR 2027 deadline (Conference track)
 DESCRIPTION:International Conference on Document Analysis and Recognition\n
@@ -5655,11 +5655,12 @@ URL:https://eusipco2027.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:interspeech-2027-0-paper@conference-deadlines
-DTSTAMP:20270209T235959Z
-DTSTART:20270209T235959Z
-DTEND:20270210T002959Z
+DTSTAMP:20270210T115959Z
+DTSTART:20270210T115959Z
+DTEND:20270210T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:InterSpeech 2027 deadline
+SUMMARY:InterSpeech 2027 deadline (Regular papers\; rebuttal April 13-20. D
+ ate-only milestones use AoE end-of-day convention\, converted to UTC.)
 DESCRIPTION:Conference of the International Speech Communication Associatio
  n\nhttps://interspeech2027.org/\nLocation: São Paulo\, Brazil
 URL:https://interspeech2027.org/

@@ -62,9 +62,9 @@ URL:https://ieeevis.org/year/2026/welcome
 END:VEVENT
 BEGIN:VEVENT
 UID:acm-mm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260326T115959Z
-DTSTART:20260326T115959Z
-DTEND:20260326T122959Z
+DTSTAMP:20260326T115900Z
+DTSTART:20260326T115900Z
+DTEND:20260326T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:ACM MM 2026 abstract deadline
 DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
@@ -475,11 +475,12 @@ URL:https://eusipco2027.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:interspeech-2027-0-paper@conference-deadlines
-DTSTAMP:20270209T235959Z
-DTSTART:20270209T235959Z
-DTEND:20270210T002959Z
+DTSTAMP:20270210T115959Z
+DTSTART:20270210T115959Z
+DTEND:20270210T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:InterSpeech 2027 deadline
+SUMMARY:InterSpeech 2027 deadline (Regular papers\; rebuttal April 13-20. D
+ ate-only milestones use AoE end-of-day convention\, converted to UTC.)
 DESCRIPTION:Conference of the International Speech Communication Associatio
  n\nhttps://interspeech2027.org/\nLocation: São Paulo\, Brazil
 URL:https://interspeech2027.org/

@@ -785,7 +785,7 @@
   link: https://2026.acmmm.org/
   deadlines:
   - date: '2026-04-01T23:59:59-12:00'
-    abstract: '2026-03-25T23:59:59-12:00'
+    abstract: '2026-03-25T23:59:00-12:00'
   areas:
   - CG
   tags:
@@ -3973,9 +3973,9 @@
   deadlines:
   - date: '2026-11-15T23:59:59-12:00'
     comment: Journal track; initial decision Jan 15, revised submission Apr 1
-  - date: '2027-02-20T23:59:59-12:00'
+  - date: '2027-03-02T23:59:59-12:00'
     comment: Conference track
-    abstract: '2027-01-31T23:59:59-12:00'
+    abstract: '2027-02-23T23:59:59-12:00'
   areas:
   - AI
   tags:
@@ -5182,7 +5182,8 @@
   year: 2027
   link: https://interspeech2027.org/
   deadlines:
-  - date: '2027-02-09T23:59:59+00:00'
+  - date: '2027-02-10T11:59:59+00:00'
+    comment: Regular papers; rebuttal April 13-20. Date-only milestones use AoE end-of-day convention, converted to UTC.
   areas:
   - CG
   tags:
