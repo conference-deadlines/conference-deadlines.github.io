@@ -10,7 +10,7 @@
 - name: Belgium
   count: 5
 - name: Brazil
-  count: 5
+  count: 4
 - name: Cambodia
   count: 1
 - name: Canada
@@ -19,6 +19,8 @@
   count: 1
 - name: China
   count: 39
+- name: China / Online
+  count: 1
 - name: Cyprus
   count: 2
 - name: Czechia
@@ -30,11 +32,11 @@
 - name: Finland
   count: 1
 - name: France
-  count: 7
+  count: 6
 - name: Germany
   count: 15
 - name: Greece
-  count: 9
+  count: 8
 - name: Hungary
   count: 1
 - name: Iceland
@@ -46,7 +48,7 @@
 - name: Ireland
   count: 4
 - name: Italy
-  count: 25
+  count: 24
 - name: Japan
   count: 12
 - name: Lithuania
@@ -64,7 +66,7 @@
 - name: Netherlands
   count: 10
 - name: New Zealand
-  count: 1
+  count: 2
 - name: Panama
   count: 1
 - name: Poland
@@ -94,8 +96,6 @@
 - name: United Kingdom
   count: 17
 - name: United States
-  count: 81
+  count: 80
 - name: Vietnam
   count: 4
-- name: Vietnam / Online
-  count: 1

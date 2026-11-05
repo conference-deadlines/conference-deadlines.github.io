@@ -196,23 +196,13 @@ DESCRIPTION:ACM Symposium on the Theory of Computing\nhttps://acm-stoc.org/
 URL:https://acm-stoc.org/stoc2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:hscc-2027-0-abstract@conference-deadlines
-DTSTAMP:20261030T115959Z
-DTSTART:20261030T115959Z
-DTEND:20261030T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HSCC 2027 abstract deadline
-DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
- trol\nhttps://hscc.acm.org/2027/\nLocation: Boulder\, Colorado\, USA
-URL:https://hscc.acm.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:hscc-2027-0-paper@conference-deadlines
 DTSTAMP:20261106T115959Z
 DTSTART:20261106T115959Z
 DTEND:20261106T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:HSCC 2027 deadline
+SUMMARY:HSCC 2027 deadline (Regular papers\; papers submitted by the deadli
+ ne may be updated until November 6\, 2026 23:59:59 AoE)
 DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
  trol\nhttps://hscc.acm.org/2027/\nLocation: Boulder\, Colorado\, USA
 URL:https://hscc.acm.org/2027/

@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Databases & Data Mining
 BEGIN:VEVENT
-UID:mdm-2026-0-paper@conference-deadlines
-DTSTAMP:20260307T115959Z
-DTSTART:20260307T115959Z
-DTEND:20260307T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MDM 2026 deadline (Research track regular and short papers\; extend
- ed deadline)
-DESCRIPTION:IEEE International Conference on Mobile Data Management\nhttps:
- //mdm-2026.github.io/index.html\nLocation: Athens\, Greece
-URL:https://mdm-2026.github.io/index.html
-END:VEVENT
-BEGIN:VEVENT
 UID:dexa-2026-0-paper@conference-deadlines
 DTSTAMP:20260411T115959Z
 DTSTART:20260411T115959Z
@@ -62,30 +50,6 @@ DESCRIPTION:SIAM International Conference on Data Mining\nhttps://www.siam.
  org/conferences-events/siam-conferences/sdm26/\nLocation: Salt Lake City\,
   Utah\, USA
 URL:https://www.siam.org/conferences-events/siam-conferences/sdm26/
-END:VEVENT
-BEGIN:VEVENT
-UID:iswc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260503T115959Z
-DTSTART:20260503T115959Z
-DTEND:20260503T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISWC 2026 abstract deadline (ESWC resubmissions must be committed b
- y April 11\, 2026)
-DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
- cweb.org/\nLocation: Bari\, Italy
-URL:https://iswc2026.semanticweb.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:iswc-2026-0-paper@conference-deadlines
-DTSTAMP:20260508T115959Z
-DTSTART:20260508T115959Z
-DTEND:20260508T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISWC 2026 deadline (ESWC resubmissions must be committed by April 1
- 1\, 2026)
-DESCRIPTION:International Semantic Web Conference\nhttps://iswc2026.semanti
- cweb.org/\nLocation: Bari\, Italy
-URL:https://iswc2026.semanticweb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:wisa-2026-0-paper@conference-deadlines
@@ -143,18 +107,6 @@ SUMMARY:CIKM 2026 deadline
 DESCRIPTION:ACM International Conference on Information and Knowledge Manag
  ement\nhttps://cikm2026.diag.uniroma1.it/\nLocation: Rome\, Italy
 URL:https://cikm2026.diag.uniroma1.it/
-END:VEVENT
-BEGIN:VEVENT
-UID:apweb-waim-2026-0-paper@conference-deadlines
-DTSTAMP:20260525T115959Z
-DTSTART:20260525T115959Z
-DTEND:20260525T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:APWeb-WAIM 2026 deadline (second round)
-DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
- https://conferences.sigappfr.org/apweb2026/\nLocation: Danang\, Vietnam / 
- Online
-URL:https://conferences.sigappfr.org/apweb2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:wise-2026-0-paper@conference-deadlines
@@ -514,6 +466,41 @@ DESCRIPTION:International Conference on Research on Development in Informat
  ion Retrieval\nhttps://sigir2027.org/\nLocation: San Jose\, California\, U
  SA
 URL:https://sigir2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:mdm-2027-0-paper@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MDM 2027 deadline
+DESCRIPTION:IEEE International Conference on Mobile Data Management\nhttps:
+ //mdm2027.github.io/index.html\nLocation: Hamilton\, New Zealand
+URL:https://mdm2027.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:apweb-waim-2027-0-paper@conference-deadlines
+DTSTAMP:20270308T115959Z
+DTSTART:20270308T115959Z
+DTEND:20270308T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:APWeb-WAIM 2027 deadline
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
+ https://conferences.sigappfr.org/apweb2027/\nLocation: Guiyang\, China / O
+ nline
+URL:https://conferences.sigappfr.org/apweb2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:apweb-waim-2027-1-paper@conference-deadlines
+DTSTAMP:20270515T115959Z
+DTSTART:20270515T115959Z
+DTEND:20270515T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:APWeb-WAIM 2027 deadline
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data\n
+ https://conferences.sigappfr.org/apweb2027/\nLocation: Guiyang\, China / O
+ nline
+URL:https://conferences.sigappfr.org/apweb2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdm-2027-0-paper@conference-deadlines

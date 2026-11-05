@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Interdisciplinary & Emerging
 BEGIN:VEVENT
-UID:cogsci-2026-0-paper@conference-deadlines
-DTSTAMP:20260203T115959Z
-DTSTART:20260203T115959Z
-DTEND:20260203T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CogSci 2026 deadline
-DESCRIPTION:Annual Meeting of the Cognitive Science Society\nhttps://cognit
- ivesciencesociety.org/cogsci-2026/\nLocation: Rio de Janeiro\, Brazil (Hyb
- rid)
-URL:https://cognitivesciencesociety.org/cogsci-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cloud-2026-0-paper@conference-deadlines
 DTSTAMP:20260323T110000Z
 DTSTART:20260323T110000Z

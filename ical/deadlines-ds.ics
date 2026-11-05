@@ -717,17 +717,6 @@ DESCRIPTION:The International Symposium on Code Generation and Optimization
 URL:https://conf.researchr.org/home/cgo-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:fast-2027-0-paper@conference-deadlines
-DTSTAMP:20260916T115959Z
-DTSTART:20260916T115959Z
-DTEND:20260916T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FAST 2027 deadline (Fall deadline)
-DESCRIPTION:USENIX Conference on File and Storage Technologies\nhttps://www
- .usenix.org/conference/fast27\nLocation: Renton\, WA\, USA
-URL:https://www.usenix.org/conference/fast27
-END:VEVENT
-BEGIN:VEVENT
 UID:date-2027-0-abstract@conference-deadlines
 DTSTAMP:20260914T115959Z
 DTSTART:20260914T115959Z

@@ -83,28 +83,6 @@ DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
 URL:https://2026.acmmm.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:egsr-2026-0-abstract@conference-deadlines
-DTSTAMP:20260409T115959Z
-DTSTART:20260409T115959Z
-DTEND:20260409T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EGSR 2026 abstract deadline
-DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
- \nLocation: Bordeaux\, France
-URL:https://egsr2026.inria.fr/
-END:VEVENT
-BEGIN:VEVENT
-UID:egsr-2026-0-paper@conference-deadlines
-DTSTAMP:20260416T115959Z
-DTSTART:20260416T115959Z
-DTEND:20260416T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:EGSR 2026 deadline
-DESCRIPTION:Eurographics Symposium on Rendering\nhttps://egsr2026.inria.fr/
- \nLocation: Bordeaux\, France
-URL:https://egsr2026.inria.fr/
-END:VEVENT
-BEGIN:VEVENT
 UID:sca-2026-0-abstract@conference-deadlines
 DTSTAMP:20260410T235959Z
 DTSTART:20260410T235959Z
@@ -174,9 +152,9 @@ URL:https://pacificgraphics2026.github.io/
 END:VEVENT
 BEGIN:VEVENT
 UID:slt-2026-0-abstract@conference-deadlines
-DTSTAMP:20260625T115959Z
-DTSTART:20260625T115959Z
-DTEND:20260625T122959Z
+DTSTAMP:20260625T115900Z
+DTSTART:20260625T115900Z
+DTEND:20260625T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:SLT 2026 abstract deadline (Abstract registration / full paper)
 DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\nhttps://attend.
@@ -509,9 +487,9 @@ URL:https://cog2027.u-aizu.ac.jp/
 END:VEVENT
 BEGIN:VEVENT
 UID:smi-2027-0-abstract@conference-deadlines
-DTSTAMP:20270301T235959Z
-DTSTART:20270301T235959Z
-DTEND:20270302T002959Z
+DTSTAMP:20270302T115959Z
+DTSTART:20270302T115959Z
+DTEND:20270302T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SMI 2027 abstract deadline (Abstract submission is a soft deadline)
 DESCRIPTION:Shape Modeling International\nhttps://smiconf.github.io/2027/\n
@@ -520,9 +498,9 @@ URL:https://smiconf.github.io/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:smi-2027-0-paper@conference-deadlines
-DTSTAMP:20270308T235959Z
-DTSTART:20270308T235959Z
-DTEND:20270309T002959Z
+DTSTAMP:20270309T115959Z
+DTSTART:20270309T115959Z
+DTEND:20270309T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:SMI 2027 deadline (Abstract submission is a soft deadline)
 DESCRIPTION:Shape Modeling International\nhttps://smiconf.github.io/2027/\n
