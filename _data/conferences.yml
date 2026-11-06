@@ -1065,22 +1065,6 @@
   date: October 11-16, 2026
   place: Grand Hyatt San Antonio Riverwalk, TX, USA
   country: United States
-- name: CONCUR
-  description: International Conference on Concurrency Theory
-  year: 2026
-  link: https://confest-2026.github.io/concur/
-  deadlines:
-  - date: '2026-04-27T23:59:59-12:00'
-    abstract: '2026-04-20T23:59:59-12:00'
-  areas:
-  - CT
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/concur/index.html
-  date: Sep 1-4, 2026
-  place: Liverpool, UK
-  country: United Kingdom
 - name: PACT
   description: International Conference on Parallel Architectures and Compilation Techniques
   year: 2026
@@ -3698,6 +3682,7 @@
   - DS
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/rtas/index.html
   date: May 17-20, 2027
   place: Boulder, Colorado
@@ -3714,6 +3699,7 @@
   - NW
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/sensys/index.html
   date: May 17-20, 2027
   place: Boulder, CO, USA
@@ -3729,6 +3715,7 @@
   - SE
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/icpc/index.html
   date: April 25-26, 2027
   place: Dublin, Ireland
@@ -3744,6 +3731,7 @@
   - CT
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/hybrid/index.html
   date: May 17-20, 2027
   place: Boulder, Colorado, USA
@@ -4748,7 +4736,7 @@
   tags:
   - CORE-ASTAR
   dblp: https://dblp.org/db/conf/cav/index.html
-  date: July 19-23, 2027
+  date: July 21-23, 2027
   place: KIT, Amsterdam, The Netherlands
   country: Netherlands
 - name: ACNS
