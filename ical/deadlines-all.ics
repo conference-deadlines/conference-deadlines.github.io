@@ -4027,9 +4027,9 @@ URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2027-1-abstract@conference-deadlines
-DTSTAMP:20270224T115959Z
-DTSTART:20270224T115959Z
-DTEND:20270224T122959Z
+DTSTAMP:20270227T115959Z
+DTSTART:20270227T115959Z
+DTEND:20270227T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDAR 2027 abstract deadline (Conference track)
 DESCRIPTION:International Conference on Document Analysis and Recognition\n
@@ -4038,9 +4038,9 @@ URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdar-2027-1-paper@conference-deadlines
-DTSTAMP:20270303T115959Z
-DTSTART:20270303T115959Z
-DTEND:20270303T122959Z
+DTSTAMP:20270306T115959Z
+DTSTART:20270306T115959Z
+DTEND:20270306T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDAR 2027 deadline (Conference track)
 DESCRIPTION:International Conference on Document Analysis and Recognition\n
@@ -4358,9 +4358,9 @@ URL:https://www.codaspy.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:dasfaa-2027-0-paper@conference-deadlines
-DTSTAMP:20261126T115900Z
-DTSTART:20261126T115900Z
-DTEND:20261126T122900Z
+DTSTAMP:20261126T115959Z
+DTSTART:20261126T115959Z
+DTEND:20261126T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:DASFAA 2027 deadline (Research papers)
 DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
@@ -4647,6 +4647,18 @@ SUMMARY:EuroS&P 2027 deadline
 DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
  2027.ieee-security.org/\nLocation: Madrid\, Spain
 URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:socg-2027-0-paper@conference-deadlines
+DTSTAMP:20261203T115959Z
+DTSTART:20261203T115959Z
+DTEND:20261203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SOCG 2027 deadline (Submission registration: November 25\, 2026\, 2
+ 3:59 AoE)
+DESCRIPTION:International Symposium on Computational Geometry\nhttps://cgwe
+ ek27.computational-geometry.org/\nLocation: Bengaluru\, India
+URL:https://cgweek27.computational-geometry.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:eurovis-2027-0-abstract@conference-deadlines
@@ -5864,9 +5876,9 @@ URL:https://kr.org/KR2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdm-2027-0-paper@conference-deadlines
-DTSTAMP:20270607T115900Z
-DTSTART:20270607T115900Z
-DTEND:20270607T122900Z
+DTSTAMP:20270607T115959Z
+DTSTART:20270607T115959Z
+DTEND:20270607T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICDM 2027 deadline (Full papers\; dates are tentative and subject t
  o change)

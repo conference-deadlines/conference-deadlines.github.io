@@ -186,6 +186,18 @@ DESCRIPTION:International Conference on Hybrid Systems: Computation and Con
 URL:https://hscc.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:socg-2027-0-paper@conference-deadlines
+DTSTAMP:20261203T115959Z
+DTSTART:20261203T115959Z
+DTEND:20261203T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SOCG 2027 deadline (Submission registration: November 25\, 2026\, 2
+ 3:59 AoE)
+DESCRIPTION:International Symposium on Computational Geometry\nhttps://cgwe
+ ek27.computational-geometry.org/\nLocation: Bengaluru\, India
+URL:https://cgweek27.computational-geometry.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:isit-2027-0-paper@conference-deadlines
 DTSTAMP:20270111T115959Z
 DTSTART:20270111T115959Z

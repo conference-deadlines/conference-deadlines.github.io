@@ -3245,7 +3245,7 @@
   - CORE-A
   tba: true
   dblp: https://dblp.org/db/conf/ecir/index.html
-  date: March 21-25, 2027
+  date: March 22-24, 2027
   place: Southampton, UK
   country: United Kingdom
 - name: AISTATS
@@ -3848,9 +3848,9 @@
   deadlines:
   - date: '2026-11-15T23:59:59-12:00'
     comment: Journal track; initial decision Jan 15, revised submission Apr 1
-  - date: '2027-03-02T23:59:59-12:00'
+  - date: '2027-03-05T23:59:59-12:00'
     comment: Conference track
-    abstract: '2027-02-23T23:59:59-12:00'
+    abstract: '2027-02-26T23:59:59-12:00'
   areas:
   - AI
   tags:
@@ -4099,7 +4099,7 @@
   year: 2027
   link: https://dasfaa2027.github.io/
   deadlines:
-  - date: '2026-11-25T23:59:00-12:00'
+  - date: '2026-11-25T23:59:59-12:00'
     comment: Research papers
   areas:
   - DB
@@ -4312,6 +4312,21 @@
   date: July 5 - 9, 2027
   place: Madrid, Spain
   country: Spain
+- name: SOCG
+  description: International Symposium on Computational Geometry
+  year: 2027
+  link: https://cgweek27.computational-geometry.org/
+  deadlines:
+  - date: '2026-12-02T23:59:59-12:00'
+    comment: 'Submission registration: November 25, 2026, 23:59 AoE'
+  areas:
+  - CT
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/compgeom/index.html
+  date: June 21-25, 2027
+  place: Bengaluru, India
+  country: India
 - name: EuroVis
   description: Eurographics Conference on Visualization
   year: 2027
@@ -5386,7 +5401,7 @@
   year: 2027
   link: https://icdm2027-website.onrender.com/
   deadlines:
-  - date: '2027-06-06T23:59:00-12:00'
+  - date: '2027-06-06T23:59:59-12:00'
     comment: Full papers; dates are tentative and subject to change
   areas:
   - DB
