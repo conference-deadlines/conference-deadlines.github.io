@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Graphics & Multimedia
 BEGIN:VEVENT
-UID:casa-2026-0-paper@conference-deadlines
-DTSTAMP:20260211T115959Z
-DTSTART:20260211T115959Z
-DTEND:20260211T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CASA 2026 deadline
-DESCRIPTION:International Conference on Computer Animation and Social Agent
- s\nhttps://cgs-network.org/CASAXR26/\nLocation: Geneva\, Switzerland (Hybr
- id)
-URL:https://cgs-network.org/CASAXR26/
-END:VEVENT
-BEGIN:VEVENT
 UID:ismar-2026-0-abstract@conference-deadlines
 DTSTAMP:20260310T115959Z
 DTSTART:20260310T115959Z
@@ -439,6 +427,17 @@ SUMMARY:ICMR 2027 deadline
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\nhtt
  ps://www.icmr2027.org/\nLocation: Singapore
 URL:https://www.icmr2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:casa-2027-0-paper@conference-deadlines
+DTSTAMP:20270204T235959Z
+DTSTART:20270204T235959Z
+DTEND:20270205T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CASA 2027 deadline
+DESCRIPTION:International Conference on Computer Animation and Social Agent
+ s\nhttps://www.cgs-network.org/casaxr27/\nLocation: Xi'an\, China
+URL:https://www.cgs-network.org/casaxr27/
 END:VEVENT
 BEGIN:VEVENT
 UID:eusipco-2027-0-paper@conference-deadlines

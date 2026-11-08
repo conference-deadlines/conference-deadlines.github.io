@@ -241,4 +241,28 @@ DESCRIPTION:The Conference on Automated Deduction\nhttps://fscd-cade.scienc
  e.ru.nl/\nLocation: Nijmegen\, Netherlands
 URL:https://fscd-cade.science.ru.nl/
 END:VEVENT
+BEGIN:VEVENT
+UID:fscd-2027-0-abstract@conference-deadlines
+DTSTAMP:20270420T115959Z
+DTSTART:20270420T115959Z
+DTEND:20270420T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSCD 2027 abstract deadline
+DESCRIPTION:International Conference on Formal Structures for Computation a
+ nd Deduction\nhttps://fscd-cade.science.ru.nl/\nLocation: Nijmegen\, Nethe
+ rlands
+URL:https://fscd-cade.science.ru.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:fscd-2027-0-paper@conference-deadlines
+DTSTAMP:20270427T115959Z
+DTSTART:20270427T115959Z
+DTEND:20270427T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSCD 2027 deadline
+DESCRIPTION:International Conference on Formal Structures for Computation a
+ nd Deduction\nhttps://fscd-cade.science.ru.nl/\nLocation: Nijmegen\, Nethe
+ rlands
+URL:https://fscd-cade.science.ru.nl/
+END:VEVENT
 END:VCALENDAR

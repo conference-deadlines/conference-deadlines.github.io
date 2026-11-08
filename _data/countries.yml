@@ -18,7 +18,7 @@
 - name: Chile
   count: 1
 - name: China
-  count: 39
+  count: 40
 - name: China / Online
   count: 1
 - name: Cyprus
@@ -64,7 +64,7 @@
 - name: Morocco
   count: 3
 - name: Netherlands
-  count: 10
+  count: 11
 - name: New Zealand
   count: 2
 - name: Panama
@@ -86,7 +86,7 @@
 - name: Sweden
   count: 3
 - name: Switzerland
-  count: 3
+  count: 2
 - name: Taiwan
   count: 3
 - name: Thailand

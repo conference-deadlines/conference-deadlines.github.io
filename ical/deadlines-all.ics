@@ -82,18 +82,6 @@ DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
 URL:https://hpdc.sci.utah.edu/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:casa-2026-0-paper@conference-deadlines
-DTSTAMP:20260211T115959Z
-DTSTART:20260211T115959Z
-DTEND:20260211T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CASA 2026 deadline
-DESCRIPTION:International Conference on Computer Animation and Social Agent
- s\nhttps://cgs-network.org/CASAXR26/\nLocation: Geneva\, Switzerland (Hybr
- id)
-URL:https://cgs-network.org/CASAXR26/
-END:VEVENT
-BEGIN:VEVENT
 UID:crypto-2026-0-paper@conference-deadlines
 DTSTAMP:20260213T075959Z
 DTSTART:20260213T075959Z
@@ -5497,6 +5485,17 @@ DESCRIPTION:ACM International Conference on Applications\, Technologies\, A
 URL:https://conferences.sigcomm.org/sigcomm/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:casa-2027-0-paper@conference-deadlines
+DTSTAMP:20270204T235959Z
+DTSTART:20270204T235959Z
+DTEND:20270205T002959Z
+TRANSP:TRANSPARENT
+SUMMARY:CASA 2027 deadline
+DESCRIPTION:International Conference on Computer Animation and Social Agent
+ s\nhttps://www.cgs-network.org/casaxr27/\nLocation: Xi'an\, China
+URL:https://www.cgs-network.org/casaxr27/
+END:VEVENT
+BEGIN:VEVENT
 UID:sais-2027-0-paper@conference-deadlines
 DTSTAMP:20270205T115959Z
 DTSTART:20270205T115959Z
@@ -5847,6 +5846,30 @@ SUMMARY:CGI 2027 deadline (Regular conference papers (LNCS proceedings trac
 DESCRIPTION:Computer Graphics International\nhttps://cgs-network.org/cgi27/
  \nLocation: Cairns\, Australia
 URL:https://cgs-network.org/cgi27/
+END:VEVENT
+BEGIN:VEVENT
+UID:fscd-2027-0-abstract@conference-deadlines
+DTSTAMP:20270420T115959Z
+DTSTART:20270420T115959Z
+DTEND:20270420T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSCD 2027 abstract deadline
+DESCRIPTION:International Conference on Formal Structures for Computation a
+ nd Deduction\nhttps://fscd-cade.science.ru.nl/\nLocation: Nijmegen\, Nethe
+ rlands
+URL:https://fscd-cade.science.ru.nl/
+END:VEVENT
+BEGIN:VEVENT
+UID:fscd-2027-0-paper@conference-deadlines
+DTSTAMP:20270427T115959Z
+DTSTART:20270427T115959Z
+DTEND:20270427T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FSCD 2027 deadline
+DESCRIPTION:International Conference on Formal Structures for Computation a
+ nd Deduction\nhttps://fscd-cade.science.ru.nl/\nLocation: Nijmegen\, Nethe
+ rlands
+URL:https://fscd-cade.science.ru.nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:kr-2027-0-abstract@conference-deadlines

@@ -63,21 +63,6 @@
   date: July 14-16, 2026
   place: Cleveland, OH, USA
   country: United States
-- name: CASA
-  description: International Conference on Computer Animation and Social Agents
-  year: 2026
-  link: https://cgs-network.org/CASAXR26/
-  deadlines:
-  - date: '2026-02-10T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/ca/index.html
-  date: June 1-3, 2026
-  place: Geneva, Switzerland (Hybrid)
-  country: Switzerland
 - name: CRYPTO
   description: International Cryptology Conference
   year: 2026
@@ -2768,7 +2753,7 @@
   - CORE-B
   tba: true
   dblp: https://dblp.org/db/conf/ijcnlp/index.html
-  date: Nov 6-10, 2026
+  date: Nov 6-8, 2026
   place: Hengqin, Zhuhai, China (Hybrid)
   country: China
 - name: INDOCRYPT
@@ -5039,6 +5024,20 @@
   date: August 8 - 12, 2027
   place: Bangkok, Thailand
   country: Thailand
+- name: CASA
+  description: International Conference on Computer Animation and Social Agents
+  year: 2027
+  link: https://www.cgs-network.org/casaxr27/
+  deadlines:
+  - date: '2027-02-04T23:59:59+00:00'
+  areas:
+  - CG
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/ca/index.html
+  date: June 4-6, 2027
+  place: Xi'an, China
+  country: China
 - name: SAIS
   description: USENIX Conference on Secure Agentic-AI Systems
   year: 2027
@@ -5380,6 +5379,21 @@
   date: July 5-9, 2027
   place: Cairns, Australia
   country: Australia
+- name: FSCD
+  description: International Conference on Formal Structures for Computation and Deduction
+  year: 2027
+  link: https://fscd-cade.science.ru.nl/
+  deadlines:
+  - date: '2027-04-26T23:59:59-12:00'
+    abstract: '2027-04-19T23:59:59-12:00'
+  areas:
+  - CT
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/fscd/index.html
+  date: August 23-26, 2027
+  place: Nijmegen, Netherlands
+  country: Netherlands
 - name: KR
   description: International Conference on Principles of Knowledge Representation and Reasoning
   year: 2027
