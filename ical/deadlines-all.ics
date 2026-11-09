@@ -27,28 +27,6 @@ DESCRIPTION:International Symposium on Performance Analysis of Systems and
 URL:https://ispass.org/ispass2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:fccm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260111T115959Z
-DTSTART:20260111T115959Z
-DTEND:20260111T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FCCM 2026 abstract deadline
-DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
- nhttps://www.fccm.org/past/2026/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.fccm.org/past/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:fccm-2026-0-paper@conference-deadlines
-DTSTAMP:20260118T115959Z
-DTSTART:20260118T115959Z
-DTEND:20260118T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FCCM 2026 deadline
-DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
- nhttps://www.fccm.org/past/2026/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.fccm.org/past/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cf-2026-0-paper@conference-deadlines
 DTSTAMP:20260202T115959Z
 DTSTART:20260202T115959Z
@@ -1845,18 +1823,6 @@ DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and Co
 URL:https://swc-ieee-2026.github.io/uic/
 END:VEVENT
 BEGIN:VEVENT
-UID:icmla-2026-0-paper@conference-deadlines
-DTSTAMP:20260601T065959Z
-DTSTART:20260601T065959Z
-DTEND:20260601T072959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICMLA 2026 deadline (Main Conference Papers DDL.)
-DESCRIPTION:International Conference on Machine Learning and Applications\n
- https://www.icmla-conference.org/icmla26/\nLocation: Oakland Center\, Roch
- ester\, Michigan\, USA
-URL:https://www.icmla-conference.org/icmla26/
-END:VEVENT
-BEGIN:VEVENT
 UID:iconip-2026-0-paper@conference-deadlines
 DTSTAMP:20260601T115959Z
 DTSTART:20260601T115959Z
@@ -3156,25 +3122,25 @@ URL:https://percom.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:date-2027-0-abstract@conference-deadlines
-DTSTAMP:20260914T115959Z
-DTSTART:20260914T115959Z
-DTEND:20260914T122959Z
+DTSTAMP:20260914T115900Z
+DTSTART:20260914T115900Z
+DTEND:20260914T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:DATE 2027 abstract deadline
 DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
- ce.com/date-2027-call-papers\nLocation: Dresden\, Germany
-URL:https://www.date-conference.com/date-2027-call-papers
+ ce.com/call-for-papers\nLocation: Dresden\, Germany
+URL:https://www.date-conference.com/call-for-papers
 END:VEVENT
 BEGIN:VEVENT
 UID:date-2027-0-paper@conference-deadlines
-DTSTAMP:20260921T115959Z
-DTSTART:20260921T115959Z
-DTEND:20260921T122959Z
+DTSTAMP:20260921T115900Z
+DTSTART:20260921T115900Z
+DTEND:20260921T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:DATE 2027 deadline
 DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
- ce.com/date-2027-call-papers\nLocation: Dresden\, Germany
-URL:https://www.date-conference.com/date-2027-call-papers
+ ce.com/call-for-papers\nLocation: Dresden\, Germany
+URL:https://www.date-conference.com/call-for-papers
 END:VEVENT
 BEGIN:VEVENT
 UID:eurosys-2027-0-abstract@conference-deadlines
@@ -5131,6 +5097,28 @@ DESCRIPTION:The International AAAI Conference on Web and Social Media\nhttp
 URL:https://www.icwsm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:fccm-2027-0-abstract@conference-deadlines
+DTSTAMP:20270111T115959Z
+DTSTART:20270111T115959Z
+DTEND:20270111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FCCM 2027 abstract deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/\nLocation: Provo\, Utah\, USA
+URL:https://www.fccm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fccm-2027-0-paper@conference-deadlines
+DTSTAMP:20270118T115959Z
+DTSTART:20270118T115959Z
+DTEND:20270118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FCCM 2027 deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/\nLocation: Provo\, Utah\, USA
+URL:https://www.fccm.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:dis-2027-0-abstract@conference-deadlines
 DTSTAMP:20270112T115959Z
 DTSTART:20270112T115959Z
@@ -5896,6 +5884,18 @@ DESCRIPTION:International Conference on Principles of Knowledge Representat
  ion and Reasoning\nhttps://kr.org/KR2027/\nLocation: Buenos Aires\, Argent
  ina
 URL:https://kr.org/KR2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icmla-2027-0-paper@conference-deadlines
+DTSTAMP:20270516T065959Z
+DTSTART:20270516T065959Z
+DTEND:20270516T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICMLA 2027 deadline (Main Conference Papers DDL.)
+DESCRIPTION:International Conference on Machine Learning and Applications\n
+ https://www.icmla-conference.org/icmla27/\nLocation: University of Miami\,
+  Coral Gables Campus\, Miami\, Florida\, USA
+URL:https://www.icmla-conference.org/icmla27/
 END:VEVENT
 BEGIN:VEVENT
 UID:icdm-2027-0-paper@conference-deadlines

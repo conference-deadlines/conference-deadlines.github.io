@@ -229,18 +229,6 @@ DESCRIPTION:British Machine Vision Conference\nhttps://bmvc2026.bmva.org/\n
 URL:https://bmvc2026.bmva.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:icmla-2026-0-paper@conference-deadlines
-DTSTAMP:20260601T065959Z
-DTSTART:20260601T065959Z
-DTEND:20260601T072959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICMLA 2026 deadline (Main Conference Papers DDL.)
-DESCRIPTION:International Conference on Machine Learning and Applications\n
- https://www.icmla-conference.org/icmla26/\nLocation: Oakland Center\, Roch
- ester\, Michigan\, USA
-URL:https://www.icmla-conference.org/icmla26/
-END:VEVENT
-BEGIN:VEVENT
 UID:iconip-2026-0-paper@conference-deadlines
 DTSTAMP:20260601T115959Z
 DTSTART:20260601T115959Z
@@ -953,5 +941,17 @@ DESCRIPTION:International Conference on Principles of Knowledge Representat
  ion and Reasoning\nhttps://kr.org/KR2027/\nLocation: Buenos Aires\, Argent
  ina
 URL:https://kr.org/KR2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:icmla-2027-0-paper@conference-deadlines
+DTSTAMP:20270516T065959Z
+DTSTART:20270516T065959Z
+DTEND:20270516T072959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICMLA 2027 deadline (Main Conference Papers DDL.)
+DESCRIPTION:International Conference on Machine Learning and Applications\n
+ https://www.icmla-conference.org/icmla27/\nLocation: University of Miami\,
+  Coral Gables Campus\, Miami\, Florida\, USA
+URL:https://www.icmla-conference.org/icmla27/
 END:VEVENT
 END:VCALENDAR

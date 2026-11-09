@@ -5,28 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Architecture & Systems
 BEGIN:VEVENT
-UID:fccm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260111T115959Z
-DTSTART:20260111T115959Z
-DTEND:20260111T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FCCM 2026 abstract deadline
-DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
- nhttps://www.fccm.org/past/2026/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.fccm.org/past/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:fccm-2026-0-paper@conference-deadlines
-DTSTAMP:20260118T115959Z
-DTSTART:20260118T115959Z
-DTEND:20260118T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FCCM 2026 deadline
-DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
- nhttps://www.fccm.org/past/2026/\nLocation: Atlanta\, Georgia\, USA
-URL:https://www.fccm.org/past/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cf-2026-0-paper@conference-deadlines
 DTSTAMP:20260202T115959Z
 DTSTART:20260202T115959Z
@@ -718,25 +696,25 @@ URL:https://conf.researchr.org/home/cgo-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:date-2027-0-abstract@conference-deadlines
-DTSTAMP:20260914T115959Z
-DTSTART:20260914T115959Z
-DTEND:20260914T122959Z
+DTSTAMP:20260914T115900Z
+DTSTART:20260914T115900Z
+DTEND:20260914T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:DATE 2027 abstract deadline
 DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
- ce.com/date-2027-call-papers\nLocation: Dresden\, Germany
-URL:https://www.date-conference.com/date-2027-call-papers
+ ce.com/call-for-papers\nLocation: Dresden\, Germany
+URL:https://www.date-conference.com/call-for-papers
 END:VEVENT
 BEGIN:VEVENT
 UID:date-2027-0-paper@conference-deadlines
-DTSTAMP:20260921T115959Z
-DTSTART:20260921T115959Z
-DTEND:20260921T122959Z
+DTSTAMP:20260921T115900Z
+DTSTART:20260921T115900Z
+DTEND:20260921T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:DATE 2027 deadline
 DESCRIPTION:Design\, Automation & Test in Europe\nhttps://www.date-conferen
- ce.com/date-2027-call-papers\nLocation: Dresden\, Germany
-URL:https://www.date-conference.com/date-2027-call-papers
+ ce.com/call-for-papers\nLocation: Dresden\, Germany
+URL:https://www.date-conference.com/call-for-papers
 END:VEVENT
 BEGIN:VEVENT
 UID:eurosys-2027-0-abstract@conference-deadlines
@@ -1036,6 +1014,28 @@ SUMMARY:SIGMETRICS 2027 deadline (winter round)
 DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
  ://www.sigmetrics.org/sigmetrics2027/\nLocation: Atlanta\, Georgia\, USA
 URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:fccm-2027-0-abstract@conference-deadlines
+DTSTAMP:20270111T115959Z
+DTSTART:20270111T115959Z
+DTEND:20270111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FCCM 2027 abstract deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/\nLocation: Provo\, Utah\, USA
+URL:https://www.fccm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fccm-2027-0-paper@conference-deadlines
+DTSTAMP:20270118T115959Z
+DTSTART:20270118T115959Z
+DTEND:20270118T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FCCM 2027 deadline
+DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
+ nhttps://www.fccm.org/\nLocation: Provo\, Utah\, USA
+URL:https://www.fccm.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:spaa-2027-0-abstract@conference-deadlines

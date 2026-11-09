@@ -16,22 +16,6 @@
   date: April 27-28, 2026
   place: Seoul, South Korea
   country: South Korea
-- name: FCCM
-  description: IEEE Symposium on Field-Programmable Custom Computing Machines
-  year: 2026
-  link: https://www.fccm.org/past/2026/
-  deadlines:
-  - date: '2026-01-17T23:59:59-12:00'
-    abstract: '2026-01-10T23:59:59-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/fccm/index.html
-  date: May 14-15, 2026
-  place: Atlanta, Georgia, USA
-  country: United States
 - name: CF
   description: ACM International Conference on Computing Frontiers
   year: 2026
@@ -1660,22 +1644,6 @@
   date: September 8-11, 2026
   place: Rende, Italy
   country: Italy
-- name: ICMLA
-  description: International Conference on Machine Learning and Applications
-  year: 2026
-  link: https://www.icmla-conference.org/icmla26/
-  deadlines:
-  - date: '2026-05-31T23:59:59-07:00'
-    comment: Main Conference Papers DDL.
-  areas:
-  - AI
-  tags:
-  - CORE-C
-  tba: true
-  dblp: https://dblp.org/db/conf/icmla/index.html
-  date: October 5-7, 2026
-  place: Oakland Center, Rochester, Michigan, USA
-  country: United States
 - name: ICONIP
   description: International Conference on Neural Information Processing
   year: 2026
@@ -2802,7 +2770,7 @@
   - CORE-A
   tba: true
   dblp: https://dblp.org/db/conf/wacv/index.html
-  date: Jan 4 - 8, 2027
+  date: Jan 6 - 8, 2027
   place: Disney Springs, Buena Vista, FL, USA
   country: United States
 - name: MSN
@@ -3029,10 +2997,10 @@
 - name: DATE
   description: Design, Automation & Test in Europe
   year: 2027
-  link: https://www.date-conference.com/date-2027-call-papers
+  link: https://www.date-conference.com/call-for-papers
   deadlines:
-  - date: '2026-09-20T23:59:59-12:00'
-    abstract: '2026-09-13T23:59:59-12:00'
+  - date: '2026-09-20T23:59:00-12:00'
+    abstract: '2026-09-13T23:59:00-12:00'
   areas:
   - DS
   tags:
@@ -4710,6 +4678,21 @@
   date: TBD
   place: Edinburgh, Scotland
   country: United Kingdom
+- name: FCCM
+  description: IEEE Symposium on Field-Programmable Custom Computing Machines
+  year: 2027
+  link: https://www.fccm.org/
+  deadlines:
+  - date: '2027-01-17T23:59:59-12:00'
+    abstract: '2027-01-10T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/fccm/index.html
+  date: May 10-11, 2027
+  place: Provo, Utah, USA
+  country: United States
 - name: DIS
   description: ACM Conference on Designing Interactive Systems
   year: 2027
@@ -5410,6 +5393,21 @@
   date: September 21-24, 2027
   place: Buenos Aires, Argentina
   country: Argentina
+- name: ICMLA
+  description: International Conference on Machine Learning and Applications
+  year: 2027
+  link: https://www.icmla-conference.org/icmla27/
+  deadlines:
+  - date: '2027-05-15T23:59:59-07:00'
+    comment: Main Conference Papers DDL.
+  areas:
+  - AI
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/icmla/index.html
+  date: December 14-16, 2027
+  place: University of Miami, Coral Gables Campus, Miami, Florida, USA
+  country: United States
 - name: ICDM
   description: IEEE International Conference on Data Mining
   year: 2027
