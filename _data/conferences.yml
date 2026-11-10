@@ -3073,7 +3073,7 @@
   - CORE-ASTAR
   tba: true
   dblp: https://dblp.org/db/conf/iclr/index.html
-  date: April 26-30, 2027
+  date: April 26-28, 2027
   place: San Francisco, CA, USA
   country: United States
 - name: ISPD
@@ -3699,6 +3699,7 @@
   - SC
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/noms/index.html
   date: May 10-14, 2027
   place: Montreal, Canada
@@ -3715,6 +3716,7 @@
   - CG
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/pacificvis/index.html
   date: April 19-22, 2027
   place: Busan, South Korea
@@ -4556,6 +4558,20 @@
   date: June 27 - July 2, 2027
   place: Sorrento, Italy
   country: Italy
+- name: BIS
+  description: International Conference on Business Information Systems
+  year: 2027
+  link: https://bisconf.org/2027/
+  deadlines:
+  - date: '2027-01-10T23:59:59-12:00'
+  areas:
+  - MX
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/bis/index.html
+  date: June 23-25, 2027
+  place: Poznań, Poland
+  country: Poland
 - name: SIGMETRICS
   description: ACM Special Interest Group on Measurement and Evaluation
   year: 2027
@@ -4617,20 +4633,6 @@
   date: August 7-13, 2027
   place: Kyoto, Japan
   country: Japan
-- name: BIS
-  description: International Conference on Business Information Systems
-  year: 2027
-  link: https://bisconf.org/2027/
-  deadlines:
-  - date: '2027-01-11T23:59:59-12:00'
-  areas:
-  - MX
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/bis/index.html
-  date: June 23-25, 2027
-  place: Poznań, Poland
-  country: Poland
 - name: ISMB
   description: International Conference on Intelligent Systems for Molecular Biology
   year: 2027

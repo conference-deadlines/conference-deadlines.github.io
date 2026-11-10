@@ -4960,6 +4960,17 @@ DESCRIPTION:IEEE International Symposium on Information Theory\nhttps://202
 URL:https://2027.ieee-isit.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:bis-2027-0-paper@conference-deadlines
+DTSTAMP:20270111T115959Z
+DTSTART:20270111T115959Z
+DTEND:20270111T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:BIS 2027 deadline
+DESCRIPTION:International Conference on Business Information Systems\nhttps
+ ://bisconf.org/2027/\nLocation: Poznań\, Poland
+URL:https://bisconf.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:sigmetrics-2027-0-abstract@conference-deadlines
 DTSTAMP:20270105T115959Z
 DTSTART:20270105T115959Z
@@ -5038,17 +5049,6 @@ SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
 DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
  s://2027.ijcai.org/\nLocation: Kyoto\, Japan
 URL:https://2027.ijcai.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:bis-2027-0-paper@conference-deadlines
-DTSTAMP:20270112T115959Z
-DTSTART:20270112T115959Z
-DTEND:20270112T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:BIS 2027 deadline
-DESCRIPTION:International Conference on Business Information Systems\nhttps
- ://bisconf.org/2027/\nLocation: Poznań\, Poland
-URL:https://bisconf.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ismb-2027-0-paper@conference-deadlines
