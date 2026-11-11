@@ -3437,30 +3437,6 @@ DESCRIPTION:IEEE International Parallel and Distributed Processing Symposiu
 URL:https://www.ipdps.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:aamas-2027-0-abstract@conference-deadlines
-DTSTAMP:20261002T115959Z
-DTSTART:20261002T115959Z
-DTEND:20261002T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:AAMAS 2027 abstract deadline
-DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
- stems\nhttps://warwick.ac.uk/fac/sci/dcs/aamas2027/\nLocation: Hanoi\, Vie
- tnam
-URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:aamas-2027-0-paper@conference-deadlines
-DTSTAMP:20261009T115959Z
-DTSTART:20261009T115959Z
-DTEND:20261009T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:AAMAS 2027 deadline
-DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
- stems\nhttps://warwick.ac.uk/fac/sci/dcs/aamas2027/\nLocation: Hanoi\, Vie
- tnam
-URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:dcc-2027-0-paper@conference-deadlines
 DTSTAMP:20261010T065959Z
 DTSTART:20261010T065959Z
@@ -3560,28 +3536,6 @@ SUMMARY:CHIIR 2027 deadline
 DESCRIPTION:ACM SIGIR Conference on Human Information Interaction and Retri
  eval\nhttps://chiir2027.github.io/\nLocation: Berlin\, Germany
 URL:https://chiir2027.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:fg-2027-0-abstract@conference-deadlines
-DTSTAMP:20261010T115959Z
-DTSTART:20261010T115959Z
-DTEND:20261010T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FG 2027 abstract deadline
-DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
- ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
-URL:https://fg2027.ieee-biometrics.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:fg-2027-0-paper@conference-deadlines
-DTSTAMP:20261017T115959Z
-DTSTART:20261017T115959Z
-DTEND:20261017T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:FG 2027 deadline
-DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
- ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
-URL:https://fg2027.ieee-biometrics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigmod-2027-0-abstract@conference-deadlines
@@ -3740,6 +3694,28 @@ SUMMARY:ICC 2027 deadline
 DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
  7.ieee-icc.org\nLocation: Washington\, DC\, USA
 URL:https://icc2027.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+UID:fg-2027-0-abstract@conference-deadlines
+DTSTAMP:20261024T115959Z
+DTSTART:20261024T115959Z
+DTEND:20261024T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FG 2027 abstract deadline
+DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
+ ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
+URL:https://fg2027.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:fg-2027-0-paper@conference-deadlines
+DTSTAMP:20261031T115959Z
+DTSTART:20261031T115959Z
+DTEND:20261031T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:FG 2027 deadline
+DESCRIPTION:International Conference on Automatic Face and Gesture Recognit
+ ion\nhttps://fg2027.ieee-biometrics.org/\nLocation: Marrakesh\, Morocco
+URL:https://fg2027.ieee-biometrics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icst-2027-0-paper@conference-deadlines
@@ -4796,6 +4772,19 @@ SUMMARY:AsiaCCS 2027 deadline (2nd round Deadline)
 DESCRIPTION:Asia Conference on Computer and Communications Security\nhttps:
  //asiaccs2027.cityu.edu.mo/index.html\nLocation: Macau\, China
 URL:https://asiaccs2027.cityu.edu.mo/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aamas-2027-0-paper@conference-deadlines
+DTSTAMP:20261212T115959Z
+DTSTART:20261212T115959Z
+DTEND:20261212T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:AAMAS 2027 deadline (AAAI fast track\; eligible AAAI-27 Main Techni
+ cal Track resubmissions only)
+DESCRIPTION:International Conference on Autonomous Agents and Multiagent Sy
+ stems\nhttps://warwick.ac.uk/fac/sci/dcs/aamas2027/\nLocation: Hanoi\, Vie
+ tnam
+URL:https://warwick.ac.uk/fac/sci/dcs/aamas2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:icaps-2027-0-abstract@conference-deadlines
