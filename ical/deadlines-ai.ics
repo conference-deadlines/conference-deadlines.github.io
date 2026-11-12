@@ -590,6 +590,28 @@ DESCRIPTION:International Conference on Document Analysis and Recognition\n
 URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:intellisys-2027-0-paper@conference-deadlines
+DTSTAMP:20261116T115959Z
+DTSTART:20261116T115959Z
+DTEND:20261116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IntelliSys 2027 deadline (Round 1)
+DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
+ liSys\nLocation: Amsterdam\, Netherlands
+URL:https://saiconference.com/IntelliSys
+END:VEVENT
+BEGIN:VEVENT
+UID:intellisys-2027-1-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IntelliSys 2027 deadline (Round 2)
+DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
+ liSys\nLocation: Amsterdam\, Netherlands
+URL:https://saiconference.com/IntelliSys
+END:VEVENT
+BEGIN:VEVENT
 UID:cvpr-2027-0-abstract@conference-deadlines
 DTSTAMP:20261111T115959Z
 DTSTART:20261111T115959Z
@@ -673,28 +695,6 @@ DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
 URL:https://www.esann.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:cpal-2027-0-abstract@conference-deadlines
-DTSTAMP:20261114T115959Z
-DTSTART:20261114T115959Z
-DTEND:20261114T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2027 abstract deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tokyo\, Japan
-URL:https://cpal.cc/
-END:VEVENT
-BEGIN:VEVENT
-UID:cpal-2027-0-paper@conference-deadlines
-DTSTAMP:20261126T115959Z
-DTSTART:20261126T115959Z
-DTEND:20261126T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2027 deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tokyo\, Japan
-URL:https://cpal.cc/
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-2027-0-paper@conference-deadlines
 DTSTAMP:20261205T115959Z
 DTSTART:20261205T115959Z
@@ -705,6 +705,17 @@ SUMMARY:RSS 2027 deadline (Stage 1: initial 6-page extended abstract submis
 DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org/\n
  Location: Athens\, Greece
 URL:https://roboticsconference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cpal-2027-0-paper@conference-deadlines
+DTSTAMP:20261206T115959Z
+DTSTART:20261206T115959Z
+DTEND:20261206T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CPAL 2027 deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tokyo\, Japan
+URL:https://cpal.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:aamas-2027-0-paper@conference-deadlines

@@ -3716,6 +3716,7 @@
   - DB
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/icde/index.html
   date: May 17-21, 2027
   place: Copenhagen, Denmark
@@ -3798,6 +3799,23 @@
   date: August 18 - 22, 2027
   place: Kuala Lumpur, Malaysia
   country: Malaysia
+- name: IntelliSys
+  description: Intelligent Systems Conference
+  year: 2027
+  link: https://saiconference.com/IntelliSys
+  deadlines:
+  - date: '2026-11-15T23:59:59-12:00'
+    comment: Round 1
+  - date: '2026-12-01T23:59:59-12:00'
+    comment: Round 2
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/intellisys/index.html
+  date: September 2-3, 2027
+  place: Amsterdam, Netherlands
+  country: Netherlands
 - name: ISCA
   description: International Symposium on Computer Architecture
   year: 2027
@@ -4048,21 +4066,6 @@
   date: May 27-30, 2027
   place: Shenyang, China
   country: China
-- name: CPAL
-  description: The Conference on Parsimony and Learning
-  year: 2027
-  link: https://cpal.cc/
-  deadlines:
-  - date: '2026-11-25T23:59:59-12:00'
-    abstract: '2026-11-13T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/cpal/index.html
-  date: March 23-26, 2027
-  place: Tokyo, Japan
-  country: Japan
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
   year: 2027
@@ -4331,10 +4334,24 @@
   date: July 6-11, 2027
   place: Athens, Greece
   country: Greece
+- name: CPAL
+  description: The Conference on Parsimony and Learning
+  year: 2027
+  link: https://cpal.cc/
+  deadlines:
+  - date: '2026-12-05T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/cpal/index.html
+  date: March 23-26, 2027
+  place: Tokyo, Japan
+  country: Japan
 - name: ICS
   description: ACM International Conference on Supercomputing
   year: 2027
-  link: https://ics-conference.org/index.html
+  link: https://klab-ai3.github.io/ics2027/
   deadlines:
   - date: '2026-12-07T23:59:59-12:00'
     abstract: '2026-12-01T23:59:59-12:00'
@@ -4343,7 +4360,7 @@
   tags:
   - CORE-A
   dblp: https://dblp.org/db/conf/ics/index.html
-  date: TBD
+  date: June 5-11, 2027
   place: Atlanta, Georgia, USA
   country: United States
 - name: OSDI

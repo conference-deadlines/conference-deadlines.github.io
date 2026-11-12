@@ -952,9 +952,9 @@ DTSTART:20261202T115959Z
 DTEND:20261202T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICS 2027 abstract deadline
-DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
- ference.org/index.html\nLocation: Atlanta\, Georgia\, USA
-URL:https://ics-conference.org/index.html
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://klab-ai
+ 3.github.io/ics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://klab-ai3.github.io/ics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-2027-0-paper@conference-deadlines
@@ -963,9 +963,9 @@ DTSTART:20261208T115959Z
 DTEND:20261208T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICS 2027 deadline
-DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
- ference.org/index.html\nLocation: Atlanta\, Georgia\, USA
-URL:https://ics-conference.org/index.html
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://klab-ai
+ 3.github.io/ics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://klab-ai3.github.io/ics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ets-2027-0-abstract@conference-deadlines

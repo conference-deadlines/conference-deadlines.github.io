@@ -3978,6 +3978,28 @@ DESCRIPTION:International Conference on Document Analysis and Recognition\n
 URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:intellisys-2027-0-paper@conference-deadlines
+DTSTAMP:20261116T115959Z
+DTSTART:20261116T115959Z
+DTEND:20261116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IntelliSys 2027 deadline (Round 1)
+DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
+ liSys\nLocation: Amsterdam\, Netherlands
+URL:https://saiconference.com/IntelliSys
+END:VEVENT
+BEGIN:VEVENT
+UID:intellisys-2027-1-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IntelliSys 2027 deadline (Round 2)
+DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
+ liSys\nLocation: Amsterdam\, Netherlands
+URL:https://saiconference.com/IntelliSys
+END:VEVENT
+BEGIN:VEVENT
 UID:isca-2027-0-abstract@conference-deadlines
 DTSTAMP:20261110T115959Z
 DTSTART:20261110T115959Z
@@ -4296,28 +4318,6 @@ SUMMARY:DASFAA 2027 deadline (Research papers)
 DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
  github.io/\nLocation: Shenyang\, China
 URL:https://dasfaa2027.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:cpal-2027-0-abstract@conference-deadlines
-DTSTAMP:20261114T115959Z
-DTSTART:20261114T115959Z
-DTEND:20261114T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2027 abstract deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tokyo\, Japan
-URL:https://cpal.cc/
-END:VEVENT
-BEGIN:VEVENT
-UID:cpal-2027-0-paper@conference-deadlines
-DTSTAMP:20261126T115959Z
-DTSTART:20261126T115959Z
-DTEND:20261126T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CPAL 2027 deadline
-DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
- ation: Tokyo\, Japan
-URL:https://cpal.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines
@@ -4697,15 +4697,26 @@ DESCRIPTION:Robotics Science and Systems\nhttps://roboticsconference.org/\n
 URL:https://roboticsconference.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:cpal-2027-0-paper@conference-deadlines
+DTSTAMP:20261206T115959Z
+DTSTART:20261206T115959Z
+DTEND:20261206T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CPAL 2027 deadline
+DESCRIPTION:The Conference on Parsimony and Learning\nhttps://cpal.cc/\nLoc
+ ation: Tokyo\, Japan
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
 UID:ics-2027-0-abstract@conference-deadlines
 DTSTAMP:20261202T115959Z
 DTSTART:20261202T115959Z
 DTEND:20261202T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICS 2027 abstract deadline
-DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
- ference.org/index.html\nLocation: Atlanta\, Georgia\, USA
-URL:https://ics-conference.org/index.html
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://klab-ai
+ 3.github.io/ics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://klab-ai3.github.io/ics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:ics-2027-0-paper@conference-deadlines
@@ -4714,9 +4725,9 @@ DTSTART:20261208T115959Z
 DTEND:20261208T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICS 2027 deadline
-DESCRIPTION:ACM International Conference on Supercomputing\nhttps://ics-con
- ference.org/index.html\nLocation: Atlanta\, Georgia\, USA
-URL:https://ics-conference.org/index.html
+DESCRIPTION:ACM International Conference on Supercomputing\nhttps://klab-ai
+ 3.github.io/ics2027/\nLocation: Atlanta\, Georgia\, USA
+URL:https://klab-ai3.github.io/ics2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:osdi-2027-0-abstract@conference-deadlines
