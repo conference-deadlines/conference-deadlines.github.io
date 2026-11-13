@@ -3731,6 +3731,7 @@
   - SE
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/pldi/index.html
   date: June 5-11, 2027
   place: Atlanta, Georgia, USA
@@ -3747,6 +3748,7 @@
   - SE
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/refsq/index.html
   date: April 12-15, 2027
   place: Basel, Switzerland
@@ -3975,20 +3977,6 @@
   date: July 11-14, 2027
   place: San Jose, CA
   country: United States
-- name: ESANN
-  description: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
-  year: 2027
-  link: https://www.esann.org/
-  deadlines:
-  - date: '2026-11-19T03:59:59-08:00'
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/esann/index.html
-  date: April 21 - 23, 2027
-  place: Bruges, Belgium and Online
-  country: Belgium
 - name: MMSys
   description: ACM International Conference on Multimedia Systems
   year: 2027
@@ -4066,6 +4054,20 @@
   date: May 27-30, 2027
   place: Shenyang, China
   country: China
+- name: ESANN
+  description: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning
+  year: 2027
+  link: https://www.esann.org/
+  deadlines:
+  - date: '2026-11-26T03:59:59-08:00'
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/esann/index.html
+  date: April 21 - 23, 2027
+  place: Bruges, Belgium and Online
+  country: Belgium
 - name: SECON
   description: IEEE International Conference on Sensing, Communication, and Networking
   year: 2027

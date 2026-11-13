@@ -4220,18 +4220,6 @@ DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
 URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
-UID:esann-2027-0-paper@conference-deadlines
-DTSTAMP:20261119T115959Z
-DTSTART:20261119T115959Z
-DTEND:20261119T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ESANN 2027 deadline
-DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
- l Intelligence and Machine Learning\nhttps://www.esann.org/\nLocation: Bru
- ges\, Belgium and Online
-URL:https://www.esann.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:mmsys-2027-0-abstract@conference-deadlines
 DTSTAMP:20261113T115959Z
 DTSTART:20261113T115959Z
@@ -4318,6 +4306,18 @@ SUMMARY:DASFAA 2027 deadline (Research papers)
 DESCRIPTION:Database Systems for Advanced Applications\nhttps://dasfaa2027.
  github.io/\nLocation: Shenyang\, China
 URL:https://dasfaa2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:esann-2027-0-paper@conference-deadlines
+DTSTAMP:20261126T115959Z
+DTSTART:20261126T115959Z
+DTEND:20261126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ESANN 2027 deadline
+DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
+ l Intelligence and Machine Learning\nhttps://www.esann.org/\nLocation: Bru
+ ges\, Belgium and Online
+URL:https://www.esann.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:secon-2027-0-paper@conference-deadlines
