@@ -4287,6 +4287,21 @@
   date: May 31-June 4, 2027
   place: Stuttgart, Germany
   country: Germany
+- name: CC
+  description: International Conference on Compiler Construction
+  year: 2027
+  link: https://conf.researchr.org/home/CC-2027
+  deadlines:
+  - date: '2026-12-03T23:59:59-12:00'
+    abstract: '2026-12-01T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/cc/index.html
+  date: March 20-21, 2027
+  place: Salt Lake City, Utah, USA
+  country: United States
 - name: CoNEXT
   description: International Conference on Emerging Networking Experiments and Technologies
   year: 2027
