@@ -3327,21 +3327,6 @@
   date: March 9-12, 2027
   place: Leiden, Netherlands
   country: Netherlands
-- name: COLING
-  description: International Conference on Computational Linguistics
-  year: 2027
-  link: https://2027.coling-iccl.org/
-  deadlines:
-  - date: '2026-10-12T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-B
-  tba: true
-  dblp: https://dblp.org/db/conf/coling/index.html
-  date: May 9-14 (in-person) and 6-7 (virtual), 2027
-  place: Macau SAR, China / Online
-  country: Macau
 - name: ETAPS
   description: European Joint Conferences on Theory and Practice of Software
   year: 2027
@@ -4533,6 +4518,21 @@
   date: June 21-25, 2027
   place: Singapore
   country: Singapore
+- name: COLING
+  description: International Conference on Computational Linguistics
+  year: 2027
+  link: https://2027.coling-iccl.org/
+  deadlines:
+  - date: '2026-12-23T23:59:59-12:00'
+    comment: Commitment deadline for long and short research papers reviewed by ARR
+  areas:
+  - AI
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/coling/index.html
+  date: May 9-14 (in-person) and 6-7 (virtual), 2027
+  place: Macau SAR, China / Online
+  country: Macau
 - name: NAACL
   description: The Annual Conference of the North American Chapter of the Association for Computational Linguistics
   year: 2027
