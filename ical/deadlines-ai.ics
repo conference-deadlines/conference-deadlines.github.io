@@ -105,18 +105,6 @@ DESCRIPTION:International Conference on Parallel Problem Solving From Natur
 URL:https://ppsn2026.disi.unitn.it/
 END:VEVENT
 BEGIN:VEVENT
-UID:icann-2026-0-paper@conference-deadlines
-DTSTAMP:20260331T115959Z
-DTSTART:20260331T115959Z
-DTEND:20260331T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICANN 2026 deadline
-DESCRIPTION:International Conference on Artificial Neural Networks\nhttps:/
- /e-nns.org/icann2026/\nLocation: Conference center of the School of Psycho
- logy\, University of Padua\, Italy
-URL:https://e-nns.org/icann2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:colm-2026-0-abstract@conference-deadlines
 DTSTAMP:20260327T115959Z
 DTSTART:20260327T115959Z
@@ -545,62 +533,6 @@ DESCRIPTION:Computer Vision Conference\nhttps://saiconference.com/CVC\nLoca
 URL:https://saiconference.com/CVC
 END:VEVENT
 BEGIN:VEVENT
-UID:icdar-2027-0-paper@conference-deadlines
-DTSTAMP:20261116T115959Z
-DTSTART:20261116T115959Z
-DTEND:20261116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 deadline (Journal track\; initial decision Jan 15\, revi
- sed submission Apr 1)
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2027-1-abstract@conference-deadlines
-DTSTAMP:20270227T115959Z
-DTSTART:20270227T115959Z
-DTEND:20270227T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 abstract deadline (Conference track)
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:icdar-2027-1-paper@conference-deadlines
-DTSTAMP:20270306T115959Z
-DTSTART:20270306T115959Z
-DTEND:20270306T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICDAR 2027 deadline (Conference track)
-DESCRIPTION:International Conference on Document Analysis and Recognition\n
- https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
-URL:https://icdar2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:intellisys-2027-0-paper@conference-deadlines
-DTSTAMP:20261116T115959Z
-DTSTART:20261116T115959Z
-DTEND:20261116T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IntelliSys 2027 deadline (Round 1)
-DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
- liSys\nLocation: Amsterdam\, Netherlands
-URL:https://saiconference.com/IntelliSys
-END:VEVENT
-BEGIN:VEVENT
-UID:intellisys-2027-1-paper@conference-deadlines
-DTSTAMP:20261202T115959Z
-DTSTART:20261202T115959Z
-DTEND:20261202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IntelliSys 2027 deadline (Round 2)
-DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
- liSys\nLocation: Amsterdam\, Netherlands
-URL:https://saiconference.com/IntelliSys
-END:VEVENT
-BEGIN:VEVENT
 UID:cvpr-2027-0-abstract@conference-deadlines
 DTSTAMP:20261111T115959Z
 DTSTART:20261111T115959Z
@@ -684,6 +616,17 @@ DESCRIPTION:European Symposium on Artificial Neural Networks\, Computationa
 URL:https://www.esann.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:intellisys-2027-0-paper@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IntelliSys 2027 deadline (Round 2)
+DESCRIPTION:Intelligent Systems Conference\nhttps://saiconference.com/Intel
+ liSys\nLocation: Amsterdam\, Netherlands
+URL:https://saiconference.com/IntelliSys
+END:VEVENT
+BEGIN:VEVENT
 UID:rss-2027-0-paper@conference-deadlines
 DTSTAMP:20261205T115959Z
 DTSTART:20261205T115959Z
@@ -747,8 +690,8 @@ DTSTAMP:20261224T115959Z
 DTSTART:20261224T115959Z
 DTEND:20261224T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:COLING 2027 deadline (Commitment deadline for long and short resear
- ch papers reviewed by ARR)
+SUMMARY:COLING 2027 deadline (Commitment deadline for long research papers 
+ reviewed by ARR)
 DESCRIPTION:International Conference on Computational Linguistics\nhttps://
  2027.coling-iccl.org/\nLocation: Macau SAR\, China / Online
 URL:https://2027.coling-iccl.org/
@@ -800,6 +743,28 @@ SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
 DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
  s://2027.ijcai.org/\nLocation: Kyoto\, Japan
 URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icml-2027-0-abstract@conference-deadlines
+DTSTAMP:20270115T115959Z
+DTSTART:20270115T115959Z
+DTEND:20270115T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICML 2027 abstract deadline
+DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
+ onferences/2027\nLocation: Riocentro\, Rio de Janeiro\, Brazil
+URL:https://icml.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icml-2027-0-paper@conference-deadlines
+DTSTAMP:20270123T115959Z
+DTSTART:20270123T115959Z
+DTEND:20270123T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICML 2027 deadline
+DESCRIPTION:International Conference on Machine Learning\nhttps://icml.cc/C
+ onferences/2027\nLocation: Riocentro\, Rio de Janeiro\, Brazil
+URL:https://icml.cc/Conferences/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:gecco-2027-0-abstract@conference-deadlines
@@ -869,6 +834,28 @@ SUMMARY:IROS 2027 deadline (Paper submission deadline: March 1\, 2027\; exa
 DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Sys
  tems\nhttps://2027.ieee-iros.org/\nLocation: Florence\, Italy
 URL:https://2027.ieee-iros.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-0-abstract@conference-deadlines
+DTSTAMP:20270227T115959Z
+DTSTART:20270227T115959Z
+DTEND:20270227T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 abstract deadline (Conference track)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdar-2027-0-paper@conference-deadlines
+DTSTAMP:20270306T115959Z
+DTSTART:20270306T115959Z
+DTEND:20270306T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDAR 2027 deadline (Conference track)
+DESCRIPTION:International Conference on Document Analysis and Recognition\n
+ https://icdar2027.org/\nLocation: Kuala Lumpur\, Malaysia
+URL:https://icdar2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icpr-2027-0-abstract@conference-deadlines

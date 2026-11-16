@@ -590,21 +590,6 @@
   date: October 4-9, 2026
   place: Barcelona, Spain
   country: Spain
-- name: ICANN
-  description: International Conference on Artificial Neural Networks
-  year: 2026
-  link: https://e-nns.org/icann2026/
-  deadlines:
-  - date: '2026-03-30T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-C
-  tba: true
-  dblp: https://dblp.org/db/conf/icann/index.html
-  date: September 15-17, 2026
-  place: Conference center of the School of Psychology, University of Padua, Italy
-  country: Italy
 - name: EMSOFT
   description: International Conference on Embedded Software
   year: 2026
@@ -3749,6 +3734,7 @@
   - SE
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/caise/index.html
   date: June 7-11, 2027
   place: Seville, Spain
@@ -3764,43 +3750,9 @@
   - AI
   tags:
   - CORE-N
+  tba: true
   dblp: https://dblp.org/db/conf/cvc/index.html
   date: April 15-16, 2027
-  place: Amsterdam, Netherlands
-  country: Netherlands
-- name: ICDAR
-  description: International Conference on Document Analysis and Recognition
-  year: 2027
-  link: https://icdar2027.org/
-  deadlines:
-  - date: '2026-11-15T23:59:59-12:00'
-    comment: Journal track; initial decision Jan 15, revised submission Apr 1
-  - date: '2027-03-05T23:59:59-12:00'
-    comment: Conference track
-    abstract: '2027-02-26T23:59:59-12:00'
-  areas:
-  - AI
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/icdar/index.html
-  date: August 18 - 22, 2027
-  place: Kuala Lumpur, Malaysia
-  country: Malaysia
-- name: IntelliSys
-  description: Intelligent Systems Conference
-  year: 2027
-  link: https://saiconference.com/IntelliSys
-  deadlines:
-  - date: '2026-11-15T23:59:59-12:00'
-    comment: Round 1
-  - date: '2026-12-01T23:59:59-12:00'
-    comment: Round 2
-  areas:
-  - AI
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/intellisys/index.html
-  date: September 2-3, 2027
   place: Amsterdam, Netherlands
   country: Netherlands
 - name: ISCA
@@ -4196,6 +4148,21 @@
   date: May 24-28, 2027
   place: Maastricht, Netherlands
   country: Netherlands
+- name: IntelliSys
+  description: Intelligent Systems Conference
+  year: 2027
+  link: https://saiconference.com/IntelliSys
+  deadlines:
+  - date: '2026-12-01T23:59:59-12:00'
+    comment: Round 2
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/intellisys/index.html
+  date: September 2-3, 2027
+  place: Amsterdam, Netherlands
+  country: Netherlands
 - name: SAI
   description: Computing Conference (SAI)
   year: 2027
@@ -4524,7 +4491,7 @@
   link: https://2027.coling-iccl.org/
   deadlines:
   - date: '2026-12-23T23:59:59-12:00'
-    comment: Commitment deadline for long and short research papers reviewed by ARR
+    comment: Commitment deadline for long research papers reviewed by ARR
   areas:
   - AI
   tags:
@@ -4803,6 +4770,21 @@
   date: June 15 - 18, 2027
   place: Hanoi, Vietnam
   country: Vietnam
+- name: ICML
+  description: International Conference on Machine Learning
+  year: 2027
+  link: https://icml.cc/Conferences/2027
+  deadlines:
+  - date: '2027-01-22T23:59:59-12:00'
+    abstract: '2027-01-14T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/icml/index.html
+  date: August 2-4, 2027
+  place: Riocentro, Rio de Janeiro, Brazil
+  country: Brazil
 - name: MDM
   description: IEEE International Conference on Mobile Data Management
   year: 2027
@@ -5264,6 +5246,22 @@
   date: September 7-11, 2027
   place: Toronto, Canada
   country: Canada
+- name: ICDAR
+  description: International Conference on Document Analysis and Recognition
+  year: 2027
+  link: https://icdar2027.org/
+  deadlines:
+  - date: '2027-03-05T23:59:59-12:00'
+    comment: Conference track
+    abstract: '2027-02-26T23:59:59-12:00'
+  areas:
+  - AI
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/icdar/index.html
+  date: August 18 - 22, 2027
+  place: Kuala Lumpur, Malaysia
+  country: Malaysia
 - name: APWeb-WAIM
   description: APWeb-WAIM joint international conference on Web and Big Data
   year: 2027

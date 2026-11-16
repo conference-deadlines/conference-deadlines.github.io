@@ -10,7 +10,7 @@
 - name: Belgium
   count: 5
 - name: Brazil
-  count: 4
+  count: 5
 - name: Cambodia
   count: 1
 - name: Canada
@@ -48,7 +48,7 @@
 - name: Ireland
   count: 4
 - name: Italy
-  count: 24
+  count: 23
 - name: Japan
   count: 12
 - name: Lithuania
