@@ -3755,25 +3755,6 @@
   date: April 15-16, 2027
   place: Amsterdam, Netherlands
   country: Netherlands
-- name: ISCA
-  description: International Symposium on Computer Architecture
-  year: 2027
-  link: https://iscaconf.org/isca2027/
-  deadlines:
-  - date: '2026-11-16T23:59:59-12:00'
-    comment: 'Main Track; rebuttal/revision period: February 16-March 8, 2027'
-    abstract: '2026-11-09T23:59:59-12:00'
-  - date: '2026-12-13T23:59:59-12:00'
-    comment: 'Industry Track; rebuttal period: February 15-26, 2027'
-    abstract: '2026-12-06T23:59:59-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-ASTAR
-  dblp: https://dblp.org/db/conf/isca/index.html
-  date: June 5-9, 2027
-  place: Atlanta, Georgia, USA
-  country: United States
 - name: CVPR
   description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   year: 2027
@@ -3785,6 +3766,7 @@
   - AI
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/cvpr/index.html
   date: June 22-25, 2027
   place: Seattle, WA, United States
@@ -3800,6 +3782,7 @@
   - AI
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/eurogp/index.html
   date: March 31-April 2, 2027
   place: Mainz, Germany (hybrid)
@@ -3815,6 +3798,7 @@
   - AI
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/evoapps/index.html
   date: March 31-April 2, 2027
   place: Mainz, Germany (hybrid)
@@ -3830,6 +3814,7 @@
   - AI
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/evocop/index.html
   date: March 31-April 2, 2027
   place: Mainz, Germany (hybrid)
@@ -3845,6 +3830,7 @@
   - AI
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/evomusart/index.html
   date: March 31-April 2, 2027
   place: Mainz, Germany (hybrid)
@@ -4393,6 +4379,22 @@
   date: May 3-7, 2027
   place: Hanoi, Vietnam
   country: Vietnam
+- name: ISCA
+  description: International Symposium on Computer Architecture
+  year: 2027
+  link: https://iscaconf.org/isca2027/
+  deadlines:
+  - date: '2026-12-13T23:59:59-12:00'
+    comment: 'Industry Track; rebuttal period: February 15-26, 2027'
+    abstract: '2026-12-06T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-ASTAR
+  dblp: https://dblp.org/db/conf/isca/index.html
+  date: June 5-9, 2027
+  place: Atlanta, Georgia, USA
+  country: United States
 - name: ICAPS
   description: International Conference on Automated Planning and Scheduling
   year: 2027
