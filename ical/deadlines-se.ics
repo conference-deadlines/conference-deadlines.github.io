@@ -557,6 +557,30 @@ DESCRIPTION:ACM SIGPLAN Workshop on Partial Evaluation and Program Manipula
 URL:https://popl27.sigplan.org/home/pepm-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:icse-chase-2027-0-abstract@conference-deadlines
+DTSTAMP:20261024T115959Z
+DTSTART:20261024T115959Z
+DTEND:20261024T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSE-CHASE 2027 abstract deadline
+DESCRIPTION:International Conference on Cooperative and Human Aspects of So
+ ftware Engineering\nhttps://conf.researchr.org/home/chase-2027\nLocation: 
+ Dublin\, Ireland
+URL:https://conf.researchr.org/home/chase-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icse-chase-2027-0-paper@conference-deadlines
+DTSTAMP:20261031T115959Z
+DTSTART:20261031T115959Z
+DTEND:20261031T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSE-CHASE 2027 deadline
+DESCRIPTION:International Conference on Cooperative and Human Aspects of So
+ ftware Engineering\nhttps://conf.researchr.org/home/chase-2027\nLocation: 
+ Dublin\, Ireland
+URL:https://conf.researchr.org/home/chase-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:icst-2027-0-paper@conference-deadlines
 DTSTAMP:20261103T115959Z
 DTSTART:20261103T115959Z

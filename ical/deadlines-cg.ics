@@ -49,28 +49,6 @@ DESCRIPTION:IEEE Visualization Conference\nhttps://ieeevis.org/year/2026/we
 URL:https://ieeevis.org/year/2026/welcome
 END:VEVENT
 BEGIN:VEVENT
-UID:acm-mm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260326T115900Z
-DTSTART:20260326T115900Z
-DTEND:20260326T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM MM 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
- org/\nLocation: Rio de Janeiro\, Brazil
-URL:https://2026.acmmm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-mm-2026-0-paper@conference-deadlines
-DTSTAMP:20260402T115959Z
-DTSTART:20260402T115959Z
-DTEND:20260402T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM MM 2026 deadline
-DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
- org/\nLocation: Rio de Janeiro\, Brazil
-URL:https://2026.acmmm.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:sca-2026-0-abstract@conference-deadlines
 DTSTAMP:20260410T235959Z
 DTSTART:20260410T235959Z

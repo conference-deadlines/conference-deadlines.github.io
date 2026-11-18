@@ -489,18 +489,6 @@ DESCRIPTION:International Conference on High Performance and Embedded Archi
 URL:https://www.hipeac.net/2027/glasgow/#/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
-UID:sigops-atc-2026-0-paper@conference-deadlines
-DTSTAMP:20260611T115959Z
-DTSTART:20260611T115959Z
-DTEND:20260611T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGOPS ATC 2026 deadline
-DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://sigops.org/s/co
- nferences/atc/2026/index.html\nLocation: Hyatt Hotel\, Shatin\, Hong Kong\
- , China
-URL:https://sigops.org/s/conferences/atc/2026/index.html
-END:VEVENT
-BEGIN:VEVENT
 UID:iccd-2026-0-abstract@conference-deadlines
 DTSTAMP:20260604T115959Z
 DTSTART:20260604T115959Z
@@ -1012,6 +1000,17 @@ SUMMARY:FCCM 2027 deadline
 DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
  nhttps://www.fccm.org/\nLocation: Provo\, Utah\, USA
 URL:https://www.fccm.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sigops-atc-2027-0-paper@conference-deadlines
+DTSTAMP:20270120T115959Z
+DTSTART:20270120T115959Z
+DTEND:20270120T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGOPS ATC 2027 deadline
+DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://atc.sigops.org/
+ 2027/\nLocation: Rennes\, France
+URL:https://atc.sigops.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:spaa-2027-0-abstract@conference-deadlines

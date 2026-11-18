@@ -772,28 +772,6 @@ DESCRIPTION:ACM Symposium on Operating Systems Principles\nhttps://sigops.o
 URL:https://sigops.org/s/conferences/sosp/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:acm-mm-2026-0-abstract@conference-deadlines
-DTSTAMP:20260326T115900Z
-DTSTART:20260326T115900Z
-DTEND:20260326T122900Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM MM 2026 abstract deadline
-DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
- org/\nLocation: Rio de Janeiro\, Brazil
-URL:https://2026.acmmm.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:acm-mm-2026-0-paper@conference-deadlines
-DTSTAMP:20260402T115959Z
-DTSTART:20260402T115959Z
-DTEND:20260402T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ACM MM 2026 deadline
-DESCRIPTION:ACM International Conference on Multimedia\nhttps://2026.acmmm.
- org/\nLocation: Rio de Janeiro\, Brazil
-URL:https://2026.acmmm.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:micro-2026-0-abstract@conference-deadlines
 DTSTAMP:20260401T035959Z
 DTSTART:20260401T035959Z
@@ -1947,18 +1925,6 @@ DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
  and Applications\nhttps://pacificgraphics2026.github.io/\nLocation: Singap
  ore Management University\, Singapore
 URL:https://pacificgraphics2026.github.io/
-END:VEVENT
-BEGIN:VEVENT
-UID:sigops-atc-2026-0-paper@conference-deadlines
-DTSTAMP:20260611T115959Z
-DTSTART:20260611T115959Z
-DTEND:20260611T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:SIGOPS ATC 2026 deadline
-DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://sigops.org/s/co
- nferences/atc/2026/index.html\nLocation: Hyatt Hotel\, Shatin\, Hong Kong\
- , China
-URL:https://sigops.org/s/conferences/atc/2026/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iccd-2026-0-abstract@conference-deadlines
@@ -3673,6 +3639,30 @@ DESCRIPTION:IEEE International Conference on Communications\nhttps://icc202
 URL:https://icc2027.ieee-icc.org
 END:VEVENT
 BEGIN:VEVENT
+UID:icse-chase-2027-0-abstract@conference-deadlines
+DTSTAMP:20261024T115959Z
+DTSTART:20261024T115959Z
+DTEND:20261024T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSE-CHASE 2027 abstract deadline
+DESCRIPTION:International Conference on Cooperative and Human Aspects of So
+ ftware Engineering\nhttps://conf.researchr.org/home/chase-2027\nLocation: 
+ Dublin\, Ireland
+URL:https://conf.researchr.org/home/chase-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icse-chase-2027-0-paper@conference-deadlines
+DTSTAMP:20261031T115959Z
+DTSTART:20261031T115959Z
+DTEND:20261031T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSE-CHASE 2027 deadline
+DESCRIPTION:International Conference on Cooperative and Human Aspects of So
+ ftware Engineering\nhttps://conf.researchr.org/home/chase-2027\nLocation: 
+ Dublin\, Ireland
+URL:https://conf.researchr.org/home/chase-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:fg-2027-0-abstract@conference-deadlines
 DTSTAMP:20261024T115959Z
 DTSTART:20261024T115959Z
@@ -3990,52 +3980,6 @@ DESCRIPTION:International Conference on Artificial Intelligence in Music\,
  Sound\, Art and Design\nhttps://www.evostar.org/2027/evomusart/\nLocation:
   Mainz\, Germany (hybrid)
 URL:https://www.evostar.org/2027/evomusart/
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2027-0-abstract@conference-deadlines
-DTSTAMP:20261111T115959Z
-DTSTART:20261111T115959Z
-DTEND:20261111T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2027 abstract deadline (Cycle 1\; rebuttal period January 26-Fe
- bruary 2\, 2027)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
-URL:https://conferences.sigcomm.org/imc/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2027-0-paper@conference-deadlines
-DTSTAMP:20261118T115959Z
-DTSTART:20261118T115959Z
-DTEND:20261118T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2027 deadline (Cycle 1\; rebuttal period January 26-February 2\
- , 2027)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
-URL:https://conferences.sigcomm.org/imc/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2027-1-abstract@conference-deadlines
-DTSTAMP:20270401T115959Z
-DTSTART:20270401T115959Z
-DTEND:20270401T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2027 abstract deadline (Cycle 2)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
-URL:https://conferences.sigcomm.org/imc/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:imc-2027-1-paper@conference-deadlines
-DTSTAMP:20270408T115959Z
-DTSTART:20270408T115959Z
-DTEND:20270408T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:IMC 2027 deadline (Cycle 2)
-DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
- m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
-URL:https://conferences.sigcomm.org/imc/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:s-p-2027-0-abstract@conference-deadlines
@@ -5083,6 +5027,17 @@ DESCRIPTION:ACM Conference on Designing Interactive Systems\nhttps://dis.ac
 URL:https://dis.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:sigops-atc-2027-0-paper@conference-deadlines
+DTSTAMP:20270120T115959Z
+DTSTART:20270120T115959Z
+DTEND:20270120T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SIGOPS ATC 2027 deadline
+DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://atc.sigops.org/
+ 2027/\nLocation: Rennes\, France
+URL:https://atc.sigops.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:cav-2027-0-paper@conference-deadlines
 DTSTAMP:20270121T115959Z
 DTSTART:20270121T115959Z
@@ -5774,6 +5729,28 @@ SUMMARY:ICIP 2027 deadline
 DESCRIPTION:The IEEE International Conference on Image Processing\nhttps://
  2027.ieeeicip.org/\nLocation: Singapore
 URL:https://2027.ieeeicip.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-0-abstract@conference-deadlines
+DTSTAMP:20270401T115959Z
+DTSTART:20270401T115959Z
+DTEND:20270401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 abstract deadline (Cycle 2)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:imc-2027-0-paper@conference-deadlines
+DTSTAMP:20270408T115959Z
+DTSTART:20270408T115959Z
+DTEND:20270408T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:IMC 2027 deadline (Cycle 2)
+DESCRIPTION:ACM Internet Measurement Conference\nhttps://conferences.sigcom
+ m.org/imc/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://conferences.sigcomm.org/imc/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:oopsla-2027-0-paper@conference-deadlines

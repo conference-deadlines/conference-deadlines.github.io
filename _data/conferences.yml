@@ -702,22 +702,6 @@
   date: September 30 - October 2, 2026
   place: Clarion Congress Hotel Prague, Prague, Czechia
   country: Czechia
-- name: ACM MM
-  description: ACM International Conference on Multimedia
-  year: 2026
-  link: https://2026.acmmm.org/
-  deadlines:
-  - date: '2026-04-01T23:59:59-12:00'
-    abstract: '2026-03-25T23:59:00-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/mm/index.html
-  date: November 11-14, 2026
-  place: Rio de Janeiro, Brazil
-  country: Brazil
 - name: MICRO
   description: IEEE/ACM International Symposium on Microarchitecture
   year: 2026
@@ -1755,21 +1739,6 @@
   date: October 6-9, 2026
   place: Singapore Management University, Singapore
   country: Singapore
-- name: SIGOPS ATC
-  description: ACM SIGOPS Annual Technical Conference
-  year: 2026
-  link: https://sigops.org/s/conferences/atc/2026/index.html
-  deadlines:
-  - date: '2026-06-11T11:59:59+00:00'
-  areas:
-  - DS
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/usenix/index.html
-  date: November 16-18, 2026
-  place: Hyatt Hotel, Shatin, Hong Kong, China
-  country: China
 - name: ICCD
   description: International Conference on Computer Design
   year: 2026
@@ -3516,6 +3485,22 @@
   date: May 30 - June 3, 2027
   place: Washington, DC, USA
   country: United States
+- name: ICSE-CHASE
+  description: International Conference on Cooperative and Human Aspects of Software Engineering
+  year: 2027
+  link: https://conf.researchr.org/home/chase-2027
+  deadlines:
+  - date: '2026-10-30T23:59:59-12:00'
+    abstract: '2026-10-23T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-B
+  tba: true
+  dblp: https://dblp.org/db/conf/icse-chase/index.html
+  date: April 26-27, 2027
+  place: Dublin, Ireland
+  country: Ireland
 - name: FG
   description: International Conference on Automatic Face and Gesture Recognition
   year: 2027
@@ -3835,25 +3820,6 @@
   date: March 31-April 2, 2027
   place: Mainz, Germany (hybrid)
   country: Germany
-- name: IMC
-  description: ACM Internet Measurement Conference
-  year: 2027
-  link: https://conferences.sigcomm.org/imc/2027/
-  deadlines:
-  - date: '2026-11-17T23:59:59-12:00'
-    comment: Cycle 1; rebuttal period January 26-February 2, 2027
-    abstract: '2026-11-10T23:59:59-12:00'
-  - date: '2027-04-07T23:59:59-12:00'
-    comment: Cycle 2
-    abstract: '2027-03-31T23:59:59-12:00'
-  areas:
-  - NW
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/imc/index.html
-  date: Oct 25-29, 2027
-  place: Atlanta, GA, USA
-  country: United States
 - name: S&P
   description: IEEE Symposium on Security and Privacy
   year: 2027
@@ -3866,6 +3832,7 @@
   - SC
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/sp/index.html
   date: May 17-19, 2027
   place: MONTREAL, CANADA
@@ -3881,6 +3848,7 @@
   - DB
   tags:
   - CORE-A
+  tba: true
   dblp: https://dblp.org/db/conf/wsdm/index.html
   date: February 15 - 19, 2027
   place: Cordis, Hong Kong SAR, China
@@ -4712,6 +4680,20 @@
   date: June 28 - July 2, 2027
   place: Stockholm, Sweden
   country: Sweden
+- name: SIGOPS ATC
+  description: ACM SIGOPS Annual Technical Conference
+  year: 2027
+  link: https://atc.sigops.org/2027/
+  deadlines:
+  - date: '2027-01-19T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/usenix/index.html
+  date: June 28-July 1, 2027
+  place: Rennes, France
+  country: France
 - name: CAV
   description: International Conference on Computer-Aided Verification
   year: 2027
@@ -5339,6 +5321,22 @@
   date: November 29-December 3, 2027
   place: Singapore
   country: Singapore
+- name: IMC
+  description: ACM Internet Measurement Conference
+  year: 2027
+  link: https://conferences.sigcomm.org/imc/2027/
+  deadlines:
+  - date: '2027-04-07T23:59:59-12:00'
+    comment: Cycle 2
+    abstract: '2027-03-31T23:59:59-12:00'
+  areas:
+  - NW
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/imc/index.html
+  date: Oct 25-29, 2027
+  place: Atlanta, GA, USA
+  country: United States
 - name: OOPSLA
   description: Conference on Object-Oriented Programming Systems, Languages, and Applications
   year: 2027
