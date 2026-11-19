@@ -363,28 +363,6 @@ DESCRIPTION:IEEE Symposium on Security and Privacy\nhttps://sp2027.ieee-sec
 URL:https://sp2027.ieee-security.org/index.html
 END:VEVENT
 BEGIN:VEVENT
-UID:codaspy-2027-0-abstract@conference-deadlines
-DTSTAMP:20261117T115959Z
-DTSTART:20261117T115959Z
-DTEND:20261117T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CODASPY 2027 abstract deadline
-DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
- tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
-URL:https://www.codaspy.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:codaspy-2027-0-paper@conference-deadlines
-DTSTAMP:20261124T115959Z
-DTSTART:20261124T115959Z
-DTEND:20261124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CODASPY 2027 deadline
-DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
- tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
-URL:https://www.codaspy.org/2027/
-END:VEVENT
-BEGIN:VEVENT
 UID:acisp-2027-0-paper@conference-deadlines
 DTSTAMP:20261201T115959Z
 DTSTART:20261201T115959Z
@@ -507,6 +485,28 @@ SUMMARY:EuroS&P 2027 deadline
 DESCRIPTION:IEEE European Symposium on Security and Privacy\nhttps://eurosp
  2027.ieee-security.org/\nLocation: Madrid\, Spain
 URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:codaspy-2027-0-abstract@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2027 abstract deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:codaspy-2027-0-paper@conference-deadlines
+DTSTAMP:20261208T115959Z
+DTSTART:20261208T115959Z
+DTEND:20261208T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2027 deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:asiaccs-2027-0-paper@conference-deadlines

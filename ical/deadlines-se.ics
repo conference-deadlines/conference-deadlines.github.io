@@ -306,28 +306,6 @@ DESCRIPTION:International Symposium on Automated Technology for Verificatio
 URL:https://conf.researchr.org/track/aplas-atva-2026/atva-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:middleware-2026-0-abstract@conference-deadlines
-DTSTAMP:20260530T115959Z
-DTSTART:20260530T115959Z
-DTEND:20260530T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Middleware 2026 abstract deadline (Round 2)
-DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
- thub.io/2026/\nLocation: Universitat Rovira i Virgili\, Tarragona\, Spain
-URL:https://middleware-conf.github.io/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:middleware-2026-0-paper@conference-deadlines
-DTSTAMP:20260606T115959Z
-DTSTART:20260606T115959Z
-DTEND:20260606T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Middleware 2026 deadline (Round 2)
-DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
- thub.io/2026/\nLocation: Universitat Rovira i Virgili\, Tarragona\, Spain
-URL:https://middleware-conf.github.io/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:scam-2026-0-paper@conference-deadlines
 DTSTAMP:20260612T115959Z
 DTSTART:20260612T115959Z
@@ -714,6 +692,50 @@ SUMMARY:CC 2027 deadline
 DESCRIPTION:International Conference on Compiler Construction\nhttps://conf
  .researchr.org/home/CC-2027\nLocation: Salt Lake City\, Utah\, USA
 URL:https://conf.researchr.org/home/CC-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-0-abstract@conference-deadlines
+DTSTAMP:20261127T120000Z
+DTSTART:20261127T120000Z
+DTEND:20261127T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 abstract deadline (Winter cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-0-paper@conference-deadlines
+DTSTAMP:20261204T120000Z
+DTSTART:20261204T120000Z
+DTEND:20261204T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 deadline (Winter cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-1-abstract@conference-deadlines
+DTSTAMP:20270529T115959Z
+DTSTART:20270529T115959Z
+DTEND:20270529T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 abstract deadline (Summer cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-1-paper@conference-deadlines
+DTSTAMP:20270605T115959Z
+DTSTART:20270605T115959Z
+DTEND:20270605T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 deadline (Summer cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:osdi-2027-0-abstract@conference-deadlines

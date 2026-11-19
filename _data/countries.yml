@@ -2,7 +2,7 @@
 - name: Argentina
   count: 1
 - name: Australia
-  count: 13
+  count: 14
 - name: Austria
   count: 2
 - name: Barbados
@@ -48,11 +48,11 @@
 - name: Ireland
   count: 5
 - name: Italy
-  count: 23
+  count: 22
 - name: Japan
-  count: 12
+  count: 13
 - name: Lithuania
-  count: 1
+  count: 2
 - name: Luxembourg
   count: 1
 - name: Macau
@@ -82,7 +82,7 @@
 - name: South Korea
   count: 5
 - name: Spain
-  count: 8
+  count: 7
 - name: Sweden
   count: 3
 - name: Switzerland

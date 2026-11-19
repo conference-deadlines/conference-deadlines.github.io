@@ -395,28 +395,6 @@ DESCRIPTION:International Conference on Principles and Practice of Constrai
 URL:https://cp2026.a4cp.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ismar-2026-0-abstract@conference-deadlines
-DTSTAMP:20260310T115959Z
-DTSTART:20260310T115959Z
-DTEND:20260310T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISMAR 2026 abstract deadline
-DESCRIPTION:International Symposium on Mixed and Augmented Reality\nhttps:/
- /www.ieeeismar.net/2026/\nLocation: Bari\, Italy
-URL:https://www.ieeeismar.net/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ismar-2026-0-paper@conference-deadlines
-DTSTAMP:20260317T115959Z
-DTSTART:20260317T115959Z
-DTEND:20260317T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ISMAR 2026 deadline
-DESCRIPTION:International Symposium on Mixed and Augmented Reality\nhttps:/
- /www.ieeeismar.net/2026/\nLocation: Bari\, Italy
-URL:https://www.ieeeismar.net/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:netys-2026-0-abstract@conference-deadlines
 DTSTAMP:20260312T115959Z
 DTSTART:20260312T115959Z
@@ -1868,28 +1846,6 @@ SUMMARY:DFRWS APAC 2026 deadline
 DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\nhttps://dfrws.
  org/conferences/dfrws-apac-2026/\nLocation: Singapore
 URL:https://dfrws.org/conferences/dfrws-apac-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:middleware-2026-0-abstract@conference-deadlines
-DTSTAMP:20260530T115959Z
-DTSTART:20260530T115959Z
-DTEND:20260530T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Middleware 2026 abstract deadline (Round 2)
-DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
- thub.io/2026/\nLocation: Universitat Rovira i Virgili\, Tarragona\, Spain
-URL:https://middleware-conf.github.io/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:middleware-2026-0-paper@conference-deadlines
-DTSTAMP:20260606T115959Z
-DTSTART:20260606T115959Z
-DTEND:20260606T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Middleware 2026 deadline (Round 2)
-DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
- thub.io/2026/\nLocation: Universitat Rovira i Virgili\, Tarragona\, Spain
-URL:https://middleware-conf.github.io/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cicai-2026-0-paper@conference-deadlines
@@ -4037,17 +3993,6 @@ DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
 URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
-UID:mmsys-2027-0-abstract@conference-deadlines
-DTSTAMP:20261113T115959Z
-DTSTART:20261113T115959Z
-DTEND:20261113T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMSys 2027 abstract deadline (Research Track - Second Round)
-DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
- 7.acmmmsys.org\nLocation: Ghent\, Belgium
-URL:https://2027.acmmmsys.org
-END:VEVENT
-BEGIN:VEVENT
 UID:mmsys-2027-0-paper@conference-deadlines
 DTSTAMP:20261120T115959Z
 DTSTART:20261120T115959Z
@@ -4079,39 +4024,6 @@ SUMMARY:ECOOP 2027 deadline (Submission R2)
 DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
  7.ecoop.org/\nLocation: Turin\, Italy
 URL:https://2027.ecoop.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:pakdd-2027-0-paper@conference-deadlines
-DTSTAMP:20261121T115959Z
-DTSTART:20261121T115959Z
-DTEND:20261121T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:PAKDD 2027 deadline
-DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
- nhttps://www.pakdd2027.org/\nLocation: Wellington\, New Zealand
-URL:https://www.pakdd2027.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:codaspy-2027-0-abstract@conference-deadlines
-DTSTAMP:20261117T115959Z
-DTSTART:20261117T115959Z
-DTEND:20261117T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CODASPY 2027 abstract deadline
-DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
- tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
-URL:https://www.codaspy.org/2027/
-END:VEVENT
-BEGIN:VEVENT
-UID:codaspy-2027-0-paper@conference-deadlines
-DTSTAMP:20261124T115959Z
-DTSTART:20261124T115959Z
-DTEND:20261124T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CODASPY 2027 deadline
-DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
- tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
-URL:https://www.codaspy.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:dasfaa-2027-0-paper@conference-deadlines
@@ -4463,6 +4375,50 @@ DESCRIPTION:International Conference on Compiler Construction\nhttps://conf
 URL:https://conf.researchr.org/home/CC-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:middleware-2027-0-abstract@conference-deadlines
+DTSTAMP:20261127T120000Z
+DTSTART:20261127T120000Z
+DTEND:20261127T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 abstract deadline (Winter cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-0-paper@conference-deadlines
+DTSTAMP:20261204T120000Z
+DTSTART:20261204T120000Z
+DTEND:20261204T123000Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 deadline (Winter cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-1-abstract@conference-deadlines
+DTSTAMP:20270529T115959Z
+DTSTART:20270529T115959Z
+DTEND:20270529T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 abstract deadline (Summer cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:middleware-2027-1-paper@conference-deadlines
+DTSTAMP:20270605T115959Z
+DTSTART:20270605T115959Z
+DTEND:20270605T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Middleware 2027 deadline (Summer cycle)
+DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
+ thub.io/2027/\nLocation: Kyoto\, Japan
+URL:https://middleware-conf.github.io/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:conext-2027-0-abstract@conference-deadlines
 DTSTAMP:20261128T115959Z
 DTSTART:20261128T115959Z
@@ -4535,6 +4491,17 @@ DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
 URL:https://www.sigmobile.org/mobisys/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:pakdd-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115959Z
+DTSTART:20261205T115959Z
+DTEND:20261205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PAKDD 2027 deadline
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
+ nhttps://www.pakdd2027.org/\nLocation: Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:rss-2027-0-paper@conference-deadlines
 DTSTAMP:20261205T115959Z
 DTSTART:20261205T115959Z
@@ -4578,6 +4545,28 @@ SUMMARY:ICS 2027 deadline
 DESCRIPTION:ACM International Conference on Supercomputing\nhttps://klab-ai
  3.github.io/ics2027/\nLocation: Atlanta\, Georgia\, USA
 URL:https://klab-ai3.github.io/ics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:codaspy-2027-0-abstract@conference-deadlines
+DTSTAMP:20261201T115959Z
+DTSTART:20261201T115959Z
+DTEND:20261201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2027 abstract deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:codaspy-2027-0-paper@conference-deadlines
+DTSTAMP:20261208T115959Z
+DTSTART:20261208T115959Z
+DTEND:20261208T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CODASPY 2027 deadline
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\nht
+ tps://www.codaspy.org/2027/\nLocation: Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:osdi-2027-0-abstract@conference-deadlines
@@ -4935,6 +4924,28 @@ SUMMARY:IJCAI 2027 deadline (Separate satellite event: August 15-17\, 2027\
 DESCRIPTION:International Joint Conference on Artificial Intelligence\nhttp
  s://2027.ijcai.org/\nLocation: Kyoto\, Japan
 URL:https://2027.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdcs-2027-0-abstract@conference-deadlines
+DTSTAMP:20270107T115959Z
+DTSTART:20270107T115959Z
+DTEND:20270107T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDCS 2027 abstract deadline
+DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
+ nhttps://icdcs2027.icdcs.org/\nLocation: Melbourne\, Australia
+URL:https://icdcs2027.icdcs.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdcs-2027-0-paper@conference-deadlines
+DTSTAMP:20270114T115959Z
+DTSTART:20270114T115959Z
+DTEND:20270114T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDCS 2027 deadline
+DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
+ nhttps://icdcs2027.icdcs.org/\nLocation: Melbourne\, Australia
+URL:https://icdcs2027.icdcs.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ismb-2027-0-paper@conference-deadlines
@@ -5689,8 +5700,7 @@ DTSTART:20270302T115959Z
 DTEND:20270302T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICPR 2027 abstract deadline (All dates tentative\; March 1 is paper
-  registration\; author rebuttal April 23 (provisional\, cutoff unspecified
- ))
+  registration\; author rebuttal May 17 (provisional\, cutoff unspecified))
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
  pr2027.com/\nLocation: Online
 URL:https://www.icpr2027.com/
@@ -5702,7 +5712,7 @@ DTSTART:20270309T115959Z
 DTEND:20270309T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICPR 2027 deadline (All dates tentative\; March 1 is paper registra
- tion\; author rebuttal April 23 (provisional\, cutoff unspecified))
+ tion\; author rebuttal May 17 (provisional\, cutoff unspecified))
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
  pr2027.com/\nLocation: Online
 URL:https://www.icpr2027.com/
@@ -5718,6 +5728,19 @@ SUMMARY:ICIC 2027 deadline (Regular papers\; rebuttal notification April 15
 DESCRIPTION:International Conference on Intelligent Computing\nhttp://ic-ic
  c.cn/2027/index.php\nLocation: Jinan\, China
 URL:http://ic-icc.cn/2027/index.php
+END:VEVENT
+BEGIN:VEVENT
+UID:ecaf-2027-0-paper@conference-deadlines
+DTSTAMP:20270326T115959Z
+DTSTART:20270326T115959Z
+DTEND:20270326T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECAF 2027 deadline (Regular full research papers. The 5 May 2027 no
+ tification publishes a date only\; its clock time 23:59:59 and timezone Ao
+ E are repository defaults.)
+DESCRIPTION:European Conference on Algorithmic Fairness\nhttps://2027.ecafc
+ onference.org/\nLocation: Vilnius\, Lithuania
+URL:https://2027.ecafconference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:icip-2027-0-paper@conference-deadlines

@@ -310,17 +310,6 @@ DESCRIPTION:International Conference on Web Search and Data Mining\nhttps:/
 URL:https://wsdm-conference.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:pakdd-2027-0-paper@conference-deadlines
-DTSTAMP:20261121T115959Z
-DTSTART:20261121T115959Z
-DTEND:20261121T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:PAKDD 2027 deadline
-DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
- nhttps://www.pakdd2027.org/\nLocation: Wellington\, New Zealand
-URL:https://www.pakdd2027.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:dasfaa-2027-0-paper@conference-deadlines
 DTSTAMP:20261126T115959Z
 DTSTART:20261126T115959Z
@@ -396,6 +385,17 @@ SUMMARY:VLDB 2027 deadline
 DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
  vldb.org/2027/\nLocation: Athens\, Greece
 URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pakdd-2027-0-paper@conference-deadlines
+DTSTAMP:20261205T115959Z
+DTSTART:20261205T115959Z
+DTEND:20261205T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:PAKDD 2027 deadline
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining\
+ nhttps://www.pakdd2027.org/\nLocation: Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:pods-2027-0-abstract@conference-deadlines

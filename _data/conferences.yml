@@ -373,22 +373,6 @@
   date: July 20-23, 2026
   place: Lisbon, Portugal
   country: Portugal
-- name: ISMAR
-  description: International Symposium on Mixed and Augmented Reality
-  year: 2026
-  link: https://www.ieeeismar.net/2026/
-  deadlines:
-  - date: '2026-03-16T23:59:59-12:00'
-    abstract: '2026-03-09T23:59:59-12:00'
-  areas:
-  - CG
-  tags:
-  - CORE-ASTAR
-  tba: true
-  dblp: https://dblp.org/db/conf/ismar/index.html
-  date: October 7-9, 2026
-  place: Bari, Italy
-  country: Italy
 - name: NETYS
   description: The International Conference on Networked Systems
   year: 2026
@@ -1691,23 +1675,6 @@
   date: October 19-22, 2026
   place: Singapore
   country: Singapore
-- name: Middleware
-  description: International Middleware Conference
-  year: 2026
-  link: https://middleware-conf.github.io/2026/
-  deadlines:
-  - date: '2026-06-05T23:59:59-12:00'
-    comment: Round 2
-    abstract: '2026-05-29T23:59:59-12:00'
-  areas:
-  - SE
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/middleware/index.html
-  date: December 14-18, 2026
-  place: Universitat Rovira i Virgili, Tarragona, Spain
-  country: Spain
 - name: CICAI
   description: CAAI International Conference on Artificial Intelligence
   year: 2026
@@ -3864,6 +3831,7 @@
   - DS
   tags:
   - CORE-ASTAR
+  tba: true
   dblp: https://dblp.org/db/conf/dac/index.html
   date: July 11-14, 2027
   place: San Jose, CA
@@ -3875,7 +3843,6 @@
   deadlines:
   - date: '2026-11-19T23:59:59-12:00'
     comment: Research Track - Second Round
-    abstract: '2026-11-12T23:59:59-12:00'
   areas:
   - NW
   tags:
@@ -3901,35 +3868,6 @@
   date: June 28 - July 2, 2027
   place: Turin, Italy
   country: Italy
-- name: PAKDD
-  description: Pacific-Asia Conference on Knowledge Discovery and Data Mining
-  year: 2027
-  link: https://www.pakdd2027.org/
-  deadlines:
-  - date: '2026-11-20T23:59:59-12:00'
-  areas:
-  - DB
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/pakdd/index.html
-  date: June 29-July 2, 2027
-  place: Wellington, New Zealand
-  country: New Zealand
-- name: CODASPY
-  description: ACM Conference on Data and Application Security and Privacy
-  year: 2027
-  link: https://www.codaspy.org/2027/
-  deadlines:
-  - date: '2026-11-23T23:59:59-12:00'
-    abstract: '2026-11-16T23:59:59-12:00'
-  areas:
-  - SC
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/codaspy/index.html
-  date: June 14-17, 2027
-  place: Fort Collins, Colorado, USA
-  country: United States
 - name: DASFAA
   description: Database Systems for Advanced Applications
   year: 2027
@@ -4208,6 +4146,25 @@
   date: March 20-21, 2027
   place: Salt Lake City, Utah, USA
   country: United States
+- name: Middleware
+  description: International Middleware Conference
+  year: 2027
+  link: https://middleware-conf.github.io/2027/
+  deadlines:
+  - date: '2026-12-04T00:00:00-12:00'
+    comment: Winter cycle
+    abstract: '2026-11-27T00:00:00-12:00'
+  - date: '2027-06-04T23:59:59-12:00'
+    comment: Summer cycle
+    abstract: '2027-05-28T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/middleware/index.html
+  date: December 13-17, 2027
+  place: Kyoto, Japan
+  country: Japan
 - name: CoNEXT
   description: International Conference on Emerging Networking Experiments and Technologies
   year: 2027
@@ -4242,6 +4199,20 @@
   date: June 21-25, 2027
   place: Ho Chi Minh City, Vietnam
   country: Vietnam
+- name: PAKDD
+  description: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  year: 2027
+  link: https://www.pakdd2027.org/
+  deadlines:
+  - date: '2026-12-04T23:59:59-12:00'
+  areas:
+  - DB
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/pakdd/index.html
+  date: June 29-July 2, 2027
+  place: Wellington, New Zealand
+  country: New Zealand
 - name: RSS
   description: Robotics Science and Systems
   year: 2027
@@ -4285,6 +4256,21 @@
   dblp: https://dblp.org/db/conf/ics/index.html
   date: June 5-11, 2027
   place: Atlanta, Georgia, USA
+  country: United States
+- name: CODASPY
+  description: ACM Conference on Data and Application Security and Privacy
+  year: 2027
+  link: https://www.codaspy.org/2027/
+  deadlines:
+  - date: '2026-12-07T23:59:59-12:00'
+    abstract: '2026-11-30T23:59:59-12:00'
+  areas:
+  - SC
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/codaspy/index.html
+  date: June 14-17, 2027
+  place: Fort Collins, Colorado, USA
   country: United States
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
@@ -4603,6 +4589,21 @@
   date: August 7-13, 2027
   place: Kyoto, Japan
   country: Japan
+- name: ICDCS
+  description: IEEE International Conference on Distributed Computing Systems
+  year: 2027
+  link: https://icdcs2027.icdcs.org/
+  deadlines:
+  - date: '2027-01-13T23:59:59-12:00'
+    abstract: '2027-01-06T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/icdcs/index.html
+  date: July 5-8, 2027
+  place: Melbourne, Australia
+  country: Australia
 - name: ISMB
   description: International Conference on Intelligent Systems for Molecular Biology
   year: 2027
@@ -5283,7 +5284,7 @@
   link: https://www.icpr2027.com/
   deadlines:
   - date: '2027-03-08T23:59:59-12:00'
-    comment: All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)
+    comment: All dates tentative; March 1 is paper registration; author rebuttal May 17 (provisional, cutoff unspecified)
     abstract: '2027-03-01T23:59:59-12:00'
   areas:
   - AI
@@ -5307,6 +5308,21 @@
   date: July 22-26, 2027
   place: Jinan, China
   country: China
+- name: ECAF
+  description: European Conference on Algorithmic Fairness
+  year: 2027
+  link: https://2027.ecafconference.org/
+  deadlines:
+  - date: '2027-03-25T23:59:59-12:00'
+    comment: Regular full research papers. The 5 May 2027 notification publishes a date only; its clock time 23:59:59 and timezone AoE are repository defaults.
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/ewaf/index.html
+  date: August 25-27, 2027
+  place: Vilnius, Lithuania
+  country: Lithuania
 - name: ICIP
   description: The IEEE International Conference on Image Processing
   year: 2027

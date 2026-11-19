@@ -980,6 +980,28 @@ DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\nhttps
 URL:https://www.sigmetrics.org/sigmetrics2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:icdcs-2027-0-abstract@conference-deadlines
+DTSTAMP:20270107T115959Z
+DTSTART:20270107T115959Z
+DTEND:20270107T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDCS 2027 abstract deadline
+DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
+ nhttps://icdcs2027.icdcs.org/\nLocation: Melbourne\, Australia
+URL:https://icdcs2027.icdcs.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icdcs-2027-0-paper@conference-deadlines
+DTSTAMP:20270114T115959Z
+DTSTART:20270114T115959Z
+DTEND:20270114T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICDCS 2027 deadline
+DESCRIPTION:IEEE International Conference on Distributed Computing Systems\
+ nhttps://icdcs2027.icdcs.org/\nLocation: Melbourne\, Australia
+URL:https://icdcs2027.icdcs.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:fccm-2027-0-abstract@conference-deadlines
 DTSTAMP:20270111T115959Z
 DTSTART:20270111T115959Z

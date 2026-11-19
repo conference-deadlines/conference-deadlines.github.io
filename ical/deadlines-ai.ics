@@ -864,8 +864,7 @@ DTSTART:20270302T115959Z
 DTEND:20270302T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICPR 2027 abstract deadline (All dates tentative\; March 1 is paper
-  registration\; author rebuttal April 23 (provisional\, cutoff unspecified
- ))
+  registration\; author rebuttal May 17 (provisional\, cutoff unspecified))
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
  pr2027.com/\nLocation: Online
 URL:https://www.icpr2027.com/
@@ -877,10 +876,23 @@ DTSTART:20270309T115959Z
 DTEND:20270309T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:ICPR 2027 deadline (All dates tentative\; March 1 is paper registra
- tion\; author rebuttal April 23 (provisional\, cutoff unspecified))
+ tion\; author rebuttal May 17 (provisional\, cutoff unspecified))
 DESCRIPTION:International Conference on Pattern Recognition\nhttps://www.ic
  pr2027.com/\nLocation: Online
 URL:https://www.icpr2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecaf-2027-0-paper@conference-deadlines
+DTSTAMP:20270326T115959Z
+DTSTART:20270326T115959Z
+DTEND:20270326T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECAF 2027 deadline (Regular full research papers. The 5 May 2027 no
+ tification publishes a date only\; its clock time 23:59:59 and timezone Ao
+ E are repository defaults.)
+DESCRIPTION:European Conference on Algorithmic Fairness\nhttps://2027.ecafc
+ onference.org/\nLocation: Vilnius\, Lithuania
+URL:https://2027.ecafconference.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ijcb-2027-0-paper@conference-deadlines

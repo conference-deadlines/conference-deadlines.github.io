@@ -298,17 +298,6 @@ DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\nhttps://se
 URL:https://sensys.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:mmsys-2027-0-abstract@conference-deadlines
-DTSTAMP:20261113T115959Z
-DTSTART:20261113T115959Z
-DTEND:20261113T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MMSys 2027 abstract deadline (Research Track - Second Round)
-DESCRIPTION:ACM International Conference on Multimedia Systems\nhttps://202
- 7.acmmmsys.org\nLocation: Ghent\, Belgium
-URL:https://2027.acmmmsys.org
-END:VEVENT
-BEGIN:VEVENT
 UID:mmsys-2027-0-paper@conference-deadlines
 DTSTAMP:20261120T115959Z
 DTSTART:20261120T115959Z
