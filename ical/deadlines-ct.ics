@@ -220,6 +220,28 @@ DESCRIPTION:International Conference on Computer-Aided Verification\nhttps:
 URL:https://conferences.i-cav.org/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:lics-2027-0-abstract@conference-deadlines
+DTSTAMP:20270115T115959Z
+DTSTART:20270115T115959Z
+DTEND:20270115T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LICS 2027 abstract deadline
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\nhttps://lics.siglo
+ g.org/lics27/\nLocation: Montréal\, Canada
+URL:https://lics.siglog.org/lics27/
+END:VEVENT
+BEGIN:VEVENT
+UID:lics-2027-0-paper@conference-deadlines
+DTSTAMP:20270122T115959Z
+DTSTART:20270122T115959Z
+DTEND:20270122T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:LICS 2027 deadline
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\nhttps://lics.siglo
+ g.org/lics27/\nLocation: Montréal\, Canada
+URL:https://lics.siglog.org/lics27/
+END:VEVENT
+BEGIN:VEVENT
 UID:cade-2027-0-abstract@conference-deadlines
 DTSTAMP:20270216T115959Z
 DTSTART:20270216T115959Z

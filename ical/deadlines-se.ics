@@ -5,28 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Software Engineering
 BEGIN:VEVENT
-UID:ispass-2026-0-abstract@conference-deadlines
-DTSTAMP:20251208T220000Z
-DTSTART:20251208T220000Z
-DTEND:20251208T223000Z
-TRANSP:TRANSPARENT
-SUMMARY:ISPASS 2026 abstract deadline
-DESCRIPTION:International Symposium on Performance Analysis of Systems and 
- Software\nhttps://ispass.org/ispass2026/\nLocation: Seoul\, South Korea
-URL:https://ispass.org/ispass2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:ispass-2026-0-paper@conference-deadlines
-DTSTAMP:20251215T220000Z
-DTSTART:20251215T220000Z
-DTEND:20251215T223000Z
-TRANSP:TRANSPARENT
-SUMMARY:ISPASS 2026 deadline
-DESCRIPTION:International Symposium on Performance Analysis of Systems and 
- Software\nhttps://ispass.org/ispass2026/\nLocation: Seoul\, South Korea
-URL:https://ispass.org/ispass2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:tase-2026-0-abstract@conference-deadlines
 DTSTAMP:20260302T115959Z
 DTSTART:20260302T115959Z
@@ -650,28 +628,6 @@ DESCRIPTION:International Conference on Advanced Information Systems Engine
 URL:https://deal.us.es/caise27/
 END:VEVENT
 BEGIN:VEVENT
-UID:ecoop-2027-0-paper@conference-deadlines
-DTSTAMP:20261120T115959Z
-DTSTART:20261120T115959Z
-DTEND:20261120T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ECOOP 2027 deadline (Submission R1)
-DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
- 7.ecoop.org/\nLocation: Turin\, Italy
-URL:https://2027.ecoop.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:ecoop-2027-1-paper@conference-deadlines
-DTSTAMP:20270212T115959Z
-DTSTART:20270212T115959Z
-DTEND:20270212T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ECOOP 2027 deadline (Submission R2)
-DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
- 7.ecoop.org/\nLocation: Turin\, Italy
-URL:https://2027.ecoop.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:cc-2027-0-abstract@conference-deadlines
 DTSTAMP:20261202T115959Z
 DTSTART:20261202T115959Z
@@ -760,6 +716,28 @@ DESCRIPTION:USENIX Symposium on Operating Systems Design and Implementation
 URL:https://www.usenix.org/conference/osdi27
 END:VEVENT
 BEGIN:VEVENT
+UID:ispass-2027-0-abstract@conference-deadlines
+DTSTAMP:20261212T115959Z
+DTSTART:20261212T115959Z
+DTEND:20261212T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPASS 2027 abstract deadline
+DESCRIPTION:International Symposium on Performance Analysis of Systems and 
+ Software\nhttps://ispass.org/2027/\nLocation: New York City\, USA
+URL:https://ispass.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ispass-2027-0-paper@conference-deadlines
+DTSTAMP:20261219T115959Z
+DTSTART:20261219T115959Z
+DTEND:20261219T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ISPASS 2027 deadline
+DESCRIPTION:International Symposium on Performance Analysis of Systems and 
+ Software\nhttps://ispass.org/2027/\nLocation: New York City\, USA
+URL:https://ispass.org/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:issta-2027-0-abstract@conference-deadlines
 DTSTAMP:20270109T115959Z
 DTSTART:20270109T115959Z
@@ -829,6 +807,17 @@ DESCRIPTION:USENIX Workshop on Hot Topics in Operating Systems\nhttps://sig
 URL:https://sigops.org/s/conferences/hotos/2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:ecoop-2027-0-paper@conference-deadlines
+DTSTAMP:20270212T115959Z
+DTSTART:20270212T115959Z
+DTEND:20270212T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ECOOP 2027 deadline (Submission R2)
+DESCRIPTION:European Conference on Object-Oriented Programming\nhttps://202
+ 7.ecoop.org/\nLocation: Turin\, Italy
+URL:https://2027.ecoop.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:icfp-2027-0-paper@conference-deadlines
 DTSTAMP:20270226T115959Z
 DTSTART:20270226T115959Z
@@ -838,6 +827,28 @@ SUMMARY:ICFP 2027 deadline
 DESCRIPTION:International Conference on Function Programming\nhttps://icfp2
  7.sigplan.org/\nLocation: Nijmegen\, Netherlands
 URL:https://icfp27.sigplan.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icsme-2027-0-abstract@conference-deadlines
+DTSTAMP:20270220T115959Z
+DTSTART:20270220T115959Z
+DTEND:20270220T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSME 2027 abstract deadline (Research Papers Track)
+DESCRIPTION:International Conference on Software Maintenance and Evolution\
+ nhttps://conf.researchr.org/home/icsme-2027\nLocation: Toronto\, Canada
+URL:https://conf.researchr.org/home/icsme-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:icsme-2027-0-paper@conference-deadlines
+DTSTAMP:20270227T115959Z
+DTSTART:20270227T115959Z
+DTEND:20270227T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:ICSME 2027 deadline (Research Papers Track)
+DESCRIPTION:International Conference on Software Maintenance and Evolution\
+ nhttps://conf.researchr.org/home/icsme-2027\nLocation: Toronto\, Canada
+URL:https://conf.researchr.org/home/icsme-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:re-2027-0-abstract@conference-deadlines
@@ -860,17 +871,6 @@ SUMMARY:RE 2027 deadline (Research Papers)
 DESCRIPTION:IEEE International Requirements Engineering Conference\nhttps:/
  /conf.researchr.org/home/RE-2027\nLocation: Milan\, Italy
 URL:https://conf.researchr.org/home/RE-2027
-END:VEVENT
-BEGIN:VEVENT
-UID:icsme-2027-0-paper@conference-deadlines
-DTSTAMP:20270306T115959Z
-DTSTART:20270306T115959Z
-DTEND:20270306T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ICSME 2027 deadline (Research Papers Track)
-DESCRIPTION:International Conference on Software Maintenance and Evolution\
- nhttps://conf.researchr.org/home/icsme-2027\nLocation: Toronto\, Canada
-URL:https://conf.researchr.org/home/icsme-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:oopsla-2027-0-paper@conference-deadlines

@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - HCI & Ubiquitous Computing
 BEGIN:VEVENT
-UID:ecscw-2026-0-paper@conference-deadlines
-DTSTAMP:20260307T115959Z
-DTSTART:20260307T115959Z
-DTEND:20260307T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:ECSCW 2026 deadline
-DESCRIPTION:European Conference on Computer Supported Cooperative Work\nhtt
- ps://ecscw.eusset.eu/2026\nLocation: Munich\, Germany
-URL:https://ecscw.eusset.eu/2026
-END:VEVENT
-BEGIN:VEVENT
 UID:group-2027-0-abstract@conference-deadlines
 DTSTAMP:20260325T115959Z
 DTSTART:20260325T115959Z
@@ -39,28 +28,6 @@ DESCRIPTION:ACM International Conference on Supporting Group Work\nhttps://
  group.acm.org/conferences/group27/\nLocation: St Simons Island\, Georgia\,
   USA
 URL:https://group.acm.org/conferences/group27/
-END:VEVENT
-BEGIN:VEVENT
-UID:uist-2026-0-abstract@conference-deadlines
-DTSTAMP:20260325T115959Z
-DTSTART:20260325T115959Z
-DTEND:20260325T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:UIST 2026 abstract deadline
-DESCRIPTION:ACM Symposium on User Interface Software and Technology\nhttps:
- //uist.acm.org/2026/\nLocation: GM Renaissance Center\, Detroit\, MI\, USA
-URL:https://uist.acm.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:uist-2026-0-paper@conference-deadlines
-DTSTAMP:20260401T115959Z
-DTSTART:20260401T115959Z
-DTEND:20260401T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:UIST 2026 deadline
-DESCRIPTION:ACM Symposium on User Interface Software and Technology\nhttps:
- //uist.acm.org/2026/\nLocation: GM Renaissance Center\, Detroit\, MI\, USA
-URL:https://uist.acm.org/2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:assets-2026-0-paper@conference-deadlines
@@ -331,5 +298,29 @@ SUMMARY:MobileHCI 2027 deadline
 DESCRIPTION:ACM International Conference on Mobile Human-Computer Interacti
  on\nhttps://mobilehci.acm.org/2027/\nLocation: Limassol\, Cyprus
 URL:https://mobilehci.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:uist-2027-0-abstract@conference-deadlines
+DTSTAMP:20270401T115959Z
+DTSTART:20270401T115959Z
+DTEND:20270401T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:UIST 2027 abstract deadline
+DESCRIPTION:ACM Symposium on User Interface Software and Technology\nhttps:
+ //uist.acm.org/2027/\nLocation: VIECON - Vienna Congress & Convention Cent
+ er\, Vienna\, Austria
+URL:https://uist.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:uist-2027-0-paper@conference-deadlines
+DTSTAMP:20270408T115959Z
+DTSTART:20270408T115959Z
+DTEND:20270408T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:UIST 2027 deadline
+DESCRIPTION:ACM Symposium on User Interface Software and Technology\nhttps:
+ //uist.acm.org/2027/\nLocation: VIECON - Vienna Congress & Convention Cent
+ er\, Vienna\, Austria
+URL:https://uist.acm.org/2027/
 END:VEVENT
 END:VCALENDAR

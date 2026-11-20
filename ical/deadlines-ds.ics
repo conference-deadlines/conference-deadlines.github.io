@@ -5,39 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Conference Deadlines - Architecture & Systems
 BEGIN:VEVENT
-UID:cf-2026-0-paper@conference-deadlines
-DTSTAMP:20260202T115959Z
-DTSTART:20260202T115959Z
-DTEND:20260202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CF 2026 deadline
-DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
- w.computingfrontiers.org/2026/\nLocation: Catania\, Sicily\, Italy
-URL:https://www.computingfrontiers.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:hpdc-2026-0-abstract@conference-deadlines
-DTSTAMP:20260130T115959Z
-DTSTART:20260130T115959Z
-DTEND:20260130T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HPDC 2026 abstract deadline
-DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
- uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
-URL:https://hpdc.sci.utah.edu/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:hpdc-2026-0-paper@conference-deadlines
-DTSTAMP:20260206T115959Z
-DTSTART:20260206T115959Z
-DTEND:20260206T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:HPDC 2026 deadline
-DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
- uting\nhttps://hpdc.sci.utah.edu/2026/\nLocation: Cleveland\, OH\, USA
-URL:https://hpdc.sci.utah.edu/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:podc-2026-0-abstract@conference-deadlines
 DTSTAMP:20260212T115959Z
 DTSTART:20260212T115959Z
@@ -1024,6 +991,28 @@ DESCRIPTION:IEEE Symposium on Field-Programmable Custom Computing Machines\
 URL:https://www.fccm.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:hpdc-2027-0-abstract@conference-deadlines
+DTSTAMP:20270112T115959Z
+DTSTART:20270112T115959Z
+DTEND:20270112T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HPDC 2027 abstract deadline
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
+ uting\nhttps://hpdc.sci.utah.edu/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://hpdc.sci.utah.edu/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:hpdc-2027-0-paper@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:HPDC 2027 deadline
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Comp
+ uting\nhttps://hpdc.sci.utah.edu/2027/\nLocation: Atlanta\, GA\, USA
+URL:https://hpdc.sci.utah.edu/2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:sigops-atc-2027-0-paper@conference-deadlines
 DTSTAMP:20270120T115959Z
 DTSTART:20270120T115959Z
@@ -1033,6 +1022,28 @@ SUMMARY:SIGOPS ATC 2027 deadline
 DESCRIPTION:ACM SIGOPS Annual Technical Conference\nhttps://atc.sigops.org/
  2027/\nLocation: Rennes\, France
 URL:https://atc.sigops.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2027-0-abstract@conference-deadlines
+DTSTAMP:20270119T115959Z
+DTSTART:20270119T115959Z
+DTEND:20270119T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CF 2027 abstract deadline
+DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
+ w.computingfrontiers.org/2027/\nLocation: Trento\, Italy
+URL:https://www.computingfrontiers.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2027-0-paper@conference-deadlines
+DTSTAMP:20270126T115959Z
+DTSTART:20270126T115959Z
+DTEND:20270126T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CF 2027 deadline
+DESCRIPTION:ACM International Conference on Computing Frontiers\nhttps://ww
+ w.computingfrontiers.org/2027/\nLocation: Trento\, Italy
+URL:https://www.computingfrontiers.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:spaa-2027-0-abstract@conference-deadlines

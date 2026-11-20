@@ -4,7 +4,7 @@
 - name: Australia
   count: 14
 - name: Austria
-  count: 2
+  count: 3
 - name: Barbados
   count: 1
 - name: Belgium
@@ -14,7 +14,7 @@
 - name: Cambodia
   count: 1
 - name: Canada
-  count: 13
+  count: 14
 - name: Chile
   count: 1
 - name: China
@@ -34,7 +34,7 @@
 - name: France
   count: 7
 - name: Germany
-  count: 15
+  count: 14
 - name: Greece
   count: 8
 - name: Hungary
@@ -46,7 +46,7 @@
 - name: Indonesia
   count: 1
 - name: Ireland
-  count: 5
+  count: 6
 - name: Italy
   count: 22
 - name: Japan
@@ -80,13 +80,13 @@
 - name: South Africa
   count: 1
 - name: South Korea
-  count: 5
+  count: 4
 - name: Spain
   count: 7
 - name: Sweden
   count: 3
 - name: Switzerland
-  count: 2
+  count: 1
 - name: Taiwan
   count: 3
 - name: Thailand

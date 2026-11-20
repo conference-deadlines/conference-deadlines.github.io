@@ -62,17 +62,6 @@ DESCRIPTION:IEEE Symposium on Computers and Communications\nhttps://ieee-is
 URL:https://ieee-iscc.computer.org/2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:networking-2026-0-paper@conference-deadlines
-DTSTAMP:20260301T115959Z
-DTSTART:20260301T115959Z
-DTEND:20260301T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:Networking 2026 deadline
-DESCRIPTION:IFIP International Conference on Networking\nhttps://networking
- .ifip.org/2026/\nLocation: Lugano\, Switzerland
-URL:https://networking.ifip.org/2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:apnet-2026-0-paper@conference-deadlines
 DTSTAMP:20260312T115959Z
 DTSTART:20260312T115959Z
@@ -414,6 +403,28 @@ DESCRIPTION:International Workshop on Network and Operating System Support
  for Digital Audio and Video\nhttps://nossdav.org/\nLocation: Ghent\, Belgi
  um
 URL:https://nossdav.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:networking-2027-0-abstract@conference-deadlines
+DTSTAMP:20270116T115959Z
+DTSTART:20270116T115959Z
+DTEND:20270116T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Networking 2027 abstract deadline
+DESCRIPTION:IFIP International Conference on Networking\nhttps://networking
+ .ifip.org/2027/\nLocation: Dublin\, Ireland
+URL:https://networking.ifip.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:networking-2027-0-paper@conference-deadlines
+DTSTAMP:20270123T115959Z
+DTSTART:20270123T115959Z
+DTEND:20270123T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:Networking 2027 deadline
+DESCRIPTION:IFIP International Conference on Networking\nhttps://networking
+ .ifip.org/2027/\nLocation: Dublin\, Ireland
+URL:https://networking.ifip.org/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:sigcomm-2027-0-paper@conference-deadlines
