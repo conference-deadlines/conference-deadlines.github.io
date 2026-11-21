@@ -443,30 +443,6 @@ DESCRIPTION:International Conference on Automated Software Engineering\nhtt
 URL:https://conf.researchr.org/home/ase-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:models-2026-0-abstract@conference-deadlines
-DTSTAMP:20260321T115959Z
-DTSTART:20260321T115959Z
-DTEND:20260321T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MoDELS 2026 abstract deadline
-DESCRIPTION:International Conference on Model Driven Engineering Languages 
- and Systems\nhttps://conf.researchr.org/home/models-2026\nLocation: Málag
- a\, Spain
-URL:https://conf.researchr.org/home/models-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:models-2026-0-paper@conference-deadlines
-DTSTAMP:20260328T115959Z
-DTSTART:20260328T115959Z
-DTEND:20260328T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:MoDELS 2026 deadline
-DESCRIPTION:International Conference on Model Driven Engineering Languages 
- and Systems\nhttps://conf.researchr.org/home/models-2026\nLocation: Málag
- a\, Spain
-URL:https://conf.researchr.org/home/models-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:iccbr-2026-0-abstract@conference-deadlines
 DTSTAMP:20260321T115959Z
 DTSTART:20260321T115959Z
@@ -2801,7 +2777,7 @@ TRANSP:TRANSPARENT
 SUMMARY:ASPLOS 2027 deadline (September Cycle Submission Deadline)
 DESCRIPTION:International Conference on Architectural Support for Programmi
  ng Languages and Operating Systems\nhttps://www.asplos-conference.org/aspl
- os2027/cfp/\nLocation: Crete\, Greece
+ os2027/cfp/\nLocation: Heraklion\, Crete\, Greece
 URL:https://www.asplos-conference.org/asplos2027/cfp/
 END:VEVENT
 BEGIN:VEVENT
@@ -5278,17 +5254,6 @@ DESCRIPTION:Annual Conference on Learning Theory\nhttps://learningtheory.or
 URL:https://learningtheory.org/colt2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:whc-2027-0-paper@conference-deadlines
-DTSTAMP:20270130T115959Z
-DTSTART:20270130T115959Z
-DTEND:20270130T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WHC 2027 deadline
-DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
- Location: Boston\, Massachusetts\, USA
-URL:https://2027.worldhaptics.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:compsac-2027-0-paper@conference-deadlines
 DTSTAMP:20270201T115959Z
 DTSTART:20270201T115959Z
@@ -5423,6 +5388,28 @@ SUMMARY:GI 2027 deadline
 DESCRIPTION:Graphics Interface\nhttps://conferences.graphicsinterface.org/2
  027\nLocation: Winnipeg\, Canada
 URL:https://conferences.graphicsinterface.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:whc-2027-0-abstract@conference-deadlines
+DTSTAMP:20270130T115959Z
+DTSTART:20270130T115959Z
+DTEND:20270130T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WHC 2027 abstract deadline
+DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
+ Location: Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:whc-2027-0-paper@conference-deadlines
+DTSTAMP:20270206T115959Z
+DTSTART:20270206T115959Z
+DTEND:20270206T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WHC 2027 deadline
+DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
+ Location: Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:eusipco-2027-0-paper@conference-deadlines
@@ -5739,6 +5726,30 @@ SUMMARY:ICIC 2027 deadline (Regular papers\; rebuttal notification April 15
 DESCRIPTION:International Conference on Intelligent Computing\nhttp://ic-ic
  c.cn/2027/index.php\nLocation: Jinan\, China
 URL:http://ic-icc.cn/2027/index.php
+END:VEVENT
+BEGIN:VEVENT
+UID:models-2027-0-abstract@conference-deadlines
+DTSTAMP:20270313T115959Z
+DTSTART:20270313T115959Z
+DTEND:20270313T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MoDELS 2027 abstract deadline
+DESCRIPTION:International Conference on Model Driven Engineering Languages 
+ and Systems\nhttps://conf.researchr.org/home/models-2027\nLocation: Budape
+ st\, Hungary
+URL:https://conf.researchr.org/home/models-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:models-2027-0-paper@conference-deadlines
+DTSTAMP:20270320T115959Z
+DTSTART:20270320T115959Z
+DTEND:20270320T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:MoDELS 2027 deadline
+DESCRIPTION:International Conference on Model Driven Engineering Languages 
+ and Systems\nhttps://conf.researchr.org/home/models-2027\nLocation: Budape
+ st\, Hungary
+URL:https://conf.researchr.org/home/models-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:ecaf-2027-0-paper@conference-deadlines

@@ -234,17 +234,6 @@ DESCRIPTION:ACM Interaction Design and Children Conference\nhttps://idc.acm
 URL:https://idc.acm.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:whc-2027-0-paper@conference-deadlines
-DTSTAMP:20270130T115959Z
-DTSTART:20270130T115959Z
-DTEND:20270130T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:WHC 2027 deadline
-DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
- Location: Boston\, Massachusetts\, USA
-URL:https://2027.worldhaptics.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:interact-2027-0-abstract@conference-deadlines
 DTSTAMP:20270126T115959Z
 DTSTART:20270126T115959Z
@@ -276,6 +265,28 @@ SUMMARY:GI 2027 deadline
 DESCRIPTION:Graphics Interface\nhttps://conferences.graphicsinterface.org/2
  027\nLocation: Winnipeg\, Canada
 URL:https://conferences.graphicsinterface.org/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:whc-2027-0-abstract@conference-deadlines
+DTSTAMP:20270130T115959Z
+DTSTART:20270130T115959Z
+DTEND:20270130T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WHC 2027 abstract deadline
+DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
+ Location: Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:whc-2027-0-paper@conference-deadlines
+DTSTAMP:20270206T115959Z
+DTSTART:20270206T115959Z
+DTEND:20270206T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:WHC 2027 deadline
+DESCRIPTION:IEEE World Haptics Conference\nhttps://2027.worldhaptics.org/\n
+ Location: Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:mobilehci-2027-0-abstract@conference-deadlines

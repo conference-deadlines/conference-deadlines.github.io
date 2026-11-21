@@ -434,22 +434,6 @@
   date: October 13-15, 2026
   place: Munich, Germany
   country: Germany
-- name: MoDELS
-  description: International Conference on Model Driven Engineering Languages and Systems
-  year: 2026
-  link: https://conf.researchr.org/home/models-2026
-  deadlines:
-  - date: '2026-03-27T23:59:59-12:00'
-    abstract: '2026-03-20T23:59:59-12:00'
-  areas:
-  - SE
-  tags:
-  - CORE-A
-  tba: true
-  dblp: https://dblp.org/db/conf/models/index.html
-  date: October 7-9, 2026
-  place: Málaga, Spain
-  country: Spain
 - name: ICCBR
   description: International Conference on Case-Based Reasoning
   year: 2026
@@ -2678,7 +2662,7 @@
   tba: true
   dblp: https://dblp.org/db/conf/asplos/index.html
   date: April 11-15, 2027
-  place: Crete, Greece
+  place: Heraklion, Crete, Greece
   country: Greece
 - name: IEEE/ACM CGO
   description: The International Symposium on Code Generation and Optimization
@@ -3724,7 +3708,7 @@
   - CORE-A
   tba: true
   dblp: https://dblp.org/db/conf/wsdm/index.html
-  date: February 15 - 19, 2027
+  date: February 16 - 18, 2027
   place: Cordis, Hong Kong SAR, China
   country: China
 - name: DAC
@@ -4252,7 +4236,7 @@
   tags:
   - CORE-ASTAR
   dblp: https://dblp.org/db/conf/icaps/index.html
-  date: June 27 - July 2, 2027
+  date: June 30 - July 2, 2027
   place: Columbia, SC, USA
   country: United States
 - name: ETS
@@ -4447,7 +4431,7 @@
   tags:
   - CORE-ASTAR
   dblp: https://dblp.org/db/conf/sigmetrics/index.html
-  date: June 7-11, 2027
+  date: June 7-10, 2027
   place: Atlanta, Georgia, USA
   country: United States
 - name: NOSSDAV
@@ -4859,20 +4843,6 @@
   date: June 28 - July 2, 2027
   place: Tokyo, Japan
   country: Japan
-- name: WHC
-  description: IEEE World Haptics Conference
-  year: 2027
-  link: https://2027.worldhaptics.org/
-  deadlines:
-  - date: '2027-01-29T23:59:59-12:00'
-  areas:
-  - HI
-  tags:
-  - CORE-N
-  dblp: https://dblp.org/db/conf/haptics/index.html
-  date: July 12-15, 2027
-  place: Boston, Massachusetts, USA
-  country: United States
 - name: COMPSAC
   description: International Computer Software and Applications Conference
   year: 2027
@@ -5017,6 +4987,21 @@
   date: June 15-18, 2027
   place: Winnipeg, Canada
   country: Canada
+- name: WHC
+  description: IEEE World Haptics Conference
+  year: 2027
+  link: https://2027.worldhaptics.org/
+  deadlines:
+  - date: '2027-02-05T23:59:59-12:00'
+    abstract: '2027-01-29T23:59:59-12:00'
+  areas:
+  - HI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/haptics/index.html
+  date: July 13-16, 2027
+  place: Boston, Massachusetts, USA
+  country: United States
 - name: EUSIPCO
   description: European Signal Processing Conference
   year: 2027
@@ -5290,6 +5275,21 @@
   date: July 22-26, 2027
   place: Jinan, China
   country: China
+- name: MoDELS
+  description: International Conference on Model Driven Engineering Languages and Systems
+  year: 2027
+  link: https://conf.researchr.org/home/models-2027
+  deadlines:
+  - date: '2027-03-19T23:59:59-12:00'
+    abstract: '2027-03-12T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/models/index.html
+  date: TBD
+  place: Budapest, Hungary
+  country: Hungary
 - name: ECAF
   description: European Conference on Algorithmic Fairness
   year: 2027
@@ -5390,7 +5390,7 @@
   tags:
   - CORE-A
   dblp: https://dblp.org/db/conf/ecai/index.html
-  date: October 2-7, 2027
+  date: October 4-7, 2027
   place: Athens, Greece
   country: Greece
 - name: CGI

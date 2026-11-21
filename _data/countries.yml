@@ -38,7 +38,7 @@
 - name: Greece
   count: 8
 - name: Hungary
-  count: 1
+  count: 2
 - name: Iceland
   count: 1
 - name: India
@@ -82,7 +82,7 @@
 - name: South Korea
   count: 4
 - name: Spain
-  count: 7
+  count: 6
 - name: Sweden
   count: 3
 - name: Switzerland
