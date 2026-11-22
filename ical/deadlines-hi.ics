@@ -173,8 +173,9 @@ DTEND:20261201T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CSCWD 2027 deadline (Paper submission due (extended))
 DESCRIPTION:International Conference on Computer Supported Cooperative Work
-  in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
-URL:http://2027.cscwd.org
+  in Design\nhttps://cscwd2027.dailyeliteevents.com.au/\nLocation: Brisbane
+ \, Australia
+URL:https://cscwd2027.dailyeliteevents.com.au/
 END:VEVENT
 BEGIN:VEVENT
 UID:icwsm-2027-0-paper@conference-deadlines

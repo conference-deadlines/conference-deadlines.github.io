@@ -1010,7 +1010,7 @@
   link: https://neurips.cc/Conferences/2026
   deadlines:
   - date: '2026-05-07T11:59:59+00:00'
-    abstract: '2026-05-05T11:59:00+00:00'
+    abstract: '2026-05-05T11:59:59+00:00'
   areas:
   - AI
   tags:
@@ -3840,7 +3840,7 @@
 - name: CSCWD
   description: International Conference on Computer Supported Cooperative Work in Design
   year: 2027
-  link: http://2027.cscwd.org
+  link: https://cscwd2027.dailyeliteevents.com.au/
   deadlines:
   - date: '2026-11-30T23:59:59-12:00'
     comment: Paper submission due (extended)
@@ -4012,7 +4012,7 @@
   link: https://conf.researchr.org/home/CC-2027
   deadlines:
   - date: '2026-12-03T23:59:59-12:00'
-    abstract: '2026-12-01T23:59:59-12:00'
+    comment: 'Optional abstract registration: December 1, 2026 (AoE)'
   areas:
   - SE
   tags:

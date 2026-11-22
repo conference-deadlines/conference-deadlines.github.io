@@ -1116,9 +1116,9 @@ URL:https://conf.researchr.org/home/internetware-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026-0-abstract@conference-deadlines
-DTSTAMP:20260505T115900Z
-DTSTART:20260505T115900Z
-DTEND:20260505T122900Z
+DTSTAMP:20260505T115959Z
+DTSTART:20260505T115959Z
+DTEND:20260505T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:NeurIPS 2026 abstract deadline
 DESCRIPTION:Conference on Neural Information Processing Systems\nhttps://ne
@@ -3990,8 +3990,9 @@ DTEND:20261201T122959Z
 TRANSP:TRANSPARENT
 SUMMARY:CSCWD 2027 deadline (Paper submission due (extended))
 DESCRIPTION:International Conference on Computer Supported Cooperative Work
-  in Design\nhttp://2027.cscwd.org\nLocation: Brisbane\, Australia
-URL:http://2027.cscwd.org
+  in Design\nhttps://cscwd2027.dailyeliteevents.com.au/\nLocation: Brisbane
+ \, Australia
+URL:https://cscwd2027.dailyeliteevents.com.au/
 END:VEVENT
 BEGIN:VEVENT
 UID:vldb-2027-0-abstract@conference-deadlines
@@ -4208,23 +4209,13 @@ DESCRIPTION:Eurographics Conference on Visualization\nhttps://eurovis27.git
 URL:https://eurovis27.github.io/web/
 END:VEVENT
 BEGIN:VEVENT
-UID:cc-2027-0-abstract@conference-deadlines
-DTSTAMP:20261202T115959Z
-DTSTART:20261202T115959Z
-DTEND:20261202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CC 2027 abstract deadline
-DESCRIPTION:International Conference on Compiler Construction\nhttps://conf
- .researchr.org/home/CC-2027\nLocation: Salt Lake City\, Utah\, USA
-URL:https://conf.researchr.org/home/CC-2027
-END:VEVENT
-BEGIN:VEVENT
 UID:cc-2027-0-paper@conference-deadlines
 DTSTAMP:20261204T115959Z
 DTSTART:20261204T115959Z
 DTEND:20261204T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:CC 2027 deadline
+SUMMARY:CC 2027 deadline (Optional abstract registration: December 1\, 2026
+  (AoE))
 DESCRIPTION:International Conference on Compiler Construction\nhttps://conf
  .researchr.org/home/CC-2027\nLocation: Salt Lake City\, Utah\, USA
 URL:https://conf.researchr.org/home/CC-2027
