@@ -303,7 +303,8 @@ DTSTAMP:20261201T045959Z
 DTSTART:20261201T045959Z
 DTEND:20261201T052959Z
 TRANSP:TRANSPARENT
-SUMMARY:SECON 2027 deadline
+SUMMARY:SECON 2027 deadline (Acceptance results: February 15 (date-only\; A
+ oE end-of-day default converted to UTC-5).)
 DESCRIPTION:IEEE International Conference on Sensing\, Communication\, and 
  Networking\nhttps://secon2027.ieee-secon.org/\nLocation: Lisbon\, Portugal
 URL:https://secon2027.ieee-secon.org/
@@ -322,9 +323,9 @@ URL:https://wowmom2027.dii.unipi.it/index.html
 END:VEVENT
 BEGIN:VEVENT
 UID:conext-2027-0-abstract@conference-deadlines
-DTSTAMP:20261128T115959Z
-DTSTART:20261128T115959Z
-DTEND:20261128T122959Z
+DTSTAMP:20261128T115900Z
+DTSTART:20261128T115900Z
+DTEND:20261128T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:CoNEXT 2027 abstract deadline (December Cycle)
 DESCRIPTION:International Conference on Emerging Networking Experiments and
@@ -334,9 +335,9 @@ URL:https://conferences.sigcomm.org/co-next/2027/#!/home
 END:VEVENT
 BEGIN:VEVENT
 UID:conext-2027-0-paper@conference-deadlines
-DTSTAMP:20261205T115959Z
-DTSTART:20261205T115959Z
-DTEND:20261205T122959Z
+DTSTAMP:20261205T115900Z
+DTSTART:20261205T115900Z
+DTEND:20261205T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:CoNEXT 2027 deadline (December Cycle)
 DESCRIPTION:International Conference on Emerging Networking Experiments and
@@ -374,7 +375,9 @@ DTSTAMP:20261128T115959Z
 DTSTART:20261128T115959Z
 DTEND:20261128T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:MobiSys 2027 abstract deadline
+SUMMARY:MobiSys 2027 abstract deadline (Acceptance is conditional on shephe
+ rding. March 6 is date-only\; clock and time zone are repository defaults.
+ )
 DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
   and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
  inh City\, Vietnam
@@ -386,7 +389,8 @@ DTSTAMP:20261205T115959Z
 DTSTART:20261205T115959Z
 DTEND:20261205T122959Z
 TRANSP:TRANSPARENT
-SUMMARY:MobiSys 2027 deadline
+SUMMARY:MobiSys 2027 deadline (Acceptance is conditional on shepherding. Ma
+ rch 6 is date-only\; clock and time zone are repository defaults.)
 DESCRIPTION:ACM International Conference on Mobile Systems\, Applications\,
   and Services\nhttps://www.sigmobile.org/mobisys/2027/\nLocation: Ho Chi M
  inh City\, Vietnam

@@ -3778,6 +3778,7 @@
   link: https://secon2027.ieee-secon.org/
   deadlines:
   - date: '2026-11-30T23:59:59-05:00'
+    comment: 'Acceptance results: February 15 (date-only; AoE end-of-day default converted to UTC-5).'
   areas:
   - NW
   tags:
@@ -4045,9 +4046,9 @@
   year: 2027
   link: https://conferences.sigcomm.org/co-next/2027/#!/home
   deadlines:
-  - date: '2026-12-04T23:59:59-12:00'
+  - date: '2026-12-04T23:59:00-12:00'
     comment: December Cycle
-    abstract: '2026-11-27T23:59:59-12:00'
+    abstract: '2026-11-27T23:59:00-12:00'
   - date: '2027-06-04T23:59:59-12:00'
     comment: June Cycle
     abstract: '2027-05-28T23:59:59-12:00'
@@ -4065,6 +4066,7 @@
   link: https://www.sigmobile.org/mobisys/2027/
   deadlines:
   - date: '2026-12-04T23:59:59-12:00'
+    comment: Acceptance is conditional on shepherding. March 6 is date-only; clock and time zone are repository defaults.
     abstract: '2026-11-27T23:59:59-12:00'
   areas:
   - NW
@@ -4129,7 +4131,7 @@
   tags:
   - CORE-A
   dblp: https://dblp.org/db/conf/ics/index.html
-  date: June 5-11, 2027
+  date: June 5-8, 2027
   place: Atlanta, Georgia, USA
   country: United States
 - name: CODASPY
