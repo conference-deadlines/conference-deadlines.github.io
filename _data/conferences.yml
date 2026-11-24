@@ -3582,22 +3582,6 @@
   date: June 7-11, 2027
   place: Seville, Spain
   country: Spain
-- name: CVC
-  description: Computer Vision Conference
-  year: 2027
-  link: https://saiconference.com/CVC
-  deadlines:
-  - date: '2026-11-15T23:59:59-12:00'
-    comment: Round 2
-  areas:
-  - AI
-  tags:
-  - CORE-N
-  tba: true
-  dblp: https://dblp.org/db/conf/cvc/index.html
-  date: April 15-16, 2027
-  place: Amsterdam, Netherlands
-  country: Netherlands
 - name: CVPR
   description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   year: 2027
@@ -3611,7 +3595,7 @@
   - CORE-ASTAR
   tba: true
   dblp: https://dblp.org/db/conf/cvpr/index.html
-  date: June 22-25, 2027
+  date: June 22-24, 2027
   place: Seattle, WA, United States
   country: United States
 - name: EuroGP
@@ -3915,6 +3899,21 @@
   dblp: https://dblp.org/db/conf/fse/index.html
   date: May 24-28, 2027
   place: Maastricht, Netherlands
+  country: Netherlands
+- name: CVC
+  description: Computer Vision Conference
+  year: 2027
+  link: https://saiconference.com/CVC
+  deadlines:
+  - date: '2026-12-01T23:59:59-12:00'
+    comment: Round 2
+  areas:
+  - AI
+  tags:
+  - CORE-N
+  dblp: https://dblp.org/db/conf/cvc/index.html
+  date: April 15-16, 2027
+  place: Amsterdam, Netherlands
   country: Netherlands
 - name: IntelliSys
   description: Intelligent Systems Conference
