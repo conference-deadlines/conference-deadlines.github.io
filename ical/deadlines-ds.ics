@@ -829,30 +829,6 @@ DESCRIPTION:Design Automation Conference\nhttps://dac.com/2027/authors/call
 URL:https://dac.com/2027/authors/call-for-contributions
 END:VEVENT
 BEGIN:VEVENT
-UID:ccgrid-2027-0-abstract@conference-deadlines
-DTSTAMP:20261125T115959Z
-DTSTART:20261125T115959Z
-DTEND:20261125T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCGRID 2027 abstract deadline
-DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
- mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
- s\, USA
-URL:https://hpcclab.org/ccgrid27/
-END:VEVENT
-BEGIN:VEVENT
-UID:ccgrid-2027-0-paper@conference-deadlines
-DTSTAMP:20261202T115959Z
-DTSTART:20261202T115959Z
-DTEND:20261202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCGRID 2027 deadline
-DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
- mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
- s\, USA
-URL:https://hpcclab.org/ccgrid27/
-END:VEVENT
-BEGIN:VEVENT
 UID:ics-2027-0-abstract@conference-deadlines
 DTSTAMP:20261202T115959Z
 DTSTART:20261202T115959Z
@@ -873,6 +849,30 @@ SUMMARY:ICS 2027 deadline
 DESCRIPTION:ACM International Conference on Supercomputing\nhttps://klab-ai
  3.github.io/ics2027/\nLocation: Atlanta\, Georgia\, USA
 URL:https://klab-ai3.github.io/ics2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2027-0-abstract@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCGRID 2027 abstract deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
+ s\, USA
+URL:https://hpcclab.org/ccgrid27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2027-0-paper@conference-deadlines
+DTSTAMP:20261209T115959Z
+DTSTART:20261209T115959Z
+DTEND:20261209T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCGRID 2027 deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
+ s\, USA
+URL:https://hpcclab.org/ccgrid27/
 END:VEVENT
 BEGIN:VEVENT
 UID:isca-2027-0-abstract@conference-deadlines

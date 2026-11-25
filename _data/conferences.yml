@@ -2917,7 +2917,7 @@
   - CORE-N
   tba: true
   dblp: https://dblp.org/db/conf/satml/index.html
-  date: May 2027 (exact dates TBD)
+  date: May 4-6, 2027
   place: Reykjavik, Iceland
   country: Iceland
 - name: WiCON
@@ -3856,21 +3856,6 @@
   date: August 23 - August 27, 2027
   place: Athens, Greece
   country: Greece
-- name: CCGRID
-  description: IEEE International Symposium on Cluster, Cloud and Internet Computing
-  year: 2027
-  link: https://hpcclab.org/ccgrid27/
-  deadlines:
-  - date: '2026-12-01T23:59:59-12:00'
-    abstract: '2026-11-24T23:59:59-12:00'
-  areas:
-  - DS
-  tags:
-  - CORE-B
-  dblp: https://dblp.org/db/conf/ccgrid/index.html
-  date: May 24-27, 2027
-  place: Dallas-Fort Worth, Texas, USA
-  country: United States
 - name: WoWMoM
   description: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks
   year: 2027
@@ -4162,6 +4147,21 @@
   dblp: https://dblp.org/db/conf/osdi/index.html
   date: July 7-9, 2027
   place: Baltimore, MD, USA
+  country: United States
+- name: CCGRID
+  description: IEEE International Symposium on Cluster, Cloud and Internet Computing
+  year: 2027
+  link: https://hpcclab.org/ccgrid27/
+  deadlines:
+  - date: '2026-12-08T23:59:59-12:00'
+    abstract: '2026-12-01T23:59:59-12:00'
+  areas:
+  - DS
+  tags:
+  - CORE-B
+  dblp: https://dblp.org/db/conf/ccgrid/index.html
+  date: May 24-27, 2027
+  place: Dallas-Fort Worth, Texas, USA
   country: United States
 - name: PODS
   description: ACM Symposium on Principles of Database Systems

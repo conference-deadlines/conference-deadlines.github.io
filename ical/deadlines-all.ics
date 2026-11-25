@@ -4051,30 +4051,6 @@ DESCRIPTION:International Conference on Very Large Data Bases\nhttps://www.
 URL:https://www.vldb.org/2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:ccgrid-2027-0-abstract@conference-deadlines
-DTSTAMP:20261125T115959Z
-DTSTART:20261125T115959Z
-DTEND:20261125T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCGRID 2027 abstract deadline
-DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
- mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
- s\, USA
-URL:https://hpcclab.org/ccgrid27/
-END:VEVENT
-BEGIN:VEVENT
-UID:ccgrid-2027-0-paper@conference-deadlines
-DTSTAMP:20261202T115959Z
-DTSTART:20261202T115959Z
-DTEND:20261202T122959Z
-TRANSP:TRANSPARENT
-SUMMARY:CCGRID 2027 deadline
-DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
- mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
- s\, USA
-URL:https://hpcclab.org/ccgrid27/
-END:VEVENT
-BEGIN:VEVENT
 UID:wowmom-2027-0-paper@conference-deadlines
 DTSTAMP:20261202T115959Z
 DTSTART:20261202T115959Z
@@ -4439,6 +4415,30 @@ SUMMARY:OSDI 2027 deadline
 DESCRIPTION:USENIX Symposium on Operating Systems Design and Implementation
  \nhttps://www.usenix.org/conference/osdi27\nLocation: Baltimore\, MD\, USA
 URL:https://www.usenix.org/conference/osdi27
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2027-0-abstract@conference-deadlines
+DTSTAMP:20261202T115959Z
+DTSTART:20261202T115959Z
+DTEND:20261202T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCGRID 2027 abstract deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
+ s\, USA
+URL:https://hpcclab.org/ccgrid27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ccgrid-2027-0-paper@conference-deadlines
+DTSTAMP:20261209T115959Z
+DTSTART:20261209T115959Z
+DTEND:20261209T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:CCGRID 2027 deadline
+DESCRIPTION:IEEE International Symposium on Cluster\, Cloud and Internet Co
+ mputing\nhttps://hpcclab.org/ccgrid27/\nLocation: Dallas-Fort Worth\, Texa
+ s\, USA
+URL:https://hpcclab.org/ccgrid27/
 END:VEVENT
 BEGIN:VEVENT
 UID:pods-2027-0-abstract@conference-deadlines
