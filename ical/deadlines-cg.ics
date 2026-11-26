@@ -407,6 +407,30 @@ DESCRIPTION:European Signal Processing Conference\nhttps://eusipco2027.de/\
 URL:https://eusipco2027.de/
 END:VEVENT
 BEGIN:VEVENT
+UID:spm-2027-0-abstract@conference-deadlines
+DTSTAMP:20270201T115959Z
+DTSTART:20270201T115959Z
+DTEND:20270201T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SPM 2027 abstract deadline (First review notification: Mar 26\, 202
+ 7\; revised paper due: Apr 23\, 2027)
+DESCRIPTION:Symposium on Solid and Physical Modeling\nhttps://spmconf2027.g
+ ithub.io/\nLocation: Singapore
+URL:https://spmconf2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:spm-2027-0-paper@conference-deadlines
+DTSTAMP:20270208T115959Z
+DTSTART:20270208T115959Z
+DTEND:20270208T122959Z
+TRANSP:TRANSPARENT
+SUMMARY:SPM 2027 deadline (First review notification: Mar 26\, 2027\; revis
+ ed paper due: Apr 23\, 2027)
+DESCRIPTION:Symposium on Solid and Physical Modeling\nhttps://spmconf2027.g
+ ithub.io/\nLocation: Singapore
+URL:https://spmconf2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
 UID:interspeech-2027-0-paper@conference-deadlines
 DTSTAMP:20270210T115959Z
 DTSTART:20270210T115959Z

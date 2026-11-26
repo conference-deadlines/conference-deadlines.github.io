@@ -1983,7 +1983,7 @@
   - CORE-ASTAR
   tba: true
   dblp: https://dblp.org/db/conf/popl/index.html
-  date: January 10-16, 2027
+  date: January 13-15, 2027
   place: Mexico City
   country: Mexico
 - name: SODA
@@ -2869,7 +2869,7 @@
   - CORE-A
   tba: true
   dblp: https://dblp.org/db/conf/wcre/index.html
-  date: March 9-12, 2027
+  date: March 10-12, 2027
   place: Richmond, Virginia, United States
   country: United States
 - name: ICLR
@@ -3738,6 +3738,7 @@
   - DB
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/dasfaa/index.html
   date: May 27-30, 2027
   place: Shenyang, China
@@ -3752,6 +3753,7 @@
   - AI
   tags:
   - CORE-B
+  tba: true
   dblp: https://dblp.org/db/conf/esann/index.html
   date: April 21 - 23, 2027
   place: Bruges, Belgium and Online
@@ -4006,25 +4008,6 @@
   date: March 20-21, 2027
   place: Salt Lake City, Utah, USA
   country: United States
-- name: Middleware
-  description: International Middleware Conference
-  year: 2027
-  link: https://middleware-conf.github.io/2027/
-  deadlines:
-  - date: '2026-12-04T00:00:00-12:00'
-    comment: Winter cycle
-    abstract: '2026-11-27T00:00:00-12:00'
-  - date: '2027-06-04T23:59:59-12:00'
-    comment: Summer cycle
-    abstract: '2027-05-28T23:59:59-12:00'
-  areas:
-  - SE
-  tags:
-  - CORE-A
-  dblp: https://dblp.org/db/conf/middleware/index.html
-  date: December 13-17, 2027
-  place: Kyoto, Japan
-  country: Japan
 - name: CoNEXT
   description: International Conference on Emerging Networking Experiments and Technologies
   year: 2027
@@ -4044,6 +4027,25 @@
   date: December 6-9, 2027 (To be confirmed)
   place: Rio de Janeiro, Brazil
   country: Brazil
+- name: Middleware
+  description: International Middleware Conference
+  year: 2027
+  link: https://middleware-conf.github.io/2027/
+  deadlines:
+  - date: '2026-12-04T23:59:00-12:00'
+    comment: Winter cycle
+    abstract: '2026-11-27T23:59:00-12:00'
+  - date: '2027-06-04T23:59:59-12:00'
+    comment: Summer cycle
+    abstract: '2027-05-28T23:59:59-12:00'
+  areas:
+  - SE
+  tags:
+  - CORE-A
+  dblp: https://dblp.org/db/conf/middleware/index.html
+  date: December 13-17, 2027
+  place: Kyoto, Japan
+  country: Japan
 - name: MobiSys
   description: ACM International Conference on Mobile Systems, Applications, and Services
   year: 2027
@@ -5017,6 +5019,22 @@
   date: August 30 - September 3, 2027
   place: Darmstadt, Germany
   country: Germany
+- name: SPM
+  description: Symposium on Solid and Physical Modeling
+  year: 2027
+  link: https://spmconf2027.github.io/
+  deadlines:
+  - date: '2027-02-07T23:59:59-12:00'
+    comment: 'First review notification: Mar 26, 2027; revised paper due: Apr 23, 2027'
+    abstract: '2027-01-31T23:59:59-12:00'
+  areas:
+  - CG
+  tags:
+  - CORE-C
+  dblp: https://dblp.org/db/conf/sma/index.html
+  date: June 21-25, 2027
+  place: Singapore
+  country: Singapore
 - name: InterSpeech
   description: Conference of the International Speech Communication Association
   year: 2027
@@ -5348,7 +5366,7 @@
   tags:
   - CORE-A
   dblp: https://dblp.org/db/conf/oopsla/index.html
-  date: October 10-15, 2027
+  date: October 13-15, 2027
   place: Prague, Czechia
   country: Czechia
 - name: UIST

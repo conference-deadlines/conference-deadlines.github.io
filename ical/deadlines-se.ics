@@ -617,9 +617,9 @@ URL:https://conf.researchr.org/home/CC-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:middleware-2027-0-abstract@conference-deadlines
-DTSTAMP:20261127T120000Z
-DTSTART:20261127T120000Z
-DTEND:20261127T123000Z
+DTSTAMP:20261128T115900Z
+DTSTART:20261128T115900Z
+DTEND:20261128T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:Middleware 2027 abstract deadline (Winter cycle)
 DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
@@ -628,9 +628,9 @@ URL:https://middleware-conf.github.io/2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:middleware-2027-0-paper@conference-deadlines
-DTSTAMP:20261204T120000Z
-DTSTART:20261204T120000Z
-DTEND:20261204T123000Z
+DTSTAMP:20261205T115900Z
+DTSTART:20261205T115900Z
+DTEND:20261205T122900Z
 TRANSP:TRANSPARENT
 SUMMARY:Middleware 2027 deadline (Winter cycle)
 DESCRIPTION:International Middleware Conference\nhttps://middleware-conf.gi
